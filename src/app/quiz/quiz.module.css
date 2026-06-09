@@ -1,0 +1,121 @@
+.moduleList {
+  text-align: left;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.moduleLabel {
+  display: block;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.moduleLabel input {
+  margin-right: 0.65rem;
+}
+
+.hint {
+  font-size: 0.85rem;
+  color: var(--text-light, #565);
+  margin-top: 0.75rem;
+}
+
+/* ── Question card ───────────────────────────── */
+.questionCard {
+  background: var(--card-bg, #fff);
+  padding: 2rem;
+  border-radius: var(--border-radius, 12px);
+  box-shadow: var(--shadow);
+  margin-bottom: 1rem;
+}
+
+.questionModule {
+  font-size: 0.9rem;
+  color: var(--text-light, #565);
+  margin-bottom: 0.5rem;
+}
+
+.questionText {
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+/* ── Options ─────────────────────────────────── */
+.optionsList {
+  list-style: none;
+  margin-top: 1rem;
+  padding: 0;
+}
+
+.optionItem {
+  padding: 1rem;
+  border: 2px solid #eee;
+  border-radius: 8px;
+  margin-bottom: 0.6rem;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.optionItem:hover {
+  background: #f8f9fa;
+  border-color: var(--primary);
+}
+
+.correct {
+  border-color: var(--success, #28a745);
+  background: #d4edda;
+}
+
+.incorrect {
+  border-color: var(--error, #dc3545);
+  background: #f8d7da;
+}
+
+/* ── Next / actions ──────────────────────────── */
+.actions {
+  margin-top: 1.5rem;
+  text-align: right;
+}
+
+.resultActions {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.secondaryBtn {
+  background: #888;
+}
+
+.tertiaryBtn {
+  background: #565;
+}
+
+/* ── Progress header ─────────────────────────── */
+.progressHeader {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.progressHeader p {
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--text-light, #565);
+}
+
+/* ── Responsive ──────────────────────────────── */
+@media (max-width: 500px) {
+  .questionCard {
+    padding: 1.25rem 1rem;
+  }
+
+  .optionItem {
+    padding: 0.75rem;
+    font-size: 0.9rem;
+  }
+}

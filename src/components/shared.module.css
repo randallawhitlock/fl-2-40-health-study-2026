@@ -1,0 +1,87 @@
+.pageShell {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* ── Header ──────────────────────────────────── */
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.backLink {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.pageTitle {
+  color: var(--primary);
+  font-size: 1.75rem;
+  margin: 0;
+}
+
+/* ── Card ────────────────────────────────────── */
+.card {
+  background: var(--card-bg, #fff);
+  padding: 1.5rem;
+  border-radius: var(--border-radius, 12px);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.card h2 {
+  color: var(--primary);
+  margin-bottom: 1rem;
+}
+
+.card p {
+  color: var(--text-light, #565);
+}
+
+/* ── Progress Bar ────────────────────────────── */
+.progressWrap {
+  width: 100%;
+  background: #eee;
+  height: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  background: var(--primary);
+  transition: width 0.3s ease;
+}
+
+/* ── Responsive ──────────────────────────────── */
+@media (max-width: 600px) {
+  .pageShell {
+    padding: 1.25rem 0.75rem;
+  }
+
+  .pageTitle {
+    font-size: 1.4rem;
+  }
+
+  .card {
+    padding: 1.25rem 1rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .pageShell {
+    padding: 1rem 0.5rem;
+  }
+
+  .pageTitle {
+    font-size: 1.25rem;
+  }
+}

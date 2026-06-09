@@ -1,0 +1,250 @@
+/* Matching-specific styles — layout shell is handled by shared PageShell */
+
+
+/* ── Start Screen ────────────────────────────── */
+.startCard {
+  background: var(--card-bg, #fff);
+  padding: 2.5rem 2rem;
+  border-radius: var(--border-radius, 12px);
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.startCard h2 {
+  color: var(--primary);
+  margin-bottom: 0.75rem;
+}
+
+.startCard p {
+  color: var(--text-light, #565);
+  margin-bottom: 1.25rem;
+  line-height: 1.5;
+}
+
+.startBtn {
+  display: inline-block;
+  background: var(--primary);
+  color: #fff;
+  padding: 0.8rem 2rem;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.startBtn:hover {
+  background: #0056b3;
+}
+
+/* ── Score Bar ────────────────────────────────── */
+.scoreBar {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  color: var(--text-light, #565);
+}
+
+.scoreBar span {
+  font-weight: 600;
+}
+
+/* ── Game Board ──────────────────────────────── */
+.board {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.columnLabel {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-light, #565);
+  margin-bottom: 0.5rem;
+}
+
+/* ── Term chips (draggable) ──────────────────── */
+.termChip {
+  background: var(--card-bg, #fff);
+  border: 2px solid #d0d5dd;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.35;
+  cursor: grab;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: none;
+  transition: transform 0.12s, box-shadow 0.12s, border-color 0.12s, opacity 0.12s;
+  position: relative;
+}
+
+.termChip:active {
+  cursor: grabbing;
+}
+
+.termChipDragging {
+  opacity: 0.4;
+  transform: scale(0.95);
+}
+
+.termChipMatched {
+  background: #d4edda;
+  border-color: var(--success, #28a745);
+  cursor: default;
+  opacity: 0.6;
+}
+
+/* ── Drop zones (definitions) ────────────────── */
+.dropZone {
+  background: #f8f9fb;
+  border: 2px dashed #c8cdd4;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.88rem;
+  line-height: 1.4;
+  color: var(--text, #333);
+  min-height: 56px;
+  transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
+  position: relative;
+}
+
+.dropZoneActive {
+  border-color: var(--primary);
+  background: #e7f1ff;
+  box-shadow: 0 0 0 3px rgba(0, 112, 243, 0.15);
+}
+
+.dropZoneMatched {
+  background: #d4edda;
+  border-color: var(--success, #28a745);
+  border-style: solid;
+}
+
+.dropZoneWrong {
+  background: #f8d7da;
+  border-color: var(--error, #dc3545);
+  border-style: solid;
+  animation: shake 0.4s ease;
+}
+
+/* Matched term tag inside the drop zone */
+.matchedTag {
+  display: inline-block;
+  background: var(--success, #28a745);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 5px;
+  margin-bottom: 0.35rem;
+}
+
+@keyframes shake {
+
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+
+  20% {
+    transform: translateX(-6px);
+  }
+
+  40% {
+    transform: translateX(6px);
+  }
+
+  60% {
+    transform: translateX(-4px);
+  }
+
+  80% {
+    transform: translateX(4px);
+  }
+}
+
+/* ── Ghost (touch drag preview) ──────────────── */
+.ghost {
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  background: var(--primary);
+  color: #fff;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  white-space: nowrap;
+  max-width: 260px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ── Complete card ───────────────────────────── */
+.completeCard {
+  background: var(--card-bg, #fff);
+  padding: 2rem;
+  border-radius: var(--border-radius, 12px);
+  box-shadow: var(--shadow);
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.completeCard h2 {
+  color: var(--success, #28a745);
+  margin-bottom: 0.5rem;
+}
+
+/* ═══════════════════════════════════════════════
+   RESPONSIVE
+   ═══════════════════════════════════════════════ */
+
+@media (max-width: 600px) {
+
+  .board {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .termChip {
+    font-size: 0.88rem;
+    padding: 0.65rem 0.85rem;
+  }
+
+  .dropZone {
+    font-size: 0.82rem;
+    padding: 0.65rem 0.85rem;
+  }
+
+  .startCard {
+    padding: 1.5rem 1rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .termChip {
+    font-size: 0.82rem;
+    padding: 0.55rem 0.7rem;
+  }
+
+  .dropZone {
+    font-size: 0.78rem;
+    padding: 0.55rem 0.7rem;
+  }
+}
