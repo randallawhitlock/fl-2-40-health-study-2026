@@ -11,6 +11,7 @@ import type {
     UserPreferences,
     ActiveQuizState,
     ActiveMatchingState,
+    LessonNote,
 } from './storage-types';
 
 const STORAGE_KEY = 'fl-health-study';
@@ -55,6 +56,7 @@ function createDefaultData(): StudyData {
         flashcardProgress: {},
         matchingStats: { ...DEFAULT_MATCHING },
         lessonsRead: [],
+        lessonNotes: [],
         lastActivity: new Date().toISOString(),
         preferences: { ...DEFAULT_PREFERENCES },
         activeQuiz: null,
@@ -99,6 +101,7 @@ function readStorage(): StudyData {
             preferences: { ...DEFAULT_PREFERENCES, ...parsed.preferences },
             activeQuiz: parsed.activeQuiz ?? null,
             activeMatching: parsed.activeMatching ?? null,
+            lessonNotes: parsed.lessonNotes ?? [],
         };
     } catch {
         return createDefaultData();
@@ -227,6 +230,38 @@ export function useStudyStorage() {
         [persist],
     );
 
+    // ── Lesson notes ────────────────────────────
+
+    /** Insert or update a note (matched by id). */
+    const saveLessonNote = useCallback(
+        (note: LessonNote) => {
+            setData(prev => {
+                const others = prev.lessonNotes.filter(n => n.id !== note.id);
+                const next: StudyData = {
+                    ...prev,
+                    lessonNotes: [...others, { ...note, updatedAt: new Date().toISOString() }],
+                };
+                persist(next);
+                return next;
+            });
+        },
+        [persist],
+    );
+
+    const deleteLessonNote = useCallback(
+        (id: string) => {
+            setData(prev => {
+                const next: StudyData = {
+                    ...prev,
+                    lessonNotes: prev.lessonNotes.filter(n => n.id !== id),
+                };
+                persist(next);
+                return next;
+            });
+        },
+        [persist],
+    );
+
     // ── In-progress activity state ──────────────
 
     const setActiveQuiz = useCallback(
@@ -281,6 +316,8 @@ export function useStudyStorage() {
         markFlashcard,
         saveMatchingResult,
         markLessonRead,
+        saveLessonNote,
+        deleteLessonNote,
         updatePreferences,
         setActiveQuiz,
         setActiveMatching,

@@ -76,6 +76,18 @@ export interface FlashcardEntry {
     dueAt: string;
 }
 
+// ── Lesson notes ────────────────────────────────
+
+export interface LessonNote {
+    id: string;
+    module: string;
+    sectionIndex: number;
+    /** The note is anchored AFTER this block index within the section. */
+    blockIndex: number;
+    text: string;
+    updatedAt: string; // ISO 8601
+}
+
 // ── Matching ────────────────────────────────────
 
 export interface MatchingStats {
@@ -114,6 +126,8 @@ export interface StudyData {
     flashcardProgress: Record<string, FlashcardEntry>;
     matchingStats: MatchingStats;
     lessonsRead: string[];
+    /** User-added inline notes in lesson reviews. */
+    lessonNotes: LessonNote[];
     lastActivity: string; // ISO 8601
     preferences: UserPreferences;
     /** In-progress quiz, restored after a page refresh. */
