@@ -12,12 +12,15 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const BASE_PATH =
+  process.env.NODE_ENV === "production" ? "/fl-2-40-health-study-2026" : "";
+
 export const metadata: Metadata = {
   title: "FL Health & Life Study App",
   description: "Study tool for Florida Health and Life Insurance Exam",
-  manifest: "/manifest.json",
+  manifest: `${BASE_PATH}/manifest.json`,
   icons: {
-    icon: "/icon.svg",
+    icon: `${BASE_PATH}/icon.svg`,
   },
 };
 
@@ -35,7 +38,8 @@ export default function RootLayout({
             __html: `
               if ('serviceWorker' in navigator && !['localhost', '127.0.0.1', '0.0.0.0'].includes(window.location.hostname)) {
                 window.addEventListener('load', function() {
-                  navigator.serviceWorker.register('/sw.js').then(function(registration) {
+                  navigator.serviceWorker.register('${BASE_PATH}/sw.js').then(function(registration) {
+                    registration.update();
                     console.log('ServiceWorker registration successful with scope: ', registration.scope);
                   }, function(err) {
                     console.log('ServiceWorker registration failed: ', err);
