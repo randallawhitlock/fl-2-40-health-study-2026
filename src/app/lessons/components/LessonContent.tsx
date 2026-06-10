@@ -32,7 +32,7 @@ export function LessonContent({
         <section key={i} className={s.section}>
           <h3 className={s.sectionHeading}>{section.heading}</h3>
           {section.blocks.map((block, j) => (
-            <div key={j}>
+            <div key={j} className={s.blockWrap}>
               <LessonBlock block={block} />
               <NoteSlot
                 module={lesson.module}

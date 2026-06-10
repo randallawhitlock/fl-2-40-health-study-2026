@@ -221,10 +221,23 @@
   font-size: 0.78rem;
   font-weight: 600;
   cursor: pointer;
-  opacity: 0.6;
+  opacity: 0;
   padding: 0.15rem 0.55rem;
   border-radius: 999px;
   transition: opacity 0.15s ease, background 0.15s ease;
+}
+
+/* Reveal the add-note button when hovering anywhere over the block above it */
+.blockWrap:hover .noteAdd,
+.noteAdd:focus-visible {
+  opacity: 1;
+}
+
+/* Touch devices have no hover — keep a subtle hint visible */
+@media (hover: none) {
+  .noteAdd {
+    opacity: 0.45;
+  }
 }
 
 .noteAdd:hover,
