@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useRef } from 'react';
 import type {
     StudyData,
     QuizAttempt,
@@ -119,6 +119,12 @@ function writeStorage(data: StudyData): void {
     }
 }
 
+/** Stamp activity time on a new state object (kept inside updaters). */
+function touch(next: StudyData): StudyData {
+    next.lastActivity = new Date().toISOString();
+    return next;
+}
+
 // ─────────────────────────────────────────────────
 
 export function useStudyStorage() {
@@ -132,11 +138,20 @@ export function useStudyStorage() {
         setLoaded(true);
     }, []);
 
-    const persist = useCallback((next: StudyData) => {
-        next.lastActivity = new Date().toISOString();
-        setData(next);
-        writeStorage(next);
-    }, []);
+    // Persist AFTER state commits. Updaters stay pure — writing inside a
+    // state updater can run against a stale base state under concurrent
+    // rendering and clobber saved data. The `loaded` gate guarantees we
+    // never overwrite real data with defaults during initial mount.
+    const skippedFirstWrite = useRef(false);
+    useEffect(() => {
+        if (!loaded) return;
+        if (!skippedFirstWrite.current) {
+            // First commit after hydration is just the data we read — skip it.
+            skippedFirstWrite.current = true;
+            return;
+        }
+        writeStorage(data);
+    }, [data, loaded]);
 
     // ── Quiz ────────────────────────────────────
 
@@ -165,35 +180,31 @@ export function useStudyStorage() {
                     missed: attempt.missed?.slice(0, MAX_STORED_MISSES),
                     timestamp: new Date().toISOString(),
                 };
-                const next: StudyData = {
+                return touch({
                     ...prev,
                     groupStats,
                     quizHistory: [stored, ...prev.quizHistory].slice(0, MAX_QUIZ_HISTORY),
-                };
-                persist(next);
-                return next;
+                });
             });
         },
-        [persist],
+        [],
     );
 
     // ── Flashcards ──────────────────────────────
 
     const markFlashcard = useCallback(
         (key: string, status: FlashcardStatus) => {
-            setData(prev => {
-                const next: StudyData = {
+            setData(prev =>
+                touch({
                     ...prev,
                     flashcardProgress: {
                         ...prev.flashcardProgress,
                         [key]: { status, dueAt: dueDateFor(status) },
                     },
-                };
-                persist(next);
-                return next;
-            });
+                })
+            );
         },
-        [persist],
+        [],
     );
 
     // ── Matching ────────────────────────────────
@@ -202,19 +213,17 @@ export function useStudyStorage() {
         (timeMs: number) => {
             setData(prev => {
                 const best = prev.matchingStats.bestTimeMs;
-                const next: StudyData = {
+                return touch({
                     ...prev,
                     matchingStats: {
                         gamesPlayed: prev.matchingStats.gamesPlayed + 1,
                         bestTimeMs: best === null ? timeMs : Math.min(best, timeMs),
                         currentStreak: prev.matchingStats.currentStreak + 1,
                     },
-                };
-                persist(next);
-                return next;
+                });
             });
         },
-        [persist],
+        [],
     );
 
     // ── Lessons ─────────────────────────────────
@@ -223,15 +232,13 @@ export function useStudyStorage() {
         (module: string) => {
             setData(prev => {
                 if (prev.lessonsRead.includes(module)) return prev;
-                const next: StudyData = {
+                return touch({
                     ...prev,
                     lessonsRead: [...prev.lessonsRead, module],
-                };
-                persist(next);
-                return next;
+                });
             });
         },
-        [persist],
+        [],
     );
 
     // ── Lesson notes ────────────────────────────
@@ -241,69 +248,55 @@ export function useStudyStorage() {
         (note: LessonNote) => {
             setData(prev => {
                 const others = prev.lessonNotes.filter(n => n.id !== note.id);
-                const next: StudyData = {
+                return touch({
                     ...prev,
                     lessonNotes: [...others, { ...note, updatedAt: new Date().toISOString() }],
-                };
-                persist(next);
-                return next;
+                });
             });
         },
-        [persist],
+        [],
     );
 
     const deleteLessonNote = useCallback(
         (id: string) => {
-            setData(prev => {
-                const next: StudyData = {
+            setData(prev =>
+                touch({
                     ...prev,
                     lessonNotes: prev.lessonNotes.filter(n => n.id !== id),
-                };
-                persist(next);
-                return next;
-            });
+                })
+            );
         },
-        [persist],
+        [],
     );
 
     // ── In-progress activity state ──────────────
 
     const setActiveQuiz = useCallback(
         (state: ActiveQuizState | null) => {
-            setData(prev => {
-                const next: StudyData = { ...prev, activeQuiz: state };
-                persist(next);
-                return next;
-            });
+            setData(prev => touch({ ...prev, activeQuiz: state }));
         },
-        [persist],
+        [],
     );
 
     const setActiveMatching = useCallback(
         (state: ActiveMatchingState | null) => {
-            setData(prev => {
-                const next: StudyData = { ...prev, activeMatching: state };
-                persist(next);
-                return next;
-            });
+            setData(prev => touch({ ...prev, activeMatching: state }));
         },
-        [persist],
+        [],
     );
 
     // ── Preferences ─────────────────────────────
 
     const updatePreferences = useCallback(
         (patch: Partial<UserPreferences>) => {
-            setData(prev => {
-                const next: StudyData = {
+            setData(prev =>
+                touch({
                     ...prev,
                     preferences: { ...prev.preferences, ...patch },
-                };
-                persist(next);
-                return next;
-            });
+                })
+            );
         },
-        [persist],
+        [],
     );
 
     // ── Clear ───────────────────────────────────
