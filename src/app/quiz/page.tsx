@@ -83,7 +83,7 @@ function formatClock(ms: number): string {
 }
 
 export default function QuizPage() {
-  const { data, saveQuizResult, updatePreferences, setActiveQuiz } = useStudyStorage();
+  const { data, loaded, saveQuizResult, updatePreferences, setActiveQuiz } = useStudyStorage();
   const [hydrated, setHydrated] = useState(false);
   const [selectedModules, setSelectedModules] = useState<string[]>([]);
   const [quizStarted, setQuizStarted] = useState(false);
@@ -137,12 +137,12 @@ export default function QuizPage() {
 
   // Hydrate persisted module selections + resume any in-progress quiz
   useEffect(() => {
-    if (hydrated) return;
+    if (hydrated || !loaded) return;
     const saved = data.preferences.quizSelectedModules;
     if (saved.length > 0) {
       setSelectedModules(saved);
     }
-    if (data.lastActivity !== '') {
+    {
       const active = data.activeQuiz;
       if (active && active.questions.length > 0) {
         setQuizQuestions(active.questions as Question[]);
@@ -167,7 +167,7 @@ export default function QuizPage() {
       }
       setHydrated(true);
     }
-  }, [data.preferences.quizSelectedModules, data.lastActivity, data.activeQuiz, hydrated]);
+  }, [data.preferences.quizSelectedModules, loaded, data.activeQuiz, hydrated]);
 
   const modules = useMemo(() => {
     return [...Array.from(new Set(allQuestions.map(q => q.module))), CUMULATIVE];

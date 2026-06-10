@@ -22,7 +22,7 @@ function isDue(entry: FlashcardEntry | undefined): boolean {
 }
 
 export default function FlashcardsPage() {
-  const { data, updatePreferences, markFlashcard } = useStudyStorage();
+  const { data, loaded, updatePreferences, markFlashcard } = useStudyStorage();
   const [hydrated, setHydrated] = useState(false);
   const [selectedModule, setSelectedModule] = useState('All');
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -36,15 +36,15 @@ export default function FlashcardsPage() {
 
   // Hydrate preferences from localStorage after mount
   useEffect(() => {
-    if (hydrated) return;
+    if (hydrated || !loaded) return;
     const prefs = data.preferences;
     if (prefs.flashcardModule) setSelectedModule(prefs.flashcardModule);
     if (prefs.flashcardDefinitionFirst) setDefinitionFirst(prefs.flashcardDefinitionFirst);
     if (prefs.flashcardShuffle) setIsShuffled(prefs.flashcardShuffle);
     if (prefs.flashcardDueOnly) setDueOnly(prefs.flashcardDueOnly);
     if (prefs.flashcardIndex > 0) pendingIndexRef.current = prefs.flashcardIndex;
-    if (data.lastActivity !== '') setHydrated(true);
-  }, [data.preferences, data.lastActivity, hydrated]);
+    setHydrated(true);
+  }, [data.preferences, loaded, hydrated]);
 
   const modules = useMemo(() => {
     const mods = new Set(allCards.map(f => f.module));

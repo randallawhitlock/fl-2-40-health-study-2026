@@ -123,10 +123,13 @@ function writeStorage(data: StudyData): void {
 
 export function useStudyStorage() {
     const [data, setData] = useState<StudyData>(createDefaultData);
+    /** True once data has actually been read from localStorage. */
+    const [loaded, setLoaded] = useState(false);
 
     // Hydrate from localStorage after mount (avoids SSR mismatch)
     useEffect(() => {
         setData(readStorage());
+        setLoaded(true);
     }, []);
 
     const persist = useCallback((next: StudyData) => {
@@ -313,6 +316,7 @@ export function useStudyStorage() {
 
     return {
         data,
+        loaded,
         saveQuizResult,
         markFlashcard,
         saveMatchingResult,

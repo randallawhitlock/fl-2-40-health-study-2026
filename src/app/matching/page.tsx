@@ -16,18 +16,18 @@ import type { Term, Def } from './types';
 const ROUND_SIZE = 5;
 
 export default function MatchingPage() {
-  const { data, saveMatchingResult, updatePreferences, setActiveMatching } = useStudyStorage();
+  const { data, loaded, saveMatchingResult, updatePreferences, setActiveMatching } = useStudyStorage();
   const [started, setStarted] = useState(false);
   const [hydrated, setHydrated] = useState(false);
   const [selectedModule, setSelectedModule] = useState('All');
 
   // Hydrate module preference + resume any in-progress round after mount
   useEffect(() => {
-    if (hydrated) return;
+    if (hydrated || !loaded) return;
     if (data.preferences.matchingModule) {
       setSelectedModule(data.preferences.matchingModule);
     }
-    if (data.lastActivity !== '') {
+    {
       const active = data.activeMatching;
       if (
         active &&
@@ -42,7 +42,7 @@ export default function MatchingPage() {
       }
       setHydrated(true);
     }
-  }, [data.preferences.matchingModule, data.lastActivity, data.activeMatching, hydrated]);
+  }, [data.preferences.matchingModule, loaded, data.activeMatching, hydrated]);
 
   const modules = useMemo(
     () => ['All', ...Array.from(new Set(flashcardsData.map(f => f.module)))],

@@ -40,6 +40,7 @@ function notesToMarkdown(
 export default function LessonsPage() {
   const {
     data,
+    loaded,
     updatePreferences,
     markLessonRead,
     saveLessonNote,
@@ -52,13 +53,13 @@ export default function LessonsPage() {
 
   // Hydrate last-viewed module from localStorage
   useEffect(() => {
-    if (hydrated) return;
+    if (hydrated || !loaded) return;
     const saved = data.preferences.lessonsSelectedModule;
     if (saved && lessons.some(l => l.module === saved)) {
       setSelectedModule(saved);
     }
-    if (data.lastActivity !== '') setHydrated(true);
-  }, [data.preferences.lessonsSelectedModule, data.lastActivity, hydrated]);
+    setHydrated(true);
+  }, [data.preferences.lessonsSelectedModule, loaded, hydrated]);
 
   // Restore reading position once, after hydration has rendered the lesson
   useEffect(() => {
