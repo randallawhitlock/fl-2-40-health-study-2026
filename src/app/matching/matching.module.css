@@ -211,6 +211,26 @@
   margin-bottom: 0.5rem;
 }
 
+.completeStat {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.newBest {
+  color: #d4a017;
+  font-weight: 700;
+}
+
+.statsRow {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: 0.88rem;
+  color: var(--text-light, #565);
+  margin: 0.75rem 0;
+}
+
 /* ═══════════════════════════════════════════════
    RESPONSIVE
    ═══════════════════════════════════════════════ */
@@ -247,4 +267,14 @@
     font-size: 0.78rem;
     padding: 0.55rem 0.7rem;
   }
+}
+.moduleRow {
+  margin: 0.75rem 0;
+}
+
+.moduleSelect {
+  padding: 0.35rem 0.6rem;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  font-size: 0.95rem;
 }

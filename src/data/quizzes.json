@@ -9,7 +9,9 @@
       "The rule of adhesion",
       "The doctrine of utmost good faith"
     ],
-    "answer": "The law of large numbers"
+    "answer": "The law of large numbers",
+    "topic": "Law of Large Numbers",
+    "explanation": "The law of large numbers says predictions get more accurate as the number of similar exposure units grows. It's what lets insurers price premiums reliably \u2014 they can't predict WHO will suffer a loss, only HOW MANY will."
   },
   {
     "module": "Day 1 Module 1",
@@ -21,7 +23,9 @@
       "Experience rating",
       "The law of averages"
     ],
-    "answer": "The law of large numbers"
+    "answer": "The law of large numbers",
+    "topic": "Law of Large Numbers",
+    "explanation": "The law of large numbers says predictions get more accurate as the number of similar exposure units grows. It's what lets insurers price premiums reliably \u2014 they can't predict WHO will suffer a loss, only HOW MANY will."
   },
   {
     "module": "Day 1 Module 1",
@@ -33,7 +37,9 @@
       "A moral hazard",
       "A morale hazard"
     ],
-    "answer": "A physical hazard"
+    "answer": "A physical hazard",
+    "topic": "Hazards",
+    "explanation": "A hazard increases the chance or severity of loss. Physical = tangible conditions (oily rags, ice). Moral = dishonesty (fraud, exaggerated claims). Morale = carelessness because insurance exists (unlocked doors)."
   },
   {
     "module": "Day 1 Module 1",
@@ -45,7 +51,9 @@
       "A physical hazard",
       "A peril"
     ],
-    "answer": "A moral hazard"
+    "answer": "A moral hazard",
+    "topic": "Hazards",
+    "explanation": "A hazard increases the chance or severity of loss. Physical = tangible conditions (oily rags, ice). Moral = dishonesty (fraud, exaggerated claims). Morale = carelessness because insurance exists (unlocked doors)."
   },
   {
     "module": "Day 1 Module 1",
@@ -57,7 +65,9 @@
       "A physical hazard",
       "A speculative risk"
     ],
-    "answer": "A morale hazard"
+    "answer": "A morale hazard",
+    "topic": "Hazards",
+    "explanation": "A hazard increases the chance or severity of loss. Physical = tangible conditions (oily rags, ice). Moral = dishonesty (fraud, exaggerated claims). Morale = carelessness because insurance exists (unlocked doors)."
   },
   {
     "module": "Day 1 Module 1",
@@ -69,7 +79,9 @@
       "Devon's exposure is insurable because the outcome is measurable",
       "Neither exposure is insurable"
     ],
-    "answer": "Priya's exposure is a pure risk and is insurable; Devon's is speculative and is not"
+    "answer": "Priya's exposure is a pure risk and is insurable; Devon's is speculative and is not",
+    "topic": "Pure vs. Speculative Risk",
+    "explanation": "Pure risk has only the chance of loss or no loss \u2014 it's insurable. Speculative risk includes a chance of GAIN (gambling, investing) \u2014 never insurable."
   },
   {
     "module": "Day 1 Module 1",
@@ -81,7 +93,9 @@
       "Both pure and speculative risks are insurable",
       "Speculative risks involve no chance of gain"
     ],
-    "answer": "Only pure risks are insurable"
+    "answer": "Only pure risks are insurable",
+    "topic": "Pure vs. Speculative Risk",
+    "explanation": "Pure risk has only the chance of loss or no loss \u2014 it's insurable. Speculative risk includes a chance of GAIN (gambling, investing) \u2014 never insurable."
   },
   {
     "module": "Day 1 Module 1",
@@ -93,7 +107,9 @@
       "Any dangerous activity",
       "The dollar amount of a claim"
     ],
-    "answer": "Uncertainty regarding financial loss"
+    "answer": "Uncertainty regarding financial loss",
+    "topic": "Definition of Risk",
+    "explanation": "In insurance, risk means uncertainty regarding financial loss \u2014 not danger, not the loss amount, just the uncertainty of whether a loss will occur."
   },
   {
     "module": "Day 1 Module 1",
@@ -105,7 +121,9 @@
       "Government backing",
       "A chance of profit for the insured"
     ],
-    "answer": "Uncertainty about whether a financial loss will occur"
+    "answer": "Uncertainty about whether a financial loss will occur",
+    "topic": "Definition of Risk",
+    "explanation": "In insurance, risk means uncertainty regarding financial loss \u2014 not danger, not the loss amount, just the uncertainty of whether a loss will occur."
   },
   {
     "module": "Day 1 Module 1",
@@ -117,7 +135,9 @@
       "A risk retention",
       "A speculative risk"
     ],
-    "answer": "A peril"
+    "answer": "A peril",
+    "topic": "Peril vs. Hazard",
+    "explanation": "A peril is the CAUSE of loss (fire, flood, tornado, death). A hazard is a CONDITION that increases the chance of loss. Conditions of the body (like poor eyesight) are not perils."
   },
   {
     "module": "Day 1 Module 1",
@@ -129,7 +149,9 @@
       "Smoking in bed",
       "Poor building maintenance"
     ],
-    "answer": "A flood"
+    "answer": "A flood",
+    "topic": "Peril vs. Hazard",
+    "explanation": "A peril is the CAUSE of loss (fire, flood, tornado, death). A hazard is a CONDITION that increases the chance of loss. Conditions of the body (like poor eyesight) are not perils."
   },
   {
     "module": "Day 1 Module 1",
@@ -141,7 +163,9 @@
       "Windstorm",
       "Theft"
     ],
-    "answer": "Nearsightedness"
+    "answer": "Nearsightedness",
+    "topic": "Peril vs. Hazard",
+    "explanation": "A peril is the CAUSE of loss (fire, flood, tornado, death). A hazard is a CONDITION that increases the chance of loss. Conditions of the body (like poor eyesight) are not perils."
   },
   {
     "module": "Day 1 Module 1",
@@ -153,7 +177,9 @@
       "Retention",
       "Transference"
     ],
-    "answer": "Avoidance"
+    "answer": "Avoidance",
+    "topic": "Risk-Handling Methods (ARRT)",
+    "explanation": "Four ways to handle risk: Avoid (eliminate the exposure), Reduce (lower likelihood/severity \u2014 sprinklers, alarms), Retain (accept it yourself \u2014 self-insure), Transfer (shift it to another party \u2014 buying insurance)."
   },
   {
     "module": "Day 1 Module 1",
@@ -165,7 +191,9 @@
       "Retention",
       "Transference"
     ],
-    "answer": "Reduction"
+    "answer": "Reduction",
+    "topic": "Risk-Handling Methods (ARRT)",
+    "explanation": "Four ways to handle risk: Avoid (eliminate the exposure), Reduce (lower likelihood/severity \u2014 sprinklers, alarms), Retain (accept it yourself \u2014 self-insure), Transfer (shift it to another party \u2014 buying insurance)."
   },
   {
     "module": "Day 1 Module 1",
@@ -177,7 +205,9 @@
       "Transference",
       "Avoidance"
     ],
-    "answer": "Retention"
+    "answer": "Retention",
+    "topic": "Risk-Handling Methods (ARRT)",
+    "explanation": "Four ways to handle risk: Avoid (eliminate the exposure), Reduce (lower likelihood/severity \u2014 sprinklers, alarms), Retain (accept it yourself \u2014 self-insure), Transfer (shift it to another party \u2014 buying insurance)."
   },
   {
     "module": "Day 1 Module 1",
@@ -189,7 +219,9 @@
       "Avoidance",
       "Reduction"
     ],
-    "answer": "Transference"
+    "answer": "Transference",
+    "topic": "Risk-Handling Methods (ARRT)",
+    "explanation": "Four ways to handle risk: Avoid (eliminate the exposure), Reduce (lower likelihood/severity \u2014 sprinklers, alarms), Retain (accept it yourself \u2014 self-insure), Transfer (shift it to another party \u2014 buying insurance)."
   },
   {
     "module": "Day 1 Module 1",
@@ -201,7 +233,9 @@
       "II, III, and IV only",
       "I, II, and III only"
     ],
-    "answer": "I, II, III, and IV"
+    "answer": "I, II, III, and IV",
+    "topic": "Elements of Insurable Risk",
+    "explanation": "An insurable risk must be: due to chance, definite and measurable, statistically predictable, NOT catastrophic, part of a large group of similar exposures, and randomly selected."
   },
   {
     "module": "Day 1 Module 1",
@@ -213,7 +247,9 @@
       "The loss must be definite and measurable",
       "There must be a large number of exposure units"
     ],
-    "answer": "The loss must not be catastrophic"
+    "answer": "The loss must not be catastrophic",
+    "topic": "Elements of Insurable Risk",
+    "explanation": "An insurable risk must be: due to chance, definite and measurable, statistically predictable, NOT catastrophic, part of a large group of similar exposures, and randomly selected."
   },
   {
     "module": "Day 1 Module 1",
@@ -225,7 +261,9 @@
       "The law of large numbers",
       "Subrogation"
     ],
-    "answer": "Adverse selection"
+    "answer": "Adverse selection",
+    "topic": "Adverse Selection",
+    "explanation": "Adverse selection is the tendency of people in poor health (higher risk) to seek insurance more than low-risk people. Insurers control it through underwriting."
   },
   {
     "module": "Day 1 Module 1",
@@ -237,7 +275,9 @@
       "Rural areas",
       "Low-risk occupations"
     ],
-    "answer": "Poor health"
+    "answer": "Poor health",
+    "topic": "Adverse Selection",
+    "explanation": "Adverse selection is the tendency of people in poor health (higher risk) to seek insurance more than low-risk people. Insurers control it through underwriting."
   },
   {
     "module": "Day 1 Module 1",
@@ -249,7 +289,9 @@
       "Adverse selection",
       "The indemnity principle"
     ],
-    "answer": "Human life value"
+    "answer": "Human life value",
+    "topic": "Human Life Value",
+    "explanation": "Human life value measures a person's worth by their future earning potential \u2014 the essence of a family's economic existence. It's the economic root of life and health insurance."
   },
   {
     "module": "Day 1 Module 1",
@@ -261,7 +303,9 @@
       "Stock market returns",
       "Actuarial science"
     ],
-    "answer": "Human life value"
+    "answer": "Human life value",
+    "topic": "Human Life Value",
+    "explanation": "Human life value measures a person's worth by their future earning potential \u2014 the essence of a family's economic existence. It's the economic root of life and health insurance."
   },
   {
     "module": "Day 1 Module 1",
@@ -273,7 +317,9 @@
       "Physical health",
       "Insurance history"
     ],
-    "answer": "Economic existence"
+    "answer": "Economic existence",
+    "topic": "Human Life Value",
+    "explanation": "Human life value measures a person's worth by their future earning potential \u2014 the essence of a family's economic existence. It's the economic root of life and health insurance."
   },
   {
     "module": "Day 1 Module 1",
@@ -285,7 +331,9 @@
       "It generates investment profits for policyholders",
       "It eliminates the underlying causes of loss"
     ],
-    "answer": "It minimizes the individual's loss by spreading financial risk across a large group"
+    "answer": "It minimizes the individual's loss by spreading financial risk across a large group",
+    "topic": "Function of Insurance",
+    "explanation": "Insurance minimizes individual loss by spreading financial risk across a large group. Life and health insurance specifically address the economic losses of death, sickness, and accidents."
   },
   {
     "module": "Day 1 Module 1",
@@ -297,7 +345,9 @@
       "Crime, fraud, and theft",
       "War, famine, and drought"
     ],
-    "answer": "Death, sickness, and accidents"
+    "answer": "Death, sickness, and accidents",
+    "topic": "Function of Insurance",
+    "explanation": "Insurance minimizes individual loss by spreading financial risk across a large group. Life and health insurance specifically address the economic losses of death, sickness, and accidents."
   },
   {
     "module": "Day 1 Module 1",
@@ -309,7 +359,9 @@
       "Increasing personal wealth",
       "Eliminating perils"
     ],
-    "answer": "Transferring risk"
+    "answer": "Transferring risk",
+    "topic": "Insurance as Risk Transfer",
+    "explanation": "Buying insurance is the classic example of risk TRANSFERENCE \u2014 the insurer assumes financial risk in exchange for premium. Of the four ARRT methods, transference is the basis of insurance."
   },
   {
     "module": "Day 1 Module 1",
@@ -321,7 +373,9 @@
       "Reduction",
       "Retention"
     ],
-    "answer": "Transference"
+    "answer": "Transference",
+    "topic": "Insurance as Risk Transfer",
+    "explanation": "Buying insurance is the classic example of risk TRANSFERENCE \u2014 the insurer assumes financial risk in exchange for premium. Of the four ARRT methods, transference is the basis of insurance."
   },
   {
     "module": "Day 1 Module 1",
@@ -333,7 +387,9 @@
       "Cryptocurrency is regulated federally, not by states",
       "Vince lacks insurable interest in his own assets"
     ],
-    "answer": "Investment losses are speculative risks, which are uninsurable"
+    "answer": "Investment losses are speculative risks, which are uninsurable",
+    "topic": "Uninsurable Risks",
+    "explanation": "Speculative risks (investments, gambling) and catastrophic exposures (region-wide tsunami, war) fail the elements of insurable risk and will be declined."
   },
   {
     "module": "Day 1 Module 1",
@@ -345,7 +401,9 @@
       "A delivery driver's risk of collision",
       "An office worker's risk of disability"
     ],
-    "answer": "Region-wide destruction from a tsunami"
+    "answer": "Region-wide destruction from a tsunami",
+    "topic": "Uninsurable Risks",
+    "explanation": "Speculative risks (investments, gambling) and catastrophic exposures (region-wide tsunami, war) fail the elements of insurable risk and will be declined."
   },
   {
     "module": "Day 1 Module 2",
@@ -357,7 +415,9 @@
       "The NAIC develops model laws for states to consider adopting",
       "The NAIC works to encourage uniformity among state insurance regulations"
     ],
-    "answer": "The NAIC has the authority to prosecute and punish criminal violators in the insurance industry"
+    "answer": "The NAIC has the authority to prosecute and punish criminal violators in the insurance industry",
+    "topic": "The NAIC",
+    "explanation": "The NAIC is an association of state insurance commissioners that promotes uniformity through model laws. It has NO enforcement or prosecution authority \u2014 that power belongs to the states."
   },
   {
     "module": "Day 1 Module 2",
@@ -369,7 +429,9 @@
       "Prosecute insurance fraud at the federal level",
       "Set nationwide premium rates"
     ],
-    "answer": "Encourage uniformity in state insurance regulation through model legislation"
+    "answer": "Encourage uniformity in state insurance regulation through model legislation",
+    "topic": "The NAIC",
+    "explanation": "The NAIC is an association of state insurance commissioners that promotes uniformity through model laws. It has NO enforcement or prosecution authority \u2014 that power belongs to the states."
   },
   {
     "module": "Day 1 Module 2",
@@ -381,7 +443,9 @@
       "The state Office of Insurance Regulation",
       "Whoever pays the higher fee"
     ],
-    "answer": "The insurer"
+    "answer": "The insurer",
+    "topic": "Agent vs. Broker",
+    "explanation": "An agent legally represents the INSURER. A broker legally represents the APPLICANT/INSURED and shops the market on their behalf."
   },
   {
     "module": "Day 1 Module 2",
@@ -393,7 +457,9 @@
       "The Department of Financial Services",
       "The reinsurer"
     ],
-    "answer": "The applicant and insured"
+    "answer": "The applicant and insured",
+    "topic": "Agent vs. Broker",
+    "explanation": "An agent legally represents the INSURER. A broker legally represents the APPLICANT/INSURED and shops the market on their behalf."
   },
   {
     "module": "Day 1 Module 2",
@@ -405,7 +471,9 @@
       "Adjuster, representing the insurer",
       "Consultant, representing the state"
     ],
-    "answer": "Broker, representing the applicant"
+    "answer": "Broker, representing the applicant",
+    "topic": "Agent vs. Broker",
+    "explanation": "An agent legally represents the INSURER. A broker legally represents the APPLICANT/INSURED and shops the market on their behalf."
   },
   {
     "module": "Day 1 Module 2",
@@ -417,7 +485,9 @@
       "A domestic company",
       "An unauthorized company"
     ],
-    "answer": "An alien company"
+    "answer": "An alien company",
+    "topic": "Domestic / Foreign / Alien",
+    "explanation": "Classification is from the viewpoint of the state: incorporated in that state = domestic; another U.S. state = foreign; another country = alien."
   },
   {
     "module": "Day 1 Module 2",
@@ -429,7 +499,9 @@
       "Alien",
       "Surplus"
     ],
-    "answer": "Foreign"
+    "answer": "Foreign",
+    "topic": "Domestic / Foreign / Alien",
+    "explanation": "Classification is from the viewpoint of the state: incorporated in that state = domestic; another U.S. state = foreign; another country = alien."
   },
   {
     "module": "Day 1 Module 2",
@@ -441,7 +513,9 @@
       "Alien",
       "Reciprocal"
     ],
-    "answer": "Domestic"
+    "answer": "Domestic",
+    "topic": "Domestic / Foreign / Alien",
+    "explanation": "Classification is from the viewpoint of the state: incorporated in that state = domestic; another U.S. state = foreign; another country = alien."
   },
   {
     "module": "Day 1 Module 2",
@@ -453,7 +527,9 @@
       "Third-party administrator",
       "Service provider"
     ],
-    "answer": "Reinsurer"
+    "answer": "Reinsurer",
+    "topic": "Reinsurers",
+    "explanation": "A reinsurer accepts portions of risk from other insurance companies. Its customers are insurers, not the public \u2014 that's why it's a specialized branch of the industry."
   },
   {
     "module": "Day 1 Module 2",
@@ -465,7 +541,9 @@
       "Government agencies",
       "Independent agents"
     ],
-    "answer": "Insurance companies"
+    "answer": "Insurance companies",
+    "topic": "Reinsurers",
+    "explanation": "A reinsurer accepts portions of risk from other insurance companies. Its customers are insurers, not the public \u2014 that's why it's a specialized branch of the industry."
   },
   {
     "module": "Day 1 Module 2",
@@ -477,7 +555,9 @@
       "Reviewing policy forms",
       "Examining insurer finances"
     ],
-    "answer": "Making insurance laws"
+    "answer": "Making insurance laws",
+    "topic": "Scope of State Regulation",
+    "explanation": "Regulators license producers, approve forms, and examine insurers \u2014 but they don't MAKE laws. Insurance statutes are enacted by the state legislature."
   },
   {
     "module": "Day 1 Module 2",
@@ -489,7 +569,9 @@
       "The NAIC",
       "The State Guaranty Association"
     ],
-    "answer": "The state legislature"
+    "answer": "The state legislature",
+    "topic": "Scope of State Regulation",
+    "explanation": "Regulators license producers, approve forms, and examine insurers \u2014 but they don't MAKE laws. Insurance statutes are enacted by the state legislature."
   },
   {
     "module": "Day 1 Module 2",
@@ -501,7 +583,9 @@
       "Helping buyers compare policies",
       "Helping buyers make informed decisions"
     ],
-    "answer": "Ensuring that buyers obtain the lowest price for insurance"
+    "answer": "Ensuring that buyers obtain the lowest price for insurance",
+    "topic": "Buyer's Guide",
+    "explanation": "The Buyer's Guide helps applicants understand and compare policies to make informed decisions. It does NOT guarantee the lowest price."
   },
   {
     "module": "Day 1 Module 2",
@@ -513,7 +597,9 @@
       "Replace the policy summary",
       "Advertise an insurer's strongest products"
     ],
-    "answer": "Help applicants understand and compare policies before purchasing"
+    "answer": "Help applicants understand and compare policies before purchasing",
+    "topic": "Buyer's Guide",
+    "explanation": "The Buyer's Guide helps applicants understand and compare policies to make informed decisions. It does NOT guarantee the lowest price."
   },
   {
     "module": "Day 1 Module 2",
@@ -525,7 +611,9 @@
       "The Federal Reserve",
       "The reinsurer of last resort"
     ],
-    "answer": "The State Guaranty Association"
+    "answer": "The State Guaranty Association",
+    "topic": "State Guaranty Association",
+    "explanation": "If an insurer becomes insolvent, the State Guaranty Association pays covered claims, within limits. It protects policyholders, not insurers."
   },
   {
     "module": "Day 1 Module 2",
@@ -537,7 +625,9 @@
       "Every applicant will be approved for coverage",
       "Agents will receive their commissions"
     ],
-    "answer": "Claims will be paid, within limits, if a member insurer becomes insolvent"
+    "answer": "Claims will be paid, within limits, if a member insurer becomes insolvent",
+    "topic": "State Guaranty Association",
+    "explanation": "If an insurer becomes insolvent, the State Guaranty Association pays covered claims, within limits. It protects policyholders, not insurers."
   },
   {
     "module": "Day 1 Module 2",
@@ -549,7 +639,9 @@
       "The career agency system",
       "The brokerage system"
     ],
-    "answer": "The direct selling system"
+    "answer": "The direct selling system",
+    "topic": "Distribution Systems",
+    "explanation": "Agency, brokerage, and career systems all use producers. The direct selling (direct response) system sells by mail, phone, and internet with NO agents or brokers."
   },
   {
     "module": "Day 1 Module 2",
@@ -561,7 +653,9 @@
       "Managing general agent",
       "Career agency"
     ],
-    "answer": "Direct selling"
+    "answer": "Direct selling",
+    "topic": "Distribution Systems",
+    "explanation": "Agency, brokerage, and career systems all use producers. The direct selling (direct response) system sells by mail, phone, and internet with NO agents or brokers."
   },
   {
     "module": "Day 1 Module 2",
@@ -573,7 +667,9 @@
       "The policy summary",
       "The entire contract provision"
     ],
-    "answer": "The Advertising Code"
+    "answer": "The Advertising Code",
+    "topic": "Advertising Code",
+    "explanation": "Rules governing testimonials, statistics, and special offers in insurance marketing live in the Advertising Code."
   },
   {
     "module": "Day 1 Module 2",
@@ -585,7 +681,9 @@
       "The free look provision",
       "The USA Patriot Act"
     ],
-    "answer": "The Advertising Code"
+    "answer": "The Advertising Code",
+    "topic": "Advertising Code",
+    "explanation": "Rules governing testimonials, statistics, and special offers in insurance marketing live in the Advertising Code."
   },
   {
     "module": "Day 1 Module 2",
@@ -597,7 +695,9 @@
       "A multiple employer trust",
       "A service provider"
     ],
-    "answer": "A risk retention group"
+    "answer": "A risk retention group",
+    "topic": "Risk Retention Groups",
+    "explanation": "An RRG is formed by similar businesses or professionals (e.g., pharmacists) to insure their own liability risks as a group."
   },
   {
     "module": "Day 1 Module 2",
@@ -609,7 +709,9 @@
       "It is a federal agency that insures high-risk drivers",
       "It only sells life insurance"
     ],
-    "answer": "It is formed by similar businesses or professionals to insure their own liability risks"
+    "answer": "It is formed by similar businesses or professionals to insure their own liability risks",
+    "topic": "Risk Retention Groups",
+    "explanation": "An RRG is formed by similar businesses or professionals (e.g., pharmacists) to insure their own liability risks as a group."
   },
   {
     "module": "Day 1 Module 2",
@@ -621,7 +723,9 @@
       "Five",
       "Seven"
     ],
-    "answer": "Four"
+    "answer": "Four",
+    "topic": "License Termination",
+    "explanation": "A license terminates after FOUR years without an appointment. Count from the last appointment's end."
   },
   {
     "module": "Day 1 Module 2",
@@ -633,7 +737,9 @@
       "It converts to a temporary license",
       "It is automatically renewed for two more years"
     ],
-    "answer": "It terminates, because four years passed without an appointment"
+    "answer": "It terminates, because four years passed without an appointment",
+    "topic": "License Termination",
+    "explanation": "A license terminates after FOUR years without an appointment. Count from the last appointment's end."
   },
   {
     "module": "Day 1 Module 2",
@@ -645,7 +751,9 @@
       "Hurricane Andrew",
       "The savings and loan scandal"
     ],
-    "answer": "The September 11th attacks"
+    "answer": "The September 11th attacks",
+    "topic": "USA Patriot Act",
+    "explanation": "Passed in response to the September 11th attacks; imposes anti-money-laundering obligations that reach insurers."
   },
   {
     "module": "Day 1 Module 2",
@@ -657,7 +765,9 @@
       "HIPAA",
       "The Affordable Care Act"
     ],
-    "answer": "The USA Patriot Act"
+    "answer": "The USA Patriot Act",
+    "topic": "USA Patriot Act",
+    "explanation": "Passed in response to the September 11th attacks; imposes anti-money-laundering obligations that reach insurers."
   },
   {
     "module": "Day 1 Module 2",
@@ -669,7 +779,9 @@
       "Buyer's Guide",
       "McCarran-Ferguson Act"
     ],
-    "answer": "Unfair Trade Practices Act"
+    "answer": "Unfair Trade Practices Act",
+    "topic": "Unfair Trade Practices Act",
+    "explanation": "The UTPA is the state's enforcement hammer \u2014 fines, cease-and-desist orders, penalties. Note: in Florida, rebating is legal under strict conditions (\u00a7626.572), so it is NOT an unfair trade practice there."
   },
   {
     "module": "Day 1 Module 2",
@@ -681,7 +793,9 @@
       "Coercion",
       "Unfair discrimination"
     ],
-    "answer": "Rebating"
+    "answer": "Rebating",
+    "topic": "Unfair Trade Practices Act",
+    "explanation": "The UTPA is the state's enforcement hammer \u2014 fines, cease-and-desist orders, penalties. Note: in Florida, rebating is legal under strict conditions (\u00a7626.572), so it is NOT an unfair trade practice there."
   },
   {
     "module": "Day 1 Module 2",
@@ -693,7 +807,9 @@
       "A mutual insurance company",
       "A stock insurance company"
     ],
-    "answer": "Lloyd's of London"
+    "answer": "Lloyd's of London",
+    "topic": "Lloyd's of London",
+    "explanation": "Lloyd's is not an insurer or service provider \u2014 it's a marketplace where member syndicates underwrite risks."
   },
   {
     "module": "Day 1 Module 2",
@@ -705,7 +821,9 @@
       "A PPO",
       "Blue Cross Blue Shield"
     ],
-    "answer": "Lloyd's of London"
+    "answer": "Lloyd's of London",
+    "topic": "Lloyd's of London",
+    "explanation": "Lloyd's is not an insurer or service provider \u2014 it's a marketplace where member syndicates underwrite risks."
   },
   {
     "module": "Day 1 Module 2",
@@ -717,7 +835,9 @@
       "Coverage available only to factory workers",
       "Policies sold exclusively online"
     ],
-    "answer": "Relatively small face amounts with premiums collected frequently by an agent"
+    "answer": "Relatively small face amounts with premiums collected frequently by an agent",
+    "topic": "Industrial Insurance",
+    "explanation": "Industrial (home service) insurance = small face amounts with premiums collected frequently (weekly/monthly), often at the insured's home."
   },
   {
     "module": "Day 1 Module 2",
@@ -729,7 +849,9 @@
       "No premium payments",
       "Group underwriting only"
     ],
-    "answer": "Small face amounts"
+    "answer": "Small face amounts",
+    "topic": "Industrial Insurance",
+    "explanation": "Industrial (home service) insurance = small face amounts with premiums collected frequently (weekly/monthly), often at the insured's home."
   },
   {
     "module": "Day 1 Module 2",
@@ -741,7 +863,9 @@
       "Determining the suitability of recommended products",
       "Providing full and accurate disclosure"
     ],
-    "answer": "Assessing the prospect's financial ability to pay commissions"
+    "answer": "Assessing the prospect's financial ability to pay commissions",
+    "topic": "Suitability Standards",
+    "explanation": "Producers must sell to needs, verify suitability, and disclose fully. The client's ability to pay COMMISSIONS is never a standard \u2014 commissions come from the insurer."
   },
   {
     "module": "Day 1 Module 2",
@@ -753,7 +877,9 @@
       "The client can be persuaded quickly",
       "The insurer is headquartered in the client's state"
     ],
-    "answer": "The product suits the client's needs and financial situation"
+    "answer": "The product suits the client's needs and financial situation",
+    "topic": "Suitability Standards",
+    "explanation": "Producers must sell to needs, verify suitability, and disclose fully. The client's ability to pay COMMISSIONS is never a standard \u2014 commissions come from the insurer."
   },
   {
     "module": "Day 1 Module 2",
@@ -765,7 +891,9 @@
       "The Affordable Care Act",
       "The Sherman Antitrust Act"
     ],
-    "answer": "The McCarran-Ferguson Act"
+    "answer": "The McCarran-Ferguson Act",
+    "topic": "McCarran-Ferguson Act",
+    "explanation": "McCarran-Ferguson (1945) established that the states, not the federal government, are the primary regulators of insurance."
   },
   {
     "module": "Day 1 Module 2",
@@ -777,7 +905,9 @@
       "The federal government sets minimum premium rates",
       "Insurance advertising is exempt from regulation"
     ],
-    "answer": "Insurance is regulated by the states rather than the federal government"
+    "answer": "Insurance is regulated by the states rather than the federal government",
+    "topic": "McCarran-Ferguson Act",
+    "explanation": "McCarran-Ferguson (1945) established that the states, not the federal government, are the primary regulators of insurance."
   },
   {
     "module": "Day 2 Module 1",
@@ -789,7 +919,9 @@
       "It is a unilateral contract",
       "It is a valued contract"
     ],
-    "answer": "It is a contract of adhesion"
+    "answer": "It is a contract of adhesion",
+    "topic": "Contract of Adhesion",
+    "explanation": "The insurer writes the contract; the applicant takes it or leaves it. Because of this, courts construe ambiguities AGAINST the insurer."
   },
   {
     "module": "Day 2 Module 1",
@@ -801,7 +933,9 @@
       "Subrogation",
       "Consideration"
     ],
-    "answer": "Adhesion"
+    "answer": "Adhesion",
+    "topic": "Contract of Adhesion",
+    "explanation": "The insurer writes the contract; the applicant takes it or leaves it. Because of this, courts construe ambiguities AGAINST the insurer."
   },
   {
     "module": "Day 2 Module 1",
@@ -813,7 +947,9 @@
       "Conditional",
       "Adhesive"
     ],
-    "answer": "Aleatory"
+    "answer": "Aleatory",
+    "topic": "Aleatory Contract",
+    "explanation": "Aleatory = the exchange of value is unequal and depends on an uncertain event. Small premiums can buy a large benefit \u2014 or no benefit at all."
   },
   {
     "module": "Day 2 Module 1",
@@ -825,7 +961,9 @@
       "Warranty",
       "Estoppel"
     ],
-    "answer": "Aleatory"
+    "answer": "Aleatory",
+    "topic": "Aleatory Contract",
+    "explanation": "Aleatory = the exchange of value is unequal and depends on an uncertain event. Small premiums can buy a large benefit \u2014 or no benefit at all."
   },
   {
     "module": "Day 2 Module 1",
@@ -837,7 +975,9 @@
       "Aleatory",
       "Voidable"
     ],
-    "answer": "Unilateral"
+    "answer": "Unilateral",
+    "topic": "Unilateral Contract",
+    "explanation": "Only the insurer makes an enforceable promise. The insured can stop paying without breach \u2014 only the insurer can be sued for non-performance."
   },
   {
     "module": "Day 2 Module 1",
@@ -849,7 +989,9 @@
       "Adhesion",
       "Valued"
     ],
-    "answer": "Unilateral"
+    "answer": "Unilateral",
+    "topic": "Unilateral Contract",
+    "explanation": "Only the insurer makes an enforceable promise. The insured can stop paying without breach \u2014 only the insurer can be sued for non-performance."
   },
   {
     "module": "Day 2 Module 1",
@@ -861,7 +1003,9 @@
       "Both at inception and at claim",
       "At each premium due date"
     ],
-    "answer": "At the inception of the policy"
+    "answer": "At the inception of the policy",
+    "topic": "Insurable Interest",
+    "explanation": "Insurable interest must exist at the policy's INCEPTION (not at claim time), and it means the owner would suffer a real financial loss from the insured's death or disability."
   },
   {
     "module": "Day 2 Module 1",
@@ -873,7 +1017,9 @@
       "A beneficiary always has an insurable interest in the insured by definition",
       "The insured must be related to the beneficiary by blood or marriage"
     ],
-    "answer": "The policy owner must expect to suffer a loss if the insured dies or becomes disabled"
+    "answer": "The policy owner must expect to suffer a loss if the insured dies or becomes disabled",
+    "topic": "Insurable Interest",
+    "explanation": "Insurable interest must exist at the policy's INCEPTION (not at claim time), and it means the owner would suffer a real financial loss from the insured's death or disability."
   },
   {
     "module": "Day 2 Module 1",
@@ -885,7 +1031,9 @@
       "Only if the partner names her as beneficiary",
       "Only if the partnership is incorporated"
     ],
-    "answer": "Yes \u2014 she would suffer a financial loss if the partner died"
+    "answer": "Yes \u2014 she would suffer a financial loss if the partner died",
+    "topic": "Insurable Interest",
+    "explanation": "Insurable interest must exist at the policy's INCEPTION (not at claim time), and it means the owner would suffer a real financial loss from the insured's death or disability."
   },
   {
     "module": "Day 2 Module 1",
@@ -897,7 +1045,9 @@
       "The doctrine of estoppel",
       "The right of subrogation"
     ],
-    "answer": "The parole evidence rule"
+    "answer": "The parole evidence rule",
+    "topic": "Parole Evidence Rule",
+    "explanation": "A written contract cannot be changed by oral evidence. Verbal promises that aren't in the policy don't count."
   },
   {
     "module": "Day 2 Module 1",
@@ -909,7 +1059,9 @@
       "Contracts may be amended by either party at any time",
       "Insurance contracts must be read aloud at delivery"
     ],
-    "answer": "A written contract cannot be changed or modified by oral evidence"
+    "answer": "A written contract cannot be changed or modified by oral evidence",
+    "topic": "Parole Evidence Rule",
+    "explanation": "A written contract cannot be changed by oral evidence. Verbal promises that aren't in the policy don't count."
   },
   {
     "module": "Day 2 Module 1",
@@ -921,7 +1073,9 @@
       "It is listed on a stock exchange",
       "It maintains an office in every state"
     ],
-    "answer": "It is licensed or authorized by the state"
+    "answer": "It is licensed or authorized by the state",
+    "topic": "Competent Parties",
+    "explanation": "An insurer is competent when licensed/authorized by the state. A person is incompetent when intoxicated, severely impaired, or (generally) a minor."
   },
   {
     "module": "Day 2 Module 1",
@@ -933,7 +1087,9 @@
       "A 52-year-old retiree of sound mind",
       "A licensed insurance company with a certificate of authority"
     ],
-    "answer": "A 30-year-old who is heavily intoxicated at the time of application"
+    "answer": "A 30-year-old who is heavily intoxicated at the time of application",
+    "topic": "Competent Parties",
+    "explanation": "An insurer is competent when licensed/authorized by the state. A person is incompetent when intoxicated, severely impaired, or (generally) a minor."
   },
   {
     "module": "Day 2 Module 1",
@@ -945,7 +1101,9 @@
       "Only Frank's",
       "Olive's, Frank's, and the beneficiary's"
     ],
-    "answer": "Olive's and Frank's"
+    "answer": "Olive's and Frank's",
+    "topic": "Application Signatures",
+    "explanation": "Third-party policies require BOTH the applicant/owner's and the insured's signatures. The beneficiary never needs to sign."
   },
   {
     "module": "Day 2 Module 1",
@@ -957,7 +1115,9 @@
       "The employee alone",
       "The beneficiary and the agent"
     ],
-    "answer": "Both the owner (as applicant) and the insured employee"
+    "answer": "Both the owner (as applicant) and the insured employee",
+    "topic": "Application Signatures",
+    "explanation": "Third-party policies require BOTH the applicant/owner's and the insured's signatures. The beneficiary never needs to sign."
   },
   {
     "module": "Day 2 Module 1",
@@ -969,7 +1129,9 @@
       "Apparent authority",
       "Statutory authority"
     ],
-    "answer": "Implied authority"
+    "answer": "Implied authority",
+    "topic": "Agent Authority",
+    "explanation": "Express = written in the agency contract. Implied = not written but necessary for routine business. Apparent = created by appearances the public reasonably relies on (e.g., a terminated agent still using company materials)."
   },
   {
     "module": "Day 2 Module 1",
@@ -981,7 +1143,9 @@
       "Implied authority",
       "Residual authority"
     ],
-    "answer": "Apparent authority"
+    "answer": "Apparent authority",
+    "topic": "Agent Authority",
+    "explanation": "Express = written in the agency contract. Implied = not written but necessary for routine business. Apparent = created by appearances the public reasonably relies on (e.g., a terminated agent still using company materials)."
   },
   {
     "module": "Day 2 Module 1",
@@ -993,7 +1157,9 @@
       "Apparent authority",
       "Assumed authority"
     ],
-    "answer": "Express authority"
+    "answer": "Express authority",
+    "topic": "Agent Authority",
+    "explanation": "Express = written in the agency contract. Implied = not written but necessary for routine business. Apparent = created by appearances the public reasonably relies on (e.g., a terminated agent still using company materials)."
   },
   {
     "module": "Day 2 Module 1",
@@ -1005,7 +1171,9 @@
       "Estoppel",
       "Reinstatement"
     ],
-    "answer": "Subrogation"
+    "answer": "Subrogation",
+    "topic": "Subrogation",
+    "explanation": "After paying a claim, the insurer takes over the insured's right to recover from the third party who caused the loss. It exists in INDEMNITY contracts, not valued contracts."
   },
   {
     "module": "Day 2 Module 1",
@@ -1017,7 +1185,9 @@
       "Unilateral contracts only",
       "Participating contracts"
     ],
-    "answer": "Indemnity contracts"
+    "answer": "Indemnity contracts",
+    "topic": "Subrogation",
+    "explanation": "After paying a claim, the insurer takes over the insured's right to recover from the third party who caused the loss. It exists in INDEMNITY contracts, not valued contracts."
   },
   {
     "module": "Day 2 Module 1",
@@ -1029,7 +1199,9 @@
       "An AD&D policy",
       "A disability income policy"
     ],
-    "answer": "A medical expense policy"
+    "answer": "A medical expense policy",
+    "topic": "Valued vs. Reimbursement",
+    "explanation": "Valued contracts (life, AD&D, disability income) pay a stated amount. Medical expense policies reimburse actual loss \u2014 they are NOT valued contracts."
   },
   {
     "module": "Day 2 Module 1",
@@ -1041,7 +1213,9 @@
       "Contract of indemnity",
       "Conditional receipt"
     ],
-    "answer": "Valued contract"
+    "answer": "Valued contract",
+    "topic": "Valued vs. Reimbursement",
+    "explanation": "Valued contracts (life, AD&D, disability income) pay a stated amount. Medical expense policies reimburse actual loss \u2014 they are NOT valued contracts."
   },
   {
     "module": "Day 2 Module 1",
@@ -1053,7 +1227,9 @@
       "It can only be assigned to a blood relative",
       "It terminates automatically if ownership changes"
     ],
-    "answer": "It is not a personal contract, so ownership can be transferred or given away"
+    "answer": "It is not a personal contract, so ownership can be transferred or given away",
+    "topic": "Not a Personal Contract",
+    "explanation": "Life insurance is NOT a personal contract \u2014 ownership can be transferred or assigned, even to someone without insurable interest."
   },
   {
     "module": "Day 2 Module 1",
@@ -1065,7 +1241,9 @@
       "A contract of indemnity",
       "An oral contract"
     ],
-    "answer": "Not a personal contract"
+    "answer": "Not a personal contract",
+    "topic": "Not a Personal Contract",
+    "explanation": "Life insurance is NOT a personal contract \u2014 ownership can be transferred or assigned, even to someone without insurable interest."
   },
   {
     "module": "Day 2 Module 1",
@@ -1077,7 +1255,9 @@
       "Hugo's estate",
       "The state unclaimed property fund"
     ],
-    "answer": "Sofia, as the contingent beneficiary"
+    "answer": "Sofia, as the contingent beneficiary",
+    "topic": "Beneficiary Succession",
+    "explanation": "If the primary beneficiary dies before the insured, proceeds go to the contingent (secondary) beneficiary \u2014 not the primary's estate or heirs."
   },
   {
     "module": "Day 2 Module 1",
@@ -1089,7 +1269,9 @@
       "The primary beneficiary's heirs",
       "The insurer's surplus fund"
     ],
-    "answer": "The contingent (secondary) beneficiary"
+    "answer": "The contingent (secondary) beneficiary",
+    "topic": "Beneficiary Succession",
+    "explanation": "If the primary beneficiary dies before the insured, proceeds go to the contingent (secondary) beneficiary \u2014 not the primary's estate or heirs."
   },
   {
     "module": "Day 2 Module 1",
@@ -1101,7 +1283,9 @@
       "A viatical settlement",
       "An ordinary third-party ownership arrangement"
     ],
-    "answer": "A STOLI (stranger-originated life insurance) arrangement"
+    "answer": "A STOLI (stranger-originated life insurance) arrangement",
+    "topic": "STOLI",
+    "explanation": "Stranger-originated life insurance: investors induce a stranger (often elderly) to take out a policy they fund and benefit from. Fraudulent because the investors have NO insurable interest."
   },
   {
     "module": "Day 2 Module 1",
@@ -1113,7 +1297,9 @@
       "The policies exceed state face-amount limits",
       "The insured is always underage"
     ],
-    "answer": "The investors have no insurable interest in the insured"
+    "answer": "The investors have no insurable interest in the insured",
+    "topic": "STOLI",
+    "explanation": "Stranger-originated life insurance: investors induce a stranger (often elderly) to take out a policy they fund and benefit from. Fraudulent because the investors have NO insurable interest."
   },
   {
     "module": "Day 2 Module 2",
@@ -1125,7 +1311,9 @@
       "Fact-finding",
       "Policy delivery"
     ],
-    "answer": "Presentation of recommendations"
+    "answer": "Presentation of recommendations",
+    "topic": "When Misrepresentation Happens",
+    "explanation": "Misrepresentation problems peak at the presentation of recommendations \u2014 when the producer is describing products and making claims about them."
   },
   {
     "module": "Day 2 Module 2",
@@ -1137,7 +1325,9 @@
       "When mailing a birthday card",
       "When filing the application"
     ],
-    "answer": "When presenting recommendations to the client"
+    "answer": "When presenting recommendations to the client",
+    "topic": "When Misrepresentation Happens",
+    "explanation": "Misrepresentation problems peak at the presentation of recommendations \u2014 when the producer is describing products and making claims about them."
   },
   {
     "module": "Day 2 Module 2",
@@ -1149,7 +1339,9 @@
       "Rebating",
       "Churning"
     ],
-    "answer": "Misrepresentation"
+    "answer": "Misrepresentation",
+    "topic": "Misrepresentation",
+    "explanation": "Any false or misleading statement about a policy \u2014 calling VUL a mutual fund, calling dividends guaranteed \u2014 is misrepresentation."
   },
   {
     "module": "Day 2 Module 2",
@@ -1161,7 +1353,9 @@
       "Coercion",
       "Rebating"
     ],
-    "answer": "Misrepresentation"
+    "answer": "Misrepresentation",
+    "topic": "Misrepresentation",
+    "explanation": "Any false or misleading statement about a policy \u2014 calling VUL a mutual fund, calling dividends guaranteed \u2014 is misrepresentation."
   },
   {
     "module": "Day 2 Module 2",
@@ -1173,7 +1367,9 @@
       "Disclosure documents",
       "Answers to the client's questions"
     ],
-    "answer": "Pressure"
+    "answer": "Pressure",
+    "topic": "The Sales Presentation",
+    "explanation": "The presentation's goal is to EDUCATE so the client decides \u2014 pressure and 'selling' don't belong. Educate, disclose, answer honestly."
   },
   {
     "module": "Day 2 Module 2",
@@ -1185,7 +1381,9 @@
       "To collect the first premium as quickly as possible",
       "To demonstrate the agent's product knowledge"
     ],
-    "answer": "To educate clients, empowering them to make their own decisions"
+    "answer": "To educate clients, empowering them to make their own decisions",
+    "topic": "The Sales Presentation",
+    "explanation": "The presentation's goal is to EDUCATE so the client decides \u2014 pressure and 'selling' don't belong. Educate, disclose, answer honestly."
   },
   {
     "module": "Day 2 Module 2",
@@ -1197,7 +1395,9 @@
       "Disclose product limitations",
       "Answer questions honestly"
     ],
-    "answer": "Sell a policy"
+    "answer": "Sell a policy",
+    "topic": "The Sales Presentation",
+    "explanation": "The presentation's goal is to EDUCATE so the client decides \u2014 pressure and 'selling' don't belong. Educate, disclose, answer honestly."
   },
   {
     "module": "Day 2 Module 2",
@@ -1209,7 +1409,9 @@
       "The MIB report",
       "Medical examination results"
     ],
-    "answer": "The applicant's analyst report"
+    "answer": "The applicant's analyst report",
+    "topic": "Home Office Underwriting",
+    "explanation": "Underwriters use the application, agent's report, MIB report, medical exams, and physician statements. A stock 'analyst report' is not part of underwriting."
   },
   {
     "module": "Day 2 Module 2",
@@ -1221,7 +1423,9 @@
       "The completed application",
       "An attending physician statement"
     ],
-    "answer": "The applicant's stock analyst report"
+    "answer": "The applicant's stock analyst report",
+    "topic": "Home Office Underwriting",
+    "explanation": "Underwriters use the application, agent's report, MIB report, medical exams, and physician statements. A stock 'analyst report' is not part of underwriting."
   },
   {
     "module": "Day 2 Module 2",
@@ -1233,7 +1437,9 @@
       "A company's internal pricing rules",
       "Federal regulations on advertising"
     ],
-    "answer": "Standards of conduct and moral judgment governing how we deal with others"
+    "answer": "Standards of conduct and moral judgment governing how we deal with others",
+    "topic": "Ethics",
+    "explanation": "Ethics = standards of conduct and moral judgment governing how we deal with others \u2014 beyond what laws require."
   },
   {
     "module": "Day 2 Module 2",
@@ -1245,7 +1451,9 @@
       "Solicitation",
       "Underwriting"
     ],
-    "answer": "Ethics"
+    "answer": "Ethics",
+    "topic": "Ethics",
+    "explanation": "Ethics = standards of conduct and moral judgment governing how we deal with others \u2014 beyond what laws require."
   },
   {
     "module": "Day 2 Module 2",
@@ -1257,7 +1465,9 @@
       "North American Insurance Council",
       "National Agency for Insurance Compliance"
     ],
-    "answer": "National Association of Insurance Commissioners"
+    "answer": "National Association of Insurance Commissioners",
+    "topic": "NAIC Purpose",
+    "explanation": "NAIC = National Association of Insurance Commissioners. Its objective is uniformity in state insurance regulation via model laws."
   },
   {
     "module": "Day 2 Module 2",
@@ -1269,7 +1479,9 @@
       "Set federal premium taxes",
       "Underwrite high-risk applicants"
     ],
-    "answer": "Encourage uniformity in state insurance regulation"
+    "answer": "Encourage uniformity in state insurance regulation",
+    "topic": "NAIC Purpose",
+    "explanation": "NAIC = National Association of Insurance Commissioners. Its objective is uniformity in state insurance regulation via model laws."
   },
   {
     "module": "Day 2 Module 2",
@@ -1281,7 +1493,9 @@
       "Illustrations must be clearly labeled",
       "Certain misleading terminology is prohibited"
     ],
-    "answer": "The words \"vanish\" and \"vanishing premium\" may be used sparingly in illustrations"
+    "answer": "The words \"vanish\" and \"vanishing premium\" may be used sparingly in illustrations",
+    "topic": "Illustrations Regulation",
+    "explanation": "The NAIC model regulation prohibits misleading terms like 'vanish' and 'vanishing premium' entirely \u2014 not even 'sparingly' \u2014 and requires guaranteed vs. non-guaranteed values to be distinguished."
   },
   {
     "module": "Day 2 Module 2",
@@ -1293,7 +1507,9 @@
       "\"Cash surrender value\"",
       "\"Death benefit\""
     ],
-    "answer": "\"Vanishing premium\""
+    "answer": "\"Vanishing premium\"",
+    "topic": "Illustrations Regulation",
+    "explanation": "The NAIC model regulation prohibits misleading terms like 'vanish' and 'vanishing premium' entirely \u2014 not even 'sparingly' \u2014 and requires guaranteed vs. non-guaranteed values to be distinguished."
   },
   {
     "module": "Day 2 Module 2",
@@ -1305,7 +1521,9 @@
       "They are cheaper than custom materials",
       "They guarantee the sale will close"
     ],
-    "answer": "They have generally been reviewed for compliance"
+    "answer": "They have generally been reviewed for compliance",
+    "topic": "Preprinted Materials",
+    "explanation": "Company preprinted materials are preferred because they've been reviewed for regulatory compliance \u2014 homemade handouts haven't."
   },
   {
     "module": "Day 2 Module 2",
@@ -1317,7 +1535,9 @@
       "Preprinted materials earn higher commissions",
       "Clients are not permitted to keep custom documents"
     ],
-    "answer": "Company materials have been vetted for regulatory compliance"
+    "answer": "Company materials have been vetted for regulatory compliance",
+    "topic": "Preprinted Materials",
+    "explanation": "Company preprinted materials are preferred because they've been reviewed for regulatory compliance \u2014 homemade handouts haven't."
   },
   {
     "module": "Day 2 Module 2",
@@ -1329,7 +1549,9 @@
       "Shorten the sales process",
       "Increase policy premiums"
     ],
-    "answer": "Help the client make an informed decision"
+    "answer": "Help the client make an informed decision",
+    "topic": "Full Disclosure",
+    "explanation": "Disclosure documents exist for one reason: to help the client make an informed decision."
   },
   {
     "module": "Day 2 Module 2",
@@ -1341,7 +1563,9 @@
       "Lock in a guaranteed dividend",
       "Avoid the underwriting process"
     ],
-    "answer": "Make an informed purchase decision"
+    "answer": "Make an informed purchase decision",
+    "topic": "Full Disclosure",
+    "explanation": "Disclosure documents exist for one reason: to help the client make an informed decision."
   },
   {
     "module": "Day 2 Module 2",
@@ -1353,7 +1577,9 @@
       "Twisting",
       "Defamation"
     ],
-    "answer": "Rebating"
+    "answer": "Rebating",
+    "topic": "Rebating",
+    "explanation": "Giving the client anything of value (gifts, tickets, commission kickbacks) as an inducement to buy = rebating. In Florida it's legal ONLY under the strict conditions of \u00a7626.572."
   },
   {
     "module": "Day 2 Module 2",
@@ -1365,7 +1591,9 @@
       "Misrepresentation",
       "Concealment"
     ],
-    "answer": "Rebating"
+    "answer": "Rebating",
+    "topic": "Rebating",
+    "explanation": "Giving the client anything of value (gifts, tickets, commission kickbacks) as an inducement to buy = rebating. In Florida it's legal ONLY under the strict conditions of \u00a7626.572."
   },
   {
     "module": "Day 2 Module 2",
@@ -1377,7 +1605,9 @@
       "Rebating",
       "Subrogation"
     ],
-    "answer": "Churning"
+    "answer": "Churning",
+    "topic": "Churning",
+    "explanation": "Churning = replacing a policy with another from the SAME insurer mainly to earn new commissions. (Twisting is the same scheme with a DIFFERENT insurer.)"
   },
   {
     "module": "Day 2 Module 2",
@@ -1389,7 +1619,9 @@
       "Selling multiple policies to one household",
       "Backdating an application to save age"
     ],
-    "answer": "Replacing a policy with another from the same insurer with the intent of earning additional commissions"
+    "answer": "Replacing a policy with another from the same insurer with the intent of earning additional commissions",
+    "topic": "Churning",
+    "explanation": "Churning = replacing a policy with another from the SAME insurer mainly to earn new commissions. (Twisting is the same scheme with a DIFFERENT insurer.)"
   },
   {
     "module": "Day 2 Module 2",
@@ -1401,7 +1633,9 @@
       "Only paid television advertising",
       "Only activities performed inside the insurer's office"
     ],
-    "answer": "Presenting proposals, describing benefits, and urging a prospect to apply"
+    "answer": "Presenting proposals, describing benefits, and urging a prospect to apply",
+    "topic": "Solicitation",
+    "explanation": "Solicitation includes presenting proposals, describing benefits, and urging prospects to apply \u2014 anything that attempts to induce the purchase of insurance."
   },
   {
     "module": "Day 2 Module 2",
@@ -1413,7 +1647,9 @@
       "Claims adjustment",
       "Policy delivery"
     ],
-    "answer": "Solicitation"
+    "answer": "Solicitation",
+    "topic": "Solicitation",
+    "explanation": "Solicitation includes presenting proposals, describing benefits, and urging prospects to apply \u2014 anything that attempts to induce the purchase of insurance."
   },
   {
     "module": "Day 2 Module 2",
@@ -1425,7 +1661,9 @@
       "When the policy is issued",
       "When the first claim is filed"
     ],
-    "answer": "When the policy is delivered"
+    "answer": "When the policy is delivered",
+    "topic": "Free Look",
+    "explanation": "The free look period starts at policy DELIVERY \u2014 not issue, not application."
   },
   {
     "module": "Day 2 Module 2",
@@ -1437,7 +1675,9 @@
       "The date she signed the application",
       "The first premium due date"
     ],
-    "answer": "June 9 \u2014 the date of delivery"
+    "answer": "June 9 \u2014 the date of delivery",
+    "topic": "Free Look",
+    "explanation": "The free look period starts at policy DELIVERY \u2014 not issue, not application."
   },
   {
     "module": "Day 2 Module 2",
@@ -1449,7 +1689,9 @@
       "The meanings of terms such as waiver of premium",
       "Why the requested information is required"
     ],
-    "answer": "How the DFS works with the CFO"
+    "answer": "How the DFS works with the CFO",
+    "topic": "Educating the Applicant",
+    "explanation": "Producers should explain honesty requirements, policy terms, and why information is collected. Internal department mechanics (DFS/CFO) aren't part of it."
   },
   {
     "module": "Day 2 Module 2",
@@ -1461,7 +1703,9 @@
       "Other clients' claim histories",
       "The underwriter's personal contact information"
     ],
-    "answer": "The need for honesty, the meaning of policy terms, and why information is collected"
+    "answer": "The need for honesty, the meaning of policy terms, and why information is collected",
+    "topic": "Educating the Applicant",
+    "explanation": "Producers should explain honesty requirements, policy terms, and why information is collected. Internal department mechanics (DFS/CFO) aren't part of it."
   },
   {
     "module": "Day 2 Module 2",
@@ -1473,7 +1717,9 @@
       "MIB reports",
       "Review of the application"
     ],
-    "answer": "Salary requirements"
+    "answer": "Salary requirements",
+    "topic": "Explaining Underwriting",
+    "explanation": "Underwriting draws on the application, medical exams, MIB, and physician statements. Salary requirements and commissions are not underwriting sources."
   },
   {
     "module": "Day 2 Module 2",
@@ -1485,7 +1731,9 @@
       "The MIB report",
       "An attending physician statement"
     ],
-    "answer": "The agent's commission schedule"
+    "answer": "The agent's commission schedule",
+    "topic": "Explaining Underwriting",
+    "explanation": "Underwriting draws on the application, medical exams, MIB, and physician statements. Salary requirements and commissions are not underwriting sources."
   },
   {
     "module": "Day 3 Module 1",
@@ -1497,7 +1745,9 @@
       "Disability income insurance",
       "Accidental death and dismemberment"
     ],
-    "answer": "Limited pay health"
+    "answer": "Limited pay health",
+    "topic": "Basic Types of Health Coverage",
+    "explanation": "The three basic types (MAD): Medical expense, AD&D, and Disability income. 'Limited pay health' is a made-up distractor."
   },
   {
     "module": "Day 3 Module 1",
@@ -1509,7 +1759,9 @@
       "Disability income, workers' compensation, and Medicare",
       "Major medical, limited pay health, and AD&D"
     ],
-    "answer": "Medical expense, disability income, and accidental death and dismemberment"
+    "answer": "Medical expense, disability income, and accidental death and dismemberment",
+    "topic": "Basic Types of Health Coverage",
+    "explanation": "The three basic types (MAD): Medical expense, AD&D, and Disability income. 'Limited pay health' is a made-up distractor."
   },
   {
     "module": "Day 3 Module 1",
@@ -1521,7 +1773,9 @@
       "A lump sum payable upon accidental death",
       "Funeral and burial expenses"
     ],
-    "answer": "Hospitalization, surgical, and physician services expenses"
+    "answer": "Hospitalization, surgical, and physician services expenses",
+    "topic": "Medical Expense Insurance",
+    "explanation": "Medical expense insurance pays actual healthcare costs \u2014 hospitalization, surgery, physician services, outpatient care \u2014 on a reimbursement basis."
   },
   {
     "module": "Day 3 Module 1",
@@ -1533,7 +1787,9 @@
       "Accidental death and dismemberment insurance",
       "Credit health insurance"
     ],
-    "answer": "Medical expense insurance"
+    "answer": "Medical expense insurance",
+    "topic": "Medical Expense Insurance",
+    "explanation": "Medical expense insurance pays actual healthcare costs \u2014 hospitalization, surgery, physician services, outpatient care \u2014 on a reimbursement basis."
   },
   {
     "module": "Day 3 Module 1",
@@ -1545,7 +1801,9 @@
       "Provide a lump sum benefit for accidental dismemberment",
       "Reimburse hospital and surgical costs"
     ],
-    "answer": "Replace income lost when the insured cannot work due to disability"
+    "answer": "Replace income lost when the insured cannot work due to disability",
+    "topic": "Disability Income Insurance",
+    "explanation": "DI replaces lost INCOME when the insured can't work. It never pays the medical bills caused by the disability \u2014 that's medical expense insurance's job."
   },
   {
     "module": "Day 3 Module 1",
@@ -1557,7 +1815,9 @@
       "It pays benefits only for work-related disabilities",
       "It pays a lump sum upon proof of permanent disability"
     ],
-    "answer": "It excludes coverage for medical expenses arising from the disability"
+    "answer": "It excludes coverage for medical expenses arising from the disability",
+    "topic": "Disability Income Insurance",
+    "explanation": "DI replaces lost INCOME when the insured can't work. It never pays the medical bills caused by the disability \u2014 that's medical expense insurance's job."
   },
   {
     "module": "Day 3 Module 1",
@@ -1569,7 +1829,9 @@
       "AD&D insurance",
       "Medicare supplement insurance"
     ],
-    "answer": "Disability income insurance"
+    "answer": "Disability income insurance",
+    "topic": "Disability Income Insurance",
+    "explanation": "DI replaces lost INCOME when the insured can't work. It never pays the medical bills caused by the disability \u2014 that's medical expense insurance's job."
   },
   {
     "module": "Day 3 Module 1",
@@ -1581,7 +1843,9 @@
       "It replaces income lost due to an accidental injury",
       "It pays benefits for death from sickness or accident alike"
     ],
-    "answer": "It pays a lump sum benefit if the insured dies or is dismembered in an accident"
+    "answer": "It pays a lump sum benefit if the insured dies or is dismembered in an accident",
+    "topic": "AD&D",
+    "explanation": "AD&D pays a lump sum for accidental death or dismemberment only \u2014 never sickness. It's the purest form of accident insurance."
   },
   {
     "module": "Day 3 Module 1",
@@ -1593,7 +1857,9 @@
       "A government-sponsored benefit program",
       "A type of medical expense reimbursement plan"
     ],
-    "answer": "The purest form of accident insurance"
+    "answer": "The purest form of accident insurance",
+    "topic": "AD&D",
+    "explanation": "AD&D pays a lump sum for accidental death or dismemberment only \u2014 never sickness. It's the purest form of accident insurance."
   },
   {
     "module": "Day 3 Module 1",
@@ -1605,7 +1871,9 @@
       "Available only through government programs",
       "Always issued on a nonparticipating basis"
     ],
-    "answer": "Provided through a master contract issued to a specific group"
+    "answer": "Provided through a master contract issued to a specific group",
+    "topic": "How Coverage Is Purchased",
+    "explanation": "Individual = contract between insured and insurer. Group = one master contract covering a group. Government: Medicaid (state, for the needy), Medicare and OASDI (federal)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1617,7 +1885,9 @@
       "OASDI",
       "TRICARE"
     ],
-    "answer": "Medicaid"
+    "answer": "Medicaid",
+    "topic": "How Coverage Is Purchased",
+    "explanation": "Individual = contract between insured and insurer. Group = one master contract covering a group. Government: Medicaid (state, for the needy), Medicare and OASDI (federal)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1629,7 +1899,9 @@
       "The state government and the insured",
       "The insured and the federal government"
     ],
-    "answer": "The insured and a commercial insurer or service organization"
+    "answer": "The insured and a commercial insurer or service organization",
+    "topic": "How Coverage Is Purchased",
+    "explanation": "Individual = contract between insured and insurer. Group = one master contract covering a group. Government: Medicaid (state, for the needy), Medicare and OASDI (federal)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1641,7 +1913,9 @@
       "Optionally renewable",
       "Conditionally renewable"
     ],
-    "answer": "Noncancellable"
+    "answer": "Noncancellable",
+    "topic": "Renewability Provisions",
+    "explanation": "From least to most protective (and cheapest to priciest): Cancellable \u2192 Optionally renewable \u2192 Conditionally renewable \u2192 Guaranteed renewable (must renew, premiums can rise by class) \u2192 Noncancellable (must renew, premiums fixed)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1653,7 +1927,9 @@
       "Must renew the policy and may never increase the premium",
       "May refuse to renew for any reason at the anniversary date"
     ],
-    "answer": "Must renew the policy but may increase premiums for an entire class of insureds"
+    "answer": "Must renew the policy but may increase premiums for an entire class of insureds",
+    "topic": "Renewability Provisions",
+    "explanation": "From least to most protective (and cheapest to priciest): Cancellable \u2192 Optionally renewable \u2192 Conditionally renewable \u2192 Guaranteed renewable (must renew, premiums can rise by class) \u2192 Noncancellable (must renew, premiums fixed)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1665,7 +1941,9 @@
       "Guaranteed renewable",
       "Conditionally renewable"
     ],
-    "answer": "Cancellable"
+    "answer": "Cancellable",
+    "topic": "Renewability Provisions",
+    "explanation": "From least to most protective (and cheapest to priciest): Cancellable \u2192 Optionally renewable \u2192 Conditionally renewable \u2192 Guaranteed renewable (must renew, premiums can rise by class) \u2192 Noncancellable (must renew, premiums fixed)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1677,7 +1955,9 @@
       "Semiannually",
       "Quarterly"
     ],
-    "answer": "Weekly"
+    "answer": "Weekly",
+    "topic": "Premium Modes",
+    "explanation": "Annual payment = lowest total cost. Each step more frequent adds expense; weekly is most expensive overall."
   },
   {
     "module": "Day 3 Module 1",
@@ -1689,7 +1969,9 @@
       "Weekly",
       "Quarterly"
     ],
-    "answer": "Annually"
+    "answer": "Annually",
+    "topic": "Premium Modes",
+    "explanation": "Annual payment = lowest total cost. Each step more frequent adds expense; weekly is most expensive overall."
   },
   {
     "module": "Day 3 Module 1",
@@ -1701,7 +1983,9 @@
       "Liquidity",
       "Volatility"
     ],
-    "answer": "Morbidity"
+    "answer": "Morbidity",
+    "topic": "Premium Factors (MIX-T)",
+    "explanation": "Premiums are built from Morbidity, Interest, eXpense, and Types of benefits. Morbidity (sickness rates) is health insurance's counterpart to life insurance's mortality."
   },
   {
     "module": "Day 3 Module 1",
@@ -1713,7 +1997,9 @@
       "Age, occupation, residence, and income",
       "Interest, inflation, taxes, and commissions"
     ],
-    "answer": "Morbidity, interest, expense, and types of benefits"
+    "answer": "Morbidity, interest, expense, and types of benefits",
+    "topic": "Premium Factors (MIX-T)",
+    "explanation": "Premiums are built from Morbidity, Interest, eXpense, and Types of benefits. Morbidity (sickness rates) is health insurance's counterpart to life insurance's mortality."
   },
   {
     "module": "Day 3 Module 1",
@@ -1725,7 +2011,9 @@
       "The insurer's cost of doing business",
       "The expected investment return on premiums"
     ],
-    "answer": "The rate of sickness or disease within a particular population"
+    "answer": "The rate of sickness or disease within a particular population",
+    "topic": "Premium Factors (MIX-T)",
+    "explanation": "Premiums are built from Morbidity, Interest, eXpense, and Types of benefits. Morbidity (sickness rates) is health insurance's counterpart to life insurance's mortality."
   },
   {
     "module": "Day 3 Module 1",
@@ -1737,7 +2025,9 @@
       "All health insurance policies are participating",
       "Participating policies never pay dividends"
     ],
-    "answer": "Individual policies are typically nonparticipating, while group policies are typically participating"
+    "answer": "Individual policies are typically nonparticipating, while group policies are typically participating",
+    "topic": "Participating vs. Nonparticipating",
+    "explanation": "Individual health policies = nonparticipating. Group policies = participating \u2014 eligible for dividends (a refund of premium) or experience-rating refunds."
   },
   {
     "module": "Day 3 Module 1",
@@ -1749,7 +2039,9 @@
       "A guaranteed contract benefit",
       "A loan against the policy"
     ],
-    "answer": "A refund of premium"
+    "answer": "A refund of premium",
+    "topic": "Participating vs. Nonparticipating",
+    "explanation": "Individual health policies = nonparticipating. Group policies = participating \u2014 eligible for dividends (a refund of premium) or experience-rating refunds."
   },
   {
     "module": "Day 3 Module 1",
@@ -1761,7 +2053,9 @@
       "Interest rates and taxes",
       "Policy size and premium mode"
     ],
-    "answer": "Expenses and claims costs"
+    "answer": "Expenses and claims costs",
+    "topic": "Dividend Determinants",
+    "explanation": "Two factors decide whether dividends/experience refunds are payable: the insurer's EXPENSES and the group's CLAIMS COSTS."
   },
   {
     "module": "Day 3 Module 1",
@@ -1773,7 +2067,9 @@
       "Interest rates rise during the year",
       "The employer pays premiums annually"
     ],
-    "answer": "The group's claims costs are low"
+    "answer": "The group's claims costs are low",
+    "topic": "Dividend Determinants",
+    "explanation": "Two factors decide whether dividends/experience refunds are payable: the insurer's EXPENSES and the group's CLAIMS COSTS."
   },
   {
     "module": "Day 3 Module 1",
@@ -1785,7 +2081,9 @@
       "Surplus",
       "Earned income"
     ],
-    "answer": "A liability"
+    "answer": "A liability",
+    "topic": "Reserves",
+    "explanation": "Reserves are a LIABILITY on the insurer's books. Premium reserves = losses not yet occurred but premium received. Loss reserves = losses occurred but not yet settled."
   },
   {
     "module": "Day 3 Module 1",
@@ -1797,7 +2095,9 @@
       "Dividends owed to participating policyholders",
       "Commissions owed to producers"
     ],
-    "answer": "Potential losses that have not yet occurred but for which premiums have already been received"
+    "answer": "Potential losses that have not yet occurred but for which premiums have already been received",
+    "topic": "Reserves",
+    "explanation": "Reserves are a LIABILITY on the insurer's books. Premium reserves = losses not yet occurred but premium received. Loss reserves = losses occurred but not yet settled."
   },
   {
     "module": "Day 3 Module 1",
@@ -1809,7 +2109,9 @@
       "Future premium refunds to policyowners",
       "Anticipated underwriting expenses"
     ],
-    "answer": "Losses that have occurred but for which settlement is not yet complete"
+    "answer": "Losses that have occurred but for which settlement is not yet complete",
+    "topic": "Reserves",
+    "explanation": "Reserves are a LIABILITY on the insurer's books. Premium reserves = losses not yet occurred but premium received. Loss reserves = losses occurred but not yet settled."
   },
   {
     "module": "Day 3 Module 1",
@@ -1821,7 +2123,9 @@
       "Participating",
       "Conditional"
     ],
-    "answer": "Valued"
+    "answer": "Valued",
+    "topic": "Valued vs. Reimbursement",
+    "explanation": "A policy paying a stated amount (e.g., $X/month while disabled) is VALUED. Medical expense insurance pays actual loss \u2014 a contract of REIMBURSEMENT (indemnity)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1833,7 +2137,9 @@
       "A participating contract that pays annual dividends",
       "A service contract that pays providers in advance"
     ],
-    "answer": "A contract of reimbursement that pays based on the actual amount of loss"
+    "answer": "A contract of reimbursement that pays based on the actual amount of loss",
+    "topic": "Valued vs. Reimbursement",
+    "explanation": "A policy paying a stated amount (e.g., $X/month while disabled) is VALUED. Medical expense insurance pays actual loss \u2014 a contract of REIMBURSEMENT (indemnity)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1845,7 +2151,9 @@
       "Group health and individual health insurance",
       "Long-term care and major medical insurance"
     ],
-    "answer": "Life insurance, AD&D, and disability income insurance"
+    "answer": "Life insurance, AD&D, and disability income insurance",
+    "topic": "Valued vs. Reimbursement",
+    "explanation": "A policy paying a stated amount (e.g., $X/month while disabled) is VALUED. Medical expense insurance pays actual loss \u2014 a contract of REIMBURSEMENT (indemnity)."
   },
   {
     "module": "Day 3 Module 1",
@@ -1857,7 +2165,9 @@
       "138% to 250% of the Federal Poverty Level",
       "200% to 500% of the Federal Poverty Level"
     ],
-    "answer": "100% to 400% of the Federal Poverty Level"
+    "answer": "100% to 400% of the Federal Poverty Level",
+    "topic": "ACA Subsidies",
+    "explanation": "Subsidies: income between 100% and 400% of the Federal Poverty Level. Medicaid expansion: at or below 138% FPL."
   },
   {
     "module": "Day 3 Module 1",
@@ -1869,7 +2179,9 @@
       "250%",
       "400%"
     ],
-    "answer": "138%"
+    "answer": "138%",
+    "topic": "ACA Subsidies",
+    "explanation": "Subsidies: income between 100% and 400% of the Federal Poverty Level. Medicaid expansion: at or below 138% FPL."
   },
   {
     "module": "Day 3 Module 1",
@@ -1881,7 +2193,9 @@
       "18",
       "25"
     ],
-    "answer": "26"
+    "answer": "26",
+    "topic": "ACA Reforms",
+    "explanation": "No denial for preexisting conditions; children stay on a parent's plan to age 26; the $695 individual mandate tax was zeroed out by the Tax Cuts and Jobs Act starting 2018."
   },
   {
     "module": "Day 3 Module 1",
@@ -1893,7 +2207,9 @@
       "Insurers may impose a permanent exclusion for preexisting conditions",
       "Preexisting condition protections apply only to group plans"
     ],
-    "answer": "Insurers cannot deny coverage to anyone based on a preexisting condition"
+    "answer": "Insurers cannot deny coverage to anyone based on a preexisting condition",
+    "topic": "ACA Reforms",
+    "explanation": "No denial for preexisting conditions; children stay on a parent's plan to age 26; the $695 individual mandate tax was zeroed out by the Tax Cuts and Jobs Act starting 2018."
   },
   {
     "module": "Day 3 Module 1",
@@ -1905,7 +2221,9 @@
       "HIPAA",
       "The Social Security Act"
     ],
-    "answer": "The Tax Cuts and Jobs Act"
+    "answer": "The Tax Cuts and Jobs Act",
+    "topic": "ACA Reforms",
+    "explanation": "No denial for preexisting conditions; children stay on a parent's plan to age 26; the $695 individual mandate tax was zeroed out by the Tax Cuts and Jobs Act starting 2018."
   },
   {
     "module": "Day 3 Module 1",
@@ -1917,7 +2235,9 @@
       "100",
       "10"
     ],
-    "answer": "50"
+    "answer": "50",
+    "topic": "ACA Employer Mandate",
+    "explanation": "Employers with 50+ full-time employees must offer qualifying coverage to at least 95% of them and their dependents, or face $2,000/worker/year if any worker takes federal assistance."
   },
   {
     "module": "Day 3 Module 1",
@@ -1929,7 +2249,9 @@
       "$10,000 flat fine per year",
       "10% of total payroll"
     ],
-    "answer": "$2,000 per worker if any worker receives federal assistance to buy insurance"
+    "answer": "$2,000 per worker if any worker receives federal assistance to buy insurance",
+    "topic": "ACA Employer Mandate",
+    "explanation": "Employers with 50+ full-time employees must offer qualifying coverage to at least 95% of them and their dependents, or face $2,000/worker/year if any worker takes federal assistance."
   },
   {
     "module": "Day 3 Module 1",
@@ -1941,7 +2263,9 @@
       "75%",
       "50%"
     ],
-    "answer": "95%"
+    "answer": "95%",
+    "topic": "ACA Employer Mandate",
+    "explanation": "Employers with 50+ full-time employees must offer qualifying coverage to at least 95% of them and their dependents, or face $2,000/worker/year if any worker takes federal assistance."
   },
   {
     "module": "Day 3 Module 2",
@@ -1953,7 +2277,9 @@
       "A preferred provider organization",
       "An administrative-services-only plan"
     ],
-    "answer": "A commercial insurer"
+    "answer": "A commercial insurer",
+    "topic": "Commercial Insurers",
+    "explanation": "Commercial insurers use the REIMBURSEMENT approach \u2014 the insured submits bills and is paid back directly. HMOs/PPOs provide services instead."
   },
   {
     "module": "Day 3 Module 2",
@@ -1965,7 +2291,9 @@
       "The service approach, in which benefits are provided as services",
       "The capitation approach, in which providers receive a flat monthly fee"
     ],
-    "answer": "The reimbursement approach, in which policyholders receive care and submit bills for reimbursement"
+    "answer": "The reimbursement approach, in which policyholders receive care and submit bills for reimbursement",
+    "topic": "Commercial Insurers",
+    "explanation": "Commercial insurers use the REIMBURSEMENT approach \u2014 the insured submits bills and is paid back directly. HMOs/PPOs provide services instead."
   },
   {
     "module": "Day 3 Module 2",
@@ -1977,7 +2305,9 @@
       "The insurer to cancel the policy upon nonpayment",
       "The provider to bill the patient for any unpaid balance"
     ],
-    "answer": "The insurance company to pay the medical provider directly"
+    "answer": "The insurance company to pay the medical provider directly",
+    "topic": "Right of Assignment",
+    "explanation": "Assignment lets the insurer pay the medical provider directly so the insured doesn't pay up front. It changes who gets the check, not the contract's nature."
   },
   {
     "module": "Day 3 Module 2",
@@ -1989,7 +2319,9 @@
       "Converts the policy into a valued contract",
       "Guarantees renewal of the policy"
     ],
-    "answer": "Reduces the policyholder's need to pay the medical provider up front"
+    "answer": "Reduces the policyholder's need to pay the medical provider up front",
+    "topic": "Right of Assignment",
+    "explanation": "Assignment lets the insurer pay the medical provider directly so the insured doesn't pay up front. It changes who gets the check, not the contract's nature."
   },
   {
     "module": "Day 3 Module 2",
@@ -2001,7 +2333,9 @@
       "Third-party administrator",
       "Reinsurer"
     ],
-    "answer": "Service provider"
+    "answer": "Service provider",
+    "topic": "Service Providers",
+    "explanation": "Service providers (like BCBS) sell benefits as SERVICES, not reimbursement. BCBS selling an HMO plan is acting as a service provider, not an insurer."
   },
   {
     "module": "Day 3 Module 2",
@@ -2013,7 +2347,9 @@
       "A valued contract basis",
       "A fee-for-service indemnity basis"
     ],
-    "answer": "A service basis rather than a reimbursement basis"
+    "answer": "A service basis rather than a reimbursement basis",
+    "topic": "Service Providers",
+    "explanation": "Service providers (like BCBS) sell benefits as SERVICES, not reimbursement. BCBS selling an HMO plan is acting as a service provider, not an insurer."
   },
   {
     "module": "Day 3 Module 2",
@@ -2025,7 +2361,9 @@
       "A multiple employer trust",
       "A Medicare supplement policy"
     ],
-    "answer": "An HMO"
+    "answer": "An HMO",
+    "topic": "HMO",
+    "explanation": "HMO = prepaid care, preventive-care emphasis, gatekeeper referrals required for specialists, no out-of-network coverage except emergencies."
   },
   {
     "module": "Day 3 Module 2",
@@ -2037,7 +2375,9 @@
       "Out-of-network care is fully covered at all times",
       "Physicians are paid fee-for-service after each visit"
     ],
-    "answer": "A referral from a primary care physician is needed to see a specialist"
+    "answer": "A referral from a primary care physician is needed to see a specialist",
+    "topic": "HMO",
+    "explanation": "HMO = prepaid care, preventive-care emphasis, gatekeeper referrals required for specialists, no out-of-network coverage except emergencies."
   },
   {
     "module": "Day 3 Module 2",
@@ -2049,7 +2389,9 @@
       "Covered in full after a referral",
       "Covered at 50% of the usual charge"
     ],
-    "answer": "Not covered except in emergencies"
+    "answer": "Not covered except in emergencies",
+    "topic": "HMO",
+    "explanation": "HMO = prepaid care, preventive-care emphasis, gatekeeper referrals required for specialists, no out-of-network coverage except emergencies."
   },
   {
     "module": "Day 3 Module 2",
@@ -2061,7 +2403,9 @@
       "A referral is required to see a specialist",
       "Out-of-network care is never covered"
     ],
-    "answer": "Physicians are paid on a fee-for-service basis after the visit"
+    "answer": "Physicians are paid on a fee-for-service basis after the visit",
+    "topic": "PPO",
+    "explanation": "PPO = fee-for-service after the visit, no referral needed, out-of-network IS covered but acts like major medical (deductible + coinsurance)."
   },
   {
     "module": "Day 3 Module 2",
@@ -2073,7 +2417,9 @@
       "Covered only with a gatekeeper referral",
       "Covered in full with no cost sharing"
     ],
-    "answer": "Covered, functioning like major medical with a deductible and coinsurance"
+    "answer": "Covered, functioning like major medical with a deductible and coinsurance",
+    "topic": "PPO",
+    "explanation": "PPO = fee-for-service after the visit, no referral needed, out-of-network IS covered but acts like major medical (deductible + coinsurance)."
   },
   {
     "module": "Day 3 Module 2",
@@ -2085,7 +2431,9 @@
       "Medicaid managed care",
       "A debit company plan"
     ],
-    "answer": "PPO"
+    "answer": "PPO",
+    "topic": "PPO",
+    "explanation": "PPO = fee-for-service after the visit, no referral needed, out-of-network IS covered but acts like major medical (deductible + coinsurance)."
   },
   {
     "module": "Day 3 Module 2",
@@ -2097,7 +2445,9 @@
       "A self-insured arrangement administered by a TPA",
       "A prepaid plan with no out-of-network benefits"
     ],
-    "answer": "A hybrid that works like an HMO in-network and like a PPO out-of-network"
+    "answer": "A hybrid that works like an HMO in-network and like a PPO out-of-network",
+    "topic": "POS Plans",
+    "explanation": "POS = hybrid. In-network it behaves like an HMO (highest benefits); out-of-network it behaves like a PPO (claim forms, more cost-sharing)."
   },
   {
     "module": "Day 3 Module 2",
@@ -2109,7 +2459,9 @@
       "Receives the plan's highest level of benefits",
       "Pays nothing as long as the provider is licensed"
     ],
-    "answer": "Must submit claim forms and receives PPO-like benefits"
+    "answer": "Must submit claim forms and receives PPO-like benefits",
+    "topic": "POS Plans",
+    "explanation": "POS = hybrid. In-network it behaves like an HMO (highest benefits); out-of-network it behaves like a PPO (claim forms, more cost-sharing)."
   },
   {
     "module": "Day 3 Module 2",
@@ -2121,7 +2473,9 @@
       "Low-income individuals of any age",
       "All workers injured on the job"
     ],
-    "answer": "People 65 or older, Social Security disability income recipients, and people with chronic kidney disease"
+    "answer": "People 65 or older, Social Security disability income recipients, and people with chronic kidney disease",
+    "topic": "Medicare Eligibility",
+    "explanation": "Medicare (federal): 65+, Social Security disability income recipients, and chronic kidney disease."
   },
   {
     "module": "Day 3 Module 2",
@@ -2133,7 +2487,9 @@
       "Private service organizations only",
       "County health departments"
     ],
-    "answer": "The federal government"
+    "answer": "The federal government",
+    "topic": "Medicare Eligibility",
+    "explanation": "Medicare (federal): 65+, Social Security disability income recipients, and chronic kidney disease."
   },
   {
     "module": "Day 3 Module 2",
@@ -2145,7 +2501,9 @@
       "October",
       "December"
     ],
-    "answer": "November"
+    "answer": "November",
+    "topic": "Social Security Disability",
+    "explanation": "Must be unable to perform ANY substantial gainful work, impairment lasting 12+ months or fatal. Five-month waiting period \u2014 benefits accrue from month 6, with the first check arriving the month after. Disabled in July \u2192 first payment in February."
   },
   {
     "module": "Day 3 Module 2",
@@ -2157,7 +2515,9 @@
       "September",
       "December"
     ],
-    "answer": "October"
+    "answer": "October",
+    "topic": "Social Security Disability",
+    "explanation": "Must be unable to perform ANY substantial gainful work, impairment lasting 12+ months or fatal. Five-month waiting period \u2014 benefits accrue from month 6, with the first check arriving the month after. Disabled in July \u2192 first payment in February."
   },
   {
     "module": "Day 3 Module 2",
@@ -2169,7 +2529,9 @@
       "Over age 60 with any medically documented condition",
       "Unemployed for at least 12 consecutive months"
     ],
-    "answer": "Incapable of performing any substantial gainful work, with an impairment expected to last at least 12 months or result in death"
+    "answer": "Incapable of performing any substantial gainful work, with an impairment expected to last at least 12 months or result in death",
+    "topic": "Social Security Disability",
+    "explanation": "Must be unable to perform ANY substantial gainful work, impairment lasting 12+ months or fatal. Five-month waiting period \u2014 benefits accrue from month 6, with the first check arriving the month after. Disabled in July \u2192 first payment in February."
   },
   {
     "module": "Day 3 Module 2",
@@ -2181,7 +2543,9 @@
       "Medicaid requires 10 years of work history",
       "Medicaid covers only children and pregnant women"
     ],
-    "answer": "Medicaid eligibility is based on financial need, not age"
+    "answer": "Medicaid eligibility is based on financial need, not age",
+    "topic": "Medicaid",
+    "explanation": "Medicaid = need-based aid administered by the STATES with federal funding. No age requirement \u2014 and being blind or disabled without being poor doesn't qualify."
   },
   {
     "module": "Day 3 Module 2",
@@ -2193,7 +2557,9 @@
       "Private insurers under contract",
       "Local hospital districts"
     ],
-    "answer": "The states, with federal funding"
+    "answer": "The states, with federal funding",
+    "topic": "Medicaid",
+    "explanation": "Medicaid = need-based aid administered by the STATES with federal funding. No age requirement \u2014 and being blind or disabled without being poor doesn't qualify."
   },
   {
     "module": "Day 3 Module 2",
@@ -2205,7 +2571,9 @@
       "Employment history",
       "Prior insurance coverage"
     ],
-    "answer": "Financial need"
+    "answer": "Financial need",
+    "topic": "Medicaid",
+    "explanation": "Medicaid = need-based aid administered by the STATES with federal funding. No age requirement \u2014 and being blind or disabled without being poor doesn't qualify."
   },
   {
     "module": "Day 3 Module 2",
@@ -2217,7 +2585,9 @@
       "Coverage is optional for most employers",
       "It covers injuries whether or not they are work-related"
     ],
-    "answer": "An injured worker is entitled to benefits without filing a lawsuit"
+    "answer": "An injured worker is entitled to benefits without filing a lawsuit",
+    "topic": "Workers' Compensation",
+    "explanation": "Compulsory, state-mandated benefits for work-related injury/illness/death \u2014 no lawsuit required. Employers can insure, self-insure, or buy a state plan."
   },
   {
     "module": "Day 3 Module 2",
@@ -2229,7 +2599,9 @@
       "Deducting claim costs from employee wages",
       "Enrolling workers in an individual health plan"
     ],
-    "answer": "Purchasing an insurance policy, self-insuring, or purchasing a plan from the state"
+    "answer": "Purchasing an insurance policy, self-insuring, or purchasing a plan from the state",
+    "topic": "Workers' Compensation",
+    "explanation": "Compulsory, state-mandated benefits for work-related injury/illness/death \u2014 no lawsuit required. Employers can insure, self-insure, or buy a state plan."
   },
   {
     "module": "Day 3 Module 2",
@@ -2241,7 +2613,9 @@
       "The state insurance department",
       "The employees"
     ],
-    "answer": "The self-insured employer"
+    "answer": "The self-insured employer",
+    "topic": "Self-Insurance / TPA / ASO",
+    "explanation": "A self-insured employer RETAINS all risk. TPAs and ASO arrangements only administer (claims paperwork) \u2014 they take no risk and use no actuaries."
   },
   {
     "module": "Day 3 Module 2",
@@ -2253,7 +2627,9 @@
       "Employees administer their own claims",
       "The state processes claims for small employers"
     ],
-    "answer": "An insurer provides administrative services, such as claims processing, to a self-insured employer"
+    "answer": "An insurer provides administrative services, such as claims processing, to a self-insured employer",
+    "topic": "Self-Insurance / TPA / ASO",
+    "explanation": "A self-insured employer RETAINS all risk. TPAs and ASO arrangements only administer (claims paperwork) \u2014 they take no risk and use no actuaries."
   },
   {
     "module": "Day 3 Module 2",
@@ -2265,7 +2641,9 @@
       "A service provider",
       "A multiple employer trust"
     ],
-    "answer": "Self-insured"
+    "answer": "Self-insured",
+    "topic": "Self-Insurance / TPA / ASO",
+    "explanation": "A self-insured employer RETAINS all risk. TPAs and ASO arrangements only administer (claims paperwork) \u2014 they take no risk and use no actuaries."
   },
   {
     "module": "Day 3 Module 2",
@@ -2277,7 +2655,9 @@
       "Reduce employees' share of the premium",
       "Satisfy the ACA's individual mandate"
     ],
-    "answer": "Protect against significant, unanticipated losses"
+    "answer": "Protect against significant, unanticipated losses",
+    "topic": "Minimum Premium Plans",
+    "explanation": "An MPP backstops a self-insured plan against large, unanticipated losses \u2014 catastrophe protection for the employer's own fund."
   },
   {
     "module": "Day 3 Module 2",
@@ -2289,7 +2669,9 @@
       "An optionally renewable rider",
       "A participating dividend option"
     ],
-    "answer": "A minimum premium plan (MPP)"
+    "answer": "A minimum premium plan (MPP)",
+    "topic": "Minimum Premium Plans",
+    "explanation": "An MPP backstops a self-insured plan against large, unanticipated losses \u2014 catastrophe protection for the employer's own fund."
   },
   {
     "module": "Day 3 Module 2",
@@ -2301,7 +2683,9 @@
       "It indemnifies the patient for services rendered by third parties",
       "It may be oral as long as both parties agree"
     ],
-    "answer": "It is not insurance and does not satisfy the ACA's minimum coverage requirement"
+    "answer": "It is not insurance and does not satisfy the ACA's minimum coverage requirement",
+    "topic": "Direct Primary Care",
+    "explanation": "A written agreement (signed by both physician and patient/representative) for direct payment. It is NOT insurance and does NOT satisfy ACA minimum essential coverage."
   },
   {
     "module": "Day 3 Module 2",
@@ -2313,7 +2697,9 @@
       "Underwritten by a licensed insurer",
       "Approved by Medicare"
     ],
-    "answer": "In writing and signed by both the physician and the patient (or the patient's representative or employer)"
+    "answer": "In writing and signed by both the physician and the patient (or the patient's representative or employer)",
+    "topic": "Direct Primary Care",
+    "explanation": "A written agreement (signed by both physician and patient/representative) for direct payment. It is NOT insurance and does NOT satisfy ACA minimum essential coverage."
   },
   {
     "module": "Day 3 Module 2",
@@ -2325,7 +2711,9 @@
       "A federal program insuring small business employees",
       "A reinsurance pool for commercial insurers"
     ],
-    "answer": "Multiple employers pooling their employees through a trust that holds the master contract to obtain lower-cost coverage"
+    "answer": "Multiple employers pooling their employees through a trust that holds the master contract to obtain lower-cost coverage",
+    "topic": "METs and MEWAs",
+    "explanation": "MET = employers pool employees through a trust holding the master contract. MEWA = a MET for same-industry employers with a common bond; tax-exempt. Both are state-regulated."
   },
   {
     "module": "Day 3 Module 2",
@@ -2337,7 +2725,9 @@
       "It must be administered by the federal government",
       "Members must purchase coverage from a single commercial insurer"
     ],
-    "answer": "Employees must share an employment-related common bond, such as being in the same industry"
+    "answer": "Employees must share an employment-related common bond, such as being in the same industry",
+    "topic": "METs and MEWAs",
+    "explanation": "MET = employers pool employees through a trust holding the master contract. MEWA = a MET for same-industry employers with a common bond; tax-exempt. Both are state-regulated."
   },
   {
     "module": "Day 3 Module 2",
@@ -2349,6 +2739,1184 @@
       "The Securities and Exchange Commission",
       "No regulatory body"
     ],
-    "answer": "The state, because they behave like insurance products"
+    "answer": "The state, because they behave like insurance products",
+    "topic": "METs and MEWAs",
+    "explanation": "MET = employers pool employees through a trust holding the master contract. MEWA = a MET for same-industry employers with a common bond; tax-exempt. Both are state-regulated."
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-grace",
+    "topic": "Grace Periods",
+    "explanation": "Florida grace periods follow the premium mode: 7 days (weekly), 10 days (monthly), 31 days (all other modes). Coverage continues during the grace period.",
+    "question": "Tessa pays her health insurance premium monthly. If she misses a payment, how long is her grace period?",
+    "options": [
+      "10 days",
+      "7 days",
+      "31 days",
+      "45 days"
+    ],
+    "answer": "10 days"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-grace",
+    "topic": "Grace Periods",
+    "explanation": "Florida grace periods follow the premium mode: 7 days (weekly), 10 days (monthly), 31 days (all other modes). Coverage continues during the grace period.",
+    "question": "A health policy with premiums paid quarterly has a grace period of:",
+    "options": [
+      "31 days",
+      "10 days",
+      "7 days",
+      "60 days"
+    ],
+    "answer": "31 days"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-reinstate",
+    "topic": "Reinstatement",
+    "explanation": "If the insurer requires a reinstatement application and gives a conditional receipt, the policy reinstates automatically on the 45th day unless disapproved in writing. A reinstated policy covers accidents immediately but sickness only after 10 days.",
+    "question": "Omar applied to reinstate his lapsed health policy and received a conditional receipt. The insurer never responded. His policy is automatically reinstated after:",
+    "options": [
+      "45 days",
+      "10 days",
+      "31 days",
+      "90 days"
+    ],
+    "answer": "45 days"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-reinstate",
+    "topic": "Reinstatement",
+    "explanation": "If the insurer requires a reinstatement application and gives a conditional receipt, the policy reinstates automatically on the 45th day unless disapproved in writing. A reinstated policy covers accidents immediately but sickness only after 10 days.",
+    "question": "Three days after his policy was reinstated, Felix came down with pneumonia. Five days after reinstatement, he broke his wrist. What does the reinstated policy cover?",
+    "options": [
+      "The broken wrist, but not the pneumonia \u2014 sickness is covered only after 10 days",
+      "Both losses in full",
+      "Neither loss for 31 days",
+      "The pneumonia, but not the wrist"
+    ],
+    "answer": "The broken wrist, but not the pneumonia \u2014 sickness is covered only after 10 days"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-claims",
+    "topic": "The Claims Clock",
+    "explanation": "Claims deadlines in order: notice of claim 20 days \u2192 insurer sends forms within 15 days \u2192 proof of loss within 90 days \u2192 payment immediately (DI at least monthly) \u2192 legal action no sooner than 60 days, up to 5 years in Florida.",
+    "question": "After a loss, the insured must give the insurer notice of claim within:",
+    "options": [
+      "20 days",
+      "15 days",
+      "90 days",
+      "60 days"
+    ],
+    "answer": "20 days"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-claims",
+    "topic": "The Claims Clock",
+    "explanation": "Claims deadlines in order: notice of claim 20 days \u2192 insurer sends forms within 15 days \u2192 proof of loss within 90 days \u2192 payment immediately (DI at least monthly) \u2192 legal action no sooner than 60 days, up to 5 years in Florida.",
+    "question": "If the insurer fails to send claim forms within 15 days of notice, the insured:",
+    "options": [
+      "May submit proof of loss in any written form",
+      "Loses the right to claim",
+      "Must wait 90 days and renotify",
+      "Automatically wins the claim"
+    ],
+    "answer": "May submit proof of loss in any written form"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-proof",
+    "topic": "Proof of Loss",
+    "explanation": "Proof of loss is due within 90 days of the loss; legal action must wait at least 60 days after proof and, in Florida, may be brought up to 5 years.",
+    "question": "Written proof of loss must generally be furnished to the insurer within:",
+    "options": [
+      "90 days of the loss",
+      "20 days of the loss",
+      "15 days of the loss",
+      "12 months of the loss"
+    ],
+    "answer": "90 days of the loss"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-proof",
+    "topic": "Proof of Loss",
+    "explanation": "Proof of loss is due within 90 days of the loss; legal action must wait at least 60 days after proof and, in Florida, may be brought up to 5 years.",
+    "question": "How long after submitting proof of loss must an insured wait before filing a lawsuit against the insurer?",
+    "options": [
+      "60 days",
+      "20 days",
+      "90 days",
+      "5 years"
+    ],
+    "answer": "60 days"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-defenses",
+    "topic": "Incontestability",
+    "explanation": "After 2 years, the insurer cannot void the policy or deny claims based on application misstatements \u2014 except fraudulent ones. Misstated age just adjusts the benefit.",
+    "question": "Under the time limit on certain defenses provision, an insurer cannot deny a claim due to misstatements on the application after:",
+    "options": [
+      "2 years, unless the misstatement was fraudulent",
+      "1 year, without exception",
+      "5 years, unless premiums lapsed",
+      "6 months, unless sickness-related"
+    ],
+    "answer": "2 years, unless the misstatement was fraudulent"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-defenses",
+    "topic": "Incontestability",
+    "explanation": "After 2 years, the insurer cannot void the policy or deny claims based on application misstatements \u2014 except fraudulent ones. Misstated age just adjusts the benefit.",
+    "question": "The insurer discovers the insured understated her age on the application. Under the misstatement of age provision, the insurer will:",
+    "options": [
+      "Adjust benefits to what the premium would have purchased at her true age",
+      "Void the policy retroactively",
+      "Deny all pending claims",
+      "Cancel the policy with 45 days notice"
+    ],
+    "answer": "Adjust benefits to what the premium would have purchased at her true age"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-freelook",
+    "topic": "Free Look Periods",
+    "explanation": "Florida health policies carry a 10-day free look; Medicare supplement and long-term care policies carry 30 days. The clock starts at delivery.",
+    "question": "In Florida, the free look period for a standard individual health policy and for a Medicare supplement policy are, respectively:",
+    "options": [
+      "10 days and 30 days",
+      "30 days and 10 days",
+      "10 days and 10 days",
+      "31 days and 45 days"
+    ],
+    "answer": "10 days and 30 days"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-freelook",
+    "topic": "Free Look Periods",
+    "explanation": "Florida health policies carry a 10-day free look; Medicare supplement and long-term care policies carry 30 days. The clock starts at delivery.",
+    "question": "Nadia's long-term care policy was delivered on March 1. How long does she have to return it for a full refund?",
+    "options": [
+      "30 days from delivery",
+      "10 days from delivery",
+      "45 days from issue",
+      "No return is permitted"
+    ],
+    "answer": "30 days from delivery"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-entire",
+    "topic": "Entire Contract",
+    "explanation": "The policy plus attached application form the entire contract. Only an executive officer of the insurer \u2014 never the agent \u2014 may modify it.",
+    "question": "Who has the authority to modify the terms of an issued health insurance policy?",
+    "options": [
+      "An executive officer of the insurer",
+      "The selling agent",
+      "The policyowner's attorney",
+      "Any licensed adjuster"
+    ],
+    "answer": "An executive officer of the insurer"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-entire",
+    "topic": "Entire Contract",
+    "explanation": "The policy plus attached application form the entire contract. Only an executive officer of the insurer \u2014 never the agent \u2014 may modify it.",
+    "question": "The entire contract provision states that the contract consists of:",
+    "options": [
+      "The policy and the attached application",
+      "The policy, the agent's notes, and any verbal promises",
+      "The application alone",
+      "The policy and the insurer's underwriting file"
+    ],
+    "answer": "The policy and the attached application"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-riders",
+    "topic": "Exclusion Riders",
+    "explanation": "An impairment (exclusion) rider removes a named preexisting condition from coverage, letting an otherwise uninsurable applicant obtain a policy.",
+    "question": "Dimitri has a chronic knee condition. The insurer offers him a policy that covers everything EXCEPT that knee. This is accomplished through:",
+    "options": [
+      "An impairment (exclusion) rider",
+      "A guaranteed insurability rider",
+      "A waiver of premium rider",
+      "A cost-of-living rider"
+    ],
+    "answer": "An impairment (exclusion) rider"
+  },
+  {
+    "module": "Next: Policy Provisions",
+    "group": "pp-riders",
+    "topic": "Exclusion Riders",
+    "explanation": "An impairment (exclusion) rider removes a named preexisting condition from coverage, letting an otherwise uninsurable applicant obtain a policy.",
+    "question": "The rider that allows an insured to purchase additional coverage later without evidence of insurability is the:",
+    "options": [
+      "Guaranteed insurability rider",
+      "Impairment rider",
+      "Multiple indemnity rider",
+      "Probationary rider"
+    ],
+    "answer": "Guaranteed insurability rider"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-elim",
+    "topic": "Elimination vs. Probationary",
+    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
+    "question": "The waiting period between the onset of a disability and the start of benefit payments is the:",
+    "options": [
+      "Elimination period",
+      "Probationary period",
+      "Grace period",
+      "Benefit period"
+    ],
+    "answer": "Elimination period"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-elim",
+    "topic": "Elimination vs. Probationary",
+    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
+    "question": "Choosing a 180-day elimination period instead of 30 days will:",
+    "options": [
+      "Lower the premium",
+      "Raise the premium",
+      "Shorten the benefit period",
+      "Eliminate the probationary period"
+    ],
+    "answer": "Lower the premium"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-prob",
+    "topic": "Probationary Period",
+    "explanation": "The probationary period is a one-time window at the start of the policy during which sickness (never accidents) is not covered \u2014 it blocks preexisting-illness claims.",
+    "question": "A disability policy's probationary period applies to:",
+    "options": [
+      "Sickness only, during the period right after the policy is issued",
+      "Accidents only",
+      "Both sickness and accidents, on every claim",
+      "Claims filed after age 65"
+    ],
+    "answer": "Sickness only, during the period right after the policy is issued"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-prob",
+    "topic": "Probationary Period",
+    "explanation": "The probationary period is a one-time window at the start of the policy during which sickness (never accidents) is not covered \u2014 it blocks preexisting-illness claims.",
+    "question": "Two weeks after buying a disability policy with a 30-day probationary period, Lena is hurt in a car accident and cannot work. The insurer will:",
+    "options": [
+      "Pay \u2014 the probationary period does not apply to accidents",
+      "Deny \u2014 no claims are covered during the probationary period",
+      "Pay only half the benefit",
+      "Refund her premium and void the policy"
+    ],
+    "answer": "Pay \u2014 the probationary period does not apply to accidents"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-occ",
+    "topic": "Own vs. Any Occupation",
+    "explanation": "Own-occupation pays if you can't do YOUR job (easier to qualify, costlier). Any-occupation pays only if you can't do any job suited to your education, training, or experience.",
+    "question": "Under an own-occupation definition of disability, a surgeon who loses fine motor control but takes a teaching job will:",
+    "options": [
+      "Receive benefits, because she cannot perform her own occupation",
+      "Receive nothing, because she can still work",
+      "Receive benefits only after age 65",
+      "Forfeit the policy"
+    ],
+    "answer": "Receive benefits, because she cannot perform her own occupation"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-occ",
+    "topic": "Own vs. Any Occupation",
+    "explanation": "Own-occupation pays if you can't do YOUR job (easier to qualify, costlier). Any-occupation pays only if you can't do any job suited to your education, training, or experience.",
+    "question": "Which definition of total disability is most favorable to the insured?",
+    "options": [
+      "Own occupation",
+      "Any occupation",
+      "Presumptive occupation",
+      "Residual occupation"
+    ],
+    "answer": "Own occupation"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-residual",
+    "topic": "Partial vs. Residual",
+    "explanation": "Partial disability pays a flat percentage (often 50%) of the total benefit. Residual pays in proportion to lost INCOME \u2014 a 40% earnings drop pays 40% of the benefit.",
+    "question": "Marco returned to work part-time and his earnings dropped 40%. His policy pays 40% of his total disability benefit. This is a ______ benefit.",
+    "options": [
+      "Residual disability",
+      "Partial disability",
+      "Presumptive disability",
+      "Recurrent disability"
+    ],
+    "answer": "Residual disability"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-residual",
+    "topic": "Partial vs. Residual",
+    "explanation": "Partial disability pays a flat percentage (often 50%) of the total benefit. Residual pays in proportion to lost INCOME \u2014 a 40% earnings drop pays 40% of the benefit.",
+    "question": "A benefit that pays a flat 50% of the total disability benefit when the insured can work but cannot perform all duties is:",
+    "options": [
+      "Partial disability",
+      "Residual disability",
+      "Total disability",
+      "Presumptive disability"
+    ],
+    "answer": "Partial disability"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-presume",
+    "topic": "Presumptive Disability",
+    "explanation": "Presumptive disability automatically qualifies as total disability without further proof: loss of sight, hearing, speech, or two limbs.",
+    "question": "Which loss would trigger a presumptive total disability benefit?",
+    "options": [
+      "Loss of sight in both eyes",
+      "A sprained ankle",
+      "A 20% loss of income",
+      "Carpal tunnel syndrome"
+    ],
+    "answer": "Loss of sight in both eyes"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-presume",
+    "topic": "Presumptive Disability",
+    "explanation": "Presumptive disability automatically qualifies as total disability without further proof: loss of sight, hearing, speech, or two limbs.",
+    "question": "Under a presumptive disability provision, the insured who loses two limbs:",
+    "options": [
+      "Is automatically considered totally disabled, with no further proof required",
+      "Must still prove she cannot perform her occupation",
+      "Receives only partial benefits",
+      "Must satisfy a new probationary period"
+    ],
+    "answer": "Is automatically considered totally disabled, with no further proof required"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-boe",
+    "topic": "Business Overhead Expense",
+    "explanation": "BOE pays the business's operating expenses (rent, utilities, staff salaries) while the owner is disabled. It does NOT replace the owner's income.",
+    "question": "Tariq owns a dental practice. He wants coverage that pays the office rent and his hygienist's salary if he becomes disabled. He needs:",
+    "options": [
+      "Business overhead expense insurance",
+      "Personal disability income insurance",
+      "Key person life insurance",
+      "A disability buy-sell agreement"
+    ],
+    "answer": "Business overhead expense insurance"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-boe",
+    "topic": "Business Overhead Expense",
+    "explanation": "BOE pays the business's operating expenses (rent, utilities, staff salaries) while the owner is disabled. It does NOT replace the owner's income.",
+    "question": "Business overhead expense insurance does NOT cover:",
+    "options": [
+      "The disabled owner's lost personal income",
+      "Office rent",
+      "Employee salaries",
+      "Utility bills"
+    ],
+    "answer": "The disabled owner's lost personal income"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-buysell",
+    "topic": "Disability Buy-Sell",
+    "explanation": "A disability buy-sell funds the purchase of a disabled partner's interest in the business, usually as a lump sum after a long elimination period.",
+    "question": "A policy designed to fund the purchase of a totally disabled partner's share of the business is a:",
+    "options": [
+      "Disability buy-sell policy",
+      "Business overhead expense policy",
+      "Key person retention policy",
+      "Group disability conversion"
+    ],
+    "answer": "Disability buy-sell policy"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-buysell",
+    "topic": "Disability Buy-Sell",
+    "explanation": "A disability buy-sell funds the purchase of a disabled partner's interest in the business, usually as a lump sum after a long elimination period.",
+    "question": "Compared to personal disability income policies, disability buy-sell policies typically have:",
+    "options": [
+      "A longer elimination period and a lump-sum benefit",
+      "A shorter elimination period and monthly benefits",
+      "No elimination period",
+      "Benefits payable to the disabled partner's family"
+    ],
+    "answer": "A longer elimination period and a lump-sum benefit"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-waiver",
+    "topic": "Waiver of Premium",
+    "explanation": "Waiver of premium keeps the policy in force without payments while the insured is totally disabled, typically kicking in after 90 days and refunding premiums paid during that time.",
+    "question": "The provision that keeps a disability policy in force without premium payments while the insured is totally disabled is:",
+    "options": [
+      "Waiver of premium",
+      "Grace period",
+      "Reinstatement",
+      "Automatic premium loan"
+    ],
+    "answer": "Waiver of premium"
+  },
+  {
+    "module": "Next: Disability Income",
+    "group": "di-waiver",
+    "topic": "Waiver of Premium",
+    "explanation": "Waiver of premium keeps the policy in force without payments while the insured is totally disabled, typically kicking in after 90 days and refunding premiums paid during that time.",
+    "question": "The Social Insurance Supplement (SIS) rider pays:",
+    "options": [
+      "An extra benefit while the insured awaits or is denied Social Security disability benefits",
+      "The insured's Social Security taxes",
+      "A funeral benefit",
+      "The employer's share of FICA"
+    ],
+    "answer": "An extra benefit while the insured awaits or is denied Social Security disability benefits"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-basicmajor",
+    "topic": "Basic vs. Major Medical",
+    "explanation": "Basic plans give first-dollar coverage with low limits; major medical gives broad, high-limit coverage with deductibles and coinsurance.",
+    "question": "A plan that pays from the first dollar but only up to low stated limits per service is a:",
+    "options": [
+      "Basic medical expense plan",
+      "Major medical plan",
+      "Comprehensive major medical plan",
+      "High-deductible health plan"
+    ],
+    "answer": "Basic medical expense plan"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-basicmajor",
+    "topic": "Basic vs. Major Medical",
+    "explanation": "Basic plans give first-dollar coverage with low limits; major medical gives broad, high-limit coverage with deductibles and coinsurance.",
+    "question": "Which features distinguish major medical insurance from basic plans?",
+    "options": [
+      "High maximum limits with deductibles and coinsurance",
+      "First-dollar coverage with low limits",
+      "Coverage limited to surgical schedules",
+      "No cost-sharing of any kind"
+    ],
+    "answer": "High maximum limits with deductibles and coinsurance"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-costshare",
+    "topic": "Deductibles, Coinsurance & Stop-Loss",
+    "explanation": "Cost-sharing order: deductible first, then coinsurance (e.g., 80/20), until the stop-loss limit caps the insured's out-of-pocket \u2014 after which the plan pays 100%.",
+    "question": "After Roy meets his deductible, his plan pays 80% of covered charges until his out-of-pocket reaches $6,000, after which it pays 100%. The $6,000 figure is the:",
+    "options": [
+      "Stop-loss limit",
+      "Coinsurance percentage",
+      "Carryover deductible",
+      "UCR limit"
+    ],
+    "answer": "Stop-loss limit"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-costshare",
+    "topic": "Deductibles, Coinsurance & Stop-Loss",
+    "explanation": "Cost-sharing order: deductible first, then coinsurance (e.g., 80/20), until the stop-loss limit caps the insured's out-of-pocket \u2014 after which the plan pays 100%.",
+    "question": "Three members of the Diaz family are injured in the same car crash. Their plan applies only one deductible for all three claims. This reflects a:",
+    "options": [
+      "Common accident provision",
+      "Carryover provision",
+      "Family stop-loss provision",
+      "Coordination of benefits provision"
+    ],
+    "answer": "Common accident provision"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-carryover",
+    "topic": "Carryover Deductible",
+    "explanation": "A carryover provision lets expenses incurred in the last three months of the year count toward NEXT year's deductible.",
+    "question": "Expenses Quinn incurred in November and December that didn't satisfy this year's deductible may count toward next year's deductible under a:",
+    "options": [
+      "Carryover provision",
+      "Common accident provision",
+      "Stop-loss provision",
+      "Probationary provision"
+    ],
+    "answer": "Carryover provision"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-carryover",
+    "topic": "Carryover Deductible",
+    "explanation": "A carryover provision lets expenses incurred in the last three months of the year count toward NEXT year's deductible.",
+    "question": "The carryover deductible provision applies to expenses incurred during:",
+    "options": [
+      "The last three months of the calendar year",
+      "The first 31 days of coverage",
+      "Any month premiums were waived",
+      "The elimination period"
+    ],
+    "answer": "The last three months of the calendar year"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-hsa",
+    "topic": "HSA Eligibility",
+    "explanation": "HSAs require a high-deductible health plan (HDHP), no other first-dollar coverage, no Medicare enrollment, and not being claimed as a dependent. Contributions, growth, and qualified withdrawals are all tax-advantaged, and funds roll over.",
+    "question": "To be eligible to contribute to a Health Savings Account, a person must:",
+    "options": [
+      "Be covered by a high-deductible health plan",
+      "Be enrolled in Medicare Part A",
+      "Have a flexible spending account",
+      "Earn less than 400% of the poverty level"
+    ],
+    "answer": "Be covered by a high-deductible health plan"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-hsa",
+    "topic": "HSA Eligibility",
+    "explanation": "HSAs require a high-deductible health plan (HDHP), no other first-dollar coverage, no Medicare enrollment, and not being claimed as a dependent. Contributions, growth, and qualified withdrawals are all tax-advantaged, and funds roll over.",
+    "question": "Which statement about Health Savings Accounts is TRUE?",
+    "options": [
+      "Unused funds roll over from year to year and belong to the account holder",
+      "Unused funds are forfeited each December 31",
+      "Only employers may contribute",
+      "Withdrawals for medical care are taxed as income"
+    ],
+    "answer": "Unused funds roll over from year to year and belong to the account holder"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-fsa-hra",
+    "topic": "FSA vs. HRA",
+    "explanation": "FSA = employee-funded pre-tax, use-it-or-lose-it. HRA = employer-funded only, reimburses medical expenses, rollover at employer's discretion.",
+    "question": "Which account is funded ONLY by the employer?",
+    "options": [
+      "Health Reimbursement Arrangement (HRA)",
+      "Health Savings Account (HSA)",
+      "Flexible Spending Account (FSA)",
+      "Individual retirement account"
+    ],
+    "answer": "Health Reimbursement Arrangement (HRA)"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-fsa-hra",
+    "topic": "FSA vs. HRA",
+    "explanation": "FSA = employee-funded pre-tax, use-it-or-lose-it. HRA = employer-funded only, reimburses medical expenses, rollover at employer's discretion.",
+    "question": "The 'use it or lose it' rule is most associated with:",
+    "options": [
+      "Flexible Spending Accounts",
+      "Health Savings Accounts",
+      "Health Reimbursement Arrangements",
+      "High-deductible health plans"
+    ],
+    "answer": "Flexible Spending Accounts"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-ucr",
+    "topic": "Usual, Customary & Reasonable",
+    "explanation": "UCR-based plans pay what providers in the geographic area typically charge; amounts billed above UCR are the insured's responsibility.",
+    "question": "Dr. Patel bills $500 for a procedure, but the plan's usual, customary and reasonable amount is $400. The insured is responsible for:",
+    "options": [
+      "The $100 above the UCR amount, plus any normal cost-sharing",
+      "Nothing \u2014 UCR protects the insured fully",
+      "The entire $500",
+      "Only the copayment"
+    ],
+    "answer": "The $100 above the UCR amount, plus any normal cost-sharing"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-ucr",
+    "topic": "Usual, Customary & Reasonable",
+    "explanation": "UCR-based plans pay what providers in the geographic area typically charge; amounts billed above UCR are the insured's responsibility.",
+    "question": "'Usual, customary and reasonable' charges are based on:",
+    "options": [
+      "What providers in the same geographic area typically charge for the service",
+      "The insurer's home-office fee schedule",
+      "Medicare's national rates",
+      "The provider's costs plus 20%"
+    ],
+    "answer": "What providers in the same geographic area typically charge for the service"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-dental",
+    "topic": "Dental Plan Tiers",
+    "explanation": "Dental coverage tiers: preventive/diagnostic ~100%, basic (fillings) ~80%, major (crowns, dentures) ~50% \u2014 often with waiting periods and annual maximums.",
+    "question": "Which dental services are typically covered at the HIGHEST percentage?",
+    "options": [
+      "Preventive and diagnostic services like cleanings and exams",
+      "Crowns and bridges",
+      "Dentures",
+      "Orthodontics"
+    ],
+    "answer": "Preventive and diagnostic services like cleanings and exams"
+  },
+  {
+    "module": "Next: Medical Plans & HSAs",
+    "group": "mp-dental",
+    "topic": "Dental Plan Tiers",
+    "explanation": "Dental coverage tiers: preventive/diagnostic ~100%, basic (fillings) ~80%, major (crowns, dentures) ~50% \u2014 often with waiting periods and annual maximums.",
+    "question": "Compared with medical insurance, dental plans commonly include:",
+    "options": [
+      "Calendar-year maximums and waiting periods for major services",
+      "Unlimited lifetime benefits",
+      "No cost-sharing",
+      "Coverage only after hospitalization"
+    ],
+    "answer": "Calendar-year maximums and waiting periods for major services"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-group",
+    "topic": "Group Plan Mechanics",
+    "explanation": "Group insurance: the employer holds the master contract, employees get certificates, and eligible employees who enroll on time face no individual underwriting.",
+    "question": "In a group health plan, individual employees receive:",
+    "options": [
+      "Certificates of insurance under the employer's master contract",
+      "Their own individual policies",
+      "Copies of the master contract to sign",
+      "Conditional receipts"
+    ],
+    "answer": "Certificates of insurance under the employer's master contract"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-group",
+    "topic": "Group Plan Mechanics",
+    "explanation": "Group insurance: the employer holds the master contract, employees get certificates, and eligible employees who enroll on time face no individual underwriting.",
+    "question": "An eligible employee who enrolls in the group plan during the enrollment period:",
+    "options": [
+      "Cannot be required to prove individual insurability",
+      "Must pass a physical exam",
+      "Must provide an attending physician statement",
+      "Is underwritten individually like any applicant"
+    ],
+    "answer": "Cannot be required to prove individual insurability"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-cobra",
+    "topic": "COBRA Durations",
+    "explanation": "COBRA (employers with 20+ employees): 18 months for termination/reduced hours, 29 months if disabled, 36 months for dependent events (death, divorce, Medicare entitlement, child aging out). Premium may be up to 102%.",
+    "question": "Priscilla quit her job at a 200-employee firm. Under COBRA she may continue her group coverage for up to:",
+    "options": [
+      "18 months",
+      "29 months",
+      "36 months",
+      "12 months"
+    ],
+    "answer": "18 months"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-cobra",
+    "topic": "COBRA Durations",
+    "explanation": "COBRA (employers with 20+ employees): 18 months for termination/reduced hours, 29 months if disabled, 36 months for dependent events (death, divorce, Medicare entitlement, child aging out). Premium may be up to 102%.",
+    "question": "After her divorce from a covered employee, Renata may continue group coverage under COBRA for up to:",
+    "options": [
+      "36 months",
+      "18 months",
+      "29 months",
+      "60 months"
+    ],
+    "answer": "36 months"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-cobra102",
+    "topic": "COBRA Premium",
+    "explanation": "COBRA continuants pay their own premium, which may be up to 102% of the group rate \u2014 the extra 2% covers administration.",
+    "question": "A COBRA continuant may be charged up to what percentage of the group premium?",
+    "options": [
+      "102%",
+      "100%",
+      "150%",
+      "115%"
+    ],
+    "answer": "102%"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-cobra102",
+    "topic": "COBRA Premium",
+    "explanation": "COBRA continuants pay their own premium, which may be up to 102% of the group rate \u2014 the extra 2% covers administration.",
+    "question": "Under COBRA, the cost of continued coverage is paid by:",
+    "options": [
+      "The former employee or beneficiary, at up to 102% of the group rate",
+      "The employer, as a severance benefit",
+      "The state continuation fund",
+      "Medicare"
+    ],
+    "answer": "The former employee or beneficiary, at up to 102% of the group rate"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-flcont",
+    "topic": "Florida Continuation",
+    "explanation": "Florida's Health Insurance Coverage Continuation Act (\u00a7627.6692) gives employees of small employers (under 20 employees) continuation rights \u2014 generally 18 months \u2014 where federal COBRA doesn't apply.",
+    "question": "Jonas works for a 12-person company in Florida and loses his job. His group continuation rights come from:",
+    "options": [
+      "Florida's Health Insurance Coverage Continuation Act \u2014 federal COBRA doesn't apply to employers under 20",
+      "Federal COBRA",
+      "ERISA preemption",
+      "The ACA employer mandate"
+    ],
+    "answer": "Florida's Health Insurance Coverage Continuation Act \u2014 federal COBRA doesn't apply to employers under 20"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-flcont",
+    "topic": "Florida Continuation",
+    "explanation": "Florida's Health Insurance Coverage Continuation Act (\u00a7627.6692) gives employees of small employers (under 20 employees) continuation rights \u2014 generally 18 months \u2014 where federal COBRA doesn't apply.",
+    "question": "Federal COBRA applies to employers with at least how many employees?",
+    "options": [
+      "20",
+      "2",
+      "50",
+      "100"
+    ],
+    "answer": "20"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-cob",
+    "topic": "Coordination of Benefits",
+    "explanation": "COB prevents collecting more than 100% across two plans. The employee's own plan is primary; for dependent children, the birthday rule makes the plan of the parent with the earlier birthday in the calendar year primary.",
+    "question": "Both of Mia's parents cover her under their group plans. Dad's birthday is March 3; Mom's is January 28 (Dad is older). Which plan is primary for Mia?",
+    "options": [
+      "Mom's \u2014 her birthday falls earlier in the calendar year",
+      "Dad's \u2014 he is older",
+      "Whichever plan has higher benefits",
+      "Both pay 50% each"
+    ],
+    "answer": "Mom's \u2014 her birthday falls earlier in the calendar year"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-cob",
+    "topic": "Coordination of Benefits",
+    "explanation": "COB prevents collecting more than 100% across two plans. The employee's own plan is primary; for dependent children, the birthday rule makes the plan of the parent with the earlier birthday in the calendar year primary.",
+    "question": "The purpose of the coordination of benefits provision is to:",
+    "options": [
+      "Prevent the insured from collecting more than 100% of a claim across multiple plans",
+      "Increase total benefits for two-income families",
+      "Let insurers split commissions",
+      "Guarantee dual coverage for dependents"
+    ],
+    "answer": "Prevent the insured from collecting more than 100% of a claim across multiple plans"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-convert",
+    "topic": "Conversion Privilege",
+    "explanation": "An employee leaving a group has 31 days to convert to an individual policy without proving insurability \u2014 at individual (higher) rates.",
+    "question": "After leaving the group, an employee may convert to an individual policy without evidence of insurability within:",
+    "options": [
+      "31 days",
+      "10 days",
+      "60 days",
+      "6 months"
+    ],
+    "answer": "31 days"
+  },
+  {
+    "module": "Next: Group Health & COBRA",
+    "group": "gh-convert",
+    "topic": "Conversion Privilege",
+    "explanation": "An employee leaving a group has 31 days to convert to an individual policy without proving insurability \u2014 at individual (higher) rates.",
+    "question": "Which statement about group conversion is TRUE?",
+    "options": [
+      "No proof of insurability is required, but the individual premium will be higher than the group rate",
+      "The group rate is locked in for life",
+      "A physical exam is always required",
+      "Conversion is available only to disabled employees"
+    ],
+    "answer": "No proof of insurability is required, but the individual premium will be higher than the group rate"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-parts",
+    "topic": "Parts of Medicare",
+    "explanation": "Part A = hospital (premium-free with 40 work quarters). Part B = doctors/outpatient, 80/20 after deductible, monthly premium. Part C = Advantage (requires A+B). Part D = drugs.",
+    "question": "Inpatient hospital care is covered under which part of Medicare?",
+    "options": [
+      "Part A",
+      "Part B",
+      "Part C",
+      "Part D"
+    ],
+    "answer": "Part A"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-parts",
+    "topic": "Parts of Medicare",
+    "explanation": "Part A = hospital (premium-free with 40 work quarters). Part B = doctors/outpatient, 80/20 after deductible, monthly premium. Part C = Advantage (requires A+B). Part D = drugs.",
+    "question": "After the annual deductible, Medicare Part B generally pays what share of approved charges?",
+    "options": [
+      "80%",
+      "100%",
+      "50%",
+      "20%"
+    ],
+    "answer": "80%"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-partc",
+    "topic": "Medicare Advantage",
+    "explanation": "Part C (Medicare Advantage) plans are private plans that replace original Medicare; enrollees must be enrolled in BOTH Part A and Part B.",
+    "question": "To enroll in a Medicare Advantage (Part C) plan, a person must:",
+    "options": [
+      "Be enrolled in both Part A and Part B",
+      "Be enrolled in Part D only",
+      "Have a Medigap policy",
+      "Be under age 65"
+    ],
+    "answer": "Be enrolled in both Part A and Part B"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-partc",
+    "topic": "Medicare Advantage",
+    "explanation": "Part C (Medicare Advantage) plans are private plans that replace original Medicare; enrollees must be enrolled in BOTH Part A and Part B.",
+    "question": "Prescription drug coverage under Medicare is provided by:",
+    "options": [
+      "Part D plans offered by private companies",
+      "Part A automatically",
+      "Part B with no premium",
+      "Medigap Plan A"
+    ],
+    "answer": "Part D plans offered by private companies"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-medigap",
+    "topic": "Medigap Open Enrollment",
+    "explanation": "Medigap plans are standardized by letter. The 6-month open enrollment starts when a person is 65+ AND enrolled in Part B \u2014 guaranteed issue, no underwriting. Florida allows a 30-day free look.",
+    "question": "Ruth turned 65 and enrolled in Part B this month. Her guaranteed-issue window to buy any Medigap policy lasts:",
+    "options": [
+      "6 months",
+      "30 days",
+      "12 months",
+      "Until age 70"
+    ],
+    "answer": "6 months"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-medigap",
+    "topic": "Medigap Open Enrollment",
+    "explanation": "Medigap plans are standardized by letter. The 6-month open enrollment starts when a person is 65+ AND enrolled in Part B \u2014 guaranteed issue, no underwriting. Florida allows a 30-day free look.",
+    "question": "Which statement about Medicare supplement (Medigap) plans is TRUE?",
+    "options": [
+      "Benefits for a given lettered plan are identical no matter which insurer sells it",
+      "Each insurer designs its own unique benefits",
+      "They replace Medicare entirely",
+      "They include long-term custodial care"
+    ],
+    "answer": "Benefits for a given lettered plan are identical no matter which insurer sells it"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-ltctrigger",
+    "topic": "LTC Benefit Triggers",
+    "explanation": "LTC benefits trigger on inability to perform 2 of 6 ADLs (bathing, dressing, eating, transferring, toileting, continence) or cognitive impairment.",
+    "question": "Long-term care policy benefits are typically triggered when the insured cannot perform:",
+    "options": [
+      "Two of six activities of daily living, or has cognitive impairment",
+      "Any one household chore",
+      "All six activities of daily living",
+      "Gainful employment of any kind"
+    ],
+    "answer": "Two of six activities of daily living, or has cognitive impairment"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-ltctrigger",
+    "topic": "LTC Benefit Triggers",
+    "explanation": "LTC benefits trigger on inability to perform 2 of 6 ADLs (bathing, dressing, eating, transferring, toileting, continence) or cognitive impairment.",
+    "question": "Which of the following is an activity of daily living (ADL) used in LTC benefit triggers?",
+    "options": [
+      "Bathing",
+      "Driving",
+      "Cooking",
+      "Managing finances"
+    ],
+    "answer": "Bathing"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-ltccare",
+    "topic": "Levels of LTC Care",
+    "explanation": "Skilled = daily medical care by professionals; intermediate = occasional skilled care; custodial = help with daily living, the most common need \u2014 and NOT covered by Medicare.",
+    "question": "Help with bathing, dressing, and eating provided by aides without medical training is called:",
+    "options": [
+      "Custodial care",
+      "Skilled nursing care",
+      "Intermediate care",
+      "Acute care"
+    ],
+    "answer": "Custodial care"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-ltccare",
+    "topic": "Levels of LTC Care",
+    "explanation": "Skilled = daily medical care by professionals; intermediate = occasional skilled care; custodial = help with daily living, the most common need \u2014 and NOT covered by Medicare.",
+    "question": "Which statement about Medicare and long-term care is TRUE?",
+    "options": [
+      "Medicare does NOT cover custodial care \u2014 the most common long-term care need",
+      "Medicare covers unlimited nursing home stays",
+      "Medicare Part D covers custodial care",
+      "Medicare covers custodial care after a 3-day hospital stay"
+    ],
+    "answer": "Medicare does NOT cover custodial care \u2014 the most common long-term care need"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-partner",
+    "topic": "Florida LTC Partnership",
+    "explanation": "Florida's LTC Partnership lets buyers of qualifying policies protect assets equal to benefits paid when later applying for Medicaid. LTC policies must be at least guaranteed renewable; FL free look is 30 days.",
+    "question": "Esme's Florida Partnership LTC policy paid $200,000 in benefits before she applied for Medicaid. The Partnership program lets her:",
+    "options": [
+      "Protect $200,000 of assets from Medicaid spend-down requirements",
+      "Skip Medicaid's income test entirely",
+      "Transfer all assets to her children penalty-free",
+      "Double her Medicaid benefits"
+    ],
+    "answer": "Protect $200,000 of assets from Medicaid spend-down requirements"
+  },
+  {
+    "module": "Next: Medicare & LTC",
+    "group": "mc-partner",
+    "topic": "Florida LTC Partnership",
+    "explanation": "Florida's LTC Partnership lets buyers of qualifying policies protect assets equal to benefits paid when later applying for Medicaid. LTC policies must be at least guaranteed renewable; FL free look is 30 days.",
+    "question": "Long-term care policies sold in Florida must be at least:",
+    "options": [
+      "Guaranteed renewable",
+      "Cancellable",
+      "Optionally renewable",
+      "Annually re-underwritten"
+    ],
+    "answer": "Guaranteed renewable"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-dfs-oir",
+    "topic": "DFS vs. OIR",
+    "explanation": "DFS (headed by the elected CFO) licenses and disciplines agents. OIR regulates insurers \u2014 certificates of authority, forms, rates, financial exams.",
+    "question": "Which Florida body licenses and disciplines insurance AGENTS?",
+    "options": [
+      "The Department of Financial Services (DFS)",
+      "The Office of Insurance Regulation (OIR)",
+      "The NAIC",
+      "The Florida Supreme Court"
+    ],
+    "answer": "The Department of Financial Services (DFS)"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-dfs-oir",
+    "topic": "DFS vs. OIR",
+    "explanation": "DFS (headed by the elected CFO) licenses and disciplines agents. OIR regulates insurers \u2014 certificates of authority, forms, rates, financial exams.",
+    "question": "Approving policy forms and issuing certificates of authority to insurers in Florida is the job of:",
+    "options": [
+      "The Office of Insurance Regulation (OIR)",
+      "The Department of Financial Services (DFS)",
+      "The state legislature",
+      "The State Guaranty Association"
+    ],
+    "answer": "The Office of Insurance Regulation (OIR)"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-license",
+    "topic": "2-40 License Requirements",
+    "explanation": "2-40 applicants must be 18+, Florida residents, fingerprinted, complete a 40-hour approved prelicensing course, and pass the state exam.",
+    "question": "The prelicensing education requirement for a Florida 2-40 health agent license is:",
+    "options": [
+      "40 hours",
+      "24 hours",
+      "60 hours",
+      "200 hours"
+    ],
+    "answer": "40 hours"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-license",
+    "topic": "2-40 License Requirements",
+    "explanation": "2-40 applicants must be 18+, Florida residents, fingerprinted, complete a 40-hour approved prelicensing course, and pass the state exam.",
+    "question": "Which of the following is NOT required to obtain a Florida 2-40 license?",
+    "options": [
+      "A four-year college degree",
+      "Being at least 18 years old",
+      "Fingerprints for a background check",
+      "Passing the state examination"
+    ],
+    "answer": "A four-year college degree"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-ce",
+    "topic": "Continuing Education",
+    "explanation": "Florida CE: 24 hours every 2 years (20 hours once licensed 6+ years), including a required law-and-ethics update course.",
+    "question": "An agent licensed in Florida for 3 years must complete how much continuing education?",
+    "options": [
+      "24 hours every 2 years",
+      "20 hours every 2 years",
+      "40 hours every year",
+      "No CE until year 6"
+    ],
+    "answer": "24 hours every 2 years"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-ce",
+    "topic": "Continuing Education",
+    "explanation": "Florida CE: 24 hours every 2 years (20 hours once licensed 6+ years), including a required law-and-ethics update course.",
+    "question": "After an agent has been licensed for 6 or more years, the Florida CE requirement drops to:",
+    "options": [
+      "20 hours every 2 years",
+      "24 hours every 2 years",
+      "10 hours every year",
+      "Zero \u2014 CE is waived"
+    ],
+    "answer": "20 hours every 2 years"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-fiduciary",
+    "topic": "Fiduciary Duty",
+    "explanation": "Premiums collected are trust funds held in a fiduciary capacity \u2014 they belong to the insurer or insured, never the agent. Misuse is misappropriation, a criminal offense.",
+    "question": "Premiums an agent collects from clients are legally:",
+    "options": [
+      "Trust funds held in a fiduciary capacity",
+      "The agent's income until remitted",
+      "A loan from the insurer",
+      "Commission advances"
+    ],
+    "answer": "Trust funds held in a fiduciary capacity"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-fiduciary",
+    "topic": "Fiduciary Duty",
+    "explanation": "Premiums collected are trust funds held in a fiduciary capacity \u2014 they belong to the insurer or insured, never the agent. Misuse is misappropriation, a criminal offense.",
+    "question": "An agent who deposits client premiums into his personal account and uses them to pay rent has committed:",
+    "options": [
+      "Misappropriation of fiduciary funds",
+      "Rebating",
+      "Twisting",
+      "Defamation"
+    ],
+    "answer": "Misappropriation of fiduciary funds"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-sliding",
+    "topic": "Sliding",
+    "explanation": "Sliding is charging for or attaching products the buyer didn't agree to \u2014 e.g., automatically adding an ancillary product to every sale.",
+    "question": "An agent adds a $10-per-month accidental death rider to every health policy she sells without telling the clients. This practice is:",
+    "options": [
+      "Sliding",
+      "Twisting",
+      "Churning",
+      "Coercion"
+    ],
+    "answer": "Sliding"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-sliding",
+    "topic": "Sliding",
+    "explanation": "Sliding is charging for or attaching products the buyer didn't agree to \u2014 e.g., automatically adding an ancillary product to every sale.",
+    "question": "Which best defines sliding?",
+    "options": [
+      "Charging an applicant for additional coverage the applicant did not agree to purchase",
+      "Replacing policies between insurers through misrepresentation",
+      "Returning part of a commission to the buyer",
+      "Making false statements about a competitor"
+    ],
+    "answer": "Charging an applicant for additional coverage the applicant did not agree to purchase"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-fraud",
+    "topic": "Insurance Fraud",
+    "explanation": "Knowingly false statements on applications or claims constitute insurance fraud \u2014 a felony in Florida.",
+    "question": "In Florida, knowingly presenting false information on an insurance claim is:",
+    "options": [
+      "A felony",
+      "A civil infraction only",
+      "Legal if under $1,000",
+      "Grounds for CE penalties only"
+    ],
+    "answer": "A felony"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-fraud",
+    "topic": "Insurance Fraud",
+    "explanation": "Knowingly false statements on applications or claims constitute insurance fraud \u2014 a felony in Florida.",
+    "question": "Transacting insurance in Florida without a license and appointment is:",
+    "options": [
+      "A criminal offense",
+      "Permitted for the first 6 months",
+      "Allowed if supervised by a broker",
+      "A civil matter between the parties"
+    ],
+    "answer": "A criminal offense"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-appoint",
+    "topic": "Appointments",
+    "explanation": "An agent cannot transact insurance until appointed by an insurer; appointments renew every 24 months, and a license terminates after 48 months (4 years) without any appointment.",
+    "question": "Before transacting insurance for an insurer, a licensed Florida agent must also:",
+    "options": [
+      "Be appointed by that insurer",
+      "Register with the NAIC",
+      "Post a surety bond",
+      "Pass a second state exam"
+    ],
+    "answer": "Be appointed by that insurer"
+  },
+  {
+    "module": "Next: Florida Law & Licensing",
+    "group": "fl-appoint",
+    "topic": "Appointments",
+    "explanation": "An agent cannot transact insurance until appointed by an insurer; appointments renew every 24 months, and a license terminates after 48 months (4 years) without any appointment.",
+    "question": "Insurer appointments in Florida are renewed every:",
+    "options": [
+      "24 months",
+      "12 months",
+      "48 months",
+      "6 months"
+    ],
+    "answer": "24 months"
   }
 ]

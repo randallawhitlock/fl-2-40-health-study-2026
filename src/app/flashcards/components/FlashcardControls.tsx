@@ -8,6 +8,9 @@ interface FlashcardControlsProps {
   onToggleDefinitionFirst: () => void;
   shuffled: boolean;
   onToggleShuffle: () => void;
+  dueOnly: boolean;
+  onToggleDueOnly: () => void;
+  dueCount: number;
 }
 
 export function FlashcardControls({
@@ -18,6 +21,9 @@ export function FlashcardControls({
   onToggleDefinitionFirst,
   shuffled,
   onToggleShuffle,
+  dueOnly,
+  onToggleDueOnly,
+  dueCount,
 }: FlashcardControlsProps) {
   return (
     <div className={s.controls}>
@@ -54,6 +60,15 @@ export function FlashcardControls({
             onChange={onToggleShuffle}
           />
           Shuffle Cards
+        </label>
+
+        <label className={s.toggleLabel}>
+          <input
+            type="checkbox"
+            checked={dueOnly}
+            onChange={onToggleDueOnly}
+          />
+          Due only{dueCount > 0 ? ` (${dueCount})` : ''}
         </label>
       </div>
     </div>

@@ -181,3 +181,60 @@ h1 {
   border-color: var(--error);
   background: #f8d7da;
 }
+
+/* ── Progress Dashboard ─────────────────────── */
+.progressDashboard {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  margin-bottom: 2rem;
+}
+
+.progressTitle {
+  text-align: center;
+  color: var(--primary);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.progressGrid {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.progressStat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 80px;
+}
+
+.progressValue {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--primary);
+  line-height: 1;
+}
+
+.progressLabel {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  margin-top: 0.3rem;
+  text-align: center;
+}
+
+/* ── Progress Badge (on feature cards) ──────── */
+.progressBadge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  background: var(--primary);
+  color: #fff;
+  padding: 0.15rem 0.5rem;
+  border-radius: 12px;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}

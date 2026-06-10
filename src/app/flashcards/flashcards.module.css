@@ -101,6 +101,53 @@
   color: var(--text-light, #565);
 }
 
+/* ── Mastery ─────────────────────────────────── */
+.masteryCounter {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-light, #565);
+  margin-bottom: 1rem;
+}
+
+.masteryActions {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.masteryBtn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 0.88rem;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.masteryBtn:hover {
+  border-color: var(--success, #28a745);
+  background: #f0fdf4;
+}
+
+.masteryReview:hover {
+  border-color: #e67e22;
+  background: #fef9f0;
+}
+
+.masteryActive {
+  border-color: var(--success, #28a745);
+  background: #d4edda;
+  font-weight: 600;
+}
+
+.masteryReview.masteryActive {
+  border-color: #e67e22;
+  background: #fdebd0;
+}
+
 /* ── Responsive ──────────────────────────────── */
 @media (max-width: 500px) {
   .flashcardContainer {
@@ -115,4 +162,10 @@
   .back {
     font-size: 0.95rem;
   }
+}
+.cardStatus {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-light, #565);
+  margin-top: 0.4rem;
 }

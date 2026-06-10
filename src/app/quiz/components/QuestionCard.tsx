@@ -16,9 +16,14 @@ export function QuestionCard({
   onNext,
   isLast,
 }: QuestionCardProps) {
+  const isCorrect = userAnswer === question.answer;
+
   return (
     <div className={s.questionCard}>
-      <p className={s.questionModule}>{question.module}</p>
+      <p className={s.questionModule}>
+        {question.module}
+        {question.topic ? ` · ${question.topic}` : ''}
+      </p>
       <h3 className={s.questionText}>{question.question}</h3>
 
       <ul className={s.optionsList}>
@@ -37,6 +42,13 @@ export function QuestionCard({
           );
         })}
       </ul>
+
+      {userAnswer && question.explanation && (
+        <div className={`${s.explanationBox} ${isCorrect ? s.explanationCorrect : s.explanationIncorrect}`}>
+          <strong>{isCorrect ? '✅ Correct. ' : '❌ Not quite. '}</strong>
+          {question.explanation}
+        </div>
+      )}
 
       {userAnswer && (
         <div className={s.actions}>

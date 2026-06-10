@@ -11,5 +11,7 @@ export type Section = {
 export type Lesson = {
   module: string;
   title: string;
+  /** e.g. "Coming Up Next" for content beyond the Days 1–3 course materials. */
+  category?: string;
   sections: Section[];
 };

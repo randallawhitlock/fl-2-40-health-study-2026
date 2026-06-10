@@ -108,6 +108,75 @@
   color: var(--text-light, #565);
 }
 
+/* ── Result details ──────────────────────────── */
+.scorePercent {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin: 0.25rem 0 0.5rem;
+}
+
+.trendBadge {
+  font-size: 0.9rem;
+  padding: 0.3rem 0.8rem;
+  background: #f0f4ff;
+  border-radius: 20px;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  color: var(--text);
+}
+
+/* ── History ─────────────────────────────────── */
+.historySection {
+  margin-top: 1.25rem;
+  width: 100%;
+}
+
+.historyToggle {
+  background: none;
+  border: none;
+  color: var(--primary);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: underline;
+  padding: 0;
+}
+
+.historyList {
+  list-style: none;
+  padding: 0;
+  margin-top: 0.75rem;
+}
+
+.historyItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #eee;
+  font-size: 0.88rem;
+}
+
+.historyItem:last-child {
+  border-bottom: none;
+}
+
+.historyScore {
+  font-weight: 700;
+  color: var(--primary);
+  min-width: 3rem;
+}
+
+.historyDetail {
+  color: var(--text-light, #565);
+}
+
+.historyDate {
+  color: var(--text-light, #565);
+  font-size: 0.82rem;
+}
+
 /* ── Responsive ──────────────────────────────── */
 @media (max-width: 500px) {
   .questionCard {
@@ -118,4 +187,152 @@
     padding: 0.75rem;
     font-size: 0.9rem;
   }
+}
+/* ── Explanations ────────────────────────────── */
+.explanationBox {
+  margin-top: 1rem;
+  padding: 0.85rem 1rem;
+  border-radius: 0 8px 8px 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  text-align: left;
+}
+
+.explanationCorrect {
+  background: rgba(46, 125, 50, 0.08);
+  border-left: 4px solid var(--primary, #2e7d32);
+}
+
+.explanationIncorrect {
+  background: rgba(198, 40, 40, 0.07);
+  border-left: 4px solid #c62828;
+}
+
+/* ── Exam modes ──────────────────────────────── */
+.modeRow {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.modeCard {
+  flex: 1 1 240px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: var(--border-radius, 12px);
+  padding: 1rem;
+  text-align: left;
+}
+
+.modeCard h4 {
+  margin-bottom: 0.4rem;
+}
+
+.modeDesc {
+  font-size: 0.88rem;
+  color: var(--text-light, #565);
+  margin-bottom: 0.85rem;
+  min-height: 3.4em;
+}
+
+/* ── Timer ───────────────────────────────────── */
+.timer {
+  margin-left: 1rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.timerLow {
+  color: #c62828;
+}
+
+.timeUsed {
+  color: var(--text-light, #565);
+  margin-bottom: 0.5rem;
+}
+
+/* ── Trend chart ─────────────────────────────── */
+.trendChart {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 6px;
+  height: 90px;
+  margin: 1rem auto;
+  max-width: 320px;
+}
+
+.trendBarWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100%;
+  flex: 1;
+  max-width: 28px;
+}
+
+.trendBar {
+  width: 100%;
+  border-radius: 3px 3px 0 0;
+  min-height: 3px;
+}
+
+.trendBarLabel {
+  font-size: 0.6rem;
+  color: var(--text-light, #565);
+  margin-top: 2px;
+}
+
+/* ── Missed questions review ─────────────────── */
+.missedList {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+  width: 100%;
+  text-align: left;
+}
+
+.missedItem {
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.missedItem:last-child {
+  border-bottom: none;
+}
+
+.missedTopic {
+  font-size: 0.78rem;
+  color: var(--text-light, #565);
+  margin-bottom: 0.3rem;
+}
+
+.missedQuestion {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.missedAnswerRow {
+  margin: 0.15rem 0;
+  font-size: 0.92rem;
+}
+
+.missedWrong {
+  color: #c62828;
+}
+
+.missedRight {
+  color: var(--primary, #2e7d32);
+  font-weight: 600;
+}
+
+.missedExplanation {
+  margin-top: 0.5rem;
+  font-size: 0.88rem;
+  color: var(--text-light, #454);
+  background: rgba(46, 125, 50, 0.06);
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
 }
