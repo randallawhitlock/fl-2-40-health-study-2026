@@ -26,6 +26,7 @@ const DEFAULT_PREFERENCES: UserPreferences = {
     flashcardIndex: 0,
     quizSelectedModules: [],
     lessonsSelectedModule: '',
+    lessonsScrollY: 0,
     matchingModule: 'All',
 };
 

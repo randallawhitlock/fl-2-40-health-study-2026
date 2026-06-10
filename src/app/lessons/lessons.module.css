@@ -206,3 +206,121 @@
   font-size: 0.9rem;
   color: var(--text-light, #565);
 }
+
+/* ── User notes ──────────────────────────────── */
+.noteSlot {
+  margin: 0.15rem 0 0.6rem;
+}
+
+.noteAdd {
+  display: inline-block;
+  border: none;
+  background: none;
+  color: var(--primary, #2e7d32);
+  font-size: 0.75rem;
+  cursor: pointer;
+  opacity: 0.25;
+  padding: 0.1rem 0.4rem;
+  border-radius: 6px;
+  transition: opacity 0.15s ease, background 0.15s ease;
+}
+
+.noteAdd:hover,
+.noteAdd:focus-visible {
+  opacity: 1;
+  background: rgba(46, 125, 50, 0.08);
+}
+
+.noteBadge {
+  display: inline-block;
+  border: 1px solid rgba(46, 125, 50, 0.35);
+  background: rgba(46, 125, 50, 0.06);
+  color: var(--primary, #2e7d32);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  margin: 0.15rem 0.35rem 0.15rem 0;
+}
+
+.noteOpen {
+  border: 1px solid rgba(46, 125, 50, 0.25);
+  background: rgba(255, 249, 196, 0.45);
+  border-radius: 10px;
+  padding: 0.6rem 0.8rem;
+  margin: 0.25rem 0;
+}
+
+.noteText {
+  margin: 0.5rem 0;
+  white-space: pre-wrap;
+  line-height: 1.55;
+  font-size: 0.95rem;
+}
+
+.noteEditor {
+  margin: 0.25rem 0;
+}
+
+.noteTextarea {
+  width: 100%;
+  border: 1px solid rgba(46, 125, 50, 0.4);
+  border-radius: 8px;
+  padding: 0.5rem 0.65rem;
+  font: inherit;
+  font-size: 0.95rem;
+  resize: vertical;
+}
+
+.noteActions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.35rem;
+}
+
+.noteBtn,
+.noteBtnGhost,
+.noteBtnDanger {
+  border: none;
+  border-radius: 8px;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.noteBtn {
+  background: var(--primary, #2e7d32);
+  color: #fff;
+}
+
+.noteBtnGhost {
+  background: rgba(0, 0, 0, 0.07);
+  color: inherit;
+}
+
+.noteBtnDanger {
+  background: rgba(198, 40, 40, 0.1);
+  color: #c62828;
+}
+
+/* ── Notes export ────────────────────────────── */
+.exportRow {
+  text-align: right;
+  margin: -0.75rem 0 1rem;
+}
+
+.exportBtn {
+  border: 1px solid rgba(46, 125, 50, 0.35);
+  background: none;
+  color: var(--primary, #2e7d32);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.exportBtn:hover {
+  background: rgba(46, 125, 50, 0.08);
+}

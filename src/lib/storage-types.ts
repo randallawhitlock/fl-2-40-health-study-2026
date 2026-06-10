@@ -111,6 +111,8 @@ export interface UserPreferences {
 
     // Lessons page
     lessonsSelectedModule: string;
+    /** Reading position (window.scrollY) within the selected lesson. */
+    lessonsScrollY: number;
 
     // Matching page
     matchingModule: string;
