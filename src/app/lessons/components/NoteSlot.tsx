@@ -147,7 +147,7 @@ export function NoteSlot({
           onClick={() => setAdding(true)}
           title="Add a note here"
         >
-          ＋ note
+          ＋ Add note
         </button>
       )}
     </div>

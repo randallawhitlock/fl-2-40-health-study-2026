@@ -6,6 +6,7 @@ import { useStudyStorage } from '@/lib/useStudyStorage';
 import { PageShell } from '@/components';
 import { ModuleSelector } from './components/ModuleSelector';
 import { LessonContent } from './components/LessonContent';
+import { generateStudyGuidePdf } from './pdfExport';
 import type { Lesson } from './types';
 import s from './lessons.module.css';
 
@@ -48,6 +49,9 @@ export default function LessonsPage() {
   } = useStudyStorage();
   const [hydrated, setHydrated] = useState(false);
   const [selectedModule, setSelectedModule] = useState(lessons[0]?.module || '');
+  const [showPdfPanel, setShowPdfPanel] = useState(false);
+  const [pdfScope, setPdfScope] = useState<'current' | 'all'>('current');
+  const [pdfSection, setPdfSection] = useState(-1);
   const restoredScrollRef = useRef(false);
   const scrollTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -114,6 +118,26 @@ export default function LessonsPage() {
   const currentLesson = lessons.find(l => l.module === selectedModule);
   const noteCount = data.lessonNotes.length;
 
+  const generatePdf = () => {
+    if (pdfScope === 'all') {
+      generateStudyGuidePdf({
+        lessons,
+        notes: data.lessonNotes,
+        title: 'FL 2-40 Study Guide — All Lessons',
+      });
+    } else if (currentLesson) {
+      const single = pdfSection >= 0;
+      generateStudyGuidePdf({
+        lessons: [currentLesson],
+        notes: data.lessonNotes,
+        sectionIndex: single ? pdfSection : undefined,
+        title: single
+          ? `${currentLesson.module} — ${currentLesson.sections[pdfSection]?.heading ?? ''}`
+          : `${currentLesson.module} — ${currentLesson.title}`,
+      });
+    }
+  };
+
   return (
     <PageShell title="Lesson Reviews">
       <ModuleSelector
@@ -124,12 +148,51 @@ export default function LessonsPage() {
         upcoming={lessons.filter(l => l.category === 'Coming Up Next').map(l => l.module)}
       />
 
-      {noteCount > 0 && (
-        <p className={s.exportRow}>
+      <div className={s.exportRow}>
+        <button className={s.exportBtn} onClick={() => setShowPdfPanel(p => !p)}>
+          📄 Generate PDF study guide {showPdfPanel ? '▴' : '▾'}
+        </button>
+        {noteCount > 0 && (
           <button className={s.exportBtn} onClick={exportNotes}>
             ⬇ Export my notes ({noteCount})
           </button>
-        </p>
+        )}
+      </div>
+
+      {showPdfPanel && (
+        <div className={s.pdfPanel}>
+          <label>
+            Include:{' '}
+            <select
+              value={pdfScope}
+              onChange={e => { setPdfScope(e.target.value as 'current' | 'all'); setPdfSection(-1); }}
+              className={s.pdfSelect}
+            >
+              <option value="current">This lesson ({selectedModule})</option>
+              <option value="all">All lessons</option>
+            </select>
+          </label>
+          {pdfScope === 'current' && currentLesson && (
+            <label>
+              {' '}Section:{' '}
+              <select
+                value={pdfSection}
+                onChange={e => setPdfSection(Number(e.target.value))}
+                className={s.pdfSelect}
+              >
+                <option value={-1}>All sections</option>
+                {currentLesson.sections.map((sec, i) => (
+                  <option key={i} value={i}>{sec.heading}</option>
+                ))}
+              </select>
+            </label>
+          )}
+          <button className={s.noteBtn} onClick={generatePdf}>Generate</button>
+          <p className={s.pdfHint}>
+            Your notes are included where you placed them. A print window opens —
+            choose &quot;Save as PDF&quot; as the destination.
+          </p>
+        </div>
       )}
 
       {currentLesson ? (
