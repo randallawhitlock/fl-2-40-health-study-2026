@@ -2744,6 +2744,1224 @@
     "explanation": "MET = employers pool employees through a trust holding the master contract. MEWA = a MET for same-industry employers with a common bond; tax-exempt. Both are state-regulated."
   },
   {
+    "module": "Day 4 Module 1",
+    "group": "mp-basicmajor",
+    "topic": "Basic vs. Major Medical",
+    "explanation": "Basic plans give first-dollar coverage with low limits; major medical gives broad, high-limit coverage with deductibles and coinsurance.",
+    "question": "A plan that pays from the first dollar but only up to low stated limits per service is a:",
+    "options": [
+      "Basic medical expense plan",
+      "Major medical plan",
+      "Comprehensive major medical plan",
+      "High-deductible health plan"
+    ],
+    "answer": "Basic medical expense plan"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-basicmajor",
+    "topic": "Basic vs. Major Medical",
+    "explanation": "Basic plans give first-dollar coverage with low limits; major medical gives broad, high-limit coverage with deductibles and coinsurance.",
+    "question": "Which features distinguish major medical insurance from basic plans?",
+    "options": [
+      "High maximum limits with deductibles and coinsurance",
+      "First-dollar coverage with low limits",
+      "Coverage limited to surgical schedules",
+      "No cost-sharing of any kind"
+    ],
+    "answer": "High maximum limits with deductibles and coinsurance"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-costshare",
+    "topic": "Deductibles, Coinsurance & Stop-Loss",
+    "explanation": "Cost-sharing order: deductible first, then coinsurance (e.g., 80/20), until the stop-loss limit caps the insured's out-of-pocket \u2014 after which the plan pays 100%.",
+    "question": "After Roy meets his deductible, his plan pays 80% of covered charges until his out-of-pocket reaches $6,000, after which it pays 100%. The $6,000 figure is the:",
+    "options": [
+      "Stop-loss limit",
+      "Coinsurance percentage",
+      "Carryover deductible",
+      "UCR limit"
+    ],
+    "answer": "Stop-loss limit"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-costshare",
+    "topic": "Deductibles, Coinsurance & Stop-Loss",
+    "explanation": "Cost-sharing order: deductible first, then coinsurance (e.g., 80/20), until the stop-loss limit caps the insured's out-of-pocket \u2014 after which the plan pays 100%.",
+    "question": "Three members of the Diaz family are injured in the same car crash. Their plan applies only one deductible for all three claims. This reflects a:",
+    "options": [
+      "Common accident provision",
+      "Carryover provision",
+      "Family stop-loss provision",
+      "Coordination of benefits provision"
+    ],
+    "answer": "Common accident provision"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-carryover",
+    "topic": "Carryover Deductible",
+    "explanation": "A carryover provision lets expenses incurred in the last three months of the year count toward NEXT year's deductible.",
+    "question": "Expenses Quinn incurred in November and December that didn't satisfy this year's deductible may count toward next year's deductible under a:",
+    "options": [
+      "Carryover provision",
+      "Common accident provision",
+      "Stop-loss provision",
+      "Probationary provision"
+    ],
+    "answer": "Carryover provision"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-carryover",
+    "topic": "Carryover Deductible",
+    "explanation": "A carryover provision lets expenses incurred in the last three months of the year count toward NEXT year's deductible.",
+    "question": "The carryover deductible provision applies to expenses incurred during:",
+    "options": [
+      "The last three months of the calendar year",
+      "The first 31 days of coverage",
+      "Any month premiums were waived",
+      "The elimination period"
+    ],
+    "answer": "The last three months of the calendar year"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-hsa",
+    "topic": "HSA Eligibility",
+    "explanation": "HSAs require a high-deductible health plan (HDHP), no other first-dollar coverage, no Medicare enrollment, and not being claimed as a dependent. Contributions, growth, and qualified withdrawals are all tax-advantaged, and funds roll over.",
+    "question": "To be eligible to contribute to a Health Savings Account, a person must:",
+    "options": [
+      "Be covered by a high-deductible health plan",
+      "Be enrolled in Medicare Part A",
+      "Have a flexible spending account",
+      "Earn less than 400% of the poverty level"
+    ],
+    "answer": "Be covered by a high-deductible health plan"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-hsa",
+    "topic": "HSA Eligibility",
+    "explanation": "HSAs require a high-deductible health plan (HDHP), no other first-dollar coverage, no Medicare enrollment, and not being claimed as a dependent. Contributions, growth, and qualified withdrawals are all tax-advantaged, and funds roll over.",
+    "question": "Which statement about Health Savings Accounts is TRUE?",
+    "options": [
+      "Unused funds roll over from year to year and belong to the account holder",
+      "Unused funds are forfeited each December 31",
+      "Only employers may contribute",
+      "Withdrawals for medical care are taxed as income"
+    ],
+    "answer": "Unused funds roll over from year to year and belong to the account holder"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-fsa-hra",
+    "topic": "FSA vs. HRA",
+    "explanation": "FSA = employee-funded pre-tax, use-it-or-lose-it. HRA = employer-funded only, reimburses medical expenses, rollover at employer's discretion.",
+    "question": "Which account is funded ONLY by the employer?",
+    "options": [
+      "Health Reimbursement Arrangement (HRA)",
+      "Health Savings Account (HSA)",
+      "Flexible Spending Account (FSA)",
+      "Individual retirement account"
+    ],
+    "answer": "Health Reimbursement Arrangement (HRA)"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-fsa-hra",
+    "topic": "FSA vs. HRA",
+    "explanation": "FSA = employee-funded pre-tax, use-it-or-lose-it. HRA = employer-funded only, reimburses medical expenses, rollover at employer's discretion.",
+    "question": "The 'use it or lose it' rule is most associated with:",
+    "options": [
+      "Flexible Spending Accounts",
+      "Health Savings Accounts",
+      "Health Reimbursement Arrangements",
+      "High-deductible health plans"
+    ],
+    "answer": "Flexible Spending Accounts"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-ucr",
+    "topic": "Usual, Customary & Reasonable",
+    "explanation": "UCR-based plans pay what providers in the geographic area typically charge; amounts billed above UCR are the insured's responsibility.",
+    "question": "Dr. Patel bills $500 for a procedure, but the plan's usual, customary and reasonable amount is $400. The insured is responsible for:",
+    "options": [
+      "The $100 above the UCR amount, plus any normal cost-sharing",
+      "Nothing \u2014 UCR protects the insured fully",
+      "The entire $500",
+      "Only the copayment"
+    ],
+    "answer": "The $100 above the UCR amount, plus any normal cost-sharing"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-ucr",
+    "topic": "Usual, Customary & Reasonable",
+    "explanation": "UCR-based plans pay what providers in the geographic area typically charge; amounts billed above UCR are the insured's responsibility.",
+    "question": "'Usual, customary and reasonable' charges are based on:",
+    "options": [
+      "What providers in the same geographic area typically charge for the service",
+      "The insurer's home-office fee schedule",
+      "Medicare's national rates",
+      "The provider's costs plus 20%"
+    ],
+    "answer": "What providers in the same geographic area typically charge for the service"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-dental",
+    "topic": "Dental Plan Tiers",
+    "explanation": "Dental coverage tiers: preventive/diagnostic ~100%, basic (fillings) ~80%, major (crowns, dentures) ~50% \u2014 often with waiting periods and annual maximums.",
+    "question": "Which dental services are typically covered at the HIGHEST percentage?",
+    "options": [
+      "Preventive and diagnostic services like cleanings and exams",
+      "Crowns and bridges",
+      "Dentures",
+      "Orthodontics"
+    ],
+    "answer": "Preventive and diagnostic services like cleanings and exams"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-dental",
+    "topic": "Dental Plan Tiers",
+    "explanation": "Dental coverage tiers: preventive/diagnostic ~100%, basic (fillings) ~80%, major (crowns, dentures) ~50% \u2014 often with waiting periods and annual maximums.",
+    "question": "Compared with medical insurance, dental plans commonly include:",
+    "options": [
+      "Calendar-year maximums and waiting periods for major services",
+      "Unlimited lifetime benefits",
+      "No cost-sharing",
+      "Coverage only after hospitalization"
+    ],
+    "answer": "Calendar-year maximums and waiting periods for major services"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-firstdollar",
+    "topic": "First Dollar Insurance",
+    "explanation": "Basic medical expense plans pay from the first dollar \u2014 no deductible. They control costs through benefit LIMITS instead, which is also why their premiums are least affected by rising medical costs... that distinction belongs to hospital indemnity. First dollar = basic plans.",
+    "question": "Which type of policy pays benefits up front, without a deductible, and is known as 'first dollar' insurance?",
+    "options": [
+      "A basic medical expense policy",
+      "A major medical policy",
+      "A disability income policy",
+      "A business overhead expense policy"
+    ],
+    "answer": "A basic medical expense policy"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-firstdollar",
+    "topic": "First Dollar Insurance",
+    "explanation": "Basic medical expense plans pay from the first dollar \u2014 no deductible. They control costs through benefit LIMITS instead.",
+    "question": "Basic medical plans avoid small claims and keep premiums down by:",
+    "options": [
+      "Imposing benefit limits",
+      "Using deductibles and coinsurance",
+      "Paying only catastrophic expenses",
+      "Restricting members to network physicians"
+    ],
+    "answer": "Imposing benefit limits"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-misc",
+    "topic": "Miscellaneous Expense Benefit",
+    "explanation": "The basic hospital miscellaneous benefit covers hospital 'extras': drugs, X-rays, anesthesia, lab fees, dressings, operating room, supplies. It does NOT cover room and board or physicians' bedside visits, and its limit is often a multiple of the daily room-and-board benefit.",
+    "question": "The miscellaneous expense benefit in a basic hospital expense policy normally covers:",
+    "options": [
+      "Drugs and medicine administered in the hospital",
+      "Physicians' bedside visits",
+      "Hospital room and board",
+      "The surgeon's professional fee"
+    ],
+    "answer": "Drugs and medicine administered in the hospital"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-misc",
+    "topic": "Miscellaneous Expense Benefit",
+    "explanation": "The basic hospital miscellaneous benefit covers hospital 'extras': drugs, X-rays, anesthesia, lab fees, dressings, operating room, supplies. It does NOT cover room and board or physicians' bedside visits, and its limit is often a multiple of the daily room-and-board benefit.",
+    "question": "In a basic hospital expense policy, the limit for miscellaneous expenses is typically expressed as a multiple of the:",
+    "options": [
+      "Daily room and board benefit",
+      "Surgeon's scheduled fee",
+      "Annual deductible",
+      "Stop-loss limit"
+    ],
+    "answer": "Daily room and board benefit"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-misc",
+    "topic": "Miscellaneous Expense Benefit",
+    "explanation": "The basic hospital miscellaneous benefit covers hospital 'extras': drugs, X-rays, anesthesia, lab fees, dressings, operating room, supplies. It does NOT cover room and board or physicians' bedside visits.",
+    "question": "Which of the following is NOT covered by the basic hospital expense policy's miscellaneous benefit?",
+    "options": [
+      "Physicians' bedside visits",
+      "Use of the operating room",
+      "Anesthesia",
+      "Drugs and dressings"
+    ],
+    "answer": "Physicians' bedside visits"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-surgmethods",
+    "topic": "Surgical Payment Methods",
+    "explanation": "Three methods: surgical schedule (flat dollar value per procedure), reasonable & customary (regional comparison \u2014 excess is the patient's), relative value scale (points \u00d7 conversion factor).",
+    "question": "Pavel's basic surgical policy assigns 60 points to an appendectomy and uses a $10 conversion factor. How much will the policy pay?",
+    "options": [
+      "$600",
+      "$500",
+      "$540",
+      "$700"
+    ],
+    "answer": "$600"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-surgmethods",
+    "topic": "Surgical Payment Methods",
+    "explanation": "Three methods: surgical schedule (flat dollar value per procedure), reasonable & customary (regional comparison \u2014 excess is the patient's), relative value scale (points \u00d7 conversion factor).",
+    "question": "Which basic surgical plan assigns a system of POINTS to surgical procedures?",
+    "options": [
+      "Relative value scale",
+      "Surgical schedule",
+      "Reasonable and customary",
+      "Stated charges"
+    ],
+    "answer": "Relative value scale"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-surgmethods",
+    "topic": "Surgical Payment Methods",
+    "explanation": "Three methods: surgical schedule (flat dollar value), reasonable & customary (compares the charge to the typical cost in that geographic region), relative value scale (points \u00d7 conversion factor).",
+    "question": "Determining the cost of a surgical procedure by comparing it to typical charges in the same geographic area describes the:",
+    "options": [
+      "Reasonable and customary approach",
+      "Surgical schedule method",
+      "Relative value scale",
+      "Conversion factor method"
+    ],
+    "answer": "Reasonable and customary approach"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-fixedrate",
+    "topic": "Hospital Indemnity / Fixed-Rate Plans",
+    "explanation": "Fixed-rate (hospital indemnity) plans pay a flat daily/weekly/monthly amount per day hospitalized, directly TO THE INSURED. Fixed benefits mean claim costs aren't affected by medical inflation \u2014 and the premium is least affected by rising medical costs.",
+    "question": "A hospital expense policy that pays a flat amount per day of hospitalization pays benefits on what basis?",
+    "options": [
+      "A fixed-rate plan",
+      "Reimbursement",
+      "Service",
+      "Assignment"
+    ],
+    "answer": "A fixed-rate plan"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-fixedrate",
+    "topic": "Hospital Indemnity / Fixed-Rate Plans",
+    "explanation": "Fixed-rate (hospital indemnity) plans pay a flat daily amount per day hospitalized, directly TO THE INSURED \u2014 not to the hospital.",
+    "question": "Which statement about a hospital fixed-rate (indemnity) plan is NOT true?",
+    "options": [
+      "Benefits are paid directly to the hospital",
+      "Claim costs are not affected by rising healthcare costs",
+      "It offers high benefits for relatively low premiums",
+      "Underwriting and administration are simple"
+    ],
+    "answer": "Benefits are paid directly to the hospital"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-fixedrate",
+    "topic": "Hospital Indemnity / Fixed-Rate Plans",
+    "explanation": "Because its benefit is a fixed dollar amount per day rather than a share of actual charges, hospital indemnity premiums are the least affected by rising medical costs.",
+    "question": "Which coverage's premium is LEAST affected by an increase in medical costs?",
+    "options": [
+      "Hospital indemnity",
+      "Major medical",
+      "Comprehensive medical",
+      "Basic medical expense"
+    ],
+    "answer": "Hospital indemnity"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-dedtypes",
+    "topic": "Major Medical Deductible Types",
+    "explanation": "Three major medical deductibles: flat (fixed sum), corridor (insured pays the full deductible after BASIC benefits are exhausted), integrated (the deductible can be offset by what the basic plan pays). Stop-loss is NOT a deductible.",
+    "question": "Which of the following is NOT one of the three types of major medical deductibles?",
+    "options": [
+      "Stop-loss",
+      "Corridor",
+      "Integrated",
+      "Flat"
+    ],
+    "answer": "Stop-loss"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-dedtypes",
+    "topic": "Major Medical Deductible Types",
+    "explanation": "Corridor: basic plan pays first, then the insured pays the full deductible before major medical kicks in. Integrated: basic plan payments can satisfy (offset) the deductible. Flat: a simple fixed sum.",
+    "question": "Hana's basic plan paid $2,400 of her hospital bill. She then paid a $200 deductible before her major medical coverage began paying. Her deductible is classified as:",
+    "options": [
+      "Corridor",
+      "Integrated",
+      "Flat",
+      "Split"
+    ],
+    "answer": "Corridor"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-dedtypes",
+    "topic": "Major Medical Deductible Types",
+    "explanation": "Corridor: insured pays the full deductible after basic benefits are exhausted. Integrated: amounts the basic plan pays offset (satisfy) the deductible.",
+    "question": "If all or part of a $500 major medical deductible can be satisfied by benefits paid under a basic medical policy, the deductible is:",
+    "options": [
+      "Integrated",
+      "Corridor",
+      "Flat",
+      "Carryover"
+    ],
+    "answer": "Integrated"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-majormath",
+    "topic": "Major Medical Math",
+    "explanation": "Deductible first, then coinsurance on what remains: insured pays deductible + their percentage of the balance, up to any stop-loss.",
+    "question": "Vera's hospital bill is $10,500. Her major medical policy has a $500 deductible and 80/20 coinsurance. How much does Vera pay in total?",
+    "options": [
+      "$2,500",
+      "$2,000",
+      "$500",
+      "$2,100"
+    ],
+    "answer": "$2,500"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-majormath",
+    "topic": "Major Medical Math",
+    "explanation": "Deductible first, then coinsurance on what remains: insured pays deductible + their percentage of the balance.",
+    "question": "Andre's covered expenses total $8,000. His policy has a $500 flat deductible and an 80/20 coinsurance provision. The INSURER pays:",
+    "options": [
+      "$6,000",
+      "$7,500",
+      "$6,400",
+      "$5,500"
+    ],
+    "answer": "$6,000"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-basicmath",
+    "topic": "Basic Plan Benefit Limits",
+    "explanation": "Basic plans pay each category only up to its stated limit: daily room-and-board rate \u00d7 days (regardless of actual charges), the scheduled surgical amount, and miscellaneous up to its cap.",
+    "question": "Talia's basic hospital/surgical policy pays $60/day room and board, schedules her surgery at $400, and caps miscellaneous charges at $500. She is hospitalized 5 days at $90/day, billed $550 for surgery and $620 miscellaneous. The policy pays:",
+    "options": [
+      "$1,200",
+      "$1,470",
+      "$1,770",
+      "$900"
+    ],
+    "answer": "$1,200"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-basicmath",
+    "topic": "Basic Plan Benefit Limits",
+    "explanation": "Basic plans pay each category only up to its stated limit: daily room-and-board rate \u00d7 days, the scheduled surgical amount, and miscellaneous up to its cap. Amounts billed above each limit are the insured's responsibility.",
+    "question": "Under a schedule-approach basic policy, the surgeon bills $675 but the procedure is scheduled at $500. The policy pays:",
+    "options": [
+      "$500 \u2014 the scheduled amount",
+      "$675 \u2014 the billed amount",
+      "$587.50 \u2014 the average",
+      "Nothing until the deductible is met"
+    ],
+    "answer": "$500 \u2014 the scheduled amount"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-limited",
+    "topic": "Limited Risk Policies",
+    "explanation": "Limited risk policies cover one specific peril or ailment: dread disease/cancer policies, travel accident, hospital indemnity, accident-only. They pay limited amounts for narrow risks.",
+    "question": "Dread disease, travel accident, and hospital indemnity policies are all examples of:",
+    "options": [
+      "Limited risk policies",
+      "Comprehensive major medical",
+      "Blanket policies",
+      "Basic physicians' expense plans"
+    ],
+    "answer": "Limited risk policies"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-limited",
+    "topic": "Limited Risk Policies",
+    "explanation": "A limited risk (dread disease) policy protects against one named ailment \u2014 cancer is the classic example.",
+    "question": "A limited risk policy pays benefits for dread diseases:",
+    "options": [
+      "Such as cancer",
+      "Only if terminal",
+      "Only if chronic",
+      "Of any kind, like major medical"
+    ],
+    "answer": "Such as cancer"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-shortterm",
+    "topic": "Short-Term Medical (Florida)",
+    "explanation": "Florida defines short-term medical insurance as coverage expiring less than 12 months after its effective date, not exceeding 36 months including renewals.",
+    "question": "Under Florida's definition, a short-term medical policy must expire less than ______ after its effective date and cannot exceed ______ in total duration.",
+    "options": [
+      "12 months; 36 months",
+      "6 months; 12 months",
+      "12 months; 24 months",
+      "24 months; 48 months"
+    ],
+    "answer": "12 months; 36 months"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-shortterm",
+    "topic": "Short-Term Medical (Florida)",
+    "explanation": "Short-term medical policies cover a specific limited period (e.g., 90 or 180 days); accident-only policies cover accidents but never illness.",
+    "question": "A policy that covers injuries from accidents but provides NO coverage for sickness is:",
+    "options": [
+      "Accident-only insurance",
+      "Short-term major medical",
+      "A dread disease policy",
+      "Comprehensive coverage"
+    ],
+    "answer": "Accident-only insurance"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-suppcomp",
+    "topic": "Supplementary vs. Comprehensive",
+    "explanation": "Supplementary major medical layers on top of a basic plan, covering excluded expenses and amounts beyond the basic plan's limits. Comprehensive combines basic + major medical in one policy.",
+    "question": "A major medical plan that covers expenses a basic plan excludes \u2014 plus expenses exceeding the basic plan's limits \u2014 is a:",
+    "options": [
+      "Supplementary major medical plan",
+      "Comprehensive major medical plan",
+      "Hospital indemnity plan",
+      "Limited risk plan"
+    ],
+    "answer": "Supplementary major medical plan"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-suppcomp",
+    "topic": "Supplementary vs. Comprehensive",
+    "explanation": "A supplementary major medical plan combines with BASIC medical coverage; a comprehensive plan covers nearly everything in one policy with a deductible and coinsurance.",
+    "question": "A supplementary major medical policy combines the benefits of which two plan types?",
+    "options": [
+      "Basic medical and major medical",
+      "Hospital expense and surgical expense",
+      "Major medical and disability income",
+      "AD&D and major medical"
+    ],
+    "answer": "Basic medical and major medical"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-dedpurpose",
+    "topic": "Why Deductibles Exist",
+    "explanation": "Deductibles eliminate small claims and hold premiums down by making the insured pay initial expenses. They are common in MAJOR MEDICAL plans \u2014 basic plans are first-dollar coverage.",
+    "question": "Which statement about deductibles in medical insurance is NOT correct?",
+    "options": [
+      "They are most common in basic medical expense policies",
+      "They help eliminate small claims",
+      "They make the insured pay initial expenses up to a set amount",
+      "They help hold premium rates down"
+    ],
+    "answer": "They are most common in basic medical expense policies"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-dedpurpose",
+    "topic": "Why Deductibles Exist",
+    "explanation": "Deductibles eliminate small claims; coinsurance discourages overutilization of benefits. Together they're the two main cost-sharing components of major medical.",
+    "question": "Which of the following is TRUE about coinsurance?",
+    "options": [
+      "It helps control overutilization of benefits",
+      "It applies to the deductible as well as claim payments",
+      "Premiums are higher with a coinsurance provision than without",
+      "The insurer can change the ratio after issue"
+    ],
+    "answer": "It helps control overutilization of benefits"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-lostincome",
+    "topic": "What Medical Plans Don't Cover",
+    "explanation": "Medical expense insurance pays care costs \u2014 it never replaces lost income. Income replacement is disability income insurance's job.",
+    "question": "Basic medical expense policies generally provide NO coverage for:",
+    "options": [
+      "Lost income",
+      "Emergency room visits",
+      "Surgical expenses",
+      "Skilled nursing facility expenses"
+    ],
+    "answer": "Lost income"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-lostincome",
+    "topic": "What Medical Plans Don't Cover",
+    "explanation": "Higher risks and greater potential losses call for major medical \u2014 broad coverage with high limits \u2014 not first-dollar basic plans or single-disease policies.",
+    "question": "Which medical expense plan is best suited for higher risks and greater potential loss?",
+    "options": [
+      "Major medical",
+      "First dollar (basic) coverage",
+      "A cancer policy",
+      "AD&D"
+    ],
+    "answer": "Major medical"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-preexist",
+    "topic": "Preexisting Conditions",
+    "explanation": "A preexisting condition existed before the policy's effective date. Exclusion periods protected insurers from adverse selection \u2014 but the ACA eliminated preexisting-condition exclusions in ACA-compliant medical plans.",
+    "question": "Historically, preexisting-condition exclusion periods protected insurers against:",
+    "options": [
+      "Adverse selection",
+      "Catastrophic claims",
+      "Premium inflation",
+      "Overutilization of benefits"
+    ],
+    "answer": "Adverse selection"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "group": "mp-preexist",
+    "topic": "Preexisting Conditions",
+    "explanation": "A preexisting condition existed before the policy's effective date. The ACA eliminated preexisting-condition exclusions in ACA-compliant medical expense plans.",
+    "question": "Under the Affordable Care Act, preexisting condition exclusions in compliant major medical plans are:",
+    "options": [
+      "Prohibited entirely",
+      "Limited to 12 months",
+      "Allowed for chronic illness only",
+      "Allowed with a premium surcharge"
+    ],
+    "answer": "Prohibited entirely"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-elim",
+    "topic": "Elimination vs. Probationary",
+    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
+    "question": "The waiting period between the onset of a disability and the start of benefit payments is the:",
+    "options": [
+      "Elimination period",
+      "Probationary period",
+      "Grace period",
+      "Benefit period"
+    ],
+    "answer": "Elimination period"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-elim",
+    "topic": "Elimination vs. Probationary",
+    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
+    "question": "Choosing a 180-day elimination period instead of 30 days will:",
+    "options": [
+      "Lower the premium",
+      "Raise the premium",
+      "Shorten the benefit period",
+      "Eliminate the probationary period"
+    ],
+    "answer": "Lower the premium"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-prob",
+    "topic": "Probationary Period",
+    "explanation": "The probationary period is a one-time window at the start of the policy during which sickness (never accidents) is not covered \u2014 it blocks preexisting-illness claims.",
+    "question": "A disability policy's probationary period applies to:",
+    "options": [
+      "Sickness only, during the period right after the policy is issued",
+      "Accidents only",
+      "Both sickness and accidents, on every claim",
+      "Claims filed after age 65"
+    ],
+    "answer": "Sickness only, during the period right after the policy is issued"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-prob",
+    "topic": "Probationary Period",
+    "explanation": "The probationary period is a one-time window at the start of the policy during which sickness (never accidents) is not covered \u2014 it blocks preexisting-illness claims.",
+    "question": "Two weeks after buying a disability policy with a 30-day probationary period, Lena is hurt in a car accident and cannot work. The insurer will:",
+    "options": [
+      "Pay \u2014 the probationary period does not apply to accidents",
+      "Deny \u2014 no claims are covered during the probationary period",
+      "Pay only half the benefit",
+      "Refund her premium and void the policy"
+    ],
+    "answer": "Pay \u2014 the probationary period does not apply to accidents"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-occ",
+    "topic": "Own vs. Any Occupation",
+    "explanation": "Own-occupation pays if you can't do YOUR job (easier to qualify, costlier). Any-occupation pays only if you can't do any job suited to your education, training, or experience.",
+    "question": "Under an own-occupation definition of disability, a surgeon who loses fine motor control but takes a teaching job will:",
+    "options": [
+      "Receive benefits, because she cannot perform her own occupation",
+      "Receive nothing, because she can still work",
+      "Receive benefits only after age 65",
+      "Forfeit the policy"
+    ],
+    "answer": "Receive benefits, because she cannot perform her own occupation"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-occ",
+    "topic": "Own vs. Any Occupation",
+    "explanation": "Own-occupation pays if you can't do YOUR job (easier to qualify, costlier). Any-occupation pays only if you can't do any job suited to your education, training, or experience.",
+    "question": "Which definition of total disability is most favorable to the insured?",
+    "options": [
+      "Own occupation",
+      "Any occupation",
+      "Presumptive occupation",
+      "Residual occupation"
+    ],
+    "answer": "Own occupation"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-residual",
+    "topic": "Partial vs. Residual",
+    "explanation": "Partial disability pays a flat percentage (often 50%) of the total benefit. Residual pays in proportion to lost INCOME \u2014 a 40% earnings drop pays 40% of the benefit.",
+    "question": "Marco returned to work part-time and his earnings dropped 40%. His policy pays 40% of his total disability benefit. This is a ______ benefit.",
+    "options": [
+      "Residual disability",
+      "Partial disability",
+      "Presumptive disability",
+      "Recurrent disability"
+    ],
+    "answer": "Residual disability"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-residual",
+    "topic": "Partial vs. Residual",
+    "explanation": "Partial disability pays a flat percentage (often 50%) of the total benefit. Residual pays in proportion to lost INCOME \u2014 a 40% earnings drop pays 40% of the benefit.",
+    "question": "A benefit that pays a flat 50% of the total disability benefit when the insured can work but cannot perform all duties is:",
+    "options": [
+      "Partial disability",
+      "Residual disability",
+      "Total disability",
+      "Presumptive disability"
+    ],
+    "answer": "Partial disability"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-presume",
+    "topic": "Presumptive Disability",
+    "explanation": "Presumptive disability automatically qualifies as total disability without further proof: loss of sight, hearing, speech, or two limbs.",
+    "question": "Which loss would trigger a presumptive total disability benefit?",
+    "options": [
+      "Loss of sight in both eyes",
+      "A sprained ankle",
+      "A 20% loss of income",
+      "Carpal tunnel syndrome"
+    ],
+    "answer": "Loss of sight in both eyes"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-presume",
+    "topic": "Presumptive Disability",
+    "explanation": "Presumptive disability automatically qualifies as total disability without further proof: loss of sight, hearing, speech, or two limbs.",
+    "question": "Under a presumptive disability provision, the insured who loses two limbs:",
+    "options": [
+      "Is automatically considered totally disabled, with no further proof required",
+      "Must still prove she cannot perform her occupation",
+      "Receives only partial benefits",
+      "Must satisfy a new probationary period"
+    ],
+    "answer": "Is automatically considered totally disabled, with no further proof required"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-boe",
+    "topic": "Business Overhead Expense",
+    "explanation": "BOE pays the business's operating expenses (rent, utilities, staff salaries) while the owner is disabled. It does NOT replace the owner's income.",
+    "question": "Tariq owns a dental practice. He wants coverage that pays the office rent and his hygienist's salary if he becomes disabled. He needs:",
+    "options": [
+      "Business overhead expense insurance",
+      "Personal disability income insurance",
+      "Key person life insurance",
+      "A disability buy-sell agreement"
+    ],
+    "answer": "Business overhead expense insurance"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-boe",
+    "topic": "Business Overhead Expense",
+    "explanation": "BOE pays the business's operating expenses (rent, utilities, staff salaries) while the owner is disabled. It does NOT replace the owner's income.",
+    "question": "Business overhead expense insurance does NOT cover:",
+    "options": [
+      "The disabled owner's lost personal income",
+      "Office rent",
+      "Employee salaries",
+      "Utility bills"
+    ],
+    "answer": "The disabled owner's lost personal income"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-buysell",
+    "topic": "Disability Buy-Sell",
+    "explanation": "A disability buy-sell funds the purchase of a disabled partner's interest in the business, usually as a lump sum after a long elimination period.",
+    "question": "A policy designed to fund the purchase of a totally disabled partner's share of the business is a:",
+    "options": [
+      "Disability buy-sell policy",
+      "Business overhead expense policy",
+      "Key person retention policy",
+      "Group disability conversion"
+    ],
+    "answer": "Disability buy-sell policy"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-buysell",
+    "topic": "Disability Buy-Sell",
+    "explanation": "A disability buy-sell funds the purchase of a disabled partner's interest in the business, usually as a lump sum after a long elimination period.",
+    "question": "Compared to personal disability income policies, disability buy-sell policies typically have:",
+    "options": [
+      "A longer elimination period and a lump-sum benefit",
+      "A shorter elimination period and monthly benefits",
+      "No elimination period",
+      "Benefits payable to the disabled partner's family"
+    ],
+    "answer": "A longer elimination period and a lump-sum benefit"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-waiver",
+    "topic": "Waiver of Premium",
+    "explanation": "Waiver of premium keeps the policy in force without payments while the insured is totally disabled, typically kicking in after 90 days and refunding premiums paid during that time.",
+    "question": "The provision that keeps a disability policy in force without premium payments while the insured is totally disabled is:",
+    "options": [
+      "Waiver of premium",
+      "Grace period",
+      "Reinstatement",
+      "Automatic premium loan"
+    ],
+    "answer": "Waiver of premium"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-waiver",
+    "topic": "Waiver of Premium",
+    "explanation": "Waiver of premium keeps the policy in force without payments while the insured is totally disabled, typically kicking in after 90 days and refunding premiums paid during that time.",
+    "question": "The Social Insurance Supplement (SIS) rider pays:",
+    "options": [
+      "An extra benefit while the insured awaits or is denied Social Security disability benefits",
+      "The insured's Social Security taxes",
+      "A funeral benefit",
+      "The employer's share of FICA"
+    ],
+    "answer": "An extra benefit while the insured awaits or is denied Social Security disability benefits"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-cause",
+    "topic": "Accidental Means vs. Bodily Injury",
+    "explanation": "Accidental means requires the CAUSE itself to be unintended \u2014 a deliberate act (like jumping into a lake) that produces an unintended injury is NOT covered. Accidental bodily injury only requires the RESULT to be unexpected, so it's broader.",
+    "question": "Mateo's disability policy uses an 'accidental means' definition. He deliberately jumped from a dock into shallow water and broke his neck. The insurer will:",
+    "options": [
+      "Pay nothing \u2014 the jump was intentional, so the cause was not accidental",
+      "Pay in full \u2014 the injury was not planned",
+      "Pay half the benefit",
+      "Pay only medical expenses"
+    ],
+    "answer": "Pay nothing \u2014 the jump was intentional, so the cause was not accidental"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-cause",
+    "topic": "Accidental Means vs. Bodily Injury",
+    "explanation": "Accidental means requires the CAUSE itself to be unintended. Accidental bodily injury only requires the RESULT to be unexpected, so it's the broader, more favorable definition.",
+    "question": "Which definition of accident requires that BOTH the cause and the result be unexpected and unintended?",
+    "options": [
+      "Accidental means",
+      "Accidental bodily injury",
+      "Presumptive cause",
+      "Proximate cause"
+    ],
+    "answer": "Accidental means"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-cause",
+    "topic": "Accidental Means vs. Bodily Injury",
+    "explanation": "Under accidental bodily injury, only the result must be accidental \u2014 a hiker who accidentally falls is covered. Under accidental means, a deliberate act that goes wrong is not covered.",
+    "question": "While hiking, Joelle accidentally slips off a trail ledge and is paralyzed. Under an 'accidental bodily injury' provision, her claim is:",
+    "options": [
+      "Covered \u2014 the injury was unexpected and accidental",
+      "Denied \u2014 hiking is a voluntary activity",
+      "Covered at 50%",
+      "Denied \u2014 falls are excluded"
+    ],
+    "answer": "Covered \u2014 the injury was unexpected and accidental"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-delayed",
+    "topic": "Delayed Disability",
+    "explanation": "The delayed disability provision covers a disability that develops after an accident \u2014 up to a maximum of 90 days following the accident.",
+    "question": "Under a delayed disability provision, a disability that develops after an accident is still covered if it begins within a maximum of:",
+    "options": [
+      "90 days of the accident",
+      "30 days of the accident",
+      "6 months of the accident",
+      "1 year of the accident"
+    ],
+    "answer": "90 days of the accident"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-delayed",
+    "topic": "Delayed Disability",
+    "explanation": "The delayed disability provision covers a disability that develops after an accident \u2014 up to a maximum of 90 days following the accident.",
+    "question": "Caleb is in a car crash in May but doesn't become disabled from his injuries until July (within 90 days). Which provision allows his claim?",
+    "options": [
+      "The delayed disability provision",
+      "The recurrent disability provision",
+      "The probationary period",
+      "The elective indemnity option"
+    ],
+    "answer": "The delayed disability provision"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-nondis",
+    "topic": "Non-Disabling Injury Benefit",
+    "explanation": "A non-disabling injury doesn't keep the insured from working \u2014 the benefit pays the ACTUAL COST of medical treatment for the injury, never a salary percentage.",
+    "question": "An injury that does not qualify the insured for monthly disability benefits may still make him eligible for:",
+    "options": [
+      "A non-disabling injury benefit",
+      "An emergency room benefit",
+      "Outpatient compensation",
+      "A presumptive benefit"
+    ],
+    "answer": "A non-disabling injury benefit"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-nondis",
+    "topic": "Non-Disabling Injury Benefit",
+    "explanation": "A non-disabling injury benefit pays the actual cost of medical treatment for an accidental injury that doesn't prevent the insured from working.",
+    "question": "The non-disabling injury benefit pays:",
+    "options": [
+      "The actual cost of medical treatment",
+      "A flat amount equal to the insured's salary",
+      "A percentage of the insured's salary",
+      "The full monthly disability benefit"
+    ],
+    "answer": "The actual cost of medical treatment"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-elective",
+    "topic": "Elective Indemnity",
+    "explanation": "Elective indemnity, available on some short-term disability policies, lets the insured choose a lump-sum payment for certain named injuries instead of income payments.",
+    "question": "An option on some short-term disability policies allowing the insured to take a LUMP SUM for certain named injuries is called:",
+    "options": [
+      "Elective indemnity",
+      "Residual indemnity",
+      "Double indemnity",
+      "Presumptive indemnity"
+    ],
+    "answer": "Elective indemnity"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-elective",
+    "topic": "Elective Indemnity",
+    "explanation": "Elective indemnity, available on some short-term disability policies, lets the insured choose a lump-sum payment for certain named injuries instead of weekly or monthly income.",
+    "question": "Instead of receiving monthly income for his fractured arm, Drew elects a one-time lump-sum payment named in his short-term policy. He has exercised:",
+    "options": [
+      "An elective indemnity option",
+      "A waiver of premium",
+      "A COLA adjustment",
+      "A Social Security rider"
+    ],
+    "answer": "An elective indemnity option"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-benper",
+    "topic": "Benefit Periods & Premium Cost",
+    "explanation": "Short-term individual DI benefit periods run six months to two years. Premium cost rises with longer benefit periods and falls with longer elimination periods \u2014 so long elimination + short benefit period is cheapest.",
+    "question": "Individual short-term disability policy benefit periods typically range from:",
+    "options": [
+      "Six months to two years",
+      "One to 12 months",
+      "Three months to three years",
+      "One to five years"
+    ],
+    "answer": "Six months to two years"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-benper",
+    "topic": "Benefit Periods & Premium Cost",
+    "explanation": "Premium cost rises with longer benefit periods and falls with longer elimination periods \u2014 long elimination + short benefit period is the cheapest combination.",
+    "question": "Which disability policy configuration carries the LOWEST premium?",
+    "options": [
+      "A long elimination period with a short benefit period",
+      "A short elimination period with a long benefit period",
+      "A long elimination period with a long benefit period",
+      "A short elimination period with a short benefit period"
+    ],
+    "answer": "A long elimination period with a short benefit period"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-benper",
+    "topic": "Benefit Periods & Premium Cost",
+    "explanation": "A benefit period 'to age 65' ends at 65 no matter when disability begins. Disabled at 64\u00bd with a 6-month waiting period, the insured reaches 65 just as the wait ends \u2014 nothing is payable.",
+    "question": "Imelda has a $1,500/month disability policy with benefits to age 65 and a six-month waiting period. She becomes disabled at age 64\u00bd. She will receive:",
+    "options": [
+      "Nothing \u2014 the benefit period ends at 65, just as her waiting period is satisfied",
+      "$1,500 for one month",
+      "$9,000",
+      "$18,000"
+    ],
+    "answer": "Nothing \u2014 the benefit period ends at 65, just as her waiting period is satisfied"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-payment",
+    "topic": "Payment of Benefits",
+    "explanation": "Individual disability income claims must be paid no less frequently than monthly.",
+    "question": "At a minimum, disability income claim payments must be made to the insured:",
+    "options": [
+      "Monthly",
+      "Weekly",
+      "Quarterly",
+      "Annually"
+    ],
+    "answer": "Monthly"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-payment",
+    "topic": "Payment of Benefits",
+    "explanation": "Disability benefits are paid as periodic income \u2014 monthly at minimum \u2014 not as lump sums (except under elective indemnity options).",
+    "question": "Disability income benefits are typically paid:",
+    "options": [
+      "Monthly",
+      "Quarterly",
+      "Semiannually",
+      "In a single lump sum"
+    ],
+    "answer": "Monthly"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-occnon",
+    "topic": "Occupational vs. Nonoccupational",
+    "explanation": "Occupational coverage protects on AND off the job. Nonoccupational covers only off-the-job disabilities \u2014 on-the-job injuries fall to workers' compensation.",
+    "question": "A nonoccupational disability policy covers:",
+    "options": [
+      "Only disabilities occurring OFF the job",
+      "Only disabilities occurring on the job",
+      "All disabilities, on or off the job",
+      "Only occupational diseases"
+    ],
+    "answer": "Only disabilities occurring OFF the job"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-occnon",
+    "topic": "Occupational vs. Nonoccupational",
+    "explanation": "Occupational coverage protects on AND off the job. Nonoccupational covers only off-the-job disabilities \u2014 on-the-job injuries fall to workers' compensation.",
+    "question": "Why are most group disability plans written as NONoccupational coverage?",
+    "options": [
+      "On-the-job injuries are already covered by workers' compensation",
+      "Off-the-job injuries are rarer",
+      "Federal law prohibits occupational coverage",
+      "Premiums are higher for nonoccupational plans"
+    ],
+    "answer": "On-the-job injuries are already covered by workers' compensation"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-recur",
+    "topic": "Recurrent Disability",
+    "explanation": "If the same disability returns within the stated window (commonly 6 months), benefits resume immediately \u2014 no new elimination period.",
+    "question": "Rosa was disabled January 15 to April 15, returned to work, then was stricken by the same condition on September 1. Under the recurrent disability provision, her benefits:",
+    "options": [
+      "Resume September 1, with no new elimination period",
+      "Begin after a brand-new elimination period",
+      "Begin after a new probationary period",
+      "Are denied as a preexisting condition"
+    ],
+    "answer": "Resume September 1, with no new elimination period"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-recur",
+    "topic": "Recurrent Disability",
+    "explanation": "A recurrence within the stated window continues the original claim. A NEW, separate disability starts a new elimination period and a fresh benefit period.",
+    "question": "The purpose of the recurrent disability provision is to:",
+    "options": [
+      "Treat a relapse within a stated period as a continuation of the original claim, with no new elimination period",
+      "Reduce benefits for repeat claims",
+      "Extend the probationary period after each claim",
+      "Convert the policy to medical expense coverage"
+    ],
+    "answer": "Treat a relapse within a stated period as a continuation of the original claim, with no new elimination period"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-totaldef",
+    "topic": "Occupational Suitability",
+    "explanation": "Any-occupation tests look at education, training, and experience. Job interest is never a criterion. House confinement and inability to perform own/any occupation have been used in definitions of total disability.",
+    "question": "Which of the following is NOT a criterion used to assess total disability based on occupational suitability?",
+    "options": [
+      "Job interest",
+      "Education",
+      "Training",
+      "Experience"
+    ],
+    "answer": "Job interest"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-totaldef",
+    "topic": "Occupational Suitability",
+    "explanation": "'Any occupation for which the insured is qualified by education or experience' is the ANY-occupation definition \u2014 the more restrictive one. Own-occupation is less restrictive and more favorable.",
+    "question": "A policy defines total disability as the inability to perform ANY occupation for which the insured is qualified by education or experience. This definition is:",
+    "options": [
+      "The any-occupation definition, and it is more restrictive than own-occupation",
+      "The own-occupation definition, and it is more restrictive",
+      "The any-occupation definition, and it is less restrictive",
+      "The own-occupation definition, and it is less restrictive"
+    ],
+    "answer": "The any-occupation definition, and it is more restrictive than own-occupation"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-elimscenario",
+    "topic": "Elimination Period Scenarios",
+    "explanation": "Benefits never accrue during the elimination period and are NOT retroactive. If the insured recovers before the elimination period ends, nothing is paid.",
+    "question": "Jonas has a 30-day elimination period. He is sick and out of work for 15 days, then returns. His disability benefit is paid:",
+    "options": [
+      "Never \u2014 he recovered before satisfying the elimination period",
+      "Beginning on day 1, retroactively",
+      "Beginning on day 16",
+      "Beginning on day 31"
+    ],
+    "answer": "Never \u2014 he recovered before satisfying the elimination period"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-elimscenario",
+    "topic": "Elimination Period Scenarios",
+    "explanation": "Statements that elimination benefits are paid retroactively, or that elimination periods apply to sickness but not accidents, are FALSE \u2014 that second description fits the probationary period.",
+    "question": "Which statement about elimination periods is NOT correct?",
+    "options": [
+      "Benefits are paid retroactively to the start of the period if the insured stays disabled through it",
+      "It follows the start of each disability",
+      "It functions like a time deductible",
+      "Longer elimination periods reduce the premium"
+    ],
+    "answer": "Benefits are paid retroactively to the start of the period if the insured stays disabled through it"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-probscenario",
+    "topic": "Probationary + Elimination Together",
+    "explanation": "Probationary periods (commonly 15 or 30 days) block SICKNESS claims early in the policy; accidents are covered immediately. After the probationary period, sickness claims still face the elimination period.",
+    "question": "A disability policy typically covers:",
+    "options": [
+      "Accidents immediately, sickness only after the probationary period",
+      "Sickness immediately, accidents after 15 days",
+      "Both only after 15 days",
+      "Both immediately, with no waiting of any kind"
+    ],
+    "answer": "Accidents immediately, sickness only after the probationary period"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-probscenario",
+    "topic": "Probationary + Elimination Together",
+    "explanation": "Probationary periods for sickness typically run 15 or 30 days. Accidents are covered from day one.",
+    "question": "Sickness claims during a disability policy's probationary period are typically excluded for:",
+    "options": [
+      "15 or 30 days",
+      "Three or five days",
+      "60 or 90 days",
+      "90 or 180 days"
+    ],
+    "answer": "15 or 30 days"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-probscenario",
+    "topic": "Probationary + Elimination Together",
+    "explanation": "Walk the timeline: a sickness inside the probationary period is excluded entirely; an accident is covered immediately but benefits still wait out the elimination period.",
+    "question": "Hugo's policy has a 15-day probationary period and a 30-day elimination period. He is hit by a truck on September 1 (after the probationary period) and disabled for six months. Benefits first become payable:",
+    "options": [
+      "October 1 \u2014 30 days after the accident",
+      "September 1 \u2014 immediately",
+      "September 15",
+      "November 1"
+    ],
+    "answer": "October 1 \u2014 30 days after the accident"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-girdetail",
+    "topic": "Guaranteed Insurability (DI)",
+    "explanation": "The guaranteed insurability rider lets the insured buy additional coverage at predetermined intervals without new evidence of insurability; in disability policies the increase is tied to an earnings test \u2014 you can't insure income you don't earn.",
+    "question": "A guaranteed insurability rider on a disability income policy allows the insured to purchase additional coverage:",
+    "options": [
+      "Based on an earnings test, without new evidence of insurability",
+      "Based solely on inflation",
+      "Only after age 65",
+      "Whenever premiums are waived"
+    ],
+    "answer": "Based on an earnings test, without new evidence of insurability"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "group": "di-girdetail",
+    "topic": "Guaranteed Insurability (DI)",
+    "explanation": "Waiver of premium applies to disability income policies (not typically medical expense policies), may apply retroactively, and usually drops off at age 60 or 65.",
+    "question": "Which statement about the waiver of premium provision is NOT correct?",
+    "options": [
+      "It normally applies to both medical expense and disability income policies",
+      "It may apply retroactively",
+      "It usually drops off at age 60 or 65",
+      "It exempts the insured from premiums during total and permanent disability"
+    ],
+    "answer": "It normally applies to both medical expense and disability income policies"
+  },
+  {
     "module": "Next: Policy Provisions",
     "group": "pp-grace",
     "topic": "Grace Periods",
@@ -2966,426 +4184,6 @@
       "Probationary rider"
     ],
     "answer": "Guaranteed insurability rider"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-elim",
-    "topic": "Elimination vs. Probationary",
-    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
-    "question": "The waiting period between the onset of a disability and the start of benefit payments is the:",
-    "options": [
-      "Elimination period",
-      "Probationary period",
-      "Grace period",
-      "Benefit period"
-    ],
-    "answer": "Elimination period"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-elim",
-    "topic": "Elimination vs. Probationary",
-    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
-    "question": "Choosing a 180-day elimination period instead of 30 days will:",
-    "options": [
-      "Lower the premium",
-      "Raise the premium",
-      "Shorten the benefit period",
-      "Eliminate the probationary period"
-    ],
-    "answer": "Lower the premium"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-prob",
-    "topic": "Probationary Period",
-    "explanation": "The probationary period is a one-time window at the start of the policy during which sickness (never accidents) is not covered \u2014 it blocks preexisting-illness claims.",
-    "question": "A disability policy's probationary period applies to:",
-    "options": [
-      "Sickness only, during the period right after the policy is issued",
-      "Accidents only",
-      "Both sickness and accidents, on every claim",
-      "Claims filed after age 65"
-    ],
-    "answer": "Sickness only, during the period right after the policy is issued"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-prob",
-    "topic": "Probationary Period",
-    "explanation": "The probationary period is a one-time window at the start of the policy during which sickness (never accidents) is not covered \u2014 it blocks preexisting-illness claims.",
-    "question": "Two weeks after buying a disability policy with a 30-day probationary period, Lena is hurt in a car accident and cannot work. The insurer will:",
-    "options": [
-      "Pay \u2014 the probationary period does not apply to accidents",
-      "Deny \u2014 no claims are covered during the probationary period",
-      "Pay only half the benefit",
-      "Refund her premium and void the policy"
-    ],
-    "answer": "Pay \u2014 the probationary period does not apply to accidents"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-occ",
-    "topic": "Own vs. Any Occupation",
-    "explanation": "Own-occupation pays if you can't do YOUR job (easier to qualify, costlier). Any-occupation pays only if you can't do any job suited to your education, training, or experience.",
-    "question": "Under an own-occupation definition of disability, a surgeon who loses fine motor control but takes a teaching job will:",
-    "options": [
-      "Receive benefits, because she cannot perform her own occupation",
-      "Receive nothing, because she can still work",
-      "Receive benefits only after age 65",
-      "Forfeit the policy"
-    ],
-    "answer": "Receive benefits, because she cannot perform her own occupation"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-occ",
-    "topic": "Own vs. Any Occupation",
-    "explanation": "Own-occupation pays if you can't do YOUR job (easier to qualify, costlier). Any-occupation pays only if you can't do any job suited to your education, training, or experience.",
-    "question": "Which definition of total disability is most favorable to the insured?",
-    "options": [
-      "Own occupation",
-      "Any occupation",
-      "Presumptive occupation",
-      "Residual occupation"
-    ],
-    "answer": "Own occupation"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-residual",
-    "topic": "Partial vs. Residual",
-    "explanation": "Partial disability pays a flat percentage (often 50%) of the total benefit. Residual pays in proportion to lost INCOME \u2014 a 40% earnings drop pays 40% of the benefit.",
-    "question": "Marco returned to work part-time and his earnings dropped 40%. His policy pays 40% of his total disability benefit. This is a ______ benefit.",
-    "options": [
-      "Residual disability",
-      "Partial disability",
-      "Presumptive disability",
-      "Recurrent disability"
-    ],
-    "answer": "Residual disability"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-residual",
-    "topic": "Partial vs. Residual",
-    "explanation": "Partial disability pays a flat percentage (often 50%) of the total benefit. Residual pays in proportion to lost INCOME \u2014 a 40% earnings drop pays 40% of the benefit.",
-    "question": "A benefit that pays a flat 50% of the total disability benefit when the insured can work but cannot perform all duties is:",
-    "options": [
-      "Partial disability",
-      "Residual disability",
-      "Total disability",
-      "Presumptive disability"
-    ],
-    "answer": "Partial disability"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-presume",
-    "topic": "Presumptive Disability",
-    "explanation": "Presumptive disability automatically qualifies as total disability without further proof: loss of sight, hearing, speech, or two limbs.",
-    "question": "Which loss would trigger a presumptive total disability benefit?",
-    "options": [
-      "Loss of sight in both eyes",
-      "A sprained ankle",
-      "A 20% loss of income",
-      "Carpal tunnel syndrome"
-    ],
-    "answer": "Loss of sight in both eyes"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-presume",
-    "topic": "Presumptive Disability",
-    "explanation": "Presumptive disability automatically qualifies as total disability without further proof: loss of sight, hearing, speech, or two limbs.",
-    "question": "Under a presumptive disability provision, the insured who loses two limbs:",
-    "options": [
-      "Is automatically considered totally disabled, with no further proof required",
-      "Must still prove she cannot perform her occupation",
-      "Receives only partial benefits",
-      "Must satisfy a new probationary period"
-    ],
-    "answer": "Is automatically considered totally disabled, with no further proof required"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-boe",
-    "topic": "Business Overhead Expense",
-    "explanation": "BOE pays the business's operating expenses (rent, utilities, staff salaries) while the owner is disabled. It does NOT replace the owner's income.",
-    "question": "Tariq owns a dental practice. He wants coverage that pays the office rent and his hygienist's salary if he becomes disabled. He needs:",
-    "options": [
-      "Business overhead expense insurance",
-      "Personal disability income insurance",
-      "Key person life insurance",
-      "A disability buy-sell agreement"
-    ],
-    "answer": "Business overhead expense insurance"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-boe",
-    "topic": "Business Overhead Expense",
-    "explanation": "BOE pays the business's operating expenses (rent, utilities, staff salaries) while the owner is disabled. It does NOT replace the owner's income.",
-    "question": "Business overhead expense insurance does NOT cover:",
-    "options": [
-      "The disabled owner's lost personal income",
-      "Office rent",
-      "Employee salaries",
-      "Utility bills"
-    ],
-    "answer": "The disabled owner's lost personal income"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-buysell",
-    "topic": "Disability Buy-Sell",
-    "explanation": "A disability buy-sell funds the purchase of a disabled partner's interest in the business, usually as a lump sum after a long elimination period.",
-    "question": "A policy designed to fund the purchase of a totally disabled partner's share of the business is a:",
-    "options": [
-      "Disability buy-sell policy",
-      "Business overhead expense policy",
-      "Key person retention policy",
-      "Group disability conversion"
-    ],
-    "answer": "Disability buy-sell policy"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-buysell",
-    "topic": "Disability Buy-Sell",
-    "explanation": "A disability buy-sell funds the purchase of a disabled partner's interest in the business, usually as a lump sum after a long elimination period.",
-    "question": "Compared to personal disability income policies, disability buy-sell policies typically have:",
-    "options": [
-      "A longer elimination period and a lump-sum benefit",
-      "A shorter elimination period and monthly benefits",
-      "No elimination period",
-      "Benefits payable to the disabled partner's family"
-    ],
-    "answer": "A longer elimination period and a lump-sum benefit"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-waiver",
-    "topic": "Waiver of Premium",
-    "explanation": "Waiver of premium keeps the policy in force without payments while the insured is totally disabled, typically kicking in after 90 days and refunding premiums paid during that time.",
-    "question": "The provision that keeps a disability policy in force without premium payments while the insured is totally disabled is:",
-    "options": [
-      "Waiver of premium",
-      "Grace period",
-      "Reinstatement",
-      "Automatic premium loan"
-    ],
-    "answer": "Waiver of premium"
-  },
-  {
-    "module": "Next: Disability Income",
-    "group": "di-waiver",
-    "topic": "Waiver of Premium",
-    "explanation": "Waiver of premium keeps the policy in force without payments while the insured is totally disabled, typically kicking in after 90 days and refunding premiums paid during that time.",
-    "question": "The Social Insurance Supplement (SIS) rider pays:",
-    "options": [
-      "An extra benefit while the insured awaits or is denied Social Security disability benefits",
-      "The insured's Social Security taxes",
-      "A funeral benefit",
-      "The employer's share of FICA"
-    ],
-    "answer": "An extra benefit while the insured awaits or is denied Social Security disability benefits"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-basicmajor",
-    "topic": "Basic vs. Major Medical",
-    "explanation": "Basic plans give first-dollar coverage with low limits; major medical gives broad, high-limit coverage with deductibles and coinsurance.",
-    "question": "A plan that pays from the first dollar but only up to low stated limits per service is a:",
-    "options": [
-      "Basic medical expense plan",
-      "Major medical plan",
-      "Comprehensive major medical plan",
-      "High-deductible health plan"
-    ],
-    "answer": "Basic medical expense plan"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-basicmajor",
-    "topic": "Basic vs. Major Medical",
-    "explanation": "Basic plans give first-dollar coverage with low limits; major medical gives broad, high-limit coverage with deductibles and coinsurance.",
-    "question": "Which features distinguish major medical insurance from basic plans?",
-    "options": [
-      "High maximum limits with deductibles and coinsurance",
-      "First-dollar coverage with low limits",
-      "Coverage limited to surgical schedules",
-      "No cost-sharing of any kind"
-    ],
-    "answer": "High maximum limits with deductibles and coinsurance"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-costshare",
-    "topic": "Deductibles, Coinsurance & Stop-Loss",
-    "explanation": "Cost-sharing order: deductible first, then coinsurance (e.g., 80/20), until the stop-loss limit caps the insured's out-of-pocket \u2014 after which the plan pays 100%.",
-    "question": "After Roy meets his deductible, his plan pays 80% of covered charges until his out-of-pocket reaches $6,000, after which it pays 100%. The $6,000 figure is the:",
-    "options": [
-      "Stop-loss limit",
-      "Coinsurance percentage",
-      "Carryover deductible",
-      "UCR limit"
-    ],
-    "answer": "Stop-loss limit"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-costshare",
-    "topic": "Deductibles, Coinsurance & Stop-Loss",
-    "explanation": "Cost-sharing order: deductible first, then coinsurance (e.g., 80/20), until the stop-loss limit caps the insured's out-of-pocket \u2014 after which the plan pays 100%.",
-    "question": "Three members of the Diaz family are injured in the same car crash. Their plan applies only one deductible for all three claims. This reflects a:",
-    "options": [
-      "Common accident provision",
-      "Carryover provision",
-      "Family stop-loss provision",
-      "Coordination of benefits provision"
-    ],
-    "answer": "Common accident provision"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-carryover",
-    "topic": "Carryover Deductible",
-    "explanation": "A carryover provision lets expenses incurred in the last three months of the year count toward NEXT year's deductible.",
-    "question": "Expenses Quinn incurred in November and December that didn't satisfy this year's deductible may count toward next year's deductible under a:",
-    "options": [
-      "Carryover provision",
-      "Common accident provision",
-      "Stop-loss provision",
-      "Probationary provision"
-    ],
-    "answer": "Carryover provision"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-carryover",
-    "topic": "Carryover Deductible",
-    "explanation": "A carryover provision lets expenses incurred in the last three months of the year count toward NEXT year's deductible.",
-    "question": "The carryover deductible provision applies to expenses incurred during:",
-    "options": [
-      "The last three months of the calendar year",
-      "The first 31 days of coverage",
-      "Any month premiums were waived",
-      "The elimination period"
-    ],
-    "answer": "The last three months of the calendar year"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-hsa",
-    "topic": "HSA Eligibility",
-    "explanation": "HSAs require a high-deductible health plan (HDHP), no other first-dollar coverage, no Medicare enrollment, and not being claimed as a dependent. Contributions, growth, and qualified withdrawals are all tax-advantaged, and funds roll over.",
-    "question": "To be eligible to contribute to a Health Savings Account, a person must:",
-    "options": [
-      "Be covered by a high-deductible health plan",
-      "Be enrolled in Medicare Part A",
-      "Have a flexible spending account",
-      "Earn less than 400% of the poverty level"
-    ],
-    "answer": "Be covered by a high-deductible health plan"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-hsa",
-    "topic": "HSA Eligibility",
-    "explanation": "HSAs require a high-deductible health plan (HDHP), no other first-dollar coverage, no Medicare enrollment, and not being claimed as a dependent. Contributions, growth, and qualified withdrawals are all tax-advantaged, and funds roll over.",
-    "question": "Which statement about Health Savings Accounts is TRUE?",
-    "options": [
-      "Unused funds roll over from year to year and belong to the account holder",
-      "Unused funds are forfeited each December 31",
-      "Only employers may contribute",
-      "Withdrawals for medical care are taxed as income"
-    ],
-    "answer": "Unused funds roll over from year to year and belong to the account holder"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-fsa-hra",
-    "topic": "FSA vs. HRA",
-    "explanation": "FSA = employee-funded pre-tax, use-it-or-lose-it. HRA = employer-funded only, reimburses medical expenses, rollover at employer's discretion.",
-    "question": "Which account is funded ONLY by the employer?",
-    "options": [
-      "Health Reimbursement Arrangement (HRA)",
-      "Health Savings Account (HSA)",
-      "Flexible Spending Account (FSA)",
-      "Individual retirement account"
-    ],
-    "answer": "Health Reimbursement Arrangement (HRA)"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-fsa-hra",
-    "topic": "FSA vs. HRA",
-    "explanation": "FSA = employee-funded pre-tax, use-it-or-lose-it. HRA = employer-funded only, reimburses medical expenses, rollover at employer's discretion.",
-    "question": "The 'use it or lose it' rule is most associated with:",
-    "options": [
-      "Flexible Spending Accounts",
-      "Health Savings Accounts",
-      "Health Reimbursement Arrangements",
-      "High-deductible health plans"
-    ],
-    "answer": "Flexible Spending Accounts"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-ucr",
-    "topic": "Usual, Customary & Reasonable",
-    "explanation": "UCR-based plans pay what providers in the geographic area typically charge; amounts billed above UCR are the insured's responsibility.",
-    "question": "Dr. Patel bills $500 for a procedure, but the plan's usual, customary and reasonable amount is $400. The insured is responsible for:",
-    "options": [
-      "The $100 above the UCR amount, plus any normal cost-sharing",
-      "Nothing \u2014 UCR protects the insured fully",
-      "The entire $500",
-      "Only the copayment"
-    ],
-    "answer": "The $100 above the UCR amount, plus any normal cost-sharing"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-ucr",
-    "topic": "Usual, Customary & Reasonable",
-    "explanation": "UCR-based plans pay what providers in the geographic area typically charge; amounts billed above UCR are the insured's responsibility.",
-    "question": "'Usual, customary and reasonable' charges are based on:",
-    "options": [
-      "What providers in the same geographic area typically charge for the service",
-      "The insurer's home-office fee schedule",
-      "Medicare's national rates",
-      "The provider's costs plus 20%"
-    ],
-    "answer": "What providers in the same geographic area typically charge for the service"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-dental",
-    "topic": "Dental Plan Tiers",
-    "explanation": "Dental coverage tiers: preventive/diagnostic ~100%, basic (fillings) ~80%, major (crowns, dentures) ~50% \u2014 often with waiting periods and annual maximums.",
-    "question": "Which dental services are typically covered at the HIGHEST percentage?",
-    "options": [
-      "Preventive and diagnostic services like cleanings and exams",
-      "Crowns and bridges",
-      "Dentures",
-      "Orthodontics"
-    ],
-    "answer": "Preventive and diagnostic services like cleanings and exams"
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "group": "mp-dental",
-    "topic": "Dental Plan Tiers",
-    "explanation": "Dental coverage tiers: preventive/diagnostic ~100%, basic (fillings) ~80%, major (crowns, dentures) ~50% \u2014 often with waiting periods and annual maximums.",
-    "question": "Compared with medical insurance, dental plans commonly include:",
-    "options": [
-      "Calendar-year maximums and waiting periods for major services",
-      "Unlimited lifetime benefits",
-      "No cost-sharing",
-      "Coverage only after hospitalization"
-    ],
-    "answer": "Calendar-year maximums and waiting periods for major services"
   },
   {
     "module": "Next: Group Health & COBRA",

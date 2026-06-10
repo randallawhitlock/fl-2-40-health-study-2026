@@ -1001,6 +1001,293 @@
     ]
   },
   {
+    "module": "Day 4 Module 1",
+    "title": "Medical Expense Insurance (Unit 17)",
+    "sections": [
+      {
+        "heading": "The Two Worlds of Medical Expense Coverage",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Medical expense insurance pays the costs of medical care \u2014 hospital care, diagnostics, lab work, rehab, dental, physical therapy. Every plan falls into one of two categories: **basic** plans (limited, first-dollar coverage) and **major medical** plans (broad, catastrophic coverage). Most plans pay on a **reimbursement** basis (actual expenses incurred); some pay a **fixed rate** (a flat amount per day, regardless of actual cost)."
+          },
+          {
+            "type": "tip",
+            "text": "Clue words for MAJOR MEDICAL on the exam: major, comprehensive, reimbursement, flat deductible, right of assignment, commercial insurer. Clue words for BASIC: first dollar, benefit limits, no deductible."
+          }
+        ]
+      },
+      {
+        "heading": "Basic Medical Expense Plans \u2014 First Dollar Insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Basic plans are called **first dollar insurance** because they pay from the first dollar with no deductible. The trade-off: low benefit LIMITS. Basic plans control costs by capping benefits \u2014 not with deductibles or coinsurance. The five coverage categories:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Basic hospital expense** \u2014 daily room and board (room charges, meals, general nursing) up to a daily limit, plus **miscellaneous expenses**: drugs, X-rays, anesthesia, lab fees, dressings, operating room, supplies. Miscellaneous limits are often expressed as a multiple of the daily room-and-board benefit. NOT covered: surgeons' fees and physicians' bedside visits \u2014 those belong to surgical and physicians' expense coverage.",
+              "**Basic surgical expense** \u2014 surgeon, anesthesiologist, and post-operative care, paid by one of three methods (next section).",
+              "**Basic physicians' (non-surgical) expense** \u2014 office visits and other non-surgical physician services.",
+              "**Nurses' expense** \u2014 private duty nursing.",
+              "**Convalescent care expense** \u2014 skilled nursing facility costs."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "'What does the miscellaneous expense benefit NOT cover?' \u2014 room and board and physicians' bedside visits. 'What limits miscellaneous expenses?' \u2014 they're tied to the daily room-and-board benefit. Basic plans also never cover LOST INCOME \u2014 that's disability insurance."
+          }
+        ]
+      },
+      {
+        "heading": "The Three Surgical Payment Methods",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Surgical schedule** \u2014 the insurer assigns a flat dollar value to each procedure. If the schedule says $500 and the surgeon bills $675, the policy pays $500.",
+              "**Reasonable and customary (R&C)** \u2014 the charge is compared to what's typical for that REGION. Anything above R&C is the patient's responsibility.",
+              "**Relative value scale** \u2014 each procedure gets POINTS, converted to dollars by a **conversion factor**. Example: an appendectomy worth 60 points with a $10 conversion factor pays 60 \u00d7 $10 = $600."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Points = relative value scale. Dollar amounts per procedure = surgical schedule. Geographic comparison = reasonable and customary. Practice the points \u00d7 conversion factor math."
+          }
+        ]
+      },
+      {
+        "heading": "Major Medical: Supplementary vs. Comprehensive",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Supplementary major medical** \u2014 sits ON TOP of a basic plan: covers what the basic plan excludes and expenses that exceed the basic plan's limits.",
+              "**Comprehensive major medical** \u2014 ONE policy covering almost all medical costs, combining basic + major medical protection."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Major medical plans carry large benefit limits (lifetime dollar limits are now prohibited by the ACA) and use two cost-sharing tools that keep premiums down: the **deductible** and **coinsurance**. The ACA also eliminated preexisting-condition exclusions in ACA-compliant plans \u2014 historically those exclusions protected insurers from adverse selection."
+          }
+        ]
+      },
+      {
+        "heading": "The Three Major Medical Deductibles",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Flat** \u2014 a fixed sum (e.g., $500) the insured pays first. Expenses below the deductible mean the policy pays nothing.",
+              "**Corridor** \u2014 works WITH a basic policy: the basic plan pays first; once its benefits are exhausted, the insured pays the full deductible (the 'corridor') before major medical benefits begin.",
+              "**Integrated** \u2014 the deductible can be satisfied (offset) in whole or part by what the basic plan pays."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Three deductibles: flat, corridor, integrated. STOP-LOSS IS NOT A DEDUCTIBLE \u2014 it's a separate feature. 'Which is not a major medical deductible?' \u2192 stop-loss. Deductibles are most common in MAJOR MEDICAL plans, never basic plans."
+          }
+        ]
+      },
+      {
+        "heading": "Coinsurance, Stop-Loss, and the Math",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After the deductible, insurer and insured split costs \u2014 most commonly **80/20**. Coinsurance discourages overutilization of benefits. The **stop-loss feature** caps the insured's out-of-pocket: past that point, the insurer pays 100%. Stop-loss applies to the COINSURANCE share."
+          },
+          {
+            "type": "p",
+            "text": "**Worked example:** $9,500 hospital bill, $500 deductible, 80/20 coinsurance. Insured pays $500 + 20% of the remaining $9,000 ($1,800) = **$2,300**. The insurer pays $7,200."
+          },
+          {
+            "type": "p",
+            "text": "**Basic plan example:** policy pays $50/day room and board (insured hospitalized 7 days at $80/day), $500 scheduled surgery (billed $675), $750 miscellaneous max (billed $800). Policy pays 7\u00d7$50 + $500 + $750 = **$1,600** \u2014 every benefit capped at its limit, the rest is the insured's problem."
+          },
+          {
+            "type": "tip",
+            "text": "Deductible first, then the percentage of what REMAINS. For basic plans, pay each category only up to its stated limit."
+          }
+        ]
+      },
+      {
+        "heading": "HDHPs and the Three Accounts",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**HDHP** \u2014 high deductible, low premium; the entry ticket for an HSA.",
+              "**HSA (Health Savings Account)** \u2014 individually owned, tax-favored savings for medical costs; requires HDHP enrollment, no other first-dollar coverage, not on Medicare. Funds roll over and are portable.",
+              "**FSA (Flexible Spending Account)** \u2014 EMPLOYEE pretax contributions for out-of-pocket medical costs; use-it-or-lose-it.",
+              "**HRA (Health Reimbursement Account)** \u2014 EMPLOYER-funded pretax dollars covering deductibles, copays, and coinsurance."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Who funds it: HSA = individual (needs HDHP). FSA = employee pretax. HRA = employer ONLY \u2014 'HRAs are established by the employer' is the tested fact."
+          }
+        ]
+      },
+      {
+        "heading": "Other Medical Expense Coverages",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Hospital indemnity (fixed-rate)** \u2014 pays a flat daily/weekly/monthly amount per day hospitalized, paid TO THE INSURED (not the hospital). Because the benefit is fixed, claim costs aren't affected by rising healthcare costs, premiums stay low, and underwriting is simple \u2014 which also makes it the premium least affected by medical inflation.",
+              "**Limited risk (dread disease) policies** \u2014 cover one specific ailment, like cancer or heart disease. Travel accident and hospital indemnity policies are also limited risk policies.",
+              "**Accident-only insurance** \u2014 covers accidents, never illness.",
+              "**Short-term medical** \u2014 covers a specific period; Florida defines it as coverage expiring less than 12 months after the effective date, not exceeding 36 months total with renewals."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Fixed-rate plan questions: benefits go to the INSURED, not the hospital \u2014 'benefits are paid directly to the hospital' is the NOT-true answer. Dread disease = cancer policy = limited risk."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "Day 4 Module 2",
+    "title": "Disability Income Insurance (Unit 18)",
+    "sections": [
+      {
+        "heading": "Purpose: Insuring Against Economic Death",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Disability income insurance protects against the **economic death** of a wage earner \u2014 being alive but unable to earn. Benefits are paid as income payments (at minimum **monthly**), sized either by a formula tied to a **percentage of pre-disability earnings** or as a **flat amount**. Policies cover accidents only, or sickness and accidents together."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Occupational coverage** \u2014 covers disabilities that happen ON or off the job.",
+              "**Nonoccupational coverage** \u2014 covers only disabilities occurring OFF the job (on-the-job injuries are workers' comp territory). Most group DI is nonoccupational."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Disability insurance replaces a paycheck. It never pays hospital bills \u2014 and medical expense insurance never pays lost income. Keep the lanes separate."
+          }
+        ]
+      },
+      {
+        "heading": "Defining Total Disability",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Own occupation** \u2014 can't perform YOUR OWN job (the dentist who can't practice dentistry). Easiest to qualify under, most favorable to the insured, most expensive.",
+              "**Any occupation** \u2014 can't perform ANY job you're suited for by **education, training, or experience**. More restrictive, cheaper. Job INTEREST is never part of the test.",
+              "**Presumptive disability** \u2014 automatic qualification for full benefits: complete/substantial loss of sight, deafness, loss of speech, or loss of two or more limbs. Diseases like cancer are NOT presumptive disabilities \u2014 they must qualify under the policy's regular definition."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Occupational suitability = education, training, experience. 'Job interest' is the planted wrong answer. And any-occupation is the MORE restrictive definition \u2014 own-occupation the LESS restrictive one."
+          }
+        ]
+      },
+      {
+        "heading": "Partial and Residual Benefits",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Partial disability** \u2014 can work, but not full duties or full time. Paid either as a **flat amount** stated in the policy or\u2026",
+              "**Residual amount** \u2014 a portion of ACTUAL INCOME LOST. A $1,000/month benefit with a 40% income loss pays **$400/month**; a $2,500 benefit with the same 40% loss pays **$1,000**.",
+              "A doctor who returns part-time and keeps receiving proportional benefits is using a **residual benefit clause**."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Residual math: benefit \u00d7 percentage of income lost. It is never 'benefit minus salary' or a flat 50%."
+          }
+        ]
+      },
+      {
+        "heading": "Accidental Means vs. Accidental Bodily Injury",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Accidental means** (restrictive) \u2014 both the CAUSE and the result must be unexpected. Deliberately jumping into a lake and breaking your neck = the jump was intentional = NO coverage, regardless of how unintended the injury was.",
+              "**Accidental bodily injury** (broader) \u2014 only the RESULT must be unexpected. Accidentally falling off a cliff = covered."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Under accidental means, the insurer pays NOTHING for an intentional act with an unintended injury. If the question features a voluntary jump, the answer is 'pay nothing \u2014 the jump was no accident.'"
+          }
+        ]
+      },
+      {
+        "heading": "The Policy's Time Machine: Probationary, Elimination, Benefit, Delayed",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Probationary period** \u2014 one-time window after issue (commonly **15 or 30 days**) during which SICKNESS is not covered. Accidents are covered immediately from day one.",
+              "**Elimination (waiting) period** \u2014 the 'time deductible' after EACH disability begins, before benefits start. Benefits are NOT paid retroactively for the elimination period, and it applies to sickness and accidents alike. Longer elimination = lower premium \u2014 the insured accepts the risk of short-term disability to cut cost.",
+              "**Benefit period** \u2014 how long benefits last once they start. Longer benefit period = higher premium. The cheapest combination: LONG elimination period + SHORT benefit period.",
+              "**Delayed disability provision** \u2014 an injury from an accident may manifest later and still be covered, up to a maximum of **90 days** after the accident."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Two scenario traps: (1) Joseph, 30-day elimination period, sick 15 days \u2192 benefits NEVER paid; he recovered inside the elimination period. (2) Lucy, benefit to age 65 with a 6-month wait, disabled at 64\u00bd \u2192 she reaches 65 as the wait ends and collects NOTHING."
+          }
+        ]
+      },
+      {
+        "heading": "Recurrent, Non-Disabling, and Elective Indemnity",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Recurrent disability** \u2014 if the same disability returns within the stated window (commonly 6 months), benefits RESUME immediately: no new elimination period. Rachel, disabled Jan 15\u2013Apr 15 and again Sept 1 \u2014 benefits resume Sept 1.",
+              "**Non-disabling injury benefit** \u2014 an injury that doesn't stop you from working can still trigger payment of the ACTUAL COST OF MEDICAL TREATMENT, up to a limit. It never pays a salary percentage.",
+              "**Elective indemnity** \u2014 on some short-term policies, the insured may choose a LUMP SUM for certain named injuries instead of income payments."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Non-disabling injury benefit = actual medical treatment cost. Lump sum option for named injuries = elective indemnity."
+          }
+        ]
+      },
+      {
+        "heading": "Riders",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Waiver of premium** \u2014 no premiums owed during total and permanent disability; may apply retroactively; usually drops off at age 60 or 65. It belongs to DISABILITY income policies \u2014 saying it 'normally applies to both medical expense and disability income policies' is FALSE.",
+              "**Social Security rider** \u2014 extra income while eligible for, but not yet receiving, Social Security benefits; coordinates with the government benefit.",
+              "**COLA rider** \u2014 benefit adjusts with the **Consumer Price Index** to keep pace with inflation.",
+              "**Guaranteed insurability rider** \u2014 buy additional coverage at predetermined intervals with no new evidence of insurability (DI increases are tied to an earnings test \u2014 you can't insure income you don't have)."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "CPI in the question = COLA rider. Keep-the-policy-alive-while-disabled = waiver of premium. Buy-more-later-without-underwriting = guaranteed insurability."
+          }
+        ]
+      },
+      {
+        "heading": "Benefit Periods by Policy Type",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Individual **short-term disability** policies typically carry benefit periods from **six months to two years**. Long-term policies run two years, five years, to age 65, or for life. Whatever the length, individual disability claims must be paid no less frequently than **monthly**."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "module": "Next: Policy Provisions",
     "category": "Coming Up Next",
     "title": "Health Policy Provisions, Clauses & Riders",
@@ -1077,169 +1364,6 @@
           {
             "type": "tip",
             "text": "Free look starts at DELIVERY. 10 days standard, 30 days for Medicare supplement and LTC \u2014 a favorite trick pairing."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "module": "Next: Disability Income",
-    "category": "Coming Up Next",
-    "title": "Disability Income \u2014 Deep Dive",
-    "sections": [
-      {
-        "heading": "Waiting Periods: Elimination vs. Probationary",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Elimination period** \u2014 a 'time deductible': the days between onset of disability and when benefits begin (commonly 30\u2013180 days). **Longer elimination period = lower premium.** It applies to every disability.",
-              "**Probationary period** \u2014 a one-time waiting period at the START of the policy, applying only to **sickness** (never accidents), designed to block preexisting-illness claims."
-            ]
-          },
-          {
-            "type": "tip",
-            "text": "Elimination = every claim, sickness or accident. Probationary = once, sickness only. The exam loves to swap these."
-          }
-        ]
-      },
-      {
-        "heading": "Definitions of Total Disability",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Own occupation** \u2014 unable to perform the duties of YOUR OWN job. Easier to qualify, more expensive. Typically used for the first 2 years of a claim.",
-              "**Any occupation** \u2014 unable to perform ANY job you're reasonably suited for by education, training, or experience. Harder to qualify, cheaper.",
-              "**Presumptive disability** \u2014 certain losses automatically count as total disability with no further proof: loss of sight, hearing, speech, or two limbs."
-            ]
-          },
-          {
-            "type": "tip",
-            "text": "A surgeon who loses fine motor control can't operate but could teach: covered under own-occ, possibly not under any-occ. Scenario questions hinge on this distinction."
-          }
-        ]
-      },
-      {
-        "heading": "Partial, Residual, and Recurrent",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Partial disability** \u2014 can work, but can't perform some duties or work full-time; pays a flat percentage (often 50%) of the total benefit for a limited time.",
-              "**Residual disability** \u2014 pays a benefit proportional to lost INCOME (e.g., earnings drop 40% \u2192 benefit pays 40%). Common for return-to-work transitions.",
-              "**Recurrent disability** \u2014 if the same disability returns within a stated period (often 6 months), it's treated as a continuation \u2014 NO new elimination period."
-            ]
-          },
-          {
-            "type": "tip",
-            "text": "Partial pays a flat amount; residual pays based on lost earnings. If the question mentions a percentage of INCOME lost, the answer is residual."
-          }
-        ]
-      },
-      {
-        "heading": "Business Disability Coverage",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Business overhead expense (BOE)** \u2014 pays the business's rent, utilities, and employee salaries while the OWNER is disabled. It does NOT replace the owner's income; benefits are taxable, premiums deductible.",
-              "**Key person disability** \u2014 owned by and payable to the business, covering losses from a key employee's disability.",
-              "**Disability buy-sell** \u2014 funds the purchase of a disabled partner's business interest; usually a lump sum after a long elimination period."
-            ]
-          },
-          {
-            "type": "tip",
-            "text": "BOE pays the LIGHT BILL, not the owner's paycheck. If the question asks what keeps the office running, it's BOE; if it funds a partner buyout, it's disability buy-sell."
-          }
-        ]
-      },
-      {
-        "heading": "Other Riders and Provisions",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Waiver of premium** \u2014 premiums are waived while totally disabled (usually after 90 days, retroactive to day one); keeps the policy alive when income stops.",
-              "**Cost-of-living adjustment (COLA)** \u2014 benefits increase with inflation during a claim.",
-              "**Social Insurance Supplement (SIS)** \u2014 pays extra while the insured waits for (or is denied) Social Security disability; reduced if Social Security pays."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "module": "Next: Medical Plans & HSAs",
-    "category": "Coming Up Next",
-    "title": "Medical Expense Plans, Account-Based Plans & Dental",
-    "sections": [
-      {
-        "heading": "Basic vs. Major Medical",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Basic plans** (hospital, surgical, medical) \u2014 first-dollar coverage (little or no deductible) but LOW limits and narrow scope; surgical schedules cap what's paid per procedure.",
-              "**Major medical** \u2014 broad, catastrophic coverage with high maximums, but cost-sharing: deductibles, coinsurance, and (historically) lifetime limits \u2014 the ACA removed lifetime/annual dollar limits on essential benefits.",
-              "**Comprehensive major medical** \u2014 combines basic + major medical in one plan."
-            ]
-          },
-          {
-            "type": "tip",
-            "text": "Basic = first-dollar, low limits. Major medical = high limits, cost sharing. 'No deductible but only pays $200 per day of hospitalization' describes a basic plan."
-          }
-        ]
-      },
-      {
-        "heading": "Cost-Sharing Mechanics",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Deductible** \u2014 what you pay before the plan pays. Variations: individual, family (often 2\u20133\u00d7 individual), **common accident** (one deductible when several family members are hurt in the same accident), **carryover** (expenses in the last 3 months of the year count toward next year's deductible).",
-              "**Coinsurance** \u2014 after the deductible, the plan pays a percentage (commonly 80/20).",
-              "**Stop-loss limit** \u2014 the cap on the insured's out-of-pocket; beyond it the plan pays 100%.",
-              "**Usual, customary & reasonable (UCR)** \u2014 plans pay what providers in the area typically charge; amounts above UCR are the insured's problem."
-            ]
-          },
-          {
-            "type": "tip",
-            "text": "Order of operations: deductible \u2192 coinsurance \u2192 stop-loss \u2192 plan pays 100%. Walk every math question through that chain."
-          }
-        ]
-      },
-      {
-        "heading": "HSAs, FSAs, and HRAs",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**HSA (Health Savings Account)** \u2014 individually owned, triple tax-advantaged (deductible in, grows tax-free, tax-free out for qualified medical). Requires enrollment in a **high-deductible health plan (HDHP)**, no other first-dollar coverage, not enrolled in Medicare, not a dependent. Funds roll over and are portable.",
-              "**FSA (Flexible Spending Account)** \u2014 employer-sponsored, funded pre-tax by salary reduction; 'use it or lose it' (small carryover/grace allowances exist).",
-              "**HRA (Health Reimbursement Arrangement)** \u2014 funded ONLY by the employer; reimburses medical expenses; unused amounts may roll over at the employer's discretion."
-            ]
-          },
-          {
-            "type": "tip",
-            "text": "Who funds it? HSA = individual (needs HDHP). FSA = employee pre-tax (use it or lose it). HRA = employer only. That one distinction answers most questions."
-          }
-        ]
-      },
-      {
-        "heading": "Dental",
-        "blocks": [
-          {
-            "type": "list",
-            "items": [
-              "**Preventive/diagnostic** (cleanings, exams, x-rays) \u2014 typically covered ~100%, often no deductible.",
-              "**Basic** (fillings, extractions) \u2014 typically ~80%.",
-              "**Major** (crowns, bridges, dentures) \u2014 typically ~50%, and orthodontics often has a separate lifetime maximum."
-            ]
-          },
-          {
-            "type": "p",
-            "text": "Dental plans commonly impose calendar-year maximums and waiting periods for major services \u2014 the reverse of medical plans, where catastrophic costs are the focus."
           }
         ]
       }

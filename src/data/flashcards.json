@@ -715,122 +715,122 @@
     "definition": "Lets the insured buy additional coverage at set dates without new evidence of insurability."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Elimination period",
     "definition": "The 'time deductible' between onset of disability and the first benefit payment; applies to every claim. Longer period = lower premium."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Probationary period",
     "definition": "One-time waiting period at policy start during which sickness (never accidents) is not covered."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Own-occupation definition",
     "definition": "Totally disabled if unable to perform the duties of YOUR OWN occupation. Easier to qualify, more expensive."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Any-occupation definition",
     "definition": "Totally disabled only if unable to perform ANY occupation suited to your education, training, or experience."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Partial disability benefit",
     "definition": "Flat percentage (often 50%) of the total benefit when the insured can work but not full duties or full time."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Residual disability benefit",
     "definition": "Benefit proportional to lost income \u2014 a 40% earnings drop pays 40% of the total benefit."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Presumptive disability",
     "definition": "Automatic total disability with no further proof: loss of sight, hearing, speech, or two limbs."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Recurrent disability",
     "definition": "If the same disability returns within a stated period (often 6 months), it is a continuation \u2014 no new elimination period."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Business overhead expense (BOE)",
     "definition": "Pays the business's rent, utilities, and employee salaries while the owner is disabled. Does NOT replace the owner's income."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Disability buy-sell",
     "definition": "Funds the purchase of a disabled partner's business interest; usually a lump sum after a long elimination period."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Waiver of premium",
     "definition": "Premiums are waived while the insured is totally disabled, typically after 90 days, keeping the policy alive."
   },
   {
-    "module": "Next: Disability Income",
+    "module": "Day 4 Module 2",
     "term": "Social Insurance Supplement (SIS)",
     "definition": "Pays an extra benefit while the insured awaits or is denied Social Security disability; reduced if Social Security pays."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Basic medical expense plan",
     "definition": "First-dollar coverage (little or no deductible) but low limits and narrow scope."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Major medical insurance",
     "definition": "Broad catastrophic coverage with high maximums, deductibles, and coinsurance."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Deductible",
     "definition": "The amount the insured pays before the plan pays anything."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Common accident provision",
     "definition": "One deductible applies when several family members are injured in the same accident."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Carryover provision",
     "definition": "Expenses from the last 3 months of the year count toward next year's deductible."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Coinsurance",
     "definition": "After the deductible, the plan and insured share costs at a set ratio, commonly 80/20."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Stop-loss limit",
     "definition": "The cap on the insured's out-of-pocket costs; beyond it the plan pays 100%."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Usual, customary & reasonable (UCR)",
     "definition": "Plans pay what area providers typically charge; amounts above UCR are the insured's responsibility."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Health Savings Account (HSA)",
     "definition": "Individually owned, triple tax-advantaged account; requires a high-deductible health plan; funds roll over and are portable."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Flexible Spending Account (FSA)",
     "definition": "Employer-sponsored account funded pre-tax by the employee; use-it-or-lose-it."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "Health Reimbursement Arrangement (HRA)",
     "definition": "Employer-funded only; reimburses medical expenses; rollover at the employer's discretion."
   },
   {
-    "module": "Next: Medical Plans & HSAs",
+    "module": "Day 4 Module 1",
     "term": "High-deductible health plan (HDHP)",
     "definition": "A plan with a high deductible and capped out-of-pocket costs; required for HSA eligibility."
   },
@@ -1003,5 +1003,280 @@
     "module": "Next: Florida Law & Licensing",
     "term": "Insurance fraud",
     "definition": "Knowingly false statements on applications or claims \u2014 a felony in Florida."
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Medical expense insurance",
+    "definition": "Insurance that covers the cost of medical expenses incurred by the insured, such as doctor visits and hospital stays"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Basic medical coverage",
+    "definition": "A level of health insurance coverage defined by the Affordable Care Act, which includes essential health benefits such as hospitalization, prescription drugs, and maternity care"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Reimbursement",
+    "definition": "The process of being paid back for expenses incurred, typically by submitting a claim to an insurance company"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Expenses incurred",
+    "definition": "Costs that have been accrued or accumulated, typically in relation to medical treatment or procedures"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Basic surgical expense",
+    "definition": "Insurance that covers the cost of basic surgical procedures, such as minor surgeries and biopsies"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Surgical schedule",
+    "definition": "A list of surgical procedures covered by an insurance policy and the maximum amount the policy will pay for each procedure"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Reasonable and customary approach",
+    "definition": "A method used by insurance companies to determine the appropriate amount to pay for medical expenses based on what is considered reasonable and customary in a given geographic area"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Relative value scale",
+    "definition": "A system used to determine the relative value of medical procedures, based on factors such as the time required to perform the procedure and the skill and training required"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Maximum procedure",
+    "definition": "The maximum amount an insurance policy will pay for a particular medical procedure"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Conversion factor",
+    "definition": "A number used to calculate the reimbursement amount for a particular medical procedure, based on the relative value scale and other factors"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Basic physicians\u2019 expense insurance",
+    "definition": "Insurance that covers the cost of medical expenses incurred by the insured, specifically related to physician visits"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Nurses\u2019 expense benefits",
+    "definition": "Insurance that covers the cost of medical expenses incurred by the insured, specifically related to nursing care"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Convalescent care facility benefits",
+    "definition": "Insurance that covers the cost of care in a convalescent or nursing home facility"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Supplementary major medical plan",
+    "definition": "Insurance that provides additional coverage on top of a basic major medical plan"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Single policy",
+    "definition": "A health insurance policy that covers only one person"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Comprehensive major medical plan",
+    "definition": "A major medical plan that covers a wide range of medical expenses"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Flat deductible",
+    "definition": "A fixed amount that the insured must pay out of pocket before insurance coverage kicks in"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Corridor deductible",
+    "definition": "A type of deductible that is only applicable to certain medical expenses"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Integrated deductible",
+    "definition": "A deductible that applies to all medical expenses covered by an insurance policy"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Family deductible",
+    "definition": "A deductible that applies to all members of a family covered by an insurance policy"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Calendar year deductible",
+    "definition": "A deductible that resets each calendar year"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Per cause deductible",
+    "definition": "A deductible that applies to each separate medical condition or cause for treatment"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Stop loss feature",
+    "definition": "A feature of some insurance policies that limits the amount of out-of-pocket expenses the insured is responsible for"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Pre-existing conditions",
+    "definition": "Medical conditions that existed before the insurance policy was purchased"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Health reimbursement account (HRA)",
+    "definition": "An employer-funded account that reimburses the insured for eligible medical expenses"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Hospital indemnity policies",
+    "definition": "Insurance policies that provide a fixed payment amount for each day of hospitalization"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Limited risk policies",
+    "definition": "Insurance policies that limit the amount of coverage provided for specific risks or conditions"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Dread disease/critical illness policies",
+    "definition": "Insurance that provides a lump sum payment upon diagnosis of a serious illness such as cancer or heart disease"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Accident-only insurance",
+    "definition": "Insurance that provides coverage specifically for accidents, including medical expenses and disability benefits"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Short-term medical expense/short-term health insurance",
+    "definition": "Insurance that provides coverage for a limited period of time, typically up to 12 months"
+  },
+  {
+    "module": "Day 4 Module 1",
+    "term": "Basic hospital expense/stop-loss feature",
+    "definition": "Insurance that covers the cost of hospitalization and includes a stop-loss feature, which limits the amount of out-of-pocket expenses the insured is responsible for"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Disability income insurance",
+    "definition": "An insurance policy that provides regular payments to the insured person in case of a disability that prevents them from working and earning an income"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Economic death",
+    "definition": "The loss of income or earning capacity due to a disability or death, which can have a significant impact on the financial well-being of the individual or their dependents"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Income payments",
+    "definition": "The regular payments made to the insured person under a disability income insurance policy"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Nonoccupational policy",
+    "definition": "An insurance policy that covers disabilities resulting from accidents or sicknesses that occur outside of the insured person\u2019s occupation"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Occupational policy",
+    "definition": "An insurance policy that covers disabilities resulting from accidents or sicknesses that occur in the insured person\u2019s occupation"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Totally disabled",
+    "definition": "The insured person is considered totally disabled if they are unable to perform the duties of their own occupation or any other occupation that they are reasonably qualified for, due to an injury or illness."
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Any occupation",
+    "definition": "Refers to the ability of the insured person to perform any occupation that they are reasonably qualified for, rather than just their own occupation"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Own occupation",
+    "definition": "Refers to the ability of the insured person to perform the duties of their own occupation, rather than any other occupation that they may be qualified for"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Presumption of disability",
+    "definition": "A provision in an insurance policy that presumes the insured person to be disabled under certain circumstances, such as the loss of sight, hearing, or limbs"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Presumes",
+    "definition": "Assumes or considers something to be true, without requiring proof or evidence"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Partial disability",
+    "definition": "A disability that does not completely prevent the insured person from working but still results in a loss of income or earning capacity"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Flat amount",
+    "definition": "A fixed amount of benefit paid out under an insurance policy, regardless of the insured person\u2019s income or earning capacity"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Residual amount",
+    "definition": "A benefit paid out under an insurance policy that is calculated based on the insured person\u2019s loss of income or earning capacity"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Accidental bodily injury provision",
+    "definition": "A provision in an insurance policy that covers disabilities resulting from accidental bodily injuries"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Pre-existing sicknesses",
+    "definition": "Sicknesses or medical conditions that the insured person had before taking out the insurance policy"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Elimination",
+    "definition": "A waiting period before benefits become payable under an insurance policy"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Benefit",
+    "definition": "The payment made to the insured person under an insurance policy in case of a covered event"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Recurrent disabilities",
+    "definition": "Disabilities that recur after a period of recovery which may be covered under an insurance policy"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Nondisabling injuries",
+    "definition": "Injuries that do not result in a disability but still require medical attention and treatment"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Elective indemnity",
+    "definition": "A provision in an insurance policy that allows the insured person to choose between different benefit amounts and elimination periods"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Social Security rider",
+    "definition": "A rider that coordinates the benefits of an insurance policy with the benefits of the Social Security system"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Cost of Living Adjustment (COLA) rider",
+    "definition": "A rider that adjusts the benefit amount of an insurance policy based on changes in the cost of living"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Guaranteed insurability rider",
+    "definition": "A rider that allows the insured person to purchase additional insurance coverage at predetermined intervals, without requiring medical underwriting"
+  },
+  {
+    "module": "Day 4 Module 2",
+    "term": "Probationary",
+    "definition": "A period of time after an insurance policy is issued during which the insurer may cancel the policy if the insured person fails to meet certain requirements, such as paying the premiums or passing a medical examination"
   }
 ]
