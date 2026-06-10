@@ -64,8 +64,11 @@ export default function Home() {
     }));
   const flashcardBadge = knownCount > 0 ? `${knownCount}/${totalFlashcards}` : undefined;
 
-  const totalLessons = lessonsData.length;
-  const lessonsReadCount = data.lessonsRead.length;
+  const visibleLessons = (lessonsData as { module: string; category?: string }[])
+    .filter(l => l.category !== 'Coming Up Next');
+  const totalLessons = visibleLessons.length;
+  const visibleModules = new Set(visibleLessons.map(l => l.module));
+  const lessonsReadCount = data.lessonsRead.filter(m => visibleModules.has(m)).length;
   const lessonBadge = lessonsReadCount > 0 ? `${lessonsReadCount}/${totalLessons}` : undefined;
 
   const lastQuiz = data.quizHistory[0];

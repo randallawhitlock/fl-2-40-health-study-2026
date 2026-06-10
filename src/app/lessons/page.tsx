@@ -9,7 +9,10 @@ import { LessonContent } from './components/LessonContent';
 import type { Lesson } from './types';
 import s from './lessons.module.css';
 
-const lessons = lessonsData as Lesson[];
+const allLessons = lessonsData as Lesson[];
+
+// Only show Day 1–3 lessons; hide upcoming/preview content
+const lessons = allLessons.filter(l => l.category !== 'Coming Up Next');
 
 export default function LessonsPage() {
   const { data, updatePreferences, markLessonRead } = useStudyStorage();
@@ -47,7 +50,6 @@ export default function LessonsPage() {
         selected={selectedModule}
         onSelect={handleModuleSelect}
         lessonsRead={data.lessonsRead}
-        upcoming={lessons.filter(l => l.category === 'Coming Up Next').map(l => l.module)}
       />
 
       {currentLesson ? (
