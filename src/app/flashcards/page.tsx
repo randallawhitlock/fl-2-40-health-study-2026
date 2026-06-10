@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import flashcardsData from '@/data/flashcards.json';
 import { shuffle } from '@/lib/utils';
 import { useStudyStorage } from '@/lib/useStudyStorage';
@@ -32,6 +32,8 @@ export default function FlashcardsPage() {
   const [dueOnly, setDueOnly] = useState(false);
   const [cards, setCards] = useState<CardData[]>([...allCards]);
 
+  const pendingIndexRef = useRef<number | null>(null);
+
   // Hydrate preferences from localStorage after mount
   useEffect(() => {
     if (hydrated) return;
@@ -40,6 +42,7 @@ export default function FlashcardsPage() {
     if (prefs.flashcardDefinitionFirst) setDefinitionFirst(prefs.flashcardDefinitionFirst);
     if (prefs.flashcardShuffle) setIsShuffled(prefs.flashcardShuffle);
     if (prefs.flashcardDueOnly) setDueOnly(prefs.flashcardDueOnly);
+    if (prefs.flashcardIndex > 0) pendingIndexRef.current = prefs.flashcardIndex;
     if (data.lastActivity !== '') setHydrated(true);
   }, [data.preferences, data.lastActivity, hydrated]);
 
@@ -62,16 +65,23 @@ export default function FlashcardsPage() {
     if (isShuffled) filtered = shuffle(filtered);
 
     setCards(filtered);
-    setCurrentIndex(0);
+    // Restore the card the user was on before a refresh (first build only)
+    const pending = pendingIndexRef.current;
+    pendingIndexRef.current = null;
+    setCurrentIndex(
+      pending !== null && filtered.length > 0
+        ? Math.min(pending, filtered.length - 1)
+        : 0
+    );
     setIsFlipped(false);
     // Intentionally NOT depending on flashcardProgress: rating a card
     // mid-session shouldn't yank it out of the deck.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [selectedModule, isShuffled, dueOnly]);
+  }, [selectedModule, isShuffled, dueOnly, hydrated]);
 
   const handleModuleChange = (mod: string) => {
     setSelectedModule(mod);
-    updatePreferences({ flashcardModule: mod });
+    updatePreferences({ flashcardModule: mod, flashcardIndex: 0 });
   };
 
   const handleToggleDefinitionFirst = () => {
@@ -101,12 +111,20 @@ export default function FlashcardsPage() {
 
   const nextCard = () => {
     setIsFlipped(false);
-    setCurrentIndex(prev => (prev + 1) % cards.length);
+    setCurrentIndex(prev => {
+      const next = (prev + 1) % cards.length;
+      updatePreferences({ flashcardIndex: next });
+      return next;
+    });
   };
 
   const prevCard = () => {
     setIsFlipped(false);
-    setCurrentIndex(prev => (prev - 1 + cards.length) % cards.length);
+    setCurrentIndex(prev => {
+      const next = (prev - 1 + cards.length) % cards.length;
+      updatePreferences({ flashcardIndex: next });
+      return next;
+    });
   };
 
   /** Rate the current card, then auto-advance. */

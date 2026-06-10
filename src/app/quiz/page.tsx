@@ -4,7 +4,12 @@ import { useState, useMemo, useEffect, useCallback, useRef } from 'react';
 import quizzesData from '@/data/quizzes.json';
 import { shuffle } from '@/lib/utils';
 import { useStudyStorage } from '@/lib/useStudyStorage';
-import type { GroupStat, MissedQuestion, QuizMode } from '@/lib/storage-types';
+import type {
+  GroupStat,
+  MissedQuestion,
+  QuizMode,
+  ActiveQuizState,
+} from '@/lib/storage-types';
 import { PageShell, ProgressBar } from '@/components';
 import { ModuleSelector } from './components/ModuleSelector';
 import { QuestionCard } from './components/QuestionCard';
@@ -77,22 +82,16 @@ function formatClock(ms: number): string {
   return `${m}:${String(sec).padStart(2, '0')}`;
 }
 
-interface AnswerRecord {
-  q: Question;
-  answer: string;
-}
-
 export default function QuizPage() {
-  const { data, saveQuizResult, updatePreferences } = useStudyStorage();
+  const { data, saveQuizResult, updatePreferences, setActiveQuiz } = useStudyStorage();
   const [hydrated, setHydrated] = useState(false);
   const [selectedModules, setSelectedModules] = useState<string[]>([]);
   const [quizStarted, setQuizStarted] = useState(false);
   const [mode, setMode] = useState<QuizMode>('practice');
   const [quizQuestions, setQuizQuestions] = useState<Question[]>([]);
+  const [answers, setAnswers] = useState<(string | null)[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showResult, setShowResult] = useState(false);
-  const [userAnswer, setUserAnswer] = useState<string | null>(null);
-  const [records, setRecords] = useState<AnswerRecord[]>([]);
   const [lastMissed, setLastMissed] = useState<MissedQuestion[]>([]);
   const [lastScore, setLastScore] = useState(0);
   const [lastTotal, setLastTotal] = useState(0);
@@ -101,18 +100,42 @@ export default function QuizPage() {
   // Timer state (timed mode only)
   const [remainingMs, setRemainingMs] = useState(TIMED_LIMIT_MS);
   const startedAtRef = useRef(0);
-  const recordsRef = useRef<AnswerRecord[]>([]);
+  const deadlineRef = useRef<number | undefined>(undefined);
+  const answersRef = useRef<(string | null)[]>([]);
   const questionsRef = useRef<Question[]>([]);
 
-  // Keep refs in sync so the timer-expiry callback sees current state
   useEffect(() => {
-    recordsRef.current = records;
-  }, [records]);
+    answersRef.current = answers;
+  }, [answers]);
   useEffect(() => {
     questionsRef.current = quizQuestions;
   }, [quizQuestions]);
 
-  // Hydrate persisted module selections after mount
+  /** Persist the live quiz so a refresh resumes exactly where the user was. */
+  const persistActive = useCallback(
+    (
+      questions: Question[],
+      ans: (string | null)[],
+      index: number,
+      quizMode: QuizMode,
+      mods: string[],
+      startedAt: number,
+      deadline?: number,
+    ) => {
+      setActiveQuiz({
+        mode: quizMode,
+        modules: mods,
+        questions,
+        answers: ans,
+        currentIndex: index,
+        startedAt,
+        deadline,
+      });
+    },
+    [setActiveQuiz]
+  );
+
+  // Hydrate persisted module selections + resume any in-progress quiz
   useEffect(() => {
     if (hydrated) return;
     const saved = data.preferences.quizSelectedModules;
@@ -120,9 +143,31 @@ export default function QuizPage() {
       setSelectedModules(saved);
     }
     if (data.lastActivity !== '') {
+      const active = data.activeQuiz;
+      if (active && active.questions.length > 0) {
+        setQuizQuestions(active.questions as Question[]);
+        setAnswers(
+          active.answers.length === active.questions.length
+            ? active.answers
+            : active.questions.map(() => null)
+        );
+        setCurrentIndex(
+          Math.min(active.currentIndex, active.questions.length - 1)
+        );
+        setMode(active.mode);
+        if (active.mode === 'practice' && active.modules.length > 0) {
+          setSelectedModules(active.modules);
+        }
+        startedAtRef.current = active.startedAt;
+        deadlineRef.current = active.deadline;
+        if (active.deadline) {
+          setRemainingMs(Math.max(0, active.deadline - Date.now()));
+        }
+        setQuizStarted(true);
+      }
       setHydrated(true);
     }
-  }, [data.preferences.quizSelectedModules, data.lastActivity, hydrated]);
+  }, [data.preferences.quizSelectedModules, data.lastActivity, data.activeQuiz, hydrated]);
 
   const modules = useMemo(() => {
     return [...Array.from(new Set(allQuestions.map(q => q.module))), CUMULATIVE];
@@ -153,15 +198,19 @@ export default function QuizPage() {
 
   const launch = (questions: Question[], quizMode: QuizMode) => {
     if (questions.length === 0) return;
+    const blank = questions.map(() => null);
+    const startedAt = Date.now();
+    const deadline = quizMode === 'timed' ? startedAt + TIMED_LIMIT_MS : undefined;
     setQuizQuestions(questions);
+    setAnswers(blank);
     setMode(quizMode);
     setQuizStarted(true);
     setCurrentIndex(0);
     setShowResult(false);
-    setUserAnswer(null);
-    setRecords([]);
     setRemainingMs(TIMED_LIMIT_MS);
-    startedAtRef.current = Date.now();
+    startedAtRef.current = startedAt;
+    deadlineRef.current = deadline;
+    persistActive(questions, blank, 0, quizMode, selectedModules, startedAt, deadline);
   };
 
   const startPractice = () => launch(buildPractice(selectedModules), 'practice');
@@ -174,49 +223,44 @@ export default function QuizPage() {
     else startPractice();
   };
 
-  /** Compute results from answer records and persist. */
+  const exitToSelection = () => {
+    setActiveQuiz(null);
+    setQuizStarted(false);
+    setShowResult(false);
+  };
+
+  /** Compute results from the answers array and persist. */
   const finishQuiz = useCallback(
-    (recs: AnswerRecord[], questions: Question[], quizMode: QuizMode) => {
-      const answered = new Set(recs.map(r => r.q.question));
-      const unanswered = questions.filter(q => !answered.has(q.question));
-
-      const missed: MissedQuestion[] = [
-        ...recs
-          .filter(r => r.answer !== r.q.answer)
-          .map(r => ({
-            question: r.q.question,
-            yourAnswer: r.answer,
-            correctAnswer: r.q.answer,
-            explanation: r.q.explanation,
-            topic: r.q.topic,
-            module: r.q.module,
-            group: r.q.group,
-          })),
-        ...unanswered.map(q => ({
-          question: q.question,
-          yourAnswer: '(no answer — time expired)',
-          correctAnswer: q.answer,
-          explanation: q.explanation,
-          topic: q.topic,
-          module: q.module,
-          group: q.group,
-        })),
-      ];
-
+    (ans: (string | null)[], questions: Question[], quizMode: QuizMode) => {
+      const missed: MissedQuestion[] = [];
       const groupResults: Record<string, GroupStat> = {};
-      const bump = (q: Question, correct: boolean) => {
-        if (!q.group) return;
-        const key = `${q.module}::${q.group}`;
-        const cur = groupResults[key] ?? { correct: 0, total: 0 };
-        groupResults[key] = {
-          correct: cur.correct + (correct ? 1 : 0),
-          total: cur.total + 1,
-        };
-      };
-      recs.forEach(r => bump(r.q, r.answer === r.q.answer));
-      unanswered.forEach(q => bump(q, false));
+      let score = 0;
 
-      const score = recs.filter(r => r.answer === r.q.answer).length;
+      questions.forEach((q, i) => {
+        const chosen = ans[i];
+        const correct = chosen === q.answer;
+        if (correct) score++;
+        else {
+          missed.push({
+            question: q.question,
+            yourAnswer: chosen ?? '(no answer — time expired)',
+            correctAnswer: q.answer,
+            explanation: q.explanation,
+            topic: q.topic,
+            module: q.module,
+            group: q.group,
+          });
+        }
+        if (q.group) {
+          const key = `${q.module}::${q.group}`;
+          const cur = groupResults[key] ?? { correct: 0, total: 0 };
+          groupResults[key] = {
+            correct: cur.correct + (correct ? 1 : 0),
+            total: cur.total + 1,
+          };
+        }
+      });
+
       const total = questions.length;
       const elapsed = Date.now() - startedAtRef.current;
 
@@ -227,47 +271,60 @@ export default function QuizPage() {
           total,
           percentage: Math.round((score / total) * 100),
           mode: quizMode,
-          timeUsedMs: quizMode === 'timed' ? elapsed : undefined,
+          timeUsedMs: quizMode === 'timed' ? Math.min(elapsed, TIMED_LIMIT_MS) : undefined,
           missed,
         },
         groupResults
       );
+      setActiveQuiz(null);
 
       setLastMissed(missed);
       setLastScore(score);
       setLastTotal(total);
-      setTimeUsedMs(quizMode === 'timed' ? elapsed : undefined);
+      setTimeUsedMs(quizMode === 'timed' ? Math.min(elapsed, TIMED_LIMIT_MS) : undefined);
       setShowResult(true);
     },
-    [saveQuizResult, selectedModules]
+    [saveQuizResult, setActiveQuiz, selectedModules]
   );
 
   // Countdown for timed mode
   useEffect(() => {
     if (!quizStarted || showResult || mode !== 'timed') return;
     const id = setInterval(() => {
-      const left = TIMED_LIMIT_MS - (Date.now() - startedAtRef.current);
+      const deadline = deadlineRef.current ?? 0;
+      const left = deadline - Date.now();
       setRemainingMs(left);
       if (left <= 0) {
         clearInterval(id);
-        finishQuiz(recordsRef.current, questionsRef.current, 'timed');
+        finishQuiz(answersRef.current, questionsRef.current, 'timed');
       }
     }, 1000);
     return () => clearInterval(id);
   }, [quizStarted, showResult, mode, finishQuiz]);
 
   const handleAnswer = (option: string) => {
-    if (userAnswer !== null) return;
-    setUserAnswer(option);
-    setRecords(prev => [...prev, { q: quizQuestions[currentIndex], answer: option }]);
+    if (answers[currentIndex] !== null) return;
+    setAnswers(prev => {
+      const next = [...prev];
+      next[currentIndex] = option;
+      persistActive(
+        quizQuestions, next, currentIndex, mode, selectedModules,
+        startedAtRef.current, deadlineRef.current
+      );
+      return next;
+    });
   };
 
   const nextQuestion = () => {
-    setUserAnswer(null);
     if (currentIndex + 1 < quizQuestions.length) {
-      setCurrentIndex(i => i + 1);
+      const nextIndex = currentIndex + 1;
+      setCurrentIndex(nextIndex);
+      persistActive(
+        quizQuestions, answersRef.current, nextIndex, mode, selectedModules,
+        startedAtRef.current, deadlineRef.current
+      );
     } else {
-      finishQuiz(records, quizQuestions, mode);
+      finishQuiz(answersRef.current, quizQuestions, mode);
     }
   };
 
@@ -279,7 +336,7 @@ export default function QuizPage() {
           score={lastScore}
           total={lastTotal}
           onRetake={retake}
-          onChangeModules={() => setQuizStarted(false)}
+          onChangeModules={exitToSelection}
           quizHistory={data.quizHistory}
           selectedModules={selectedModules}
           missed={lastMissed}
@@ -332,11 +389,17 @@ export default function QuizPage() {
 
       <QuestionCard
         question={quizQuestions[currentIndex]}
-        userAnswer={userAnswer}
+        userAnswer={answers[currentIndex]}
         onAnswer={handleAnswer}
         onNext={nextQuestion}
         isLast={currentIndex + 1 >= quizQuestions.length}
       />
+
+      <p className={s.hint} style={{ textAlign: 'center' }}>
+        <button onClick={exitToSelection} className={s.historyToggle}>
+          Exit quiz
+        </button>
+      </p>
     </PageShell>
   );
 }

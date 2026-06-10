@@ -31,6 +31,40 @@ export interface GroupStat {
     total: number;
 }
 
+// ── In-progress activity state (survives refresh) ──
+
+export interface StoredQuizQuestion {
+    module: string;
+    group?: string;
+    question: string;
+    options: string[];
+    answer: string;
+    topic?: string;
+    explanation?: string;
+}
+
+export interface ActiveQuizState {
+    mode: QuizMode;
+    modules: string[];
+    /** Questions exactly as presented, options already shuffled. */
+    questions: StoredQuizQuestion[];
+    /** Chosen answer per question index; null = not yet answered. */
+    answers: (string | null)[];
+    currentIndex: number;
+    startedAt: number;
+    /** Epoch ms when a timed exam expires. */
+    deadline?: number;
+}
+
+export interface ActiveMatchingState {
+    /** Picked cards, in term order (ids are array indexes). */
+    cards: { module: string; term: string; definition: string }[];
+    /** Definition column order as a permutation of card ids. */
+    defOrder: number[];
+    matched: number[];
+    roundStartTime: number;
+}
+
 // ── Flashcards ──────────────────────────────────
 
 /** Legacy statuses kept for migration; SRS ratings added. */
@@ -58,6 +92,7 @@ export interface UserPreferences {
     flashcardDefinitionFirst: boolean;
     flashcardShuffle: boolean;
     flashcardDueOnly: boolean;
+    flashcardIndex: number;
 
     // Quiz page
     quizSelectedModules: string[];
@@ -81,4 +116,8 @@ export interface StudyData {
     lessonsRead: string[];
     lastActivity: string; // ISO 8601
     preferences: UserPreferences;
+    /** In-progress quiz, restored after a page refresh. */
+    activeQuiz: ActiveQuizState | null;
+    /** In-progress matching round, restored after a page refresh. */
+    activeMatching: ActiveMatchingState | null;
 }

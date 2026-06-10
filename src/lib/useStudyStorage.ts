@@ -9,6 +9,8 @@ import type {
     FlashcardEntry,
     MatchingStats,
     UserPreferences,
+    ActiveQuizState,
+    ActiveMatchingState,
 } from './storage-types';
 
 const STORAGE_KEY = 'fl-health-study';
@@ -20,6 +22,7 @@ const DEFAULT_PREFERENCES: UserPreferences = {
     flashcardDefinitionFirst: false,
     flashcardShuffle: false,
     flashcardDueOnly: false,
+    flashcardIndex: 0,
     quizSelectedModules: [],
     lessonsSelectedModule: '',
     matchingModule: 'All',
@@ -54,6 +57,8 @@ function createDefaultData(): StudyData {
         lessonsRead: [],
         lastActivity: new Date().toISOString(),
         preferences: { ...DEFAULT_PREFERENCES },
+        activeQuiz: null,
+        activeMatching: null,
     };
 }
 
@@ -92,6 +97,8 @@ function readStorage(): StudyData {
             flashcardProgress: migrateFlashcards(parsed.flashcardProgress),
             matchingStats: { ...DEFAULT_MATCHING, ...parsed.matchingStats },
             preferences: { ...DEFAULT_PREFERENCES, ...parsed.preferences },
+            activeQuiz: parsed.activeQuiz ?? null,
+            activeMatching: parsed.activeMatching ?? null,
         };
     } catch {
         return createDefaultData();
@@ -220,6 +227,30 @@ export function useStudyStorage() {
         [persist],
     );
 
+    // ── In-progress activity state ──────────────
+
+    const setActiveQuiz = useCallback(
+        (state: ActiveQuizState | null) => {
+            setData(prev => {
+                const next: StudyData = { ...prev, activeQuiz: state };
+                persist(next);
+                return next;
+            });
+        },
+        [persist],
+    );
+
+    const setActiveMatching = useCallback(
+        (state: ActiveMatchingState | null) => {
+            setData(prev => {
+                const next: StudyData = { ...prev, activeMatching: state };
+                persist(next);
+                return next;
+            });
+        },
+        [persist],
+    );
+
     // ── Preferences ─────────────────────────────
 
     const updatePreferences = useCallback(
@@ -251,6 +282,8 @@ export function useStudyStorage() {
         saveMatchingResult,
         markLessonRead,
         updatePreferences,
+        setActiveQuiz,
+        setActiveMatching,
         clearAll,
     } as const;
 }
