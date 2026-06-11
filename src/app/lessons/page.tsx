@@ -11,8 +11,8 @@ import type { Lesson } from './types';
 import s from './lessons.module.css';
 
 const allLessons = lessonsData as Lesson[];
-// Only show Day 1–3 lessons; hide upcoming/preview content
-const lessons = allLessons.filter(l => l.category !== 'Coming Up Next');
+// All lessons are selectable; "Coming Up Next" previews render in their own group
+const lessons = allLessons;
 
 /** Build a markdown document from the user's notes, grouped by lesson/section. */
 function notesToMarkdown(
