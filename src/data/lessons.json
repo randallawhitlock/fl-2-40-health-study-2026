@@ -1186,7 +1186,7 @@
           },
           {
             "type": "tip",
-            "text": "Occupational suitability = education, training, experience. 'Job interest' is the planted wrong answer. And any-occupation is the MORE restrictive definition — own-occupation the LESS restrictive one."
+            "text": "Occupational suitability = education, training, experience. 'Job interest' is the planted wrong answer. Standard rule: any-occupation is the MORE restrictive definition — own-occupation the LESS restrictive one. CAUTION: this course's bank has keyed an identical question 'less restrictive' — if you hit it on a course quiz and 'more restrictive' is marked wrong, flag it to your instructor; the state-exam answer is MORE restrictive."
           }
         ]
       },
@@ -1230,7 +1230,7 @@
             "type": "list",
             "items": [
               "**Probationary period** — one-time window after issue (commonly **15 or 30 days**) during which SICKNESS is not covered. Accidents are covered immediately from day one.",
-              "**Elimination (waiting) period** — the 'time deductible' after EACH disability begins, before benefits start. Benefits are NOT paid retroactively for the elimination period, and it applies to sickness and accidents alike. Longer elimination = lower premium — the insured accepts the risk of short-term disability to cut cost.",
+              "**Elimination (waiting) period** — the 'time deductible' after a disability begins, before benefits start. Benefits are NOT paid retroactively for the elimination period. Per this course's bank, the elimination period applies to **sickness only — accidents are payable immediately** (just like the probationary period; the book says it 'may apply only to sickness depending on the policy'). Longer elimination = lower premium.",
               "**Benefit period** — how long benefits last once they start. Longer benefit period = higher premium. The cheapest combination: LONG elimination period + SHORT benefit period.",
               "**Delayed disability provision** — an injury from an accident may manifest later and still be covered, up to a maximum of **90 days** after the accident."
             ]
@@ -1309,6 +1309,14 @@
           {
             "type": "tip",
             "text": "Principal sum = accidental DEATH benefit. Capital sum = DISMEMBERMENT benefit (a percentage of the principal). Swapping these two is the classic exam trap."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**90-day rule** — accidental death benefits pay only if death occurs within **90 days** of the accident ('within 60 days' is the planted wrong answer).",
+              "**Loss of use counts** — dismemberment benefits may be paid for permanent **loss of use** (Ed loses use of his right hand and arm = covered). Losing fingers without the whole hand does NOT count.",
+              "**Course-bank quirk**: when asked what each sum 'pays for,' this bank keys the principal sum to **loss of life ONLY**, and puts ALL dismemberments — hands above the wrist, partial foot, an eye, all fingers — under the **capital sum** schedule."
+            ]
           }
         ]
       },
@@ -1369,6 +1377,10 @@
           {
             "type": "tip",
             "text": "Numbers to memorize: deductible-only for the first 60 days; benefit period ends 60 days after discharge; 90 days per benefit period plus a 60-day lifetime reserve; 100 days of skilled nursing care."
+          },
+          {
+            "type": "tip",
+            "text": "Part A costs: premium-FREE for anyone with 40 work quarters (others may buy in), but everyone pays the Part A deductible. CAUTION: a course-bank question marked 'the insured must pay a deductible' wrong for Part A — likely keyed 'deductible and premium.' Flag it to your instructor if you hit it; for the state exam, most people pay NO Part A premium but DO owe the deductible."
           }
         ]
       },
@@ -1526,6 +1538,618 @@
           {
             "type": "tip",
             "text": "Partnership logic: every dollar the partnership LTC policy pays = a dollar of assets you may KEEP and still qualify for Medicaid."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "Day 6 Module 1",
+    "title": "Health Insurance Policy Provisions (Unit 22)",
+    "sections": [
+      {
+        "heading": "The 12 Mandatory Provisions — CLIPPERBENTG",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Every individual health insurance policy sold in Florida must include **12 mandatory provisions** drawn from the NAIC Uniform Individual Accident and Sickness Policy Provisions Law. These provisions exist to protect the insured. Insurers don't have to use the NAIC's exact wording, but any substitute language must be **at least as favorable** to the insured as the model provision. A useful mnemonic is **CLIPPERBENTG** (or G BENT CLIPPER — same letters, different order)."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**C — Claim forms** — the insurer must send claim forms within **15 days** of receiving notice of a claim. If it fails to do so, the insured may submit proof of loss in any written form and the insurer must still honor it. This provision keeps insurers from stalling claims by never sending paperwork.",
+              "**L — Legal actions** — the insured may sue the insurer to recover benefits, but must wait at least **60 days** after filing proof of loss before bringing suit. In Florida, the statute of limitations is **5 years** (longer than the 3-year limit used in most other states). If you see '3 years' as an answer on a Florida-specific exam, it's a trap.",
+              "**I — Incontestable clause (time limit on certain defenses)** — after the policy has been in force for **2 years**, the insurer cannot void the policy or deny claims based on misstatements in the application, **except for fraudulent misstatements**. Important: this does NOT protect against misstatement of age or sex — those are adjusted, not voided.",
+              "**P — Proof of loss** — the insured must submit written proof of loss within **90 days** of the date of loss. If the insured cannot meet the 90-day deadline for reasons beyond their control, proof submitted 'as soon as reasonably possible' is accepted.",
+              "**P — Payment of claims** — specifies HOW and TO WHOM benefits are paid. Benefits for medical expenses may be paid to the provider. Disability income benefits are paid to the insured. If the insured dies, remaining benefits go to the designated beneficiary or the estate.",
+              "**E — Entire contract** — the policy, the attached application, and any riders together constitute the **entire agreement** between insurer and insured. Nothing may be incorporated by reference to deny a claim. After issuance, only an **executive officer** of the company (never the agent) may amend the contract.",
+              "**R — Reinstatement** — if the policy lapses for nonpayment and the insured applies to reinstate, the insurer has **45 days** to act on the application. If it takes no action within those 45 days, the policy is **automatically reinstated**. After reinstatement, **accidents are covered immediately** but **sickness only after 10 days** — this prevents people from reinstating specifically because they just got sick.",
+              "**B — Beneficiary change** — in health insurance, the insured is always the beneficiary (they receive the benefits) **except in AD&D policies**, where a death benefit beneficiary may be named. The insured can change beneficiaries at any time unless the beneficiary is designated **irrevocable**.",
+              "**E — Examination and autopsy** — the insurer has the right to examine the insured **at its own expense** as often as reasonably necessary during a claim. It may also request an autopsy in the event of death, unless prohibited by law. Key point: the **insurer pays** for every exam and autopsy it requests.",
+              "**N — Notice of claim** — the insured must notify the insurer within **20 days** of a loss (or as soon as reasonably possible). For disability claims with recurring payments, notice must be given within 20 days of each recurring loss period.",
+              "**T — Time of payment of claims** — the insurer must pay benefits **immediately** upon receiving proper proof of loss. For disability income benefits involving periodic payments, benefits must be paid at least **monthly**. In Florida specifically, the insurer has **45 days** to pay a clean claim.",
+              "**G — Grace period** — a mandatory window after the premium due date during which the policy remains in full force. The length depends on premium frequency: **7 days** (weekly premium), **10 days** (monthly premium), **31 days** (all other modes — quarterly, semi-annual, annual). If a covered loss occurs during the grace period, the insurer must pay the claim but may deduct the unpaid premium from the benefit."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The claims timeline is exam gold: **20 days** (notice of claim) → **15 days** (insurer sends claim forms) → **90 days** (proof of loss) → **immediately** upon proof (payment) → **60 days** minimum wait before suing → **5 years** to bring suit in Florida. Memorize this sequence: 20 → 15 → 90 → pay → 60 → 5 yr."
+          }
+        ]
+      },
+      {
+        "heading": "The 11 Optional (Supplementary) Provisions",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "While mandatory provisions protect the insured, the **11 optional provisions** primarily protect the insurer. The insurer may include any, all, or none of these. Understanding the distinction is critical: mandatory = insured's shield; optional = insurer's shield."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Change of occupation** — if the insured switches to a **more hazardous** occupation, the insurer can reduce benefits to what the premium would have purchased at the new occupation's rate. If the insured switches to a **less hazardous** occupation, the insurer must reduce the premium accordingly. The adjustment works in both directions.",
+              "**Misstatement of age or sex** — if the insured's age or sex was stated incorrectly on the application, the insurer adjusts benefits to match what the **paid premium would have purchased at the correct age/sex**. The policy is NOT voided — benefits are simply recalculated. This is different from the incontestability provision.",
+              "**Other insurance with this insurer** — if the insured holds multiple policies with the same insurer covering the same risk, total benefits cannot exceed a set limit. This is the insurer's internal coordination mechanism.",
+              "**Insurance with other insurers** — similar to above, but applies when the insured has coverage with **different** insurers for the same risk. Total combined benefits are limited to actual expenses incurred — this is **coordination of benefits (COB)** in action.",
+              "**Insurance with other insurers (expense-incurred basis)** — a variation that applies specifically to expense-incurred policies: combined benefits from all insurers cannot exceed actual expenses.",
+              "**Relation of earnings to insurance** — critical for **disability income** policies. If the insured's total disability benefits from all sources exceed their actual earnings at the time of disability, the insurer can reduce benefits proportionally. The insurer must return the excess premium. This prevents the insured from profiting from disability.",
+              "**Unpaid premium** — any premium owed at the time of a claim may be deducted from the benefit payment. Simple but frequently tested.",
+              "**Cancellation** — grants the insurer the right to cancel the policy at any time by giving the insured **45 days' written notice** and refunding any unearned premium. The insured can also cancel at any time by written notice.",
+              "**Conformity with state statutes** — if any provision in the policy conflicts with state law, it is automatically amended to comply. State law always wins.",
+              "**Illegal occupation** — the insurer is not liable for any loss that occurs while the insured is engaged in a **felony or illegal occupation**. If you're hurt during a bank robbery, your health policy won't cover it.",
+              "**Intoxicants and narcotics** — the insurer is not liable for any loss sustained while the insured is **under the influence of alcohol or narcotics** (unless administered on medical advice). This is one of the most common claim denials tested on the exam."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The study guide treats 'misstatement of age or sex' as optional, but the exam often pairs it with the incontestable clause (mandatory). Key difference: incontestability is a **time-based defense** (insurer loses the right to challenge after 2 years). Misstatement of age is a **benefit-adjustment tool** (benefits are recalculated, never voided). The insurer keeps only the premium it would have charged had it known the truth."
+          }
+        ]
+      },
+      {
+        "heading": "Other Common Policy Provisions",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Insuring clause** — the insurance company's promise to pay. It appears on the **first page** of the policy and is signed by the company president and secretary (officers of the board). Think of it as the headline contract: 'We agree to pay the following benefits.'",
+              "**Consideration clause** — states the premium amount, payment frequency (mode), and the effective date. NOT found on the first page — it's deeper in the policy. The applicant's consideration is the premium plus the statements made on the application.",
+              "**Conversion privilege for dependents** — in Florida, dependent conversion privileges must be offered until the dependent reaches **age 30**. This allows a dependent (typically a child aging out of a parent's plan) to convert to an individual policy without evidence of insurability.",
+              "**Free-look provision** — Florida mandates a **10-day** free-look period after policy delivery, during which the insured may return the policy for a full refund with no obligation. For **Medicare supplement** and **long-term care** policies, the free-look period is **30 days**. The clock starts at DELIVERY, not application.",
+              "**Preexisting condition provisions** — historically, insurers could exclude conditions that existed before the policy's effective date. Under the **ACA**, preexisting condition exclusions are **prohibited** in individual and small-group health plans. However, for policies not subject to the ACA (e.g., certain supplemental or grandfathered plans), preexisting condition exclusions may still apply."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Free look: 10 days standard, 30 days for Medicare supplement and LTC. The exam loves pairing these. Also note: the insuring clause (first page) vs. consideration clause (not first page) — if the question asks 'which clause appears on the first page,' the answer is the **insuring clause**."
+          }
+        ]
+      },
+      {
+        "heading": "Common Exclusions and Limitations",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Every health insurance policy lists specific situations it will NOT cover. Exclusions define the boundaries of coverage and are one of the most-tested areas on the exam."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Self-inflicted injuries** — intentional self-harm is universally excluded.",
+              "**War or act of war** — injuries sustained in declared or undeclared war.",
+              "**Aviation** — injuries sustained while serving as a **pilot or crew member** of an aircraft (passenger injuries are typically covered).",
+              "**Suicide** — generally excluded, though some policies cover it after a waiting period.",
+              "**Commission of a crime** — injuries sustained while committing or attempting to commit a **felony**.",
+              "**Military service** — injuries incurred while on active military duty (covered instead by government programs like TRICARE)."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The exam often tests whether you know the PILOT exclusion. A fare-paying airline passenger IS covered; a private pilot or crew member is NOT. If the question says 'injured while a passenger on a commercial airline,' the exclusion does NOT apply."
+          }
+        ]
+      },
+      {
+        "heading": "Renewability Provisions",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Renewability determines who has the power to continue or end the policy. Think of it as a spectrum from most insurer-friendly to most insured-friendly. The exam tests this spectrum constantly."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Cancellable** — the insurer may cancel at any time for any reason. This offers the **least** protection to the insured and is the **least expensive** policy type.",
+              "**Optionally renewable** — the insurer may choose not to renew at a premium due date or policy anniversary. More protection than cancellable, but the insurer still holds the cards at renewal time.",
+              "**Conditionally renewable** — the insurer may refuse renewal only if a specific condition listed in the policy is triggered (e.g., the insured reaches a certain age or retires). The insurer cannot refuse for health reasons alone.",
+              "**Guaranteed renewable** — the insurer MUST renew the policy until a specified age (often 65) as long as premiums are paid. The insurer CAN raise premiums, but only on a **class-wide basis** — it cannot single out one policyholder for a rate increase. **Long-term care policies are guaranteed renewable.**",
+              "**Noncancellable** — the insurer cannot cancel AND cannot raise premiums. The premium is locked in at issue. This is the **most expensive** policy type and provides the **greatest** protection to the insured."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The key distinction: **guaranteed renewable** = insurer MUST renew but CAN raise rates (class-wide). **Noncancellable** = insurer MUST renew and CANNOT raise rates. If the exam says 'premiums cannot be increased,' the answer is **noncancellable**. If it says 'premiums can increase on a class basis,' the answer is **guaranteed renewable**."
+          }
+        ]
+      },
+      {
+        "heading": "Quick Self-Check",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Can you recite the claims timeline: notice of claim → claim forms → proof of loss → payment → legal action?",
+              "What happens if the insurer fails to send claim forms within 15 days?",
+              "After reinstatement, how long must the insured wait for sickness coverage? What about accident coverage?",
+              "What is the grace period for a monthly premium policy? A quarterly policy?",
+              "How does the misstatement of age provision differ from the incontestable clause?",
+              "Rank the five renewability types from most insurer-friendly to most insured-friendly."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "Day 6 Module 2",
+    "title": "Health Insurance Underwriting & Premiums (Unit 23)",
+    "sections": [
+      {
+        "heading": "Risk Factors in Health Insurance Underwriting — MOP",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Health insurance underwriting is the process of evaluating an applicant's risk profile to determine whether to issue a policy, and at what price. The underwriter's job is to classify risk accurately so the insurer can charge a premium that matches the expected cost of claims. The three **primary** risk factors are remembered with the mnemonic **MOP**."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**M — Moral hazard** — the applicant's character, lifestyle habits, and integrity. This includes drinking, drug use, personality traits, and overall way of life. Unlike physical hazards, moral hazards are about **behavior and honesty** — they're harder to quantify but just as important. An applicant who has filed fraudulent claims is a moral hazard.",
+              "**O — Occupation** — the nature of the applicant's work directly affects the probability of injury, illness, or disability. A construction worker faces higher risk than an office worker. The underwriter evaluates the occupation's physical demands, hazard exposure, and injury statistics.",
+              "**P — Physical condition** — the applicant's current health status, medical history, and family medical history. This is given the **highest priority** in underwriting. Underwriters review medical records, paramedical exams, and sometimes blood tests or attending physician statements."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "MOP = Moral hazard, Occupation, Physical condition. Physical condition gets the highest priority. If the exam asks 'which factor is given the most weight in health insurance underwriting,' the answer is **physical condition**."
+          },
+          {
+            "type": "p",
+            "text": "Beyond MOP, additional risk factors influence the underwriting decision:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Age** — older applicants present higher risk because the probability of illness and disability increases with age.",
+              "**Sex** — statistically, women have higher morbidity rates than men (they tend to be disabled more often), except among the elderly where the difference narrows.",
+              "**Medical and family history** — a family history of hereditary conditions (heart disease, diabetes, cancer) elevates risk even if the applicant is currently healthy.",
+              "**Hobbies and avocations** — dangerous pastimes like skydiving, auto racing, scuba diving, or rock climbing increase the probability of accidental injury."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Insurable Interest in Health Insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Just as with life insurance, health insurance requires **insurable interest** — the applicant must face a genuine financial loss if the insured event occurs. In health insurance, insurable interest must exist **at the time of loss** (not just at application, as with life insurance). A person always has insurable interest in their own health. An employer has insurable interest in a key employee's health because the employee's disability creates a real financial loss for the business."
+          },
+          {
+            "type": "tip",
+            "text": "Life insurance: insurable interest at **application**. Health insurance: insurable interest at **time of loss**. This distinction appears regularly on the exam."
+          }
+        ]
+      },
+      {
+        "heading": "Risk Classification Categories",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After evaluating the applicant, the underwriter assigns a risk classification that determines premium rates and policy terms:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Preferred risk** — applicants in excellent health with low-risk occupations and lifestyles. They receive the **lowest** premium rates.",
+              "**Standard risk** — applicants with average health and risk profiles. They receive **typical** premium rates. Most applicants fall into this category.",
+              "**Substandard (rated) risk** — applicants with elevated risk due to health conditions, hazardous occupations, or other factors. Insurers handle substandard risks in three ways: (1) **attach an exclusion (impairment) rider** that removes specific conditions from coverage, (2) **charge an additional premium** (a 'rated-up' or 'table-rated' policy), or (3) **limit the types of policies** available to the applicant.",
+              "**Uninsurable (declined) risk** — the risk is too high for the insurer to accept. The applicant is declined coverage entirely."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The three substandard-risk tools are high-value exam content: **exclusion rider**, **extra premium**, **limited policy selection**. If the exam describes an applicant with a specific condition getting a policy that excludes that condition, the tool being used is an **impairment (exclusion) rider**."
+          }
+        ]
+      },
+      {
+        "heading": "Premium Factors — MIX",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Three primary factors determine the cost of a health insurance premium. Use the mnemonic **MIX**:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**M — Morbidity** — the statistical probability that a person of a given age will become sick or disabled. Morbidity tables are the health insurance equivalent of mortality tables in life insurance. Higher morbidity = higher premiums.",
+              "**I — Interest (investment income)** — insurers invest a portion of every premium dollar. The expected return on those investments offsets the cost of future claims, allowing premiums to be lower than they would be if the insurer relied solely on premium revenue. When interest rates are high, premiums can be lower.",
+              "**X — Expenses (loading)** — the insurer's operating costs: commissions, administrative overhead, salaries, marketing, taxes, and profit margin. These costs are 'loaded' on top of the pure cost of expected claims."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Health insurance premiums use **morbidity**; life insurance premiums use **mortality**. If the exam asks 'which table is used to determine health insurance premiums,' the answer is a **morbidity table**. Both use interest and expenses — the distinguishing factor is morbidity vs. mortality."
+          }
+        ]
+      },
+      {
+        "heading": "Tax Treatment of Health Insurance Premiums and Benefits",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tax rules for health insurance follow a general principle: **if you paid the premium with after-tax dollars, the benefits are tax-free; if someone else paid (or you deducted the premium), the benefits may be taxable.** Here are the key rules:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Disability income insurance** — when premiums are paid personally with **after-tax dollars**, the disability income benefits are received **tax-free**. When the **employer** pays the premiums, the benefits are **taxable income** to the employee. This is the classic 'who pays the premium?' tax question.",
+              "**Medical expense insurance** — reimbursed medical expenses are NOT eligible for a tax deduction (you can't deduct an expense that was already reimbursed). Unreimbursed medical expenses may be deductible only to the extent they exceed **10% of adjusted gross income (AGI)** under current IRS rules.",
+              "**Employer-paid group health premiums** — the employer's premium contributions are **tax-deductible** for the employer as a business expense and are **not counted as taxable income** to the employee. This double tax advantage is why group health insurance is so prevalent."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The tax question students miss most: 'An employee's disability income benefits are taxable if ____.' The answer is 'the employer paid the premiums.' If the employee paid, benefits are tax-free. Whoever pays the premium determines the tax treatment of the benefit."
+          }
+        ]
+      },
+      {
+        "heading": "Managed Care Organizations (MCOs)",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "**Managed care** is a system of healthcare delivery designed to control costs while maintaining quality. MCOs use various strategies to manage utilization and negotiate lower provider rates. The four general approaches to cost containment form the mnemonic **MACP**:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**M — Mandatory second opinions** — requiring a second physician's opinion before approving expensive procedures (e.g., surgery) to prevent unnecessary treatments.",
+              "**A — Ambulatory (outpatient) surgery** — encouraging procedures to be performed on an outpatient basis when medically safe, avoiding the higher cost of inpatient hospitalization.",
+              "**C — Case management** — a specialist (usually a nurse or social worker) affiliated with the insurer reviews the insured's treatment plan and recommends alternative, cost-effective treatments. The case manager coordinates care across providers.",
+              "**P — Precertification (preadmission review)** — requiring approval from the insurer BEFORE a hospital admission or major procedure. If the insured skips precertification, benefits may be reduced or denied."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The exam defines the purpose of managed care as managing and regulating **health claims expenses** — not discouraging people from seeking care. If you see 'discouraging individuals from seeking health care' as an answer, it's the planted wrong choice."
+          }
+        ]
+      },
+      {
+        "heading": "Quick Self-Check",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Name the three primary risk factors (MOP) and explain which gets the most weight.",
+              "What are the four risk classification categories, and what are the three tools for handling substandard risks?",
+              "Name the three premium factors (MIX) and explain how morbidity differs from mortality.",
+              "If an employer pays the premium for an employee's disability income policy, are the benefits taxable to the employee?",
+              "What are the four managed care cost-containment strategies (MACP)?"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "Day 6 Module 3",
+    "title": "Group Health Insurance (Unit 24)",
+    "sections": [
+      {
+        "heading": "Nature and Structure of Group Health Insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Approximately **90% of Americans with private health insurance** are covered through employer-sponsored group plans. Group health insurance fundamentally differs from individual insurance in structure, cost, and underwriting approach."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Master policy** — the employer (or group sponsor) holds the master contract. The master policy contains the full terms, conditions, and benefit schedules. Individual employees do NOT hold the policy itself.",
+              "**Certificate of insurance** — each covered employee receives a certificate that summarizes the coverage terms. The certificate is evidence of coverage, not the contract itself.",
+              "**Group must be 'natural'** — the group must exist for a purpose OTHER than obtaining insurance (e.g., an employer-employee relationship, a professional association, a labor union). A group formed solely to buy insurance is not eligible.",
+              "**No minimum size in Florida** — unlike many states, Florida does **not** set a minimum number of participants or a minimum participation percentage for issuing group health insurance. This is a Florida-specific detail the exam may test."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Master policy = employer holds it. Certificate = employee gets it. If the exam asks 'who holds the group insurance contract,' the answer is the employer/policyholder, not the individual employee."
+          }
+        ]
+      },
+      {
+        "heading": "Eligibility, Contributory vs. Noncontributory",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Before an employee can participate in a group health plan, certain eligibility conditions must typically be met: the employee must work **full-time** and may need to complete a **probationary period** (usually 1 to 3 months). Once eligible, the employee must enroll during the enrollment window or risk having to wait and potentially undergo individual underwriting."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Contributory plan** — both the employer and employees share the premium cost. Because participation is voluntary (employees might decline), a minimum of **75% of eligible employees** must participate to prevent adverse selection.",
+              "**Noncontributory plan** — the employer pays **100%** of the premium. Because there is no cost to employees, **100%** of eligible employees must be enrolled. This eliminates adverse selection entirely since everyone is covered regardless of health status."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Contributory = 75% participation required. Noncontributory = 100% participation required. The higher the employer's share, the higher the required participation rate. This is counterintuitive until you realize: noncontributory plans REQUIRE everyone because the employer is already paying — there's no reason to opt out unless you're hiding something (adverse selection)."
+          }
+        ]
+      },
+      {
+        "heading": "Group Underwriting and Cost Advantages",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Group underwriting** — the insurer evaluates the **group as a whole**, not individual members. No individual evidence of insurability is required for eligible employees who enroll on time. This is the defining feature that makes group insurance accessible to people who might not qualify for individual coverage.",
+              "**Florida large-group rule** — for groups of **51 or more employees**, Florida law requires the insurer to accept the **entire group** — it cannot cherry-pick healthy members and exclude others.",
+              "**Lower per-person cost** — group plans have lower administrative costs per person because one policy covers many people, reducing underwriting, billing, and marketing expenses. Economies of scale make group coverage consistently cheaper than equivalent individual coverage.",
+              "**Predetermined benefits** — benefit levels are set by the employer in conjunction with the insurer's benefit schedules. Individual employees do not negotiate their own benefit terms.",
+              "**Preexisting conditions under ACA** — for plans subject to the **Affordable Care Act**, preexisting condition exclusions are **prohibited**. For non-ACA plans, **HIPAA** governs portability and limits on preexisting condition exclusions."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Types of Group Health Coverage",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Group basic medical expense** — covers three categories of routine care: **hospital expenses** (room, board, ancillary services), **surgical expenses** (surgeon and anesthesiologist fees), and **physician expenses** (non-surgical doctor visits).",
+              "**Group major medical expense** — provides broader, more comprehensive coverage for catastrophic medical costs. Comes in two forms: **comprehensive major medical** (single policy covering both basic and major medical) and **supplemental major medical** (supplements a separate basic medical plan, covering costs that exceed the basic plan's limits).",
+              "**Coordination of benefits (COB)** — a provision found **exclusively in group health plans** that prevents duplicate payments when an insured is covered by more than one group plan. COB identifies which plan is **primary** (pays first) and which is **secondary** (pays remaining eligible expenses up to the total bill). The **birthday rule** determines primary coverage for dependent children: the plan of the parent whose birthday falls earlier in the **calendar year** (month and day only — NOT by age) is primary.",
+              "**Group short-term disability** — provides income replacement for **13 to 26 weeks** (roughly 3 to 6 months) of disability.",
+              "**Group long-term disability** — provides income replacement for disabilities lasting **more than 2 years**, often until age 65. Long-term disability benefits typically don't begin until short-term benefits have been exhausted — the two do NOT pay simultaneously."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "COB birthday rule: it's the parent whose birthday is **earlier in the calendar year**, not the older parent. A parent born January 15 is primary over a parent born March 1, regardless of birth year. This is the #1 COB exam trap."
+          }
+        ]
+      },
+      {
+        "heading": "COBRA — Continuation of Group Coverage",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The **Consolidated Omnibus Budget Reconciliation Act (COBRA)** is a federal law that allows employees and their dependents to **continue** group health coverage at their own expense after a qualifying event that would otherwise end their coverage."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Applies to employers with 20 or more employees** — smaller employers are exempt from federal COBRA (but Florida's mini-COBRA applies to them).",
+              "**18 months** — the standard continuation period for **employment termination** (other than gross misconduct) or **reduction in hours**.",
+              "**29 months** — if the qualified beneficiary is **disabled** (as determined by Social Security) at the time of the qualifying event, coverage extends to 29 months. The premium for months 19–29 can be up to **150%** of the group rate.",
+              "**36 months** — for events affecting **dependents**: death of the employee, divorce or legal separation, the employee becoming entitled to Medicare, or a dependent child aging out of coverage.",
+              "**Premium** — the former employee may be required to pay up to **102%** of the full group premium (the extra 2% covers administration). The employer does NOT have to contribute.",
+              "**Florida mini-COBRA** — Florida's Health Insurance Coverage Continuation Act (§627.6692) extends similar continuation rights to employees of **small employers (fewer than 20 employees)** for generally **18 months**."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "COBRA durations: **18** = job loss/reduced hours. **29** = disability extension. **36** = dependent events (death, divorce, Medicare, aging out). Premium can be **102%** (standard) or **150%** (disability extension months 19–29). If the question says '15-employee company,' federal COBRA does NOT apply — **Florida mini-COBRA** does."
+          }
+        ]
+      },
+      {
+        "heading": "Other Group Health Products",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Group AD&D** — accidental death and dismemberment coverage provided through the employer. Unlike group life and group medical, **AD&D generally does NOT offer a conversion privilege**. This is a frequently tested distinction.",
+              "**Blanket health policies** — cover an entire group exposed to the **same risks**, where the membership is constantly changing. Classic examples: an airline covering all passengers, a school covering all students, a bus company covering all riders. The key feature is that individuals in the group change continuously — no individual underwriting, no individual certificates.",
+              "**Franchise (wholesale) policies** — individual policies sold to members of an association or professional society at group-discounted rates. Each member gets their own individual policy, unlike a true group plan with a master contract.",
+              "**Credit accident and health insurance** — pays the insured's loan or debt payments if the borrower becomes disabled. The creditor (lender) is the beneficiary.",
+              "**Health savings accounts (HSAs)** — tax-advantaged savings accounts paired with a **high-deductible health plan (HDHP)**. Eligibility requires being under **age 65** and enrolled in an HDHP. Contributions are limited annually. Earnings grow **tax-free** and withdrawals for qualified medical expenses are **tax-free**."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Group AD&D = NO conversion privilege. Group life = HAS conversion privilege. This is a classic exam pair. Also: blanket policies cover groups that constantly change (think passengers), franchise policies cover stable associations (think professional groups)."
+          }
+        ]
+      },
+      {
+        "heading": "Group Health Plan Tax Treatment",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Group health insurance enjoys favorable tax treatment that incentivizes employers to offer coverage:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Employer premium contributions** are **tax-deductible** as a business expense for the employer.",
+              "**Employee benefit**: employer-paid group health premiums are **NOT counted as taxable income** to the employee. This means the employee receives a valuable benefit without increasing their tax burden.",
+              "**Employee contributions** to group plans may be made **pre-tax** through a Section 125 cafeteria plan, further reducing taxable income.",
+              "**Individual contributions** to group medical plans can be included in the medical expense deduction only when total unreimbursed medical expenses exceed **10% of AGI**."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Quick Self-Check",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "What is the participation requirement for a contributory group plan vs. a noncontributory plan?",
+              "Who holds the master policy and what do employees receive?",
+              "What are the three COBRA continuation periods, and which qualifying events trigger each?",
+              "How does the birthday rule determine primary coverage for dependent children?",
+              "Name a group health product that does NOT offer a conversion privilege.",
+              "What makes Florida's group insurance rules different regarding minimum group size?"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "module": "Day 6 Module 4",
+    "title": "Uses of Health Insurance (Unit 25)",
+    "sections": [
+      {
+        "heading": "How Individuals Use Health Insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Health insurance serves two fundamental purposes for individuals: **medical expense protection** (covering the cost of healthcare) and **income replacement** (replacing lost earnings during disability). Understanding both dimensions — and the gap between what people think they have and what they actually need — is essential for both the exam and professional practice."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Group coverage is more common than individual** — group policies cover the vast majority of privately insured Americans because they offer broader coverage at lower cost, require no individual underwriting, and include a **conversion privilege** as a safety net when employment ends.",
+              "**Lower out-of-pocket costs** — group plans typically have lower deductibles, lower coinsurance, and higher benefit maximums compared to individual policies, making them more comprehensive.",
+              "**Disability income insurance is commonly overlooked** — many people assume Social Security disability benefits will be sufficient to replace their income if they become disabled. In reality, Social Security disability has a strict definition of disability ('inability to engage in any substantial gainful activity'), a 5-month waiting period, and benefits that replace only a fraction of pre-disability income. Private disability income insurance fills this critical gap.",
+              "**Paid family leave insurance** — some employers purchase paid family leave coverage that pays a **percentage of the employee's income** during leave taken for the birth of a child, adoption, or care of a seriously ill family member."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "If the exam asks 'which offers broader coverage, group or individual health insurance,' the answer is **group**. Group plans cover more people, cost less per person, and include protections (like guaranteed issue and conversion privileges) that individual plans typically don't."
+          }
+        ]
+      },
+      {
+        "heading": "How Businesses Use Health Insurance — Employee Benefits",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Employers use health insurance strategically, not just as an employee benefit but as a business tool. Offering health coverage serves multiple business purposes:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Competitive hiring advantage** — health benefits are a key factor in attracting and retaining qualified employees in a competitive labor market.",
+              "**Employee morale and productivity** — employees with reliable health coverage are less stressed about medical costs, leading to higher engagement and lower absenteeism.",
+              "**Tax deductions** — employer contributions to group health plans are **deductible as a business expense**, reducing the company's taxable income.",
+              "**Cafeteria plans (Section 125)** — these plans offer employees a **menu of benefits** to choose from (dental, vision, short-term disability, FSA, HSA contributions, etc.). Employees select the benefits that best fit their needs and pay for them with **pre-tax dollars**, reducing both the employee's taxable income and the employer's payroll tax liability. Once an election is made, it is generally **irrevocable** for the plan year unless the employee experiences a qualifying life event (marriage, birth, divorce)."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Cafeteria plans = **choice** from a menu of benefits + **pre-tax** payment. The name says it all — employees pick what they want from the 'cafeteria line.' Section 125 is the IRC section that authorizes them."
+          }
+        ]
+      },
+      {
+        "heading": "Business Overhead Expense (BOE) Insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "**Business overhead expense (BOE) insurance** is a specialized disability policy that pays the **fixed operating expenses** of a business when the owner becomes disabled and cannot work. It keeps the lights on — literally — while the owner recovers."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Covered expenses** — rent or mortgage, utilities, telephone/internet, leased equipment payments, **employees' salaries**, business insurance premiums, and similar fixed operating costs.",
+              "**NOT covered** — the **owner's personal salary or income**. This is the single most-tested BOE fact. BOE protects the business, not the owner's personal finances. For personal income replacement, the owner needs a separate disability income policy.",
+              "**Tax treatment** — BOE premiums are **tax-deductible** as a business expense (because they cover business costs), but the benefits received are **taxable income** to the business. This is opposite from personal disability income, where premiums are NOT deductible but benefits ARE tax-free."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The #1 BOE exam question: 'Which expense would NOT be covered under a BOE policy?' The answer is always **the owner's salary**. BOE pays employees' salaries, rent, and utilities — everything the business needs to survive — but NOT the owner's personal draw."
+          }
+        ]
+      },
+      {
+        "heading": "Disability Buyout Insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "**Disability buyout insurance** funds the purchase of a disabled co-owner's share of a business. It works alongside a **buy-sell agreement** — a pre-arranged contract that specifies the terms under which one partner's ownership interest will be bought out by the remaining partners if that partner becomes permanently disabled."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Purpose** — provides the cash needed to execute the buyout without forcing the healthy partners to liquidate assets or take on debt. It ensures a clean, orderly ownership transition.",
+              "**Lump sum option** — many disability buyout policies offer the option to receive the benefit as a **lump sum payment** rather than monthly installments, enabling an immediate buyout.",
+              "**Longer elimination period** — because buyouts are intended for **permanent** disability (not temporary), these policies typically have longer elimination periods (often 12–24 months) compared to standard disability income policies.",
+              "**Key difference from BOE** — BOE covers **ongoing monthly expenses** to keep the business running during a temporary disability. Disability buyout addresses **permanent** disability by funding the **transfer of ownership**."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "BOE = keep the business alive during temporary disability (monthly operating costs). Disability buyout = transfer ownership permanently (lump sum or structured buyout). If the exam describes a partner who will never return to work and the remaining partners need to buy the disabled partner out, the answer is **disability buyout insurance**."
+          }
+        ]
+      },
+      {
+        "heading": "Key Person Disability Insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "**Key person disability insurance** protects a business against the financial impact of losing a **critical employee** to disability. The employee doesn't have to be an owner — they just need to be someone whose absence would cause measurable financial harm to the company."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**The business is the owner and beneficiary** — the business purchases the policy, pays the premiums, and receives the benefits. The key employee is the insured but does not receive the money.",
+              "**Monthly benefit** — unlike key person life insurance (which pays a lump sum at death), key person disability insurance pays a **monthly benefit** for as long as the key employee is disabled, helping the company cover the cost of lost revenue, temporary replacements, or recruitment.",
+              "**Parallel to key person life insurance** — just as key person life insurance covers the financial loss from a key employee's death, key person disability covers the loss from their inability to work. The structure mirrors life insurance but addresses a much more common event — statistically, long-term disability is far more likely than premature death during working years."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Three business disability products, three different purposes: **BOE** = pays business overhead. **Disability buyout** = buys out a disabled partner's ownership share. **Key person disability** = compensates the company for losing a vital employee. Know which product matches which scenario — the exam gives you a business situation and expects you to pick the right product."
+          }
+        ]
+      },
+      {
+        "heading": "Reducing Premium Costs",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Both individuals and businesses can take steps to lower health insurance premium costs without sacrificing essential coverage. Understanding these strategies is practical for client advising and tested on the exam."
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Increase the deductible** — a higher deductible means the insured absorbs more of the initial cost before insurance kicks in, resulting in lower premiums.",
+              "**Extend the elimination (waiting) period** — for disability income policies, a longer waiting period before benefits begin translates to lower premiums. A 90-day elimination period is cheaper than a 30-day one.",
+              "**Modify benefit amounts** — reducing the maximum benefit or daily benefit amount lowers the premium.",
+              "**NOT a valid strategy**: waiving the right to receive benefits. You cannot reduce premiums by agreeing not to collect benefits — that defeats the purpose of insurance."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "The exam's trap answer for 'how to reduce premiums' is always 'waive the right to receive benefits.' That's never a real strategy. The legitimate methods are: raise the deductible, extend the elimination period, and reduce benefit amounts."
+          }
+        ]
+      },
+      {
+        "heading": "Quick Self-Check",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Why is group health insurance preferred over individual coverage for most people?",
+              "What is a cafeteria plan and what tax advantage does it offer?",
+              "What expenses does BOE insurance cover, and what critical expense does it NOT cover?",
+              "How does disability buyout insurance differ from BOE insurance?",
+              "Who is the owner and beneficiary of a key person disability policy?",
+              "Name three legitimate ways to reduce health insurance premium costs."
+            ]
           }
         ]
       }

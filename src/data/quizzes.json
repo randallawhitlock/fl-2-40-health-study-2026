@@ -1344,6 +1344,34 @@
     "answer": "The agent"
   },
   {
+    "module": "Day 2 Module 1",
+    "group": "law-authority",
+    "topic": "Agent Authority (Bank Trap)",
+    "explanation": "COURSE-KEY WARNING: standard texts define IMPLIED authority as 'not expressly granted but necessary to transact the principal's business' — yet this course's bank marked 'implied' WRONG on exactly this wording and apparently keys APPARENT. If you see this wording on a course quiz, answer apparent; on the state exam, the textbook answer for 'authority the agent must have to transact business though not expressly granted' is IMPLIED. Flag the discrepancy to your instructor.",
+    "question": "[Course bank] What type of authority is not overtly extended but must be used to enable the agent to transact the business of the principal?",
+    "options": [
+      "Apparent (this bank's key — standard texts say implied!)",
+      "Express",
+      "Fiduciary",
+      "Assumed"
+    ],
+    "answer": "Apparent (this bank's key — standard texts say implied!)"
+  },
+  {
+    "module": "Day 2 Module 1",
+    "group": "law-competent",
+    "topic": "Competent Parties",
+    "explanation": "Competent parties: legally capable of contracting. An insurer with a Certificate of Authority is competent. Per this course's key, a person UNDER THE INFLUENCE is the incompetent party — an Alzheimer's diagnosis alone was NOT keyed as incompetence, and in Florida minors 15+ may contract for insurance.",
+    "question": "All of the following are considered competent parties EXCEPT:",
+    "options": [
+      "A 25-year-old under the influence of alcohol",
+      "An insurance company holding a certificate of authority from the state",
+      "A 17-year-old who just graduated from high school",
+      "A 52-year-old recently diagnosed with early Alzheimer's"
+    ],
+    "answer": "A 25-year-old under the influence of alcohol"
+  },
+  {
     "module": "Day 2 Module 2",
     "group": "d2m2-misrep-when",
     "question": "During the selling process, serious problems of misrepresentation are MOST likely to occur at which stage?",
@@ -1790,6 +1818,34 @@
       "Free-look provision"
     ],
     "answer": "Insuring clause"
+  },
+  {
+    "module": "Day 2 Module 2",
+    "group": "eth-uwfactors",
+    "topic": "Underwriting Factors",
+    "explanation": "Health underwriters consider physical condition, medical history, occupation, personal habits/moral hazards — and yes, even the CREDIT rating (credit reports are part of the checks and balances). MARITAL STATUS is not an underwriting risk factor.",
+    "question": "Which of the following would probably NOT be considered in underwriting a health insurance risk?",
+    "options": [
+      "The individual's marital status",
+      "The individual's personal habits",
+      "The individual's credit rating",
+      "The individual's medical history"
+    ],
+    "answer": "The individual's marital status"
+  },
+  {
+    "module": "Day 2 Module 2",
+    "group": "eth-uwfactors",
+    "topic": "Underwriting Factors",
+    "explanation": "Primary health underwriting risk factors: physical condition, occupation, and moral hazards/lifestyle. Interest rates are a PREMIUM calculation factor (the I in MIST), not an underwriting risk factor about the applicant.",
+    "question": "Which of the following is NOT one of the primary risk factors used in health insurance underwriting?",
+    "options": [
+      "Interest rates",
+      "Physical condition",
+      "Moral hazards",
+      "Occupation"
+    ],
+    "answer": "Interest rates"
   },
   {
     "module": "Day 3 Module 1",
@@ -2322,6 +2378,20 @@
     "answer": "95%",
     "topic": "ACA Employer Mandate",
     "explanation": "Employers with 50+ full-time employees must offer qualifying coverage to at least 95% of them and their dependents, or face $2,000/worker/year if any worker takes federal assistance."
+  },
+  {
+    "module": "Day 3 Module 1",
+    "group": "hi-premfactors",
+    "topic": "Premium Factors",
+    "explanation": "The three SECONDARY premium factors in health insurance: claims experience, age & sex of the insured, and benefit amounts. 'Salary benefits' is not one of them. (Primary factors = morbidity, interest, expenses, type of benefits — MIST.)",
+    "question": "Which of the following is NOT one of the three secondary premium factors in health insurance?",
+    "options": [
+      "Salary benefits",
+      "Claims experience",
+      "Age and sex of the insured",
+      "Benefit amounts"
+    ],
+    "answer": "Salary benefits"
   },
   {
     "module": "Day 3 Module 2",
@@ -3125,7 +3195,7 @@
     "module": "Day 4 Module 1",
     "group": "mp-fixedrate",
     "topic": "Hospital Indemnity / Fixed-Rate Plans",
-    "explanation": "Fixed-rate (hospital indemnity) plans pay a flat daily/weekly/monthly amount per day hospitalized, directly TO THE INSURED. Fixed benefits mean claim costs aren't affected by medical inflation — and the premium is least affected by rising medical costs.",
+    "explanation": "Fixed-rate (hospital indemnity) plans pay a flat daily/weekly/monthly amount per day hospitalized, directly TO THE INSURED. Fixed benefits mean claim costs aren't affected by medical inflation — and the premium is least affected by rising medical costs. BANK QUIRK: one bank question asks what 'basis' a flat-per-day policy pays on and keys 'reimbursement' even with 'fixed-rate plan' as an option; another keys 'fixed-rate.' Read the options: if the question describes WHAT it pays, answer flat amount per day / fixed-rate; if it asks the payment 'basis' with reimbursement keyed, the bank uses the terms interchangeably.",
     "question": "A hospital expense policy that pays a flat amount per day of hospitalization pays benefits on what basis?",
     "options": [
       "A fixed-rate plan",
@@ -3433,7 +3503,7 @@
     "module": "Day 4 Module 2",
     "group": "di-elim",
     "topic": "Elimination vs. Probationary",
-    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
+    "explanation": "The elimination period is the 'time deductible' before benefits start (longer = cheaper premium). Per this course's bank it applies to SICKNESS only — accidents are payable immediately. The probationary period applies once, at policy start, to sickness only.",
     "question": "The waiting period between the onset of a disability and the start of benefit payments is the:",
     "options": [
       "Elimination period",
@@ -3447,7 +3517,7 @@
     "module": "Day 4 Module 2",
     "group": "di-elim",
     "topic": "Elimination vs. Probationary",
-    "explanation": "The elimination period is a time deductible on EVERY claim before benefits start (longer = cheaper premium). The probationary period applies once, at policy start, to sickness only.",
+    "explanation": "The elimination period is the 'time deductible' before benefits start (longer = cheaper premium). Per this course's bank it applies to SICKNESS only — accidents are payable immediately. The probationary period applies once, at policy start, to sickness only.",
     "question": "Choosing a 180-day elimination period instead of 30 days will:",
     "options": [
       "Lower the premium",
@@ -3951,7 +4021,7 @@
     "module": "Day 4 Module 2",
     "group": "di-totaldef",
     "topic": "Occupational Suitability",
-    "explanation": "'Any occupation for which the insured is qualified by education or experience' is the ANY-occupation definition — the more restrictive one. Own-occupation is less restrictive and more favorable.",
+    "explanation": "'Any occupation for which the insured is qualified by education or experience' is the ANY-occupation definition — the more restrictive one (hardest to qualify under). Own-occupation is less restrictive and more favorable. WARNING: this course's bank has keyed this BOTH ways ('more restrictive' and 'less restrictive'). Standard/state-exam answer: any-occupation = MORE restrictive. Flag the contradiction to your instructor if marked wrong.",
     "question": "A policy defines total disability as the inability to perform ANY occupation for which the insured is qualified by education or experience. This definition is:",
     "options": [
       "The any-occupation definition, and it is more restrictive than own-occupation",
@@ -4021,15 +4091,15 @@
     "module": "Day 4 Module 2",
     "group": "di-probscenario",
     "topic": "Probationary + Elimination Together",
-    "explanation": "Walk the timeline: a sickness inside the probationary period is excluded entirely; an accident is covered immediately but benefits still wait out the elimination period.",
+    "explanation": "COURSE KEY: in this course's bank, the elimination period — like the probationary period — applies to SICKNESS only and does NOT apply to accidents. Hit by a truck/train = benefits payable immediately on the date of the accident. (The book says elimination periods 'may apply only to sickness depending on the policy' — this bank treats that as the default.)",
     "question": "Hugo's policy has a 15-day probationary period and a 30-day elimination period. He is hit by a truck on September 1 (after the probationary period) and disabled for six months. Benefits first become payable:",
     "options": [
+      "September 1 — immediately, because elimination periods do not apply to accidents",
       "October 1 — 30 days after the accident",
-      "September 1 — immediately",
       "September 15",
       "November 1"
     ],
-    "answer": "October 1 — 30 days after the accident"
+    "answer": "September 1 — immediately, because elimination periods do not apply to accidents"
   },
   {
     "module": "Day 4 Module 2",
@@ -4156,6 +4226,62 @@
       "A heart attack while at rest"
     ],
     "answer": "Falling off a ladder and breaking a leg"
+  },
+  {
+    "module": "Day 5 Module 1",
+    "group": "add-rules",
+    "topic": "AD&D Payment Rules",
+    "explanation": "True: dismemberment benefits MAY be paid for loss of USE, and accidental death benefits pay only if death results from accidental bodily injury as defined in the policy. False: death must typically occur within 90 days of the accident — not 60.",
+    "question": "Which statements about AD&D coverage are true? I. Death benefits are paid only if death occurs within 60 days of an accident. II. Dismemberment benefits may be paid for loss of use. III. Accidental death benefits are paid only if death results from accidental bodily injury as defined in the policy.",
+    "options": [
+      "II and III",
+      "I and II",
+      "I and III",
+      "All statements apply"
+    ],
+    "answer": "II and III"
+  },
+  {
+    "module": "Day 5 Module 1",
+    "group": "add-rules",
+    "topic": "AD&D Payment Rules",
+    "explanation": "Per the course bank: losing all fingers EXCEPT the thumb is NOT dismemberment (severance must be of the entire hand), but permanent LOSS OF USE of a hand/arm DOES qualify.",
+    "question": "Which would qualify as dismemberment? I. Sally loses all fingers on her left hand except the thumb. II. Ed permanently loses the USE of his right hand and arm in an auto accident.",
+    "options": [
+      "II only",
+      "I only",
+      "I and II",
+      "Neither I nor II"
+    ],
+    "answer": "II only"
+  },
+  {
+    "module": "Day 5 Module 1",
+    "group": "add-sums",
+    "topic": "Principal vs. Capital Sum",
+    "explanation": "COURSE KEY: the principal sum pays for LOSS OF LIFE ONLY. Loss of hands, partial foot, or fingers — even severe multiple losses — were keyed to the CAPITAL sum, not principal. (Note the bank is loose here: another of its questions says loss of two limbs pays the same amount as death — but when asked what the principal sum 'pays for,' answer death only.)",
+    "question": "[Course bank] The principal sum in a $25,000 AD&D policy will pay for which of the following? I. Loss of hands above the wrist. II. Loss of 3/4 of the foot. III. Loss of life in a boating accident. IV. All fingers (including thumbs) on both hands.",
+    "options": [
+      "III only",
+      "I and III",
+      "I, II, and III",
+      "II and IV"
+    ],
+    "answer": "III only"
+  },
+  {
+    "module": "Day 5 Module 1",
+    "group": "add-sums",
+    "topic": "Principal vs. Capital Sum",
+    "explanation": "COURSE KEY: the capital sum covers the dismemberment losses — this bank keyed ALL the listed dismemberments (hands above the wrist, partial foot, an eye, all fingers including thumbs) as payable under the capital sum schedule (at varying percentages). Death is the only loss paid by the principal sum.",
+    "question": "[Course bank] The capital sum in an AD&D policy will pay for which of the following? I. Loss of hands above the wrist. II. Loss of 3/4 of the foot. III. Loss of an eye. IV. All fingers (including thumbs) on both hands.",
+    "options": [
+      "I, II, III, and IV",
+      "I and III",
+      "II and IV",
+      "I, II, and III"
+    ],
+    "answer": "I, II, III, and IV"
   },
   {
     "module": "Day 5 Module 2",
@@ -4632,6 +4758,20 @@
       "Taxable above $10,000 per year"
     ],
     "answer": "Excluded from income for tax purposes"
+  },
+  {
+    "module": "Day 5 Module 3",
+    "group": "mc-partner",
+    "topic": "Florida LTC Partnership",
+    "explanation": "The State Partnership Program is a partnership among the STATES, the INSURANCE INDUSTRY, and INSUREDS — allowing Medicaid reimbursement without impoverishment. The insurance commissioner is not a party to the partnership.",
+    "question": "The State Partnership Program for Long-Term Care includes all of the following EXCEPT:",
+    "options": [
+      "The insurance commissioner",
+      "The states",
+      "The insurance industry",
+      "Insureds"
+    ],
+    "answer": "The insurance commissioner"
   },
   {
     "module": "Next: Policy Provisions",

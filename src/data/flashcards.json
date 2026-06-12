@@ -325,6 +325,11 @@
     "definition": "Professional liability coverage protecting the AGENT against groundless, false, or fraudulent lawsuits over errors or omissions."
   },
   {
+    "module": "Day 2 Module 1",
+    "term": "Competent parties",
+    "definition": "Legally able to contract: sane, sober, of legal age (FL: minors 15+ may contract for insurance). A person under the influence = NOT competent. An insurer is competent via its Certificate of Authority."
+  },
+  {
     "term": "Conditional receipt",
     "definition": "A receipt given to an applicant for insurance when they submit their initial premium payment with their application. It provides temporary coverage for the applicant until the policy is issued or declined.",
     "module": "Day 2 Module 2"
@@ -378,6 +383,11 @@
     "module": "Day 2 Module 2",
     "term": "Insuring clause",
     "definition": "Front-page clause signed by the insurer's president and secretary — the company's basic promise to pay covered benefits."
+  },
+  {
+    "module": "Day 2 Module 2",
+    "term": "Underwriting risk factors",
+    "definition": "Considered: physical condition, medical history, occupation, personal habits/moral hazards, even credit rating. NOT considered: marital status. (Interest rates = premium math, not a risk factor.)"
   },
   {
     "term": "Health insurance",
@@ -468,6 +478,11 @@
     "term": "Morbidity",
     "definition": "The rate of illness or disease in a particular population",
     "module": "Day 3 Module 1"
+  },
+  {
+    "module": "Day 3 Module 1",
+    "term": "Secondary premium factors",
+    "definition": "Claims experience, age & sex of the insured, and benefit amounts. ('Salary benefits' is the planted wrong answer.)"
   },
   {
     "term": "Commercial insurers",
@@ -787,7 +802,7 @@
   {
     "module": "Day 4 Module 2",
     "term": "Elimination period",
-    "definition": "The 'time deductible' between onset of disability and the first benefit payment; applies to every claim. Longer period = lower premium."
+    "definition": "The 'time deductible' between onset of disability and the first benefit payment. Per this course: applies to SICKNESS only — accident claims pay immediately. Longer period = lower premium."
   },
   {
     "module": "Day 4 Module 2",
@@ -1005,6 +1020,16 @@
     "definition": "Covers an unusual hazard standard policies won't — e.g., a violinist insuring her hands."
   },
   {
+    "module": "Day 5 Module 1",
+    "term": "AD&D 90-day rule & loss of use",
+    "definition": "Accidental death must occur within 90 days of the accident (not 60). Dismemberment can include permanent LOSS OF USE — but losing fingers without the whole hand doesn't count."
+  },
+  {
+    "module": "Day 5 Module 1",
+    "term": "Principal vs. capital sum (course key)",
+    "definition": "Per this bank: principal sum pays for LOSS OF LIFE ONLY; ALL dismemberments (hands, partial foot, eye, fingers) fall under the capital sum schedule."
+  },
+  {
     "module": "Day 5 Module 2",
     "term": "Medicare Part A",
     "definition": "Hospital insurance: inpatient care, skilled nursing after a 3-day stay, hospice. Premium-free with 40 quarters of covered work."
@@ -1078,6 +1103,11 @@
     "module": "Day 5 Module 2",
     "term": "Workers' comp funding options",
     "definition": "Employers provide WC through a state program, a private insurer, or self-insurance. No-fault; employees contribute nothing."
+  },
+  {
+    "module": "Day 5 Module 2",
+    "term": "Medicare Part A costs",
+    "definition": "Premium-FREE for those with 40 work quarters (others may buy in); everyone pays the Part A deductible per benefit period."
   },
   {
     "module": "Day 5 Module 3",
