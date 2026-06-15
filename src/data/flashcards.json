@@ -1,7 +1,7 @@
 [
   {
     "term": "Life insurance",
-    "definition": "A type of insurance that provides financial protection to the beneficiaries of the policyholder in case of the policyholder’s death",
+    "definition": "A type of insurance that provides financial protection to the beneficiaries of the policyholder in case of the policyholder\u2019s death",
     "module": "Day 1 Module 1"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "term": "Human life value",
-    "definition": "The economic value of an individual’s life is based on their income, potential earnings, and other factors",
+    "definition": "The economic value of an individual\u2019s life is based on their income, potential earnings, and other factors",
     "module": "Day 1 Module 1"
   },
   {
@@ -132,7 +132,7 @@
   {
     "module": "Day 1 Module 2",
     "term": "NAIC",
-    "definition": "National Association of Insurance Commissioners — state regulators who promote uniformity through model laws; it has no enforcement authority."
+    "definition": "National Association of Insurance Commissioners \u2014 state regulators who promote uniformity through model laws; it has no enforcement authority."
   },
   {
     "module": "Day 1 Module 2",
@@ -152,7 +152,7 @@
   {
     "module": "Day 1 Module 2",
     "term": "Rebating",
-    "definition": "Giving anything of value as an inducement to buy insurance; legal in Florida only under the strict conditions of §626.572."
+    "definition": "Giving anything of value as an inducement to buy insurance; legal in Florida only under the strict conditions of \u00a7626.572."
   },
   {
     "module": "Day 1 Module 2",
@@ -182,7 +182,7 @@
   {
     "module": "Day 1 Module 2",
     "term": "Lloyd's of London",
-    "definition": "Not an insurer — a marketplace where member syndicates underwrite risks."
+    "definition": "Not an insurer \u2014 a marketplace where member syndicates underwrite risks."
   },
   {
     "module": "Day 1 Module 2",
@@ -226,7 +226,7 @@
   },
   {
     "term": "Consideration",
-    "definition": "One element of a binding contract; the company’s acceptance of premium payment and statements made by the prospective insured and the application",
+    "definition": "One element of a binding contract; the company\u2019s acceptance of premium payment and statements made by the prospective insured and the application",
     "module": "Day 2 Module 1"
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "term": "Apparent authority",
-    "definition": "The authority an agent appears to have based on the principal’s (the insurer’s) actions, words, deeds, or because of circumstances the principal (the insurer) created.",
+    "definition": "The authority an agent appears to have based on the principal\u2019s (the insurer\u2019s) actions, words, deeds, or because of circumstances the principal (the insurer) created.",
     "module": "Day 2 Module 1"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "term": "Estoppel",
-    "definition": "Legal impediment to denying the consequences of one’s actions or deeds if they lead to detrimental actions by another.",
+    "definition": "Legal impediment to denying the consequences of one\u2019s actions or deeds if they lead to detrimental actions by another.",
     "module": "Day 2 Module 1"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "term": "Underwriting process",
-    "definition": "An insurance company evaluates an applicant’s risk and decides whether to issue a policy and at what premium rate. The process involves gathering information about the applicant’s age, health, occupation, hobbies, and other factors that could affect their risk profile.",
+    "definition": "An insurance company evaluates an applicant\u2019s risk and decides whether to issue a policy and at what premium rate. The process involves gathering information about the applicant\u2019s age, health, occupation, hobbies, and other factors that could affect their risk profile.",
     "module": "Day 2 Module 2"
   },
   {
@@ -371,18 +371,18 @@
   },
   {
     "term": "Medical Information Bureau (MIB)",
-    "definition": "A non-profit organization that maintains a database of medical information about insurance applicants. Insurance companies can use the MIB to access an applicant’s medical history and other relevant information during the underwriting process.",
+    "definition": "A non-profit organization that maintains a database of medical information about insurance applicants. Insurance companies can use the MIB to access an applicant\u2019s medical history and other relevant information during the underwriting process.",
     "module": "Day 2 Module 2"
   },
   {
     "term": "Inspection report",
-    "definition": "A report that provides information about an applicant’s home or business property. Insurance companies may use an inspection report to assess the risk of insuring the property.",
+    "definition": "A report that provides information about an applicant\u2019s home or business property. Insurance companies may use an inspection report to assess the risk of insuring the property.",
     "module": "Day 2 Module 2"
   },
   {
     "module": "Day 2 Module 2",
     "term": "Insuring clause",
-    "definition": "Front-page clause signed by the insurer's president and secretary — the company's basic promise to pay covered benefits."
+    "definition": "Front-page clause signed by the insurer's president and secretary \u2014 the company's basic promise to pay covered benefits."
   },
   {
     "module": "Day 2 Module 2",
@@ -520,7 +520,7 @@
     "module": "Day 3 Module 2"
   },
   {
-    "term": "State workers’ compensation program",
+    "term": "State workers\u2019 compensation program",
     "definition": "A state-run insurance program that provides benefits to workers who are injured or become ill as a result of their job",
     "module": "Day 3 Module 2"
   },
@@ -530,8 +530,8 @@
     "module": "Day 3 Module 2"
   },
   {
-    "term": "Workers’ compensation laws",
-    "definition": "State laws that require employers to provide workers’ compensation insurance to employees who are injured or become ill as a result of their job",
+    "term": "Workers\u2019 compensation laws",
+    "definition": "State laws that require employers to provide workers\u2019 compensation insurance to employees who are injured or become ill as a result of their job",
     "module": "Day 3 Module 2"
   },
   {
@@ -696,12 +696,12 @@
   },
   {
     "module": "Day 4 Module 1",
-    "term": "Basic physicians’ expense insurance",
+    "term": "Basic physicians\u2019 expense insurance",
     "definition": "Insurance that covers the cost of medical expenses incurred by the insured, specifically related to physician visits"
   },
   {
     "module": "Day 4 Module 1",
-    "term": "Nurses’ expense benefits",
+    "term": "Nurses\u2019 expense benefits",
     "definition": "Insurance that covers the cost of medical expenses incurred by the insured, specifically related to nursing care"
   },
   {
@@ -802,7 +802,7 @@
   {
     "module": "Day 4 Module 2",
     "term": "Elimination period",
-    "definition": "The 'time deductible' between onset of disability and the first benefit payment. Per this course: applies to SICKNESS only — accident claims pay immediately. Longer period = lower premium."
+    "definition": "The 'time deductible' between onset of disability and the first benefit payment. Per this course: applies to SICKNESS only \u2014 accident claims pay immediately. Longer period = lower premium."
   },
   {
     "module": "Day 4 Module 2",
@@ -827,7 +827,7 @@
   {
     "module": "Day 4 Module 2",
     "term": "Residual disability benefit",
-    "definition": "Benefit proportional to lost income — a 40% earnings drop pays 40% of the total benefit."
+    "definition": "Benefit proportional to lost income \u2014 a 40% earnings drop pays 40% of the total benefit."
   },
   {
     "module": "Day 4 Module 2",
@@ -837,7 +837,7 @@
   {
     "module": "Day 4 Module 2",
     "term": "Recurrent disability",
-    "definition": "If the same disability returns within a stated period (often 6 months), it is a continuation — no new elimination period. But full recovery + return to work = a NEW disability: new elimination period, fresh benefit period."
+    "definition": "If the same disability returns within a stated period (often 6 months), it is a continuation \u2014 no new elimination period. But full recovery + return to work = a NEW disability: new elimination period, fresh benefit period."
   },
   {
     "module": "Day 4 Module 2",
@@ -852,7 +852,7 @@
   {
     "module": "Day 4 Module 2",
     "term": "Waiver of premium",
-    "definition": "Premiums are waived while the insured is totally disabled, typically after 90 days, keeping the policy alive. Found in disability income policies (NOT medical expense); may apply retroactively; usually drops off at age 60–65."
+    "definition": "Premiums are waived while the insured is totally disabled, typically after 90 days, keeping the policy alive. Found in disability income policies (NOT medical expense); may apply retroactively; usually drops off at age 60\u201365."
   },
   {
     "module": "Day 4 Module 2",
@@ -877,12 +877,12 @@
   {
     "module": "Day 4 Module 2",
     "term": "Nonoccupational policy",
-    "definition": "An insurance policy that covers disabilities resulting from accidents or sicknesses that occur outside of the insured person’s occupation"
+    "definition": "An insurance policy that covers disabilities resulting from accidents or sicknesses that occur outside of the insured person\u2019s occupation"
   },
   {
     "module": "Day 4 Module 2",
     "term": "Occupational policy",
-    "definition": "An insurance policy that covers disabilities resulting from accidents or sicknesses that occur in the insured person’s occupation"
+    "definition": "An insurance policy that covers disabilities resulting from accidents or sicknesses that occur in the insured person\u2019s occupation"
   },
   {
     "module": "Day 4 Module 2",
@@ -917,12 +917,12 @@
   {
     "module": "Day 4 Module 2",
     "term": "Flat amount",
-    "definition": "A fixed amount of benefit paid out under an insurance policy, regardless of the insured person’s income or earning capacity"
+    "definition": "A fixed amount of benefit paid out under an insurance policy, regardless of the insured person\u2019s income or earning capacity"
   },
   {
     "module": "Day 4 Module 2",
     "term": "Residual amount",
-    "definition": "A benefit paid out under an insurance policy that is calculated based on the insured person’s loss of income or earning capacity"
+    "definition": "A benefit paid out under an insurance policy that is calculated based on the insured person\u2019s loss of income or earning capacity"
   },
   {
     "module": "Day 4 Module 2",
@@ -982,22 +982,22 @@
   {
     "module": "Day 5 Module 1",
     "term": "Accidental death & dismemberment (AD&D)",
-    "definition": "Pure accident insurance: pays a predetermined lump sum for accidental death or loss of limbs/sight. A VALUED contract — never pays for sickness."
+    "definition": "Pure accident insurance: pays a predetermined lump sum for accidental death or loss of limbs/sight. A VALUED contract \u2014 never pays for sickness."
   },
   {
     "module": "Day 5 Module 1",
     "term": "Principal sum",
-    "definition": "The AD&D death benefit — the full stated amount paid for accidental death."
+    "definition": "The AD&D death benefit \u2014 the full stated amount paid for accidental death."
   },
   {
     "module": "Day 5 Module 1",
     "term": "Capital sum",
-    "definition": "The AD&D dismemberment/loss-of-sight benefit — usually a percentage of the principal sum."
+    "definition": "The AD&D dismemberment/loss-of-sight benefit \u2014 usually a percentage of the principal sum."
   },
   {
     "module": "Day 5 Module 1",
     "term": "Multiple (double/triple) indemnity",
-    "definition": "Pays 2x–4x the principal sum when accidental death occurs under specified circumstances (e.g., common-carrier accident)."
+    "definition": "Pays 2x\u20134x the principal sum when accidental death occurs under specified circumstances (e.g., common-carrier accident)."
   },
   {
     "module": "Day 5 Module 1",
@@ -1012,17 +1012,17 @@
   {
     "module": "Day 5 Module 1",
     "term": "Limited risk policy",
-    "definition": "Covers death/dismemberment from one specific named risk only — e.g., an airport travel-accident policy."
+    "definition": "Covers death/dismemberment from one specific named risk only \u2014 e.g., an airport travel-accident policy."
   },
   {
     "module": "Day 5 Module 1",
     "term": "Special risk policy",
-    "definition": "Covers an unusual hazard standard policies won't — e.g., a violinist insuring her hands."
+    "definition": "Covers an unusual hazard standard policies won't \u2014 e.g., a violinist insuring her hands."
   },
   {
     "module": "Day 5 Module 1",
     "term": "AD&D 90-day rule & loss of use",
-    "definition": "Accidental death must occur within 90 days of the accident (not 60). Dismemberment can include permanent LOSS OF USE — but losing fingers without the whole hand doesn't count."
+    "definition": "Accidental death must occur within 90 days of the accident (not 60). Dismemberment can include permanent LOSS OF USE \u2014 but losing fingers without the whole hand doesn't count."
   },
   {
     "module": "Day 5 Module 1",
@@ -1042,7 +1042,7 @@
   {
     "module": "Day 5 Module 2",
     "term": "Medicare Part C",
-    "definition": "Medicare Advantage — private plans replacing original Medicare; requires enrollment in both Part A and Part B."
+    "definition": "Medicare Advantage \u2014 private plans replacing original Medicare; requires enrollment in both Part A and Part B."
   },
   {
     "module": "Day 5 Module 2",
@@ -1067,7 +1067,7 @@
   {
     "module": "Day 5 Module 2",
     "term": "Lifetime reserve days",
-    "definition": "60 extra hospital days Part A provides after 90 days in a benefit period are exhausted — once used, gone forever."
+    "definition": "60 extra hospital days Part A provides after 90 days in a benefit period are exhausted \u2014 once used, gone forever."
   },
   {
     "module": "Day 5 Module 2",
@@ -1127,7 +1127,7 @@
   {
     "module": "Day 5 Module 3",
     "term": "Custodial care",
-    "definition": "Help with daily living (bathing, dressing, eating) by non-medical aides — the most common LTC need; NOT covered by Medicare."
+    "definition": "Help with daily living (bathing, dressing, eating) by non-medical aides \u2014 the most common LTC need; NOT covered by Medicare."
   },
   {
     "module": "Day 5 Module 3",
@@ -1147,7 +1147,7 @@
   {
     "module": "Day 5 Module 3",
     "term": "Medigap + Medicare Advantage",
-    "definition": "Duplicate coverage — illegal to sell a Medicare Advantage plan to someone who owns a Medigap policy."
+    "definition": "Duplicate coverage \u2014 illegal to sell a Medicare Advantage plan to someone who owns a Medigap policy."
   },
   {
     "module": "Day 5 Module 3",
@@ -1167,7 +1167,7 @@
   {
     "module": "Day 5 Module 3",
     "term": "Intermediate nursing care",
-    "definition": "Nursing care under physician supervision, in a facility or at home, provided periodically — NOT 24-hour continuous (that's skilled care)."
+    "definition": "Nursing care under physician supervision, in a facility or at home, provided periodically \u2014 NOT 24-hour continuous (that's skilled care)."
   },
   {
     "module": "Day 5 Module 3",
@@ -1177,7 +1177,7 @@
   {
     "module": "Day 5 Module 3",
     "term": "LTC policy limits",
-    "definition": "Benefit periods usually 2–6 years; issue-age limits ~80 (some to 89); elimination periods 0–365 days (longer = cheaper); must be guaranteed renewable."
+    "definition": "Benefit periods usually 2\u20136 years; issue-age limits ~80 (some to 89); elimination periods 0\u2013365 days (longer = cheaper); must be guaranteed renewable."
   },
   {
     "module": "Day 5 Module 3",
@@ -1187,7 +1187,7 @@
   {
     "module": "Day 5 Module 3",
     "term": "LTC premium factors",
-    "definition": "Age and health, type/level of benefits, presence and length of elimination period, and riders — NOT solely age/health/benefit type."
+    "definition": "Age and health, type/level of benefits, presence and length of elimination period, and riders \u2014 NOT solely age/health/benefit type."
   },
   {
     "module": "Day 5 Module 3",
@@ -1202,7 +1202,7 @@
   {
     "module": "Next: Policy Provisions",
     "term": "Entire contract provision",
-    "definition": "The policy plus the attached application is the whole agreement; only an executive officer of the insurer — never the agent — may modify it."
+    "definition": "The policy plus the attached application is the whole agreement; only an executive officer of the insurer \u2014 never the agent \u2014 may modify it."
   },
   {
     "module": "Next: Policy Provisions",
@@ -1242,7 +1242,7 @@
   {
     "module": "Next: Policy Provisions",
     "term": "Misstatement of age",
-    "definition": "Benefits are adjusted to what the premium would have bought at the true age — the policy is not voided."
+    "definition": "Benefits are adjusted to what the premium would have bought at the true age \u2014 the policy is not voided."
   },
   {
     "module": "Next: Policy Provisions",
@@ -1282,7 +1282,7 @@
   {
     "module": "Next: Group Health & COBRA",
     "term": "Florida continuation act",
-    "definition": "§627.6692 — continuation rights (generally 18 months) for employees of small employers (under 20) not covered by federal COBRA."
+    "definition": "\u00a7627.6692 \u2014 continuation rights (generally 18 months) for employees of small employers (under 20) not covered by federal COBRA."
   },
   {
     "module": "Next: Group Health & COBRA",
@@ -1308,66 +1308,6 @@
     "module": "Next: Group Health & COBRA",
     "term": "Open enrollment",
     "definition": "The window when eligible employees can join the group plan without evidence of insurability."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Department of Financial Services (DFS)",
-    "definition": "Headed by the elected CFO; licenses and disciplines agents, investigates misconduct, handles consumer complaints."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Office of Insurance Regulation (OIR)",
-    "definition": "Regulates insurers: certificates of authority, policy form and rate approval, financial examinations."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "2-40 license requirements",
-    "definition": "18+, Florida resident, fingerprints, 40-hour approved prelicensing course, state exam."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Appointment",
-    "definition": "An insurer's authorization for an agent to transact business; renews every 24 months. License terminates after 4 years without one."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Continuing education (Florida)",
-    "definition": "24 hours every 2 years (20 hours once licensed 6+ years), including a required law-and-ethics update."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Fiduciary capacity",
-    "definition": "Premiums collected are trust funds belonging to the insurer or insured — never the agent. Misuse is misappropriation."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Twisting",
-    "definition": "Inducing policy replacement with a DIFFERENT insurer through misrepresentation."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Churning",
-    "definition": "Replacing a policy with the SAME insurer mainly to generate new commissions."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Sliding",
-    "definition": "Charging for or attaching products the buyer did not agree to purchase."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Rebating (Florida)",
-    "definition": "Legal ONLY under §626.572: rebate from the agent's commission, offered to all in the same actuarial class, per a filed schedule."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Defamation",
-    "definition": "False, malicious statements injurious to another insurer."
-  },
-  {
-    "module": "Next: Florida Law & Licensing",
-    "term": "Insurance fraud",
-    "definition": "Knowingly false statements on applications or claims — a felony in Florida."
   },
   {
     "term": "Indemnity",
@@ -1493,5 +1433,220 @@
     "term": "Reimbursement Contract",
     "definition": "A contract that pays the actual amount of the loss up to the policy limit (e.g., medical expense insurance).",
     "module": "Supplemental"
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Department of Financial Services (DFS)",
+    "definition": "Headed by the elected CFO; regulates insurance agents, investigates agent misconduct, handles consumer complaints. Enforces the Insurance Code."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Chief Financial Officer (CFO)",
+    "definition": "The elected official who heads DFS, oversees 15 divisions and offices, sits on the Financial Services Commission, and serves as the State Fire Marshal. NOT the Insurance Commissioner."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Office of Insurance Regulation (OIR)",
+    "definition": "Headed by the Insurance Commissioner (appointed by the Financial Services Commission); regulates insurers, issues certificates of authority, approves policy forms and rates, conducts market conduct examinations."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Financial Services Commission",
+    "definition": "Composed of the Governor, Attorney General, CFO, and Commissioner of Agriculture. Manages OIR and the Office of Financial Regulation. Appoints the Insurance Commissioner."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Insurance Commissioner",
+    "definition": "Appointed by the Financial Services Commission to head OIR. Monitors company filings and pricing. NOT the same person as the CFO."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Certificate of authority",
+    "definition": "The state license required for an insurer to transact insurance in Florida. Acting as an insurer without one is a third-degree felony."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Insurance transaction",
+    "definition": "Includes solicitation, initial discussions, effectuation of a contract, and any post-effectuation activity related to insurance."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Agent licensing (Florida)",
+    "definition": "Requires being 18+, a Florida resident, fingerprints/background check, completion of a 40-hour pre-licensing course, and passing the state exam. The license is perpetual unless suspended, revoked, or terminated for non-appointment."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Appointment",
+    "definition": "An insurer's authorization for an agent to transact business on its behalf. Renews every 24 months. License terminates after 48 months (4 years) without one."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Continuing education (Florida)",
+    "definition": "24 hours every 2 years (drops to 20 hours once licensed 6+ years), including a mandatory 4-hour law and ethics update course."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Address change notification",
+    "definition": "Licensee must notify DFS in writing within 30 days of any change to name, home/business/mailing address, phone, or email. Fine: $250 first offense, $500 each subsequent offense."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Felony reporting requirement",
+    "definition": "An agent must notify DFS in writing within 30 days of pleading guilty to or being found guilty of a felony. Failure can result in license suspension or revocation."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Insurance agency licensing",
+    "definition": "An insurance agency requires a license. Exception: a single licensed agent operating in their own name without other licensees does not need a separate agency license."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Fiduciary capacity",
+    "definition": "Premiums collected are trust funds belonging to the insurer or insured \u2014 never the agent. Commingling or failing to remit is misappropriation (criminal)."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Record retention (agents)",
+    "definition": "Policy documents, summaries, and endorsements must be retained for at least 5 years following the policy's expiration."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Compensation rule",
+    "definition": "No person other than a licensed and appointed agent may accept any commission or other valuable compensation for soliciting and negotiating insurance."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Florida Life and Health Insurance Guaranty Association (FLAHIGA)",
+    "definition": "Protects policyholders from insurer insolvency. Covers annuity, health, and Medicare supplement contracts. Does NOT cover contracts issued by fraternal benefit societies."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Impaired insurer",
+    "definition": "An insurer experiencing financial difficulties but not yet insolvent."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Insolvent insurer",
+    "definition": "An insurer unable to pay its claims and declared insolvent by a court."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Sliding",
+    "definition": "Giving the impression a product is required or included when it isn't, or charging for coverage without the applicant's prior informed consent. Starting a policy without the property owner's knowledge."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Controlled business (managed business)",
+    "definition": "When an agent obtains a license solely to write on themselves, family, officers, directors, partners, stockholders, or employees. Agent must write at least 75% other similar business."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Twisting",
+    "definition": "Intentionally making false statements to convert an existing policy or obtain insurance from a DIFFERENT insurer through misrepresentation."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Churning",
+    "definition": "Inducing a client to purchase unnecessary policies with the SAME insurer to generate commissions."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Rebating (Florida \u00a7626.572)",
+    "definition": "Legal in FL under strict rules: rebate must come from agent's commission, be available to all in the same actuarial class, and the percentage cannot discriminate. Cannot be given at the agent's discretion."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Defamation",
+    "definition": "Making false, malicious statements that harm the reputation of another person or insurer. Includes libel (written) and slander (spoken). Must be maliciously critical."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Boycott, coercion, and intimidation",
+    "definition": "Boycott = refusing business to force compliance. Coercion = using force/threats. Intimidation = using fear/threats to manipulate. All are unfair trade practices."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Cease and desist order",
+    "definition": "Regulatory enforcement action. Violating one may result in a penalty of no more than $50,000 and/or suspension or revocation of license."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Unfair Trade Practices Act",
+    "definition": "Gives the state the ability to fine, issue cease and desist orders, and impose penalties against insurers and producers for prohibited practices."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Unfair claims practices",
+    "definition": "Illegal or unethical actions by insurers aimed at minimizing, denying, or delaying claims."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Advertising rules",
+    "definition": "All advertisements must state the actual insurer's name. Contract invitations must include the form number. Each insurer must maintain an Advertising File."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Promotional goods limit",
+    "definition": "Maximum value of permitted gifts to clients and prospects is $100."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Elder sales abuse (65+)",
+    "definition": "If a license is revoked for improperly offering insurance to a person 65 or older, the department may not thereafter grant any insurance license to that individual \u2014 permanent revocation."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Misrepresentation",
+    "definition": "Providing false or misleading information to a client to induce them to purchase insurance. A lie or untruth is a misrepresentation."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Insurance fraud (Florida)",
+    "definition": "Knowingly false statements on applications or claims. Insurance fraud is a felony in Florida."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Counterfeit signature",
+    "definition": "Submitting a fake or fraudulently signed insurance application or policy-related document to an insurer is prohibited."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Unjust discrimination",
+    "definition": "Knowingly applying unequal rates, dividends, or benefits to people with the same risk or actuarial class. No discrimination based on race, color, creed, marital status, sex, or national origin."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Affiliated party",
+    "definition": "An individual or organization that has a close relationship with an insurer, such as an officer, director, or shareholder."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Removal of affiliated party",
+    "definition": "The process of removing an individual or organization from their affiliation with an insurer."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Penalties for violation",
+    "definition": "Legal consequences for violating insurance laws and regulations; may include fines, suspension or revocation of license, or criminal charges."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Public adjuster",
+    "definition": "A licensed professional who represents policyholders in negotiating claims with their insurance companies."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "All lines adjuster",
+    "definition": "An insurance adjuster licensed to handle claims for all types of insurance, including property, casualty, and health."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Unaffiliated agent",
+    "definition": "An insurance agent who is not affiliated with a particular insurance company and can sell policies from multiple insurers."
+  },
+  {
+    "module": "Day 7 Module 1",
+    "term": "Viatical settlement broker",
+    "definition": "A type of broker specializing in viatical settlements \u2014 the sale of a life insurance policy by a terminally or chronically ill policyholder for a discounted cash amount."
   }
 ]
