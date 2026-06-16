@@ -1,11 +1,16 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { PageShell, Card } from '@/components';
 import { useStudyStorage } from '@/lib/useStudyStorage';
 import flashcardsData from '@/data/flashcards.json';
 import lessonsData from '@/data/lessons.json';
 import quizzesData from '@/data/quizzes.json';
+import scenariosData from '@/data/scenarios.json';
+
+/** Scenario completion lives in its own localStorage key (see /scenarios). */
+const SCENARIOS_DONE_KEY = 'fl-health-scenarios-done';
 
 type QuizMeta = { module: string; group?: string; topic?: string };
 
@@ -45,6 +50,19 @@ function formatTime(ms: number): string {
 export default function Home() {
   const { data } = useStudyStorage();
 
+  // Scenario completion is stored separately from the main study data.
+  const [scenariosDone, setScenariosDone] = useState(0);
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem(SCENARIOS_DONE_KEY);
+      if (raw) setScenariosDone((JSON.parse(raw) as string[]).length);
+    } catch {
+      /* ignore parse/quota errors */
+    }
+  }, []);
+  const totalScenarios = (scenariosData as unknown[]).length;
+  const scenarioBadge = scenariosDone > 0 ? `${scenariosDone}/${totalScenarios}` : undefined;
+
   // Compute badges
   const totalFlashcards = flashcardsData.length;
   const knownCount = Object.values(data.flashcardProgress).filter(e =>
@@ -78,7 +96,7 @@ export default function Home() {
     ? `${data.matchingStats.gamesPlayed} played`
     : undefined;
 
-  const hasAnyProgress = knownCount > 0 || lessonsReadCount > 0 || lastQuiz || data.matchingStats.gamesPlayed > 0;
+  const hasAnyProgress = knownCount > 0 || lessonsReadCount > 0 || lastQuiz || data.matchingStats.gamesPlayed > 0 || scenariosDone > 0;
 
   return (
     <PageShell title="FL Health &amp; Life Study App" hideBack>
@@ -119,6 +137,12 @@ export default function Home() {
               <div className="progressStat">
                 <span className="progressValue">{lessonsReadCount}/{totalLessons}</span>
                 <span className="progressLabel">Lessons Read</span>
+              </div>
+            )}
+            {scenariosDone > 0 && (
+              <div className="progressStat">
+                <span className="progressValue">{scenariosDone}/{totalScenarios}</span>
+                <span className="progressLabel">Scenarios Done</span>
               </div>
             )}
           </div>
@@ -175,6 +199,13 @@ export default function Home() {
           href="/quiz"
           label="Take a Quiz"
           badge={quizBadge}
+        />
+        <FeatureCard
+          title="Customer Scenarios"
+          description="Role-play real client conversations and apply what you know."
+          href="/scenarios"
+          label="Start a Scenario"
+          badge={scenarioBadge}
         />
         <FeatureCard
           title="Lesson Summaries"
