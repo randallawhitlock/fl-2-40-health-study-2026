@@ -2829,5 +2829,187 @@
         ]
       }
     ]
+  },
+  {
+    "module": "Day 9 Module 1",
+    "title": "Florida Laws and Rules Pertinent to Health Maintenance Organizations (Unit 30)",
+    "sections": [
+      {
+        "heading": "Why HMOs Were Established",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Under **FS 641.18**, the Florida Legislature created the framework for **Health Maintenance Organizations (HMOs)** in response to the **escalating cost of health care** and the state's commitment to ensuring high-quality care. Recognizing the need for greater cost-effectiveness and efficiency, the Legislature sought to investigate **alternative approaches** to delivering health services."
+          },
+          {
+            "type": "list",
+            "items": [
+              "An HMO is a **comprehensive health care system** — it delivers a wide range of services, medical equipment, and supplies to its members, with a strong focus on **preventive care**.",
+              "The legislative aim is to **deliver high-quality care, provide an alternative method of health care, and control escalating costs** — NOT to *replace* the existing health care delivery system."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Classic exam trap: the Legislature intended HMOs to be an **alternative** to, not a **replacement** of, the existing health care system. If a question lists HMO goals and one option says 'replace the existing health care delivery system,' that is the EXCEPTION."
+          }
+        ]
+      },
+      {
+        "heading": "How HMOs Operate",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "HMOs operate through a **group enrollment system**: each member pays a **premium (a fixed sum per month)** whether or not they actually use the services. The model stresses **early prevention and detection** to keep members healthy and hold down costs."
+          },
+          {
+            "type": "list",
+            "items": [
+              "HMO cost-savings are based on: **capitation arrangements** with physicians, **volume (bulk) discounts** with hospitals, and **encouraging members to see their doctors early**.",
+              "Cost-savings are **NOT** based on keeping premiums high to net a profit."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Remember the one-word identity of an HMO: **preventive care**. The whole financing model exists to catch problems early and cheaply."
+          }
+        ]
+      },
+      {
+        "heading": "Capitation & Prepaid Health Clinics",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Capitation** — the predetermined, **fixed amount** an HMO pays a physician or provider in exchange for medical services. It is paid **per patient/member, regardless of whether services were actually rendered** or what they cost.",
+              "**Prepaid health clinic** — an organization that delivers **basic medical services at a specific location** to members of a group who make regular premium payments in exchange for those services.",
+              "**Copayment** — the specific dollar amount the subscriber must pay for certain covered services. These amounts are typically small and must be approved by the **Office of Insurance Regulation (OIR)**."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Capitation = a **set amount per member** paid to the provider, paid even if the member never visits. Don't confuse it with fee-for-service or a copayment (which the *subscriber* pays)."
+          }
+        ]
+      },
+      {
+        "heading": "Regulation & Licensing of HMOs",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "HMOs are regulated by the **Office of Insurance Regulation (OIR)**. Critically, **an HMO cannot sell insurance** — it may only offer **contracts** that the OIR has approved."
+          },
+          {
+            "type": "list",
+            "items": [
+              "An HMO must be granted a **certificate of authority** by the OIR before operating.",
+              "An HMO **can be owned by an insurer**, but the HMO itself does not sell insurance — it sells **health maintenance contracts**.",
+              "**Marketing practices:** no person may solicit HMO contracts or take applications unless **licensed and appointed as a health insurance agent**. Only **full-time employees** may engage in analyzing or abstracting HMO contracts.",
+              "HMOs must **file a report of their activities with the OIR within three months (3 months) after the end of their fiscal year**."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Two heavily tested facts: (1) An HMO **cannot sell insurance**, only OIR-approved contracts; and (2) HMOs file their activity report **within 3 months after the end of the fiscal year** — not annually on a calendar basis, not every 2 years."
+          }
+        ]
+      },
+      {
+        "heading": "HMO Unfair Trade Practices",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The same unfair trade practice rules that govern insurers apply to HMOs. Prohibited practices include:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "**Misrepresentation** and false advertising of HMO contracts (and false advertising in general)",
+              "**Defamation** — making a false or malicious statement (oral, written, or printed) critical of a person and calculated to injure them",
+              "**Twisting** — persuading a client to lapse, surrender, or convert an existing policy/contract through misleading or incomplete comparisons",
+              "False statements and entries; **unfair claim settlement practices**; failure to maintain claim-handling procedures",
+              "Illegal dealing in premiums; **rebating**; prohibited discriminatory practices; and adverse action against a provider"
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "If asked which item is **NOT** an HMO unfair trade practice, watch for **conversion** — converting a policy is a legitimate act, whereas **twisting, misrepresentation, and defamation** are violations."
+          }
+        ]
+      },
+      {
+        "heading": "HMO Consumer Assistance Plan (CAP)",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The **HMO Consumer Assistance Plan (CAP)** protects subscribers if their HMO becomes **insolvent** and cannot perform its contractual obligations. **Insolvency** means the HMO's assets, even if made immediately available, would not be enough to discharge its liabilities — it cannot pay debts as they come due in the ordinary course of business."
+          },
+          {
+            "type": "tip",
+            "text": "The law **specifically prohibits using the CAP in any way to sell an HMO contract** — even to reassure a prospect. Mentioning CAP as a selling point is a violation."
+          }
+        ]
+      },
+      {
+        "heading": "Required Benefits & Contract Delivery",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Contract delivery:** after the enrollment request is approved, the HMO contract, certificate, or member handbook must be supplied to the subscriber **within 10 working days**.",
+              "**Extension (continuation) of benefits:** every HMO contract must include an extension-of-benefits clause. If the HMO **terminates/dissolves**, claims approved and benefits initiated while the contract was in force **continue to be paid** (valid through the end of the year).",
+              "**Open enrollment:** an HMO offering a group plan must hold an open enrollment period of **no fewer than 30 days every 18 months**, during which every eligible group member may enroll **regardless of health history**.",
+              "**Newborn coverage:** contracts that cover family members must also cover **newborn children from the moment of birth**."
+            ]
+          },
+          {
+            "type": "tip",
+            "text": "Lock in the numbers: contract delivered **within 10 working days**; open enrollment **at least 30 days every 18 months**. These exact figures are common test answers."
+          }
+        ]
+      },
+      {
+        "heading": "Claim Payments",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Under **Reading 30.6.2**, any **contracted** hospital, ambulance service, doctor, or dentist to whom a subscriber has specifically authorized services **must be paid directly by the HMO**."
+          }
+        ]
+      },
+      {
+        "heading": "Key Definitions",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "**Health maintenance organization (HMO)** — health care management stressing preventive care, early diagnosis, and treatment on an outpatient basis.",
+              "**Health maintenance contract** — the **written agreement** that delineates the arrangement between the subscriber (or group of subscribers) and the HMO.",
+              "**Provider** — any physician, hospital, organization, or institution that furnishes health care services and is licensed or otherwise authorized to participate in Florida.",
+              "**Subscriber** — a person or entity who has a health maintenance contract with the HMO, pays the fee, and uses the HMO's services.",
+              "**Extension of benefits** — clause guaranteeing approved claims/benefits continue to be paid if the HMO is terminated.",
+              "**Open enrollment** — the mandatory 30-days-every-18-months enrollment window for eligible group members."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Quick Self-Check",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Why did the Legislature establish HMOs — and what is the one thing HMOs are NOT meant to do?",
+              "Can an HMO sell insurance? What must the OIR grant it first?",
+              "What is capitation, and is it paid even when no services are rendered?",
+              "Within how many working days must an HMO contract be delivered to the subscriber?",
+              "How long, and how often, must an HMO's open enrollment period run?",
+              "When must an HMO file its activity report with the OIR?",
+              "Which common terms (twisting, defamation, misrepresentation, conversion) are NOT unfair trade practices?",
+              "Why can't the CAP be used in selling an HMO contract?"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

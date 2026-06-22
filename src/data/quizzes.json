@@ -7864,5 +7864,3925 @@
     "answer": "I, II, III, and IV",
     "topic": "Agent Duties",
     "explanation": "All four statements are accurate under Florida law."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-group-health-coverage",
+    "question": "Which statement about group health insurance policies is CORRECT?",
+    "options": [
+      "Coverage from an occupational accident cannot be excluded.",
+      "Coverage for newborn children can be excluded.",
+      "Coverage for VA hospital treatment cannot be excluded.",
+      "Coverage for handicapped children may be provided."
+    ],
+    "answer": "Coverage for handicapped children may be provided.",
+    "topic": "Group Health Coverage",
+    "explanation": "Florida group health policies MAY provide coverage for handicapped children. Occupational accidents and newborns can't be excluded the way the other options state, and the only correct statement is the optional handicapped-child coverage."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-limitations-exclusions",
+    "question": "Which of the following is NOT correct concerning policy limitations and exclusions?",
+    "options": [
+      "Pre-existing conditions or diseases are acceptable",
+      "Alcoholism and drug addiction are acceptable",
+      "The insurer can exclude Alzheimer's disease",
+      "Participation in a felony, riot or insurrection"
+    ],
+    "answer": "The insurer can exclude Alzheimer's disease",
+    "topic": "Limitations & Exclusions",
+    "explanation": "Insurers may NOT exclude Alzheimer's disease (a cognitive impairment protected under FL law). Pre-existing conditions, alcohol/drug addiction, and felony/riot participation are acceptable exclusions."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-naic-uniform-provisions",
+    "question": "Which of the following applies to a health policy that is optional under the NAIC Uniform Provisions Law?",
+    "options": [
+      "Change of Occupation",
+      "Entire Contract",
+      "Physical Exam & Autopsy",
+      "Time Limit on Certain Defenses"
+    ],
+    "answer": "Change of Occupation",
+    "topic": "NAIC Uniform Provisions",
+    "explanation": "Change of Occupation is an OPTIONAL provision. Entire Contract, Physical Exam & Autopsy, and Time Limit on Certain Defenses are mandatory provisions."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-group-health-coverage",
+    "question": "Choose the service or treatment that a group health insurance policy would NOT be required to provide coverage.",
+    "options": [
+      "Qualified services completed in an ambulatory surgical center",
+      "Outpatient services that would have been covered if rendered for an inpatient",
+      "Specific services by a licensed ophthalmologists",
+      "Treatment for work-related illness or injury"
+    ],
+    "answer": "Treatment for work-related illness or injury",
+    "topic": "Group Health Coverage",
+    "explanation": "A group health policy is NOT required to cover treatment for work-related illness or injury — that belongs to workers' compensation. The other services are required."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hiv-aids-rules",
+    "question": "Which of the following statements is NOT true?",
+    "options": [
+      "The agent is responsible for completing the application.",
+      "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+      "A long-term are policy can have an elimination period for up to 180 days",
+      "An applicant shall be notified of a positive test result of HIV/AIDS by the agent withint 10 days."
+    ],
+    "answer": "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+    "topic": "HIV/AIDS Rules",
+    "explanation": "An insurer may NOT cancel or non-renew for diagnosis OR treatment of HIV/AIDS, so this statement is false. The agent completing the application, the 180-day LTC elimination period, and HIV notification are otherwise correct."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-naic-uniform-provisions",
+    "question": "Under the NAIC Uniform Provisions Law, which of the following is optional for a health policy?",
+    "options": [
+      "Change of Occupation",
+      "Entire Contract",
+      "Physical Exam & Autopsy",
+      "Time Limit on Certain Defenses"
+    ],
+    "answer": "Change of Occupation",
+    "topic": "NAIC Uniform Provisions",
+    "explanation": "Change of Occupation is the optional provision; the other three are mandatory under the Uniform Provisions Law."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hiv-aids-rules",
+    "question": "Which of the following statements is true?",
+    "options": [
+      "An insurer may not cancel or not renew for diagnosis of HIV/AIDS, but it may cancel or not renew for treatment of HIV/AIDS.",
+      "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+      "An insurer may cancel or not renew for diagnosis or treatment of HIV/AIDS.",
+      "An insurer may not cancel or not renew for diagnosis or treatment of HIV/AIDS."
+    ],
+    "answer": "An insurer may not cancel or not renew for diagnosis or treatment of HIV/AIDS.",
+    "topic": "HIV/AIDS Rules",
+    "explanation": "TRUE: An insurer may not cancel or non-renew for diagnosis OR treatment of HIV/AIDS. HIV status cannot be a basis for cancellation or non-renewal."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hiv-aids-rules",
+    "question": "Which of the following claims does not apply?",
+    "options": [
+      "The agent is responsible for completing the application.",
+      "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+      "A long-term are policy can have an elimination period for up to 180 days",
+      "An applicant shall be notified of a positive test result of HIV/AIDS by the agent within 10 days."
+    ],
+    "answer": "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+    "topic": "HIV/AIDS Rules",
+    "explanation": "Same rule as Q5/Q7 — the false statement is that an insurer may cancel for diagnosis but not treatment. Insurers may not act on either diagnosis or treatment of HIV/AIDS."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-erisa",
+    "question": "The purpose of ERISA is to ___________.",
+    "options": [
+      "override state insurance laws",
+      "replace state insurance laws",
+      "protect the rights of workers who are injured on the job",
+      "protect the rights of workers covered under an employer-sponsored plan"
+    ],
+    "answer": "protect the rights of workers covered under an employer-sponsored plan",
+    "topic": "ERISA",
+    "explanation": "ERISA exists to protect the rights of workers covered under employer-sponsored benefit plans (pension and welfare benefit plans)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-group-health-coverage",
+    "question": "Which of the following claims regarding group health insurance plans is TRUE?",
+    "options": [
+      "Coverage from an occupational accident cannot be excluded.",
+      "Coverage for newborn children can be excluded.",
+      "Coverage for VA hospital treatment cannot be excluded.",
+      "Coverage for handicapped children may be provided."
+    ],
+    "answer": "Coverage for handicapped children may be provided.",
+    "topic": "Group Health Coverage",
+    "explanation": "Only the handicapped-children statement is true; the others misstate the rules on occupational accidents and newborn coverage."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-blanket-insurance",
+    "question": "Which of the following would NOT be covered by a general policy?",
+    "options": [
+      "A group of pharmacists",
+      "A school bus covering the children riding it",
+      "A neighborhood playground",
+      "An airline covering its passengers"
+    ],
+    "answer": "A neighborhood playground",
+    "topic": "Blanket Insurance",
+    "explanation": "A neighborhood playground is not a definable group and would NOT be covered by a blanket/group policy. Schools, airlines, and professional groups are eligible."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-wellness-rebates",
+    "question": "Rebates for Wellness Program Participation may not exceed ______ of paid premiums.",
+    "options": [
+      "50%",
+      "30%",
+      "25%",
+      "10%"
+    ],
+    "answer": "10%",
+    "topic": "Wellness Rebates",
+    "explanation": "Premium rebates for wellness-program participation cannot exceed 10% of paid premiums under Florida law."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hiv-testing-duties",
+    "question": "Regarding the insurer's duty to the applicant for HIV testing, which of the following is FALSE?",
+    "options": [
+      "The insurer must disclose its intent to test a person for HIV prior to testing for HIV/AIDS.",
+      "The insurer must get the person's written consent to administer the test.",
+      "The insurer must notify the insured of any positive results.",
+      "The insurer may inquire whether a person has been tested positive for exposure to the HIV infection."
+    ],
+    "answer": "The insurer may inquire whether a person has been tested positive for exposure to the HIV infection.",
+    "topic": "HIV Testing Duties",
+    "explanation": "FALSE statement: an insurer may NOT simply inquire whether someone has tested positive for HIV. It must disclose intent, get written consent, and notify of positive results."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-fl-required-provisions",
+    "question": "Which of the following DOES NOT have to be included in a group health insurance policy requirement under Florida law?",
+    "options": [
+      "Group health policies must provide coverage for mental and nervous disorders.",
+      "A newborn infant is covered from the moment of birth.",
+      "Coverage must be provided for a handicapped child who is a family member until he or she reaches the age of 25.",
+      "Group health policies must provide coverage for a newborn infant of a covered family member until the infant reaches 18 months of age."
+    ],
+    "answer": "Coverage must be provided for a handicapped child who is a family member until he or she reaches the age of 25.",
+    "topic": "FL Required Provisions",
+    "explanation": "Coverage for a handicapped child is NOT limited to age 25 — it continues as long as the child remains disabled and dependent. That statement does not have to be (and isn't) part of the policy."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-florida-healthy-kids",
+    "question": "Participation in the Florida Healthy Kids Corporation is on a ______ basis.",
+    "options": [
+      "mandatory",
+      "as needed",
+      "recommended",
+      "voluntary"
+    ],
+    "answer": "voluntary",
+    "topic": "Florida Healthy Kids",
+    "explanation": "Participation in the Florida Healthy Kids Corporation is on a voluntary basis."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-family-coverage",
+    "question": "What type of coverage is typically available under a family health policy?",
+    "options": [
+      "Adopted children",
+      "Stepchildren",
+      "Foster children",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "topic": "Family Coverage",
+    "explanation": "Family health policies typically cover adopted, step, and foster children — all of the above."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hiv-testing-duties",
+    "question": "Which of the following is not correct concerning the insurer's obligation to the applicant regarding HIV testing?",
+    "options": [
+      "The insurer must disclose its intent to test a person for HIV prior to testing for HIV/AIDS.",
+      "The insurer must get the person's written consent to administer the test.",
+      "The insurer must notify the insured of any positive results.",
+      "The insurer may inquire whether a person has been tested positive for exposure to the HIV infection."
+    ],
+    "answer": "The insurer may inquire whether a person has been tested positive for exposure to the HIV infection.",
+    "topic": "HIV Testing Duties",
+    "explanation": "Insurers may not ask whether a person has previously tested positive for HIV. The other duties (disclose intent, written consent, notify of positive results) are required."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hiv-aids-rules",
+    "question": "Which of these claims about the following is true?",
+    "options": [
+      "An insurer may not cancel or not renew for diagnosis of HIV/AIDS, but it may cancel or not renew for treatment of HIV/AIDS.",
+      "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+      "An insurer may cancel or not renew for diagnosis or treatment of HIV/AIDS.",
+      "An insurer may not cancel or not renew for diagnosis or treatment of HIV/AIDS."
+    ],
+    "answer": "An insurer may not cancel or not renew for diagnosis or treatment of HIV/AIDS.",
+    "topic": "HIV/AIDS Rules",
+    "explanation": "TRUE: insurers may not cancel or non-renew for diagnosis OR treatment of HIV/AIDS."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-fl-required-provisions",
+    "question": "Which of the following is NOT a provision that is required by Florida law for group health insurance policies?",
+    "options": [
+      "Group health policies must provide coverage for mental and nervous disorders.",
+      "A newborn infant is covered from the moment of birth.",
+      "Coverage must be provided for a handicapped child who is a family member until he or she reaches the age of 25.",
+      "Group health policies must provide coverage for a newborn infant of a covered family member until the infant reaches 18 months of age."
+    ],
+    "answer": "Coverage must be provided for a handicapped child who is a family member until he or she reaches the age of 25.",
+    "topic": "FL Required Provisions",
+    "explanation": "The age-25 handicapped-child statement is not a required Florida provision; disabled dependent coverage continues without that cutoff."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-insurance-regulation",
+    "question": "Which statement below does NOT indicate landmark cases and laws involving the regulation of insurance?",
+    "options": [
+      "When an applicant's consumer or credit history is being investigated, insurers are required to disclose this information to the applicant.",
+      "The NAIC has standing committees working regularly to examine numerous aspects of the insurance industry.",
+      "The Federal Trade Commission (FTC) directly supervises the marketing techniques of all insurance companies.",
+      "The McCarran-Ferguson Act laid the basis for our current understanding that state governments are the primary regulators of the insurance industry."
+    ],
+    "answer": "The Federal Trade Commission (FTC) directly supervises the marketing techniques of all insurance companies.",
+    "topic": "Insurance Regulation",
+    "explanation": "FALSE: the FTC does NOT directly supervise insurance marketing. Under McCarran-Ferguson, states are the primary regulators of insurance."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-advertising-code",
+    "question": "Rules pertaining to testimonials, statistics, and special offers would be found in ______.",
+    "options": [
+      "the policy summary",
+      "the entire contract",
+      "the Advertising Code",
+      "the Buyers Guide"
+    ],
+    "answer": "the Advertising Code",
+    "topic": "Advertising Code",
+    "explanation": "Rules on testimonials, statistics, and special offers are found in the Advertising Code."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-reinsurance",
+    "question": "Reinsurers are a specialized branch of the insurance industry. This is because they insure ______.",
+    "options": [
+      "insurers",
+      "employers with high risk",
+      "applicants from Lloyds of London",
+      "applicants with low risk"
+    ],
+    "answer": "insurers",
+    "topic": "Reinsurance",
+    "explanation": "Reinsurers insure other insurers, spreading large or catastrophic risk."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-insurer-domicile",
+    "question": "A life insurance company organized in Wisconsin, with an office in Pittsburg, and licensed to sell insurance in Florida is a ______.",
+    "options": [
+      "domestic company",
+      "alien company",
+      "foreign company",
+      "regional company"
+    ],
+    "answer": "foreign company",
+    "topic": "Insurer Domicile",
+    "explanation": "Organized in Wisconsin but doing business in Florida makes it a FOREIGN company (a U.S. insurer domiciled in another state). The Pittsburgh office is irrelevant."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-reinsurance",
+    "question": "Jordan works as an underwriter for a mid sized insurance company in Florida. His company recently issued several large commercial policies and now wants to reduce its exposure to potential high value claims. To accomplish this, the company decides to transfer part of its risk to another entity that specializes in assuming portions of insurers’ liabilities. Which group does this specialized entity—known as a reinsurer—primarily insure?",
+    "options": [
+      "Individual policyholders",
+      "Government agencies",
+      "Insurance companies",
+      "Independent insurance agents"
+    ],
+    "answer": "Insurance companies",
+    "topic": "Reinsurance",
+    "explanation": "A reinsurer primarily insures insurance companies, assuming portions of their liabilities."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-insurable-interest",
+    "question": "At what time must an insurable interest exist in life and health contracts?",
+    "options": [
+      "After the policy is issued",
+      "Before the beneficiary is named",
+      "While the policy is enforced",
+      "At the inception of the policy"
+    ],
+    "answer": "At the inception of the policy",
+    "topic": "Insurable Interest",
+    "explanation": "In life and health contracts, insurable interest must exist at the inception of the policy (time of application)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-contract-types",
+    "question": "Which of the following is a \"take it or leave it\" type of contract?",
+    "options": [
+      "Aleatory",
+      "Unilateral",
+      "Conditional",
+      "Adhesion"
+    ],
+    "answer": "Adhesion",
+    "topic": "Contract Types",
+    "explanation": "A 'take it or leave it' contract is a contract of adhesion — one party writes it and the other accepts as-is."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-agent-authority",
+    "question": "What type of authority is not overtly extended but must be used to enable the agent to transact business of the principle?",
+    "options": [
+      "Express",
+      "Implied",
+      "Apparent",
+      "Fiduciary"
+    ],
+    "answer": "Implied",
+    "topic": "Agent Authority",
+    "explanation": "Implied authority is not expressly granted but is needed for the agent to transact the principal's business."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-contract-types",
+    "question": "Which of the following is a contract where only one party is liable in court?",
+    "options": [
+      "Aleatory",
+      "Unilateral",
+      "Conditional",
+      "Adhesion"
+    ],
+    "answer": "Unilateral",
+    "topic": "Contract Types",
+    "explanation": "A unilateral contract has only one legally enforceable promise — only the insurer can be held to its promise."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-stoli",
+    "question": "Which of the following is an example of a STOLI?",
+    "options": [
+      "Brenda takes out a policy on her sister Pam.",
+      "Emanuel takes out a policy on his employees.",
+      "An investor has Catherine, 78, to take out a policy and names herself as the beneficiary.",
+      "Destiny takes out a policy on her mother, Ann."
+    ],
+    "answer": "An investor has Catherine, 78, to take out a policy and names herself as the beneficiary.",
+    "topic": "STOLI",
+    "explanation": "STOLI (stranger-originated life insurance) is when an investor with no insurable interest induces someone to take out a policy for the investor's benefit."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-underwriting",
+    "question": "All of the following are part of the Home Office underwriting process EXCEPT______.",
+    "options": [
+      "credit report",
+      "Medical Information Bureau report",
+      "applicant's analyst report",
+      "inspection report"
+    ],
+    "answer": "applicant's analyst report",
+    "topic": "Underwriting",
+    "explanation": "There is no 'applicant's analyst report.' Home-office underwriting uses credit reports, MIB reports, and inspection reports."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-deceptive-practices",
+    "question": "What is a deceptive sales presentation?",
+    "options": [
+      "Any presentation that gives the prospect the wrong impression about any aspect of an insurance policy",
+      "Any presentation that does not provide complete disclosure",
+      "Any presentation that includes any misleading or inconclusive product comparison",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct.",
+    "topic": "Deceptive Practices",
+    "explanation": "All of these — wrong impressions, incomplete disclosure, and misleading comparisons — make a sales presentation deceptive."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-misrepresentation",
+    "question": "If the agent states mutual funds are the same as variable universal life insurance, this would be considered ______.",
+    "options": [
+      "twisting",
+      "misrepresentation",
+      "replacement",
+      "rebating"
+    ],
+    "answer": "misrepresentation",
+    "topic": "Misrepresentation",
+    "explanation": "Claiming mutual funds are the same as variable universal life is a misrepresentation (a false statement about the product)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-producer-duties",
+    "question": "The producer should educate the applicant on all the following EXCEPT ______.",
+    "options": [
+      "the need for accuracy and honesty",
+      "meanings of various terms such as waiver of premiums, etc.",
+      "why information is required",
+      "how the DFS works with the CFO"
+    ],
+    "answer": "how the DFS works with the CFO",
+    "topic": "Producer Duties",
+    "explanation": "The producer need not teach the applicant how the DFS works with the CFO. They must explain accuracy/honesty, policy terms, and why information is required."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-naic",
+    "question": "An objective of the National Association of Insurance Commissioners is to ______.",
+    "options": [
+      "promote federal legislation of the insurance industry",
+      "encourage uniformity in state insurance laws and regulations",
+      "develop continuing education courses for insurance producers",
+      "create model insurance policies for adoption by insurers"
+    ],
+    "answer": "encourage uniformity in state insurance laws and regulations",
+    "topic": "NAIC",
+    "explanation": "An NAIC objective is to encourage uniformity in state insurance laws and regulations (it does not promote federal regulation)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-indemnity",
+    "question": "Which of the following is not an example of an indemnity contract?",
+    "options": [
+      "Subrogation",
+      "Health insurance policies",
+      "Property and casualty",
+      "Disability Income"
+    ],
+    "answer": "Subrogation",
+    "topic": "Indemnity",
+    "explanation": "Subrogation is a legal principle, not a type of indemnity contract. Health, property/casualty, and disability are insurance contracts."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-valued-contracts",
+    "question": "What type of health insurance contract would agree to pay a stated amount each month to the insured if he or she becomes totally disabled?",
+    "options": [
+      "Participating contracts",
+      "Valued contracts",
+      "Inclusive contracts",
+      "Reimbursement contracts"
+    ],
+    "answer": "Valued contracts",
+    "topic": "Valued Contracts",
+    "explanation": "A contract that pays a stated amount each month for total disability is a valued contract (pays a set amount, not actual expenses)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-valued-contracts",
+    "question": "All of the following are valued contracts except:",
+    "options": [
+      "Life insurance policies",
+      "AD&D policies",
+      "Disability income policies",
+      "Long-term care"
+    ],
+    "answer": "Long-term care",
+    "topic": "Valued Contracts",
+    "explanation": "Long-term care is reimbursement/expense-incurred coverage, not a valued contract. Life, AD&D, and disability income are valued contracts."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-premium-modes",
+    "question": "Which premium mode is least expensive?",
+    "options": [
+      "Annual",
+      "Semiannual",
+      "Quarterly",
+      "Monthly"
+    ],
+    "answer": "Annual",
+    "topic": "Premium Modes",
+    "explanation": "Annual is the least expensive premium mode — more frequent payments add cost."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-reserves",
+    "question": "What does an insurance company set aside to pay future claims?",
+    "options": [
+      "Valued contracts",
+      "Indemnity contracts",
+      "Reserves",
+      "Master contracts"
+    ],
+    "answer": "Reserves",
+    "topic": "Reserves",
+    "explanation": "Insurers set aside reserves to pay future claims."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hmos",
+    "question": "Why are HMOs a distinct form of health care provider?",
+    "options": [
+      "They are popular for large groups of employers.",
+      "They provide financing for the health care plus the health care itself.",
+      "They provide a large variety of options.",
+      "The doctors operate on a fee for service arrangement."
+    ],
+    "answer": "They provide financing for the health care plus the health care itself.",
+    "topic": "HMOs",
+    "explanation": "HMOs are distinct because they provide both the financing for care AND the health care itself."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-social-security-disability",
+    "question": "All of the following statements concerning Social Security disability benefits are true EXCEPT:",
+    "options": [
+      "The impairment must be expected to last at least 12 months.",
+      "The waiting period is 5 months.",
+      "The waiting period may be waived in certain circumstances.",
+      "Benefits are retroactive to the time of disability."
+    ],
+    "answer": "Benefits are retroactive to the time of disability.",
+    "topic": "Social Security Disability",
+    "explanation": "FALSE: SSDI benefits are NOT retroactive to the time of disability. The impairment must last 12+ months and there is a 5-month waiting period."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-multiple-employer-trust",
+    "question": "Grouping small businesses together to obtain group insurance as one large group is characteristic of which of the following?",
+    "options": [
+      "A Health Maintenance Organization (HMO)",
+      "A Franchise Health plan",
+      "A Multiple Employer Trust (MET)",
+      "A Fictitious group"
+    ],
+    "answer": "A Multiple Employer Trust (MET)",
+    "topic": "Multiple Employer Trust",
+    "explanation": "Grouping small businesses together to buy group insurance as one large group describes a Multiple Employer Trust (MET)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-social-security-disability",
+    "question": "Choose the individual who is most likely to qualify for Social Security disability benefits.",
+    "options": [
+      "Randy, a ski instructor who breaks his leg",
+      "Sarah, who is sick from a viral infection and is not expected to be able to work for the next 6 months",
+      "Perry, a mechanic who loses his dominant hand in an accident",
+      "Grace, who experiences serious early-onset Alzheimer's and is unable to remember how to get to work"
+    ],
+    "answer": "Grace, who experiences serious early-onset Alzheimer's and is unable to remember how to get to work",
+    "topic": "Social Security Disability",
+    "explanation": "Grace, with serious early-onset Alzheimer's preventing any work for 12+ months, best meets SSDI's strict 'any occupation' standard. The others can likely do other work or recover within 12 months."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-social-security-disability",
+    "question": "What is the waiting period before someone can qualify for Social Security disability benefits?",
+    "options": [
+      "3 months",
+      "5 months",
+      "6 months",
+      "12 months"
+    ],
+    "answer": "5 months",
+    "topic": "Social Security Disability",
+    "explanation": "The SSDI waiting (elimination) period is 5 months."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-assignment",
+    "question": "In a health insurance policy, which term describes a situation where a policyowner has medical benefits assigned or paid directly to the hospital or physician?",
+    "options": [
+      "Collateral assignment",
+      "Absolute assignment",
+      "Transfer assignment",
+      "Right of assignment"
+    ],
+    "answer": "Right of assignment",
+    "topic": "Assignment",
+    "explanation": "Directing benefits to be paid to the hospital or physician is done under the insured's right of assignment (assignment of benefits)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-deductibles",
+    "question": "Deductible provisions are common in medical insurance policies. Which statement about the deductible provision is NOT correct?",
+    "options": [
+      "They help to eliminate small claims.",
+      "They provide that initial expenses up to a specified amount are to be paid by the insured.",
+      "They are most common in basic medical expense policies.",
+      "They help to hold down premium rates."
+    ],
+    "answer": "They are most common in basic medical expense policies.",
+    "topic": "Deductibles",
+    "explanation": "NOT correct: deductibles are most common in MAJOR medical, not basic medical expense policies. They do eliminate small claims, shift initial costs to the insured, and hold down premiums."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-coinsurance",
+    "question": "Which of the following is the most common type of co-insurance in a major medical policy?",
+    "options": [
+      "5 and 10%",
+      "10 and 15%",
+      "20 and 25%",
+      "25 and 30%"
+    ],
+    "answer": "20 and 25%",
+    "topic": "Coinsurance",
+    "explanation": "The most common major-medical coinsurance splits are 80/20 and 75/25, i.e., the insured pays 20% and 25%."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hras",
+    "question": "Which of the following statements about health reimbursement accounts (HRAs) is correct?",
+    "options": [
+      "HRAs are established by the employer.",
+      "HRAs are established by the employee.",
+      "HRAs are established with after-tax dollars.",
+      "HRAs are the least common of high deductible health plans."
+    ],
+    "answer": "HRAs are established by the employer.",
+    "topic": "HRAs",
+    "explanation": "Health Reimbursement Accounts are established and funded by the employer."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hospital-expense",
+    "question": "Jackie is covered under a hospital expense policy. Based on what you know about this plan, what type of plan is this?",
+    "options": [
+      "Service",
+      "Limited",
+      "Fixed-rate plan",
+      "Special risk"
+    ],
+    "answer": "Service",
+    "topic": "Hospital Expense",
+    "explanation": "A hospital expense policy reimburses actual hospital expenses — a service (reimbursement) plan rather than a fixed-rate indemnity plan."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-r-c-charges",
+    "question": "The determination of the cost of a surgical procedure based on the location or general area where the procedure will take place is known as ______.",
+    "options": [
+      "reasonable and customary approach charges",
+      "stated charges",
+      "percentage of stated charges",
+      "designated charges"
+    ],
+    "answer": "reasonable and customary approach charges",
+    "topic": "R&C Charges",
+    "explanation": "Pricing a surgical procedure by the location/area is the reasonable and customary (R&C) charge approach."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-hospital-indemnity",
+    "question": "Which type of coverage premium is least affected by an increase in medical costs?",
+    "options": [
+      "Basic Medical Expense",
+      "Hospital Indemnity",
+      "Comprehensive Medical",
+      "Major Medical"
+    ],
+    "answer": "Hospital Indemnity",
+    "topic": "Hospital Indemnity",
+    "explanation": "Hospital indemnity pays a fixed dollar amount regardless of actual cost, so its premium is least affected by rising medical costs."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-accidental-means",
+    "question": "Lorenzo had a disability income policy with an \"accidental means\" definition. He jumped into a river and broke his back leaving him paralyzed. What course of action would the insurance company take?",
+    "options": [
+      "The policy should pay the full amount since Lorenzo's accident was not planned.",
+      "The policy should pay 1/2 the amount since the jump was planned but the injury was not.",
+      "The policy should pay nothing since his jump was no accident. The injury does not matter.",
+      "The policy should pay nothing since it was still in the reinstatement phase."
+    ],
+    "answer": "The policy should pay nothing since his jump was no accident. The injury does not matter.",
+    "topic": "Accidental Means",
+    "explanation": "Under an 'accidental means' definition, the cause must be unintentional. The jump was intentional, so nothing is paid — the injury result doesn't matter."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-presumptive-disability",
+    "question": "What type of disability automatically qualifies the insured for full benefits based on a permanent physical impairment which left the individual incapable of performing their previous occupation but allows them to perform other work?",
+    "options": [
+      "Presumptive Disability",
+      "Permanent partial disability",
+      "Temporary total disability",
+      "Temporary partial disability"
+    ],
+    "answer": "Presumptive Disability",
+    "topic": "Presumptive Disability",
+    "explanation": "'Automatically qualifies for full benefits' signals presumptive disability, which pays full benefits for specified permanent impairments."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-accidental-means",
+    "question": "Eric had a disability income policy with an \"accidental means\" definition. He jumped into a lake and broke his neck leaving him paralyzed. What course of action would the insurance company take?",
+    "options": [
+      "Pay the full amount, since Eric's accident was not planned",
+      "Pay 1/2 the amount, since the jump was planned but the injury was not",
+      "Pay nothing, his jump was no accident, the injury does not matter",
+      "Pay nothing, since the policy was still in the reinstatement phase"
+    ],
+    "answer": "Pay nothing, his jump was no accident, the injury does not matter",
+    "topic": "Accidental Means",
+    "explanation": "'Accidental means' requires the cause to be accidental. Eric intentionally jumped, so the policy pays nothing."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-total-disability",
+    "question": "Which of the following may normally be used as a definition of total disability? I. House-confined II. Inability to perform the duties of any occupation III. Inability to perform the duties of the insured's own occupation",
+    "options": [
+      "I only",
+      "I and II",
+      "II and III",
+      "I and III"
+    ],
+    "answer": "II and III",
+    "topic": "Total Disability",
+    "explanation": "Total disability is normally defined as inability to perform the duties of ANY occupation (II) or the insured's OWN occupation (III). House-confined is not a standard definition."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-permanent-partial",
+    "question": "Regarding disability, a disability that is a permanent physical impairment leaving the individual incapable of performing the previous regular occupation, but capable of performing some other type of work, is:",
+    "options": [
+      "Permanent total disability.",
+      "Permanent partial disability",
+      "Temporary total disability",
+      "Temporary partial disability"
+    ],
+    "answer": "Permanent partial disability",
+    "topic": "Permanent Partial",
+    "explanation": "A permanent impairment preventing the prior occupation but allowing other work is permanent partial disability."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-disability-benefits",
+    "question": "Maria had a $1,000 per month disability policy with a benefit period to age 65 and a six-month waiting period. She became disabled at age 64 1/2. What would be the amount she receives?",
+    "options": [
+      "$2,000",
+      "$1,000",
+      "$12,000",
+      "Nothing"
+    ],
+    "answer": "Nothing",
+    "topic": "Disability Benefits",
+    "explanation": "With a 6-month waiting period, benefits would start at age 65 — but the benefit period ends at 65, so Maria receives nothing."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-limited-policies",
+    "question": "Dread disease, a travel accident, vision care, and hospital indemnity policies are all examples of:",
+    "options": [
+      "LTC policies",
+      "Limited risk policies",
+      "Special risk",
+      "Blanket policies"
+    ],
+    "answer": "Limited risk policies",
+    "topic": "Limited Policies",
+    "explanation": "Dread disease, travel accident, vision, and hospital indemnity are all limited (limited-risk) policies covering specific risks."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-capital-sum",
+    "question": "Ginny has a $50,000 accidental death and dismemberment policy. She received a $15,000 cash benefit her for the accidental loss of one eye. The $15,000 benefit could be identified as the policy's ______.",
+    "options": [
+      "principal sum",
+      "secondary sum",
+      "capital sum",
+      "contingent amount"
+    ],
+    "answer": "capital sum",
+    "topic": "Capital Sum",
+    "explanation": "The amount paid for accidental loss of one eye (a single dismemberment) is the capital sum. The full death benefit is the principal sum."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-accidental-results",
+    "question": "If John has an AD&D policy, which plan will pay if he jumps off a ladder and severely injures his leg that it must be amputated?",
+    "options": [
+      "Accidental results",
+      "Accidental means",
+      "Accidental measures",
+      "Accidental restitution"
+    ],
+    "answer": "Accidental results",
+    "topic": "Accidental Results",
+    "explanation": "Under an 'accidental results' (accidental bodily injury) definition, the unexpected RESULT is covered even though jumping off the ladder was intentional — so it pays."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-limited-risk",
+    "question": "A limited risk policy covers ______.",
+    "options": [
+      "risks not covered by accident and health policies",
+      "specific risks",
+      "all risks",
+      "unusual types of risks"
+    ],
+    "answer": "specific risks",
+    "topic": "Limited Risk",
+    "explanation": "A limited-risk policy covers specific named risks."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-special-risk",
+    "question": "Which of the following policies would cover an accidental death or injury while riding in a car?",
+    "options": [
+      "Limited risk",
+      "Special risk",
+      "Dread disease",
+      "Long-term care"
+    ],
+    "answer": "Special risk",
+    "topic": "Special Risk",
+    "explanation": "A policy covering accidental death or injury while riding in a car (a travel-type hazard) is a special risk policy."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-dismemberment",
+    "question": "Under the typical health insurance policy, which of the following would qualify as dismemberment? I. Taylor loses all the fingers on his left hand except the thumb. II. Jared, is right handed and permanently loses the use of his right hand and arm in an auto accident.",
+    "options": [
+      "I only",
+      "II only",
+      "I and II",
+      "Neither I nor II"
+    ],
+    "answer": "II only",
+    "topic": "Dismemberment",
+    "explanation": "Permanent loss of use of the hand and arm (II) qualifies as dismemberment. Losing fingers while keeping the thumb (I) is not a covered dismemberment."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-medicare-part-a",
+    "question": "Which is true about Part A of Medicare?",
+    "options": [
+      "The insured must pay a premium.",
+      "The insured must pay a deductible.",
+      "The insured must pay a deductible and a premium.",
+      "The insured does not have to pay a deductible or a premium."
+    ],
+    "answer": "The insured must pay a deductible.",
+    "topic": "Medicare Part A",
+    "explanation": "Most people pay NO premium for Part A (premium-free with enough work credits) but they DO pay a deductible."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-medicare-eligibility",
+    "question": "Which of the following is NOT eligible for Medicare coverage?",
+    "options": [
+      "People aged 65 and older eligible for Social Security",
+      "People aged 65 and older not eligible for Social Security, but willing to pay a monthly premium",
+      "People of any age who have been entitled to Social Security Disability benefits",
+      "People with any life-threatening condition"
+    ],
+    "answer": "People with any life-threatening condition",
+    "topic": "Medicare Eligibility",
+    "explanation": "Having 'any life-threatening condition' does not make someone Medicare-eligible. Eligibility is 65+, certain disability beneficiaries, or specific conditions (ESRD/ALS)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-medicare-part-b",
+    "question": "Under Medicare Part B, which of the following do participants NOT have to pay?",
+    "options": [
+      "An annual deductible",
+      "A per benefit deductible",
+      "20% of covered charges above the deductible",
+      "A monthly premium"
+    ],
+    "answer": "A per benefit deductible",
+    "topic": "Medicare Part B",
+    "explanation": "Part B has an annual deductible, 20% coinsurance, and a monthly premium — but NOT a per-benefit (per-benefit-period) deductible, which is a Part A feature."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-medicare-eligibility",
+    "question": "Which of the following groups is NOT eligible for Medicare coverage?",
+    "options": [
+      "People aged 65 and older eligible for Social Security",
+      "People aged 65 and older not eligible for Social Security but willing to pay a monthly premium",
+      "People of any age who have been entitled to Social Security disability benefits",
+      "People with any life-threatening condition"
+    ],
+    "answer": "People with any life-threatening condition",
+    "topic": "Medicare Eligibility",
+    "explanation": "'Any life-threatening condition' is not a Medicare eligibility category."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-medicare-reserve-days",
+    "question": "Select the answer that fills all three blanks correctly: The lifetime reserve for Medicare is ______ days. If a patient is hospitalized beyond the ______ lifetime reserve day, thereby exhausting the reserve, he/she is responsible for ______.",
+    "options": [
+      "30 days, 30th, a portion of the hospital charges",
+      "60 days, 60th, all hospital charges",
+      "90 days, 90th, none of the hospital charges",
+      "120 days, 120th, 20% of the hospital charges"
+    ],
+    "answer": "60 days, 60th, all hospital charges",
+    "topic": "Medicare Reserve Days",
+    "explanation": "Medicare provides 60 lifetime reserve days; beyond the 60th reserve day the patient is responsible for ALL hospital charges."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-medicare-premiums",
+    "question": "Which part of Medicare requires premium payments by the most eligible participants?",
+    "options": [
+      "Part A, basic hospital insurance",
+      "Part B, supplementary medical insurance",
+      "Respite care",
+      "All of the answer choices are correct."
+    ],
+    "answer": "Part B, supplementary medical insurance",
+    "topic": "Medicare Premiums",
+    "explanation": "Part B (supplementary medical insurance) requires a monthly premium from most participants; Part A is premium-free for most."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-moral-hazard",
+    "question": "What is considered a moral hazard?",
+    "options": [
+      "Age",
+      "Gender",
+      "Lifestyle",
+      "Occupation"
+    ],
+    "answer": "Lifestyle",
+    "topic": "Moral Hazard",
+    "explanation": "Lifestyle (behavior/character-based tendencies that increase loss) reflects a moral/morale hazard, unlike age, gender, or occupation."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-underwriting",
+    "question": "Which of the following factors is a primary risk factor in underwriting individual health insurance policies?",
+    "options": [
+      "Geographical location",
+      "Salary requirements",
+      "Zip code of the insured",
+      "Physical condition"
+    ],
+    "answer": "Physical condition",
+    "topic": "Underwriting",
+    "explanation": "Physical condition is a primary risk factor in underwriting individual health insurance."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-underwriting",
+    "question": "Which of the following would probably NOT be considered in underwriting a health insurance risk?",
+    "options": [
+      "An individual's avocations",
+      "An individual's age",
+      "An individual's sex – male or female",
+      "The address of the individual"
+    ],
+    "answer": "The address of the individual",
+    "topic": "Underwriting",
+    "explanation": "An individual's address is generally NOT used in underwriting a health risk; age, sex, and avocations are."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-managed-care",
+    "question": "Which of the following is NOT a reason insurers use MCOs use for medical cost management?",
+    "options": [
+      "Controls claims expenses",
+      "MCOs encourage overutilization by insureds",
+      "MCOs control how policyowners use their policy",
+      "MCOs seek to raise the cost for the insurer to provide better benefits for insureds"
+    ],
+    "answer": "MCOs encourage overutilization by insureds",
+    "topic": "Managed Care",
+    "explanation": "NOT a reason to use MCOs: 'encouraging overutilization' — MCOs exist to control utilization and claims expenses, not increase use."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-chronic-illness",
+    "question": "All the following are true concerning chronic illnesses except:",
+    "options": [
+      "Most people ignore chronic conditions and the pain they cause",
+      "A chronic condition frequently goes beyond being a nuisance and begins to inhibit a person's independence",
+      "Chronic conditions are can affect other parts of the body",
+      "Chronic conditions allow the body to fully recover and can be managed"
+    ],
+    "answer": "Chronic conditions allow the body to fully recover and can be managed",
+    "topic": "Chronic Illness",
+    "explanation": "FALSE: chronic conditions do NOT allow full recovery — by definition they persist and are managed rather than cured."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-medigap",
+    "question": "All of the following are true regarding Medicare supplement or Medigap policies except:",
+    "options": [
+      "Medicare supplements are sold by private insurance companies.",
+      "Medicare supplements are the same as Medigap policies.",
+      "Medicare supplements pay costs for Part C & Part D.",
+      "It's best to have a Medicare Advantage plan and a Medigap plan combined for more benefits."
+    ],
+    "answer": "It's best to have a Medicare Advantage plan and a Medigap plan combined for more benefits.",
+    "topic": "Medigap",
+    "explanation": "FALSE: you cannot combine a Medicare Advantage plan with a Medigap policy — it is illegal to sell Medigap to an MA enrollee. Medigap supplements Original Medicare only."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-proof-of-loss",
+    "question": "With the exception of instances of legal incapacity, proof of loss for surgical expense benefits must be furnished to the insurance company within _______.",
+    "options": [
+      "60 days",
+      "90 days",
+      "6 months",
+      "1 year"
+    ],
+    "answer": "90 days",
+    "topic": "Proof of Loss",
+    "explanation": "Written proof of loss for surgical/expense benefits must be furnished within 90 days of the loss."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-proof-of-loss",
+    "question": "Under a health policy, an insured is required to provide written proof of loss to the insurance company within a maximum of how many days after a loss?",
+    "options": [
+      "60 days",
+      "90 days",
+      "20 days",
+      "30 days"
+    ],
+    "answer": "90 days",
+    "topic": "Proof of Loss",
+    "explanation": "An insured must provide written proof of loss within a maximum of 90 days after a loss."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-renewability",
+    "question": "Given that a company can change premium rates on a class basis, a ______ health insurance policy will always be renewable until the insured reaches a certain age.",
+    "options": [
+      "noncancellable",
+      "guaranteed renewable",
+      "optional renewable",
+      "cancellable"
+    ],
+    "answer": "guaranteed renewable",
+    "topic": "Renewability",
+    "explanation": "A guaranteed renewable policy must be renewed until a stated age, though premiums may change on a class basis."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-exclusions",
+    "question": "Which of the following limits coverage under an insurance contract?",
+    "options": [
+      "Waiver of premium",
+      "Conditions",
+      "Exclusions of declarations",
+      "20501"
+    ],
+    "answer": "Exclusions of declarations",
+    "topic": "Exclusions",
+    "explanation": "Exclusions limit coverage by stating what the policy will not cover."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-misstatement-of-age",
+    "question": "Optional Provision on misstatement of age, permit the insurer to do which of the following?",
+    "options": [
+      "The insurer will return premiums and cancel the policy",
+      "The agents commission is charged back and the policy is cancelled",
+      "The policy is cancelled and no return of premiums.",
+      "The insurer has the right to review the policy to determine what benefits would have been paid based on the actual age of the insured."
+    ],
+    "answer": "The insurer has the right to review the policy to determine what benefits would have been paid based on the actual age of the insured.",
+    "topic": "Misstatement of Age",
+    "explanation": "The misstatement-of-age provision lets the insurer adjust benefits to what the premium paid would have purchased at the insured's correct age."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-occupational-class",
+    "question": "Which occupational class identifies professionals and those in office settings?",
+    "options": [
+      "A+",
+      "AAA",
+      "A",
+      "C"
+    ],
+    "answer": "A",
+    "topic": "Occupational Class",
+    "explanation": "Class A identifies professionals and office/clerical occupations (lowest risk)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-impairment-rider",
+    "question": "Which of the following would exclude certain conditions from coverage under a health insurance policy?",
+    "options": [
+      "Pre-existing conditions",
+      "Impairment rider",
+      "The insuring clause",
+      "The consideration clause"
+    ],
+    "answer": "Impairment rider",
+    "topic": "Impairment Rider",
+    "explanation": "An impairment (exclusion) rider excludes specified conditions from coverage."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-underwriting-factors",
+    "question": "Choose the option that is NOT a primary risk factor for underwriting individual health insurance policies?",
+    "options": [
+      "Geographic location",
+      "Moral hazard",
+      "Profession",
+      "Physical condition"
+    ],
+    "answer": "Geographic location",
+    "topic": "Underwriting Factors",
+    "explanation": "Geographic location is NOT a primary risk factor for individual health underwriting; physical condition, moral hazard, and profession are."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-managed-care",
+    "question": "A managed care organization uses all the following EXCEPT _____.",
+    "options": [
+      "mandatory second opinions",
+      "precertification reviews",
+      "case management",
+      "referrals"
+    ],
+    "answer": "mandatory second opinions",
+    "topic": "Managed Care",
+    "explanation": "Managed care relies on precertification, case management, and referrals; mandatory second opinions are not a defining MCO tool here, making it the exception."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-premium-factors",
+    "question": "Which factor would NOT affect a health insurance policy's premium?",
+    "options": [
+      "An insured's age",
+      "An insured's occupation",
+      "The types of benefits provided",
+      "The location of the insured's residence"
+    ],
+    "answer": "The location of the insured's residence",
+    "topic": "Premium Factors",
+    "explanation": "The location of the insured's residence would not affect the health premium; age, occupation, and benefit types do."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-tax-deductions",
+    "question": "To determine a medical tax deduction, ________ can be included as qualifying expenses.",
+    "options": [
+      "premium contributions paid by the employer to a group medical expense plan",
+      "premium contributions paid by the employer to a group disability plan",
+      "premium contributions paid by the individual to a group medical expense plan",
+      "premium contributions paid by the individual to a group disability plan"
+    ],
+    "answer": "premium contributions paid by the individual to a group medical expense plan",
+    "topic": "Tax Deductions",
+    "explanation": "Premiums the individual pays toward a group MEDICAL expense plan can count as qualifying medical expenses for a deduction; disability premiums and employer-paid premiums do not."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-group-disability-tax",
+    "question": "Which of the following concerning group disability insurance is true? I. Premiums are tax deductible by the employer, and benefits are taxable to the employee. II. Premiums are not tax deductible by the employer, and the benefits are taxable to the employees. III. Any amount contributed by the employee toward the premium makes the entire benefit tax free. IV. The percentage contributed to the premium by the employee makes the same percentage deductible by the employer.",
+    "options": [
+      "I",
+      "II",
+      "I & III",
+      "I & IV"
+    ],
+    "answer": "I",
+    "topic": "Group Disability Tax",
+    "explanation": "TRUE (I): employer-paid group disability premiums are tax-deductible to the employer, and the benefits are taxable to the employee."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-blanket-insurance",
+    "question": "The CEO of a cruise ship line would like to purchase group health coverage for the cruise ship passengers. What kind of insurance would the CEO need to purchase?",
+    "options": [
+      "Franchise health insurance",
+      "Wholesale health insurance",
+      "Blanket health insurance",
+      "Credit health insurance"
+    ],
+    "answer": "Blanket health insurance",
+    "topic": "Blanket Insurance",
+    "explanation": "Covering cruise-ship passengers (a transient, unnamed group) requires blanket health insurance."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-cobra",
+    "question": "If an employee is terminated and entitled to extended medical expense coverage under COBRA which event is correct?",
+    "options": [
+      "Employee dies – dependent family members receive 36 months of continued coverage",
+      "Employee dies – dependent family members receive 6 months of continued coverage",
+      "Employee dies – dependent family members receive 12 months of continued coverage",
+      "Employee dies – dependent family members receive 3 months of continued coverage"
+    ],
+    "answer": "Employee dies – dependent family members receive 36 months of continued coverage",
+    "topic": "COBRA",
+    "explanation": "On the death of the employee, dependent family members receive up to 36 months of continued coverage under COBRA."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-contributory-plans",
+    "question": "In contributory group plan, the insurance company requires what percentage of eligible employees?",
+    "options": [
+      "At least 25%",
+      "At least 50%",
+      "100%",
+      "Usually 75%"
+    ],
+    "answer": "Usually 75%",
+    "topic": "Contributory Plans",
+    "explanation": "A contributory group plan usually requires at least 75% of eligible employees to participate."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-premium-cost-control",
+    "question": "Which of the following is NOT a method for keeping health insurance policy premium costs to a minimum?",
+    "options": [
+      "Modifying benefit amounts",
+      "Increasing the deductible",
+      "Waiving the right to receive benefit payments when due",
+      "Extending the elimination"
+    ],
+    "answer": "Waiving the right to receive benefit payments when due",
+    "topic": "Premium Cost Control",
+    "explanation": "Waiving the right to receive benefit payments when due is NOT a premium-reduction method. Modifying benefits, raising deductibles, and extending the elimination period are."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-key-person-disability",
+    "question": "A disability insurance policy that indemnifies the business for the lost services of a key person is called:",
+    "options": [
+      "A cafeteria plan",
+      "Section 125 plan",
+      "Key person disability plan",
+      "Disability buy-out plan"
+    ],
+    "answer": "Key person disability plan",
+    "topic": "Key Person Disability",
+    "explanation": "A policy indemnifying the business for the lost services of a key person is key person disability insurance."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-disability-income",
+    "question": "Mr. Jansen falls off a ladder at his boss’ house. Which of the following plans will replace her income?",
+    "options": [
+      "Key person disability insurance",
+      "Business Overhead Expense insurance",
+      "Disability buyout plan",
+      "Disability income"
+    ],
+    "answer": "Disability income",
+    "topic": "Disability Income",
+    "explanation": "To replace Mr. Jansen's own income, the relevant coverage is disability income insurance."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-business-continuation",
+    "question": "A Business Continuation plan may include all of the following except:",
+    "options": [
+      "Life insurance",
+      "Group insurance",
+      "Credit insurance",
+      "Disability insurance"
+    ],
+    "answer": "Credit insurance",
+    "topic": "Business Continuation",
+    "explanation": "A business continuation (buy-sell) plan uses life, disability, and group insurance — not credit insurance."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-cost-sharing-math",
+    "question": "An individual major medical plan with a $1,000 individual deductible is going to cost _______ than a comparable plan with a $5,000 individual deductible; and a plan with an 80/20 coinsurance provision will cost ______ than a comparable plan with a 75/25 coinsurance provision.",
+    "options": [
+      "more/more",
+      "less/less",
+      "less/more",
+      "more/less"
+    ],
+    "answer": "more/more",
+    "topic": "Cost Sharing Math",
+    "explanation": "A lower ($1,000) deductible costs MORE than a higher ($5,000) one; and 80/20 (insurer pays more) costs MORE than 75/25 — so more/more."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-unfair-discrimination",
+    "question": "A company that charges different premiums for people in the same actuarial class could be found guilty of _____.",
+    "options": [
+      "twisting",
+      "unfair discrimination",
+      "segregation",
+      "unfair trade practices"
+    ],
+    "answer": "unfair discrimination",
+    "topic": "Unfair Discrimination",
+    "explanation": "Charging different premiums to people in the same actuarial class is unfair discrimination."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-controlled-business",
+    "question": "Which of the following would not be considered controlled business?",
+    "options": [
+      "An agent writing business solely on his family",
+      "An agent writing business on his partner",
+      "An agent writing business on his employees",
+      "An agent writing business on his neighbor"
+    ],
+    "answer": "An agent writing business on his neighbor",
+    "topic": "Controlled Business",
+    "explanation": "Writing business on a neighbor is NOT controlled business. Controlled business is writing on yourself, family, or employees."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-financial-services-commission",
+    "question": "Who comprises the Financial Services Commission?",
+    "options": [
+      "The Governor, CFO, Attorney General, & the Insurance Commissioner",
+      "The Governor, CFO, Attorney General, & the Agriculture Commissioner",
+      "The Governor, CFO, Insurance Commissioner, & the Agriculture Commissioner",
+      "The Governor, CFO, Insurance Commissioner, & the Speaker of the House"
+    ],
+    "answer": "The Governor, CFO, Attorney General, & the Agriculture Commissioner",
+    "topic": "Financial Services Commission",
+    "explanation": "The Financial Services Commission is the Governor, CFO, Attorney General, and Commissioner of Agriculture (the Florida Cabinet)."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-agents-vs-brokers",
+    "question": "What is the major difference between producers acting as agents and producers acting as brokers?",
+    "options": [
+      "Agents represent the client, and brokers represent the company.",
+      "Brokers are not required to follow the same laws and regulations as agents.",
+      "Brokers represent the client, and agents represent the company.",
+      "Brokers cannot solicit prospects for the purpose of selling insurance."
+    ],
+    "answer": "Brokers represent the client, and agents represent the company.",
+    "topic": "Agents vs Brokers",
+    "explanation": "Brokers represent the client; agents represent the insurer/company."
+  },
+  {
+    "module": "Day 8 Module 1",
+    "group": "d8m1-rebating",
+    "question": "Which of the following statements concerning rebating is not correct?",
+    "options": [
+      "The rebate must be available to all insureds in the same actuarial class.",
+      "The percentage of rebate cannot discriminate.",
+      "Rebates should be given to insureds who purchase a policy from an insurer that prohibits rebating.",
+      "Rebating is legal in Florida."
+    ],
+    "answer": "Rebates should be given to insureds who purchase a policy from an insurer that prohibits rebating.",
+    "topic": "Rebating",
+    "explanation": "NOT correct: rebates should NOT be given based on buying from an insurer that prohibits rebating — that statement is nonsensical. Rebates, where allowed, must be non-discriminatory within an actuarial class."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-human-life-value",
+    "question": "The purpose and function of insurance has its roots in economics and ______.",
+    "options": [
+      "perils and hazards",
+      "human life value",
+      "risk avoidance",
+      "risk reduction"
+    ],
+    "answer": "human life value",
+    "topic": "Human Life Value",
+    "explanation": "Insurance has its roots in economics and human life value — the economic worth of a person's future earnings."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-perils-hazards",
+    "question": "A hurricane is an example of ______.",
+    "options": [
+      "a physical hazard",
+      "a speculative risk",
+      "a peril",
+      "a storm"
+    ],
+    "answer": "a peril",
+    "topic": "Perils & Hazards",
+    "explanation": "A hurricane is a peril — the actual cause of a loss. A hazard increases the chance of loss."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-handling-risk",
+    "question": "Kara and her husband Jamal want to raise a family. They understand risk, and they have decided the best way to handle risk is to ______ the loss to another party.",
+    "options": [
+      "reduce",
+      "retain",
+      "transfer",
+      "carry"
+    ],
+    "answer": "transfer",
+    "topic": "Handling Risk",
+    "explanation": "Buying insurance transfers the risk of loss to another party (the insurer)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-purpose-of-insurance",
+    "question": "Life and health insurance evolved to provide a practical solution to the economic losses associated with ______, ______, and ______.",
+    "options": [
+      "death, sickness, accidents",
+      "loss, mourning, risk",
+      "risks, earnings, perils",
+      "hunger, pain, money"
+    ],
+    "answer": "death, sickness, accidents",
+    "topic": "Purpose of Insurance",
+    "explanation": "Life and health insurance addresses the economic losses of death, sickness, and accidents."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurable-risk",
+    "question": "Which of the following statements is CORRECT?",
+    "options": [
+      "Only speculative risks are insurable.",
+      "Only pure risks are insurable.",
+      "Both pure risks and speculative risks are insurable.",
+      "Neither pure risks nor speculative risks are insurable."
+    ],
+    "answer": "Only pure risks are insurable.",
+    "topic": "Insurable Risk",
+    "explanation": "Only pure risks (chance of loss or no loss, no chance of gain) are insurable; speculative risks are not."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurable-risk",
+    "question": "Which of the following statements describe an element of an insurable risk? I - The loss must be due to chance. II - The loss must be definite and measurable. III - The loss must not be catastrophic. IV - The loss exposures to be insured must be large.",
+    "options": [
+      "I and II",
+      "I, II, and III",
+      "II & III",
+      "I, II, III, IV"
+    ],
+    "answer": "I, II, III, IV",
+    "topic": "Insurable Risk",
+    "explanation": "All four are elements of an insurable risk: due to chance, definite/measurable, not catastrophic, and a large number of similar exposures."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-human-life-value",
+    "question": "Human life value is the essence of an individual’s or family’s ______.",
+    "options": [
+      "economic existence",
+      "risk tolerance",
+      "risk transference",
+      "charitable contributions"
+    ],
+    "answer": "economic existence",
+    "topic": "Human Life Value",
+    "explanation": "Human life value represents the essence of an individual's or family's economic existence."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurable-risk",
+    "question": "Insurable interest can be present in a variety of areas. Which statement does not identify an insurable risk?",
+    "options": [
+      "The loss cannot be due to chance.",
+      "The loss must be definite and measurable.",
+      "The loss cannot be catastrophic.",
+      "The loss exposures to be insured must be large."
+    ],
+    "answer": "The loss cannot be due to chance.",
+    "topic": "Insurable Risk",
+    "explanation": "The false statement is 'the loss cannot be due to chance' — an insurable loss MUST be due to chance."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-handling-risk",
+    "question": "People buy insurance because it is one of the most effective ways of ______.",
+    "options": [
+      "avoiding risk",
+      "transferring risk",
+      "reducing risk",
+      "retaining risk"
+    ],
+    "answer": "transferring risk",
+    "topic": "Handling Risk",
+    "explanation": "Insurance is one of the most effective ways of transferring risk."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-human-life-value",
+    "question": "Another way of looking at human life value is called future ______.",
+    "options": [
+      "career moves",
+      "earning potential",
+      "personal goals",
+      "personal expectations"
+    ],
+    "answer": "earning potential",
+    "topic": "Human Life Value",
+    "explanation": "Human life value is another way of expressing future earning potential."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-naic",
+    "question": "Which of the following statements about the National Association of Insurance Commissioners (NAIC) is NOT correct?",
+    "options": [
+      "The NAIC has the authority to prosecute and punish criminal violators in the insurance industry.",
+      "The NAIC seeks to preserve state, not federal, regulations of the insurance industry.",
+      "The NAIC promotes uniformity to state insurance laws and regulations.",
+      "The NAIC works to ensure the efficient administration of insurance laws and regulations."
+    ],
+    "answer": "The NAIC has the authority to prosecute and punish criminal violators in the insurance industry.",
+    "topic": "NAIC",
+    "explanation": "FALSE: the NAIC has no authority to prosecute or punish criminal violators — it has no direct enforcement power; states enforce."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-unfair-trade-practices",
+    "question": "Which of the following would not be found under the Unfair Trade Practices Act?",
+    "options": [
+      "False advertising",
+      "Coercion",
+      "Discrimination",
+      "Rebating"
+    ],
+    "answer": "Rebating",
+    "topic": "Unfair Trade Practices",
+    "explanation": "Rebating is regulated under its own statute and is conditionally permitted in Florida, so it is the item not strictly defined as an Unfair Trade Practice here; false advertising, coercion, and unfair discrimination are core UTPA violations."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-service-providers",
+    "question": "Which of the following is NOT a service provider?",
+    "options": [
+      "HMO",
+      "Benefit plans offering medical services to subscribers",
+      "Lloyds of London",
+      "PPO"
+    ],
+    "answer": "Lloyds of London",
+    "topic": "Service Providers",
+    "explanation": "Lloyd's of London is an insurance marketplace/insurer, not a service provider. HMOs, PPOs, and subscriber benefit plans are service providers."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-brokers",
+    "question": "In Florida, brokers in insurance transactions may legally represent ______.",
+    "options": [
+      "an insurer",
+      "the applicant and insured",
+      "the state Office of Insurance Regulation",
+      "themselves"
+    ],
+    "answer": "the applicant and insured",
+    "topic": "Brokers",
+    "explanation": "In Florida a broker represents the applicant and insured (the client), not the insurer."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurance-regulation",
+    "question": "Which statement below does NOT indicate landmark cases and laws involving the regulation of insurance?",
+    "options": [
+      "When an applicant's consumer or credit history is being investigated, insurers are required to disclose this information to the applicant.",
+      "The NAIC has standing committees working regularly to examine numerous aspects of the insurance industry.",
+      "The Federal Trade Commission (FTC) directly supervises the marketing techniques of all insurance companies.",
+      "The McCarran-Ferguson Act laid the basis for our current understanding that state governments are the primary regulators of the insurance industry."
+    ],
+    "answer": "The Federal Trade Commission (FTC) directly supervises the marketing techniques of all insurance companies.",
+    "topic": "Insurance Regulation",
+    "explanation": "FALSE: the FTC does not directly supervise insurance marketing. Under McCarran-Ferguson, states are the primary regulators."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-buyer-s-guide",
+    "question": "Which of the following is NOT a goal of the Buyer's Guide?",
+    "options": [
+      "Help buyers choose the most suitable plan",
+      "Explain basic product features",
+      "Provide information about the recommended policy",
+      "Ensure that buyers obtain the lowest price for insurance"
+    ],
+    "answer": "Ensure that buyers obtain the lowest price for insurance",
+    "topic": "Buyer's Guide",
+    "explanation": "The Buyer's Guide is not meant to ensure the lowest price; it helps buyers understand and compare products to choose a suitable plan."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-guaranty-association",
+    "question": "What does the State Guaranty Association guarantee?",
+    "options": [
+      "That a policy will be issued",
+      "That a claim will be paid if an insurer becomes insolvent",
+      "That dividends will be paid",
+      "The rate of return on a policy"
+    ],
+    "answer": "That a claim will be paid if an insurer becomes insolvent",
+    "topic": "Guaranty Association",
+    "explanation": "The State Guaranty Association guarantees that claims will be paid if a member insurer becomes insolvent."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-reinsurance",
+    "question": "Review the statements below and identify which is correct regarding the purpose of a reinsurer.",
+    "options": [
+      "A reinsurer accepts all risk from another insurer.",
+      "A reinsurer assumes a portion of the risk from another insurer.",
+      "A reinsurer cedes the risk.",
+      "A reinsurer does not take any risk."
+    ],
+    "answer": "A reinsurer assumes a portion of the risk from another insurer.",
+    "topic": "Reinsurance",
+    "explanation": "A reinsurer assumes a portion of the risk ceded by another insurer."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-industrial-insurance",
+    "question": "Industrial insurance is characterized by relatively ______ face amounts.",
+    "options": [
+      "large",
+      "industrial-sized",
+      "small",
+      "mid-sized industrial"
+    ],
+    "answer": "small",
+    "topic": "Industrial Insurance",
+    "explanation": "Industrial (home service) insurance is characterized by relatively small face amounts."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-reinsurance",
+    "question": "Reinsurers are a specialized branch of the insurance industry. This is because they insure ______.",
+    "options": [
+      "insurers",
+      "employers with high risk",
+      "applicants from Lloyds of London",
+      "applicants with low risk"
+    ],
+    "answer": "insurers",
+    "topic": "Reinsurance",
+    "explanation": "Reinsurers insure other insurers."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurable-interest",
+    "question": "At what time must an insurable interest exist in life and health contracts?",
+    "options": [
+      "After the policy is issued",
+      "Before the beneficiary is named",
+      "While the policy is enforced",
+      "At the inception of the policy"
+    ],
+    "answer": "At the inception of the policy",
+    "topic": "Insurable Interest",
+    "explanation": "Insurable interest in life/health must exist at the inception of the policy."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-parol-evidence",
+    "question": "What is the parole evidence rule?",
+    "options": [
+      "Once a written contract is signed, it cannot be changed.",
+      "An oral contract cannot be modified by written evidence.",
+      "A written contract cannot be changed by oral evidence.",
+      "An oral contract takes preference over any earlier written contracts."
+    ],
+    "answer": "A written contract cannot be changed by oral evidence.",
+    "topic": "Parol Evidence",
+    "explanation": "The parol evidence rule means a written contract cannot be changed by prior oral evidence."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-valued-contracts",
+    "question": "Which of the following are NOT valued contracts?.",
+    "options": [
+      "Life insurance",
+      "Disability income insurance",
+      "Accidental Death & Dismemberment",
+      "Medical Expense policies"
+    ],
+    "answer": "Medical Expense policies",
+    "topic": "Valued Contracts",
+    "explanation": "Medical expense policies are reimbursement/indemnity contracts, NOT valued contracts. Life, disability income, and AD&D are valued."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurable-interest",
+    "question": "Identify which statement is incorrect regarding insurable interest.",
+    "options": [
+      "Insurable interest exists when the applicant is the insured.",
+      "A policy obtained by a person without insurable interest in the insured can be enforced.",
+      "The applicant must be subject to loss upon the death, illness, or disability of the insured.",
+      "With the exception of a minor, the person to be insured must give consent before a policy is issued."
+    ],
+    "answer": "A policy obtained by a person without insurable interest in the insured can be enforced.",
+    "topic": "Insurable Interest",
+    "explanation": "FALSE: a policy obtained without insurable interest is NOT enforceable."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-competent-parties",
+    "question": "Which of the following are considered competent instead of incompetent except:",
+    "options": [
+      "An insurance company with a certificate of authority from the State",
+      "A 52-year-old diagnosed with Alzheimer's",
+      "A person 17 years old who just graduated from high school.",
+      "A 25-year-old under the influence"
+    ],
+    "answer": "An insurance company with a certificate of authority from the State",
+    "topic": "Competent Parties",
+    "explanation": "The insurer holding a certificate of authority is the competent party; the Alzheimer's patient, the 17-year-old minor, and the intoxicated person are not legally competent."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-contract-types",
+    "question": "Which of the following is a \"take it or leave it\" type of contract?",
+    "options": [
+      "Aleatory",
+      "Unilateral",
+      "Conditional",
+      "Adhesion"
+    ],
+    "answer": "Adhesion",
+    "topic": "Contract Types",
+    "explanation": "A 'take it or leave it' contract is a contract of adhesion."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurable-interest",
+    "question": "Review the statements below and identify which is accurate concerning an insurable interest.",
+    "options": [
+      "The policy owner must expect to benefit from the insured's death.",
+      "When the insured dies or becomes disabled, the policy owner must expect to suffer a loss.",
+      "By definition, the beneficiary has an insurable interest in the insured.",
+      "The insured must have a personal or business relationship with the beneficiary."
+    ],
+    "answer": "When the insured dies or becomes disabled, the policy owner must expect to suffer a loss.",
+    "topic": "Insurable Interest",
+    "explanation": "Insurable interest means the policy owner would suffer a loss if the insured dies or becomes disabled."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-adhesion",
+    "question": "An insurance contract is not negotiated, rather it is prepared by the insurer. Which of the following statements explains this characteristic of insurance?",
+    "options": [
+      "The insurance contract is an aleatory contract.",
+      "The insurance contract is a contract of acceptance.",
+      "The insurance contract is a contract of adhesion.",
+      "The insurance contract names only the insurer as the competent party."
+    ],
+    "answer": "The insurance contract is a contract of adhesion.",
+    "topic": "Adhesion",
+    "explanation": "Because the insurer writes the contract and the applicant accepts it as-is, it is a contract of adhesion."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-competent-parties",
+    "question": "What makes an insurer competent?",
+    "options": [
+      "They are registered with the NAIC.",
+      "They are licensed or authorized by the state.",
+      "They follow the Code of Ethics of the state Office of Insurance Regulation.",
+      "They register with the Security and Exchange Commission."
+    ],
+    "answer": "They are licensed or authorized by the state.",
+    "topic": "Competent Parties",
+    "explanation": "An insurer is a competent party when it is licensed or authorized by the state."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-common-disaster",
+    "question": "Bill Wilson has a life insurance policy and has named his brother Kenneth Wilson as the primary beneficiary. The secondary beneficiary is Mary, Kenneth’s wife. Bill and Kenneth were riding in a car with Mary. Both Bill and Kenneth died in the car crash. Mary was the only survivor. Who will receive the life insurance proceeds?",
+    "options": [
+      "The insurance does not go to anyone because we don't know who died first.",
+      "Mary will receive the proceeds as the secondary or contingent beneficiary.",
+      "We have to look at Kenneth's estate to see who will receive the proceeds.",
+      "No one because the insured and the beneficiary have passed away."
+    ],
+    "answer": "Mary will receive the proceeds as the secondary or contingent beneficiary.",
+    "topic": "Common Disaster",
+    "explanation": "With the primary beneficiary (Kenneth) dying with the insured, proceeds pass to the surviving contingent beneficiary, Mary."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-free-look",
+    "question": "The period specified in the free look provision begins______.",
+    "options": [
+      "when the policy is issued",
+      "when the policy is delivered",
+      "when the application is signed",
+      "when the application is approved"
+    ],
+    "answer": "when the policy is delivered",
+    "topic": "Free Look",
+    "explanation": "The free-look period begins when the policy is delivered."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-deceptive-practices",
+    "question": "What is a deceptive sales presentation?",
+    "options": [
+      "Any presentation that gives the prospect the wrong impression about any aspect of an insurance policy",
+      "Any presentation that does not provide complete disclosure",
+      "Any presentation that includes any misleading or inconclusive product comparison",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct.",
+    "topic": "Deceptive Practices",
+    "explanation": "All listed presentations — wrong impressions, incomplete disclosure, misleading comparisons — are deceptive."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-sales-presentation",
+    "question": "What should a producer NOT do during a presentation?",
+    "options": [
+      "Explain and educate",
+      "Sell a policy",
+      "Motivate the client",
+      "Openly discuss a policy's limitations"
+    ],
+    "answer": "Sell a policy",
+    "topic": "Sales Presentation",
+    "explanation": "A producer should educate, motivate, and disclose limitations — not high-pressure 'sell' a policy; the goal is to let the client decide."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-misrepresentation",
+    "question": "In the selling process, when are serious problems of misrepresentation likely to occur?",
+    "options": [
+      "Approach",
+      "Presentation of recommendations",
+      "Fact-finding and needs analysis",
+      "Policy delivery and ongoing service"
+    ],
+    "answer": "Presentation of recommendations",
+    "topic": "Misrepresentation",
+    "explanation": "Serious misrepresentation problems most often arise during the presentation of recommendations."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-sales-presentation",
+    "question": "A sales presentation is critical in the insurance industry. What is the main goal of it?",
+    "options": [
+      "To educate clients, empowering them to make their own decisions about what's right for them.",
+      "To sell as many products as possible to the client",
+      "To convince the client that the producer's recommendations are best.",
+      "To explain to the client the various rules and regulations around insurance products."
+    ],
+    "answer": "To educate clients, empowering them to make their own decisions about what's right for them.",
+    "topic": "Sales Presentation",
+    "explanation": "The main goal of a sales presentation is to educate clients so they can make their own informed decisions."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-illustrations-model-reg",
+    "question": "Which of the following is NOT a provision of NAIC's Life Insurance Illustrations Model Regulations?",
+    "options": [
+      "A written explanation or policy summary must accompany each policy illustration.",
+      "The words \"vanish\" and \"vanishing premium\" should be used sparingly in each policy illustration.",
+      "Each policy illustration needs to explain that cash values and coverage could vary based on changes in an insurer's costs and dividends.",
+      "Each policy illustration must be complete."
+    ],
+    "answer": "The words \"vanish\" and \"vanishing premium\" should be used sparingly in each policy illustration.",
+    "topic": "Illustrations Model Reg",
+    "explanation": "NOT a provision: the regulation PROHIBITS the terms 'vanish/vanishing premium' — it doesn't merely say to use them 'sparingly.'"
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-preprinted-materials",
+    "question": "The reason preprinted materials are recommended in the sales presentation is ______.",
+    "options": [
+      "the agent may not know exactly how a product works.",
+      "preprinted materials save time and improve explanations.",
+      "preprinted materials have generally been reviewed for compliance.",
+      "preprinted materials act as a way for the agent to avoid answering the client's questions."
+    ],
+    "answer": "preprinted materials have generally been reviewed for compliance.",
+    "topic": "Preprinted Materials",
+    "explanation": "Preprinted materials are recommended because they have generally been reviewed for compliance."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-full-disclosure",
+    "question": "The purpose behind full disclosure requirements is to ______.",
+    "options": [
+      "ensure a client is told most of what there is to know about a product.",
+      "help a client make an informed decision.",
+      "ensure agents comply with the letter of the law.",
+      "help a client distinguish one insurer's product from a similar offering from another insurer."
+    ],
+    "answer": "help a client make an informed decision.",
+    "topic": "Full Disclosure",
+    "explanation": "Full disclosure exists to help a client make an informed decision."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-rating-rejection",
+    "question": "The producers have as much information as possible on the rating and rejection of the policy. Which of the following does not apply to the rating and rejection?",
+    "options": [
+      "They need to explain how the underwriter rated the policy.",
+      "They need to know if it was unfavorable and why.",
+      "They need to explain if additional information is needed.",
+      "All the above are correct"
+    ],
+    "answer": "All the above are correct",
+    "topic": "Rating & Rejection",
+    "explanation": "All of the listed duties (explaining the rating, the reason, and any additional information needed) apply to rating and rejection."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-naic",
+    "question": "What does the NAIC stand for?",
+    "options": [
+      "National Aviation Insurance Commission",
+      "National Association of Inspector Commissioners",
+      "National Association of Insurance Commissioners",
+      "Naval Academy Insurance Commission"
+    ],
+    "answer": "National Association of Insurance Commissioners",
+    "topic": "NAIC",
+    "explanation": "NAIC stands for the National Association of Insurance Commissioners."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-premium-modes",
+    "question": "Which premium mode is least expensive?",
+    "options": [
+      "Annual",
+      "Semiannual",
+      "Quarterly",
+      "Monthly"
+    ],
+    "answer": "Annual",
+    "topic": "Premium Modes",
+    "explanation": "Annual is the least expensive premium mode."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-health-insurance-basics",
+    "question": "Select the CORRECT health insurance statement.",
+    "options": [
+      "Health insurance policies cannot be canceled by the insurer once they are issued.",
+      "Many premium-payment options are available.",
+      "Medical expense policies reimburse the insured for the costs of medical care.",
+      "Disability income policies cover hospital expenses related to a disability."
+    ],
+    "answer": "Medical expense policies reimburse the insured for the costs of medical care.",
+    "topic": "Health Insurance Basics",
+    "explanation": "CORRECT: medical expense policies reimburse the insured for the costs of medical care."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-reserves",
+    "question": "Which of the following statements about reserves are true?",
+    "options": [
+      "Reserves are set aside by an insurance company.",
+      "They are funds set aside for the payment of future claims.",
+      "A portion of each premium is set aside for reserves.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct.",
+    "topic": "Reserves",
+    "explanation": "All are true: reserves are set aside by the insurer from a portion of each premium to pay future claims."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-participating-basis",
+    "question": "Most individual health insurance is issued on a ______ basis.",
+    "options": [
+      "participating",
+      "non-participating",
+      "claims",
+      "cost"
+    ],
+    "answer": "non-participating",
+    "topic": "Participating Basis",
+    "explanation": "Most individual health insurance is issued on a non-participating basis (no dividends)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-premiums",
+    "question": "Select the CORRECT statement about health insurance policy premiums.",
+    "options": [
+      "A \"policy fee\" is the same as a policy premium.",
+      "If a policy owner has an individual health plan, then the policy is probably a participating policy.",
+      "A group health insurance policy's experience rating refund credit is most influenced by the age and gender of the individual insureds.",
+      "Health insurance policies are paid on yearly basis and may be periodically increased."
+    ],
+    "answer": "Health insurance policies are paid on yearly basis and may be periodically increased.",
+    "topic": "Premiums",
+    "explanation": "Health insurance premiums are generally paid on a periodic basis and may be increased over time (on a class basis)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-reserves",
+    "question": "What are two types of health insurance reserves?",
+    "options": [
+      "Valued contracts & Indemnity contracts",
+      "Jack & Jill Reserves",
+      "premium reserves & loss reserves",
+      "Master contracts & indemnity contracts"
+    ],
+    "answer": "premium reserves & loss reserves",
+    "topic": "Reserves",
+    "explanation": "The two types of health insurance reserves are premium reserves and loss reserves."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-income",
+    "question": "Which statements is true about a disability income policy?",
+    "options": [
+      "A disability income policy replaces income when wages are lost due to disability",
+      "A disability income policy covers medical expenses incurred from a disability",
+      "A disability income policy pays benefits indefinitely",
+      "A disability income policy protects the insured if he/she lives too long"
+    ],
+    "answer": "A disability income policy replaces income when wages are lost due to disability",
+    "topic": "Disability Income",
+    "explanation": "A disability income policy replaces income lost when the insured cannot work due to disability."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-reserves",
+    "question": "What does an insurance company set aside to pay future claims?",
+    "options": [
+      "Valued contracts",
+      "Indemnity contracts",
+      "Reserves",
+      "Master contracts"
+    ],
+    "answer": "Reserves",
+    "topic": "Reserves",
+    "explanation": "Insurers set aside reserves to pay future claims."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hsas",
+    "question": "Which of the following plans used with High Deductible Health Plans is employee owned?",
+    "options": [
+      "Health Savings Accounts (HSAs)",
+      "Flexible Spending Accounts (FSAs)",
+      "Health Reimbursement Accounts (HRAs)",
+      "Health Maintanance Organizations (HMOs)"
+    ],
+    "answer": "Health Savings Accounts (HSAs)",
+    "topic": "HSAs",
+    "explanation": "A Health Savings Account (HSA) is owned by the employee."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-participating-basis",
+    "question": "Group health insurance is generally issued on a ______ basis.",
+    "options": [
+      "participating",
+      "non-participating",
+      "claims",
+      "cost"
+    ],
+    "answer": "non-participating",
+    "topic": "Participating Basis",
+    "explanation": "Group health insurance is generally issued on a non-participating basis."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-assignment",
+    "question": "In a health insurance policy, which term describes a situation where a policyowner has medical benefits assigned or paid directly to the hospital or physician?",
+    "options": [
+      "Collateral assignment",
+      "Absolute assignment",
+      "Transfer assignment",
+      "Right of assignment"
+    ],
+    "answer": "Right of assignment",
+    "topic": "Assignment",
+    "explanation": "Directing benefits to the hospital or physician is the insured's right of assignment."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicaid",
+    "question": "Choose the INCORRECT statement pertaining to Medicaid.",
+    "options": [
+      "Medicaid provides federal matching funds to states for medical public assistance plans.",
+      "The purpose of Medicaid is to help eligible needy persons with medical assistance.",
+      "Medicaid benefits can be applied to the deductible and coinsurance amounts of Medicare.",
+      "Medicaid limits financial assistance to persons aged 65 or over who cannot afford necessary medical services."
+    ],
+    "answer": "Medicaid limits financial assistance to persons aged 65 or over who cannot afford necessary medical services.",
+    "topic": "Medicaid",
+    "explanation": "INCORRECT: Medicaid is need-based for all ages, not limited to those 65+ (that describes Medicare)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-social-security-disability",
+    "question": "All of the following statements concerning Social Security disability benefits are true EXCEPT:",
+    "options": [
+      "The impairment must be expected to last at least 12 months.",
+      "The waiting period is 5 months.",
+      "The waiting period may be waived in certain circumstances.",
+      "Benefits are retroactive to the time of disability."
+    ],
+    "answer": "Benefits are retroactive to the time of disability.",
+    "topic": "Social Security Disability",
+    "explanation": "EXCEPT: SSDI benefits are NOT retroactive to the time of disability."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-eligibility",
+    "question": "All of the following are eligible for Medicare EXCEPT:",
+    "options": [
+      "Those 65 or older",
+      "Dependents of those 65 or older",
+      "Folks with a chronic kidney disorder",
+      "Folks receiving Social Security Disability benefits"
+    ],
+    "answer": "Dependents of those 65 or older",
+    "topic": "Medicare Eligibility",
+    "explanation": "Medicare is individual coverage — dependents of those 65+ are not eligible on that basis."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-multiple-employer-trust",
+    "question": "Grouping small businesses together to obtain group insurance as one large group is characteristic of which of the following?",
+    "options": [
+      "A Health Maintenance Organization (HMO)",
+      "A Franchise Health plan",
+      "A Multiple Employer Trust (MET)",
+      "A Fictitious group"
+    ],
+    "answer": "A Multiple Employer Trust (MET)",
+    "topic": "Multiple Employer Trust",
+    "explanation": "Combining small businesses into one large insured group describes a Multiple Employer Trust (MET)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-self-insured-plans",
+    "question": "All of the following may administer self-insured plans except:",
+    "options": [
+      "Third Party Administrators - TPAs",
+      "Administrative Services Organizations - ASOs",
+      "Actuaries",
+      "Insurance Companies"
+    ],
+    "answer": "Actuaries",
+    "topic": "Self-Insured Plans",
+    "explanation": "Actuaries calculate rates/reserves but do not administer self-insured plans; TPAs, ASOs, and insurers do."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-social-security-disability",
+    "question": "Choose the individual who is most likely to qualify for Social Security disability benefits.",
+    "options": [
+      "Randy, a ski instructor who breaks his leg",
+      "Sarah, who is sick from a viral infection and is not expected to be able to work for the next 6 months",
+      "Perry, a mechanic who loses his dominant hand in an accident",
+      "Grace, who experiences serious early-onset Alzheimer's and is unable to remember how to get to work"
+    ],
+    "answer": "Grace, who experiences serious early-onset Alzheimer's and is unable to remember how to get to work",
+    "topic": "Social Security Disability",
+    "explanation": "Grace's early-onset Alzheimer's best meets SSDI's strict any-occupation, 12-month standard."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-basic-medical-expense",
+    "question": "Basic Medical expense policies do not contain which feature?",
+    "options": [
+      "Deductibles",
+      "Room & Board benefits",
+      "Physician office visits",
+      "Miscellaneous benefits"
+    ],
+    "answer": "Deductibles",
+    "topic": "Basic Medical Expense",
+    "explanation": "Basic medical expense (first-dollar) policies do NOT contain deductibles."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-social-security-act",
+    "question": "The Social Security Act of 1965 created which of the following?",
+    "options": [
+      "Old Age Benefits",
+      "Medicaid",
+      "Survivor benefits",
+      "None of the above"
+    ],
+    "answer": "Medicaid",
+    "topic": "Social Security Act",
+    "explanation": "The Social Security Act of 1965 created Medicare and Medicaid; this answer is Medicaid."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-basic-expense-policies",
+    "question": "Which of the following statement is true about Basic Hospital, Medical, and Surgical Expense Policies?",
+    "options": [
+      "They have high deductibles.",
+      "The benefits provided are usually equal to the actual expenses incurred.",
+      "They usually have a stated limit for specific expenses.",
+      "Benefits are provided for loss of income."
+    ],
+    "answer": "They usually have a stated limit for specific expenses.",
+    "topic": "Basic Expense Policies",
+    "explanation": "Basic hospital/medical/surgical policies usually have a stated dollar limit for specific expenses."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hospital-fixed-rate",
+    "question": "Considering what you know about a hospital fixed-rate plan, which statement is NOT true?",
+    "options": [
+      "Claim costs are not affected by rising healthcare costs.",
+      "This plan provides high benefits for relatively low premiums.",
+      "They feature simple underwriting and administration.",
+      "Benefits are paid directly to the hospital."
+    ],
+    "answer": "This plan provides high benefits for relatively low premiums.",
+    "topic": "Hospital Fixed-Rate",
+    "explanation": "NOT true: a fixed-rate (indemnity) plan pays modest fixed amounts — not 'high benefits.' Its costs aren't affected by rising charges and underwriting is simple."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-first-dollar-coverage",
+    "question": "The term FIRST DOLLAR often is used to describe benefits payable by which type of policy?",
+    "options": [
+      "A Basic Medical Expense policy",
+      "A Disability Income policy",
+      "A Business Overhead Expense policy",
+      "A Major Medical policy"
+    ],
+    "answer": "A Basic Medical Expense policy",
+    "topic": "First-Dollar Coverage",
+    "explanation": "'First dollar' coverage (no deductible) describes a Basic Medical Expense policy."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-major-medical-deductibles",
+    "question": "There are three types of major medical policy deductibles. Which of the following is NOT one of those deductibles?",
+    "options": [
+      "corridor",
+      "integrated",
+      "stop loss",
+      "flat"
+    ],
+    "answer": "stop loss",
+    "topic": "Major Medical Deductibles",
+    "explanation": "Stop-loss is a coinsurance limit, not a deductible. The three deductible types are corridor, integrated, and flat."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-coinsurance",
+    "question": "Which of the following is true about coinsurance?",
+    "options": [
+      "Coinsurance applies to the deductible as well as to claim payments.",
+      "Premiums are higher for a policy that contains a coinsurance provision than for one that does not.",
+      "It helps control overutilization of benefits.",
+      "Insurance companies can change the coinsurance ratio after the policy has been issued."
+    ],
+    "answer": "It helps control overutilization of benefits.",
+    "topic": "Coinsurance",
+    "explanation": "Coinsurance helps control overutilization of benefits by making the insured share in costs."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-basic-medical-cost-control",
+    "question": "How does a basic medical plan avoid small claims and keep the cost of premiums down?",
+    "options": [
+      "By utilizing deductibles and co-insurance",
+      "By imposing benefit limits",
+      "By paying only catastrophic medical expenses",
+      "By providing a network of physicians and hospitals"
+    ],
+    "answer": "By imposing benefit limits",
+    "topic": "Basic Medical Cost Control",
+    "explanation": "Basic medical (first-dollar) plans control premium cost by imposing benefit limits/maximums."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-miscellaneous-expense",
+    "question": "What is included under the basic hospital miscellaneous expense benefit?",
+    "options": [
+      "Surgical expenses",
+      "Anesthesia",
+      "Physician fees",
+      "Room and board"
+    ],
+    "answer": "Anesthesia",
+    "topic": "Miscellaneous Expense",
+    "explanation": "The basic hospital miscellaneous expense benefit covers items like anesthesia, lab, drugs, and supplies — not room/board or physician fees."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-integrated-deductible",
+    "question": "If all or part of a $500 deductible is offset by a Basic Medical policy, what type of deductible applies?",
+    "options": [
+      "Integrated",
+      "Corridor",
+      "Flat",
+      "Split"
+    ],
+    "answer": "Integrated",
+    "topic": "Integrated Deductible",
+    "explanation": "When a basic medical policy offsets the deductible, it is an integrated deductible."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-integrated-deductible",
+    "question": "Cindy has a $500 deductible with her plan where the deductible is offset when the expense is incurred. What type of deductible is this?",
+    "options": [
+      "Integrated",
+      "Corridor",
+      "Flat",
+      "Split"
+    ],
+    "answer": "Integrated",
+    "topic": "Integrated Deductible",
+    "explanation": "A deductible offset by other (basic) coverage as expenses are incurred is an integrated deductible."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-r-c-charges",
+    "question": "The determination of the cost of a surgical procedure based on the location or general area where the procedure will take place is known as ______.",
+    "options": [
+      "reasonable and customary approach charges",
+      "stated charges",
+      "percentage of stated charges",
+      "designated charges"
+    ],
+    "answer": "reasonable and customary approach charges",
+    "topic": "R&C Charges",
+    "explanation": "Pricing surgery by the area/location is the reasonable and customary (R&C) charge approach."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hospital-expense",
+    "question": "Jackie is covered under a hospital expense policy. Based on what you know about this plan, what type of plan is this?",
+    "options": [
+      "Service",
+      "Limited",
+      "Fixed-rate plan",
+      "Special risk"
+    ],
+    "answer": "Service",
+    "topic": "Hospital Expense",
+    "explanation": "A hospital expense policy reimburses actual expenses — a service plan."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-coverage",
+    "question": "Which statement accurately describes a feature of a disability policy?",
+    "options": [
+      "Sickness and accidents are covered immediately.",
+      "Sickness is covered immediately; accidents are covered after 15 days.",
+      "Accidents are covered immediately; sickness is covered after 15 days.",
+      "Sickness and accidents are covered after 15 days."
+    ],
+    "answer": "Accidents are covered immediately; sickness is covered after 15 days.",
+    "topic": "Disability Coverage",
+    "explanation": "A common feature: accidents are covered immediately while sickness is covered after a probationary period (e.g., 15 days)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-presumptive-disability",
+    "question": "What type of disability automatically qualifies the insured for full benefits based on a permanent physical impairment which left the individual incapable of performing their previous occupation but allows them to perform other work?",
+    "options": [
+      "Presumptive Disability",
+      "Permanent partial disability",
+      "Temporary total disability",
+      "Temporary partial disability"
+    ],
+    "answer": "Presumptive Disability",
+    "topic": "Presumptive Disability",
+    "explanation": "'Automatically qualifies for full benefits' signals presumptive disability."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-non-disabling-benefit",
+    "question": "In certain policies, if an injury does not qualify the insured for monthly disability income benefits, what else might it make them eligible for?",
+    "options": [
+      "Outpatient compensation",
+      "An emergency room benefit",
+      "Medical expense reimbursement",
+      "A non-disabling benefit"
+    ],
+    "answer": "A non-disabling benefit",
+    "topic": "Non-Disabling Benefit",
+    "explanation": "An injury that doesn't cause disability may still qualify the insured for a non-disabling (medical) benefit."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-waiver-of-premium",
+    "question": "Which endorsement is attached to a health insurance policy, stipulating that the insurer will maintain coverage without additional premiums if the insured becomes totally and permanently disabled?",
+    "options": [
+      "Guaranteed insurability",
+      "Impairment rider",
+      "Multiple indemnity",
+      "Waiver of premium"
+    ],
+    "answer": "Waiver of premium",
+    "topic": "Waiver of Premium",
+    "explanation": "The waiver of premium rider keeps coverage in force without premiums if the insured is totally and permanently disabled."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-non-disabling-benefit",
+    "question": "Regarding a non-disabling injury benefit, which of the following options illustrates what the policy pays? I. A flat amount equal to the insured's salary II. A percentage amount equal to the insured's salary III. The actual cost of medical treatment IV. A percentage amount equal to the weekly or monthly benefit",
+    "options": [
+      "I",
+      "II, III",
+      "III, & IV",
+      "IV"
+    ],
+    "answer": "IV",
+    "topic": "Non-Disabling Benefit",
+    "explanation": "The non-disabling injury benefit pays a percentage amount equal to the weekly or monthly disability benefit (toward medical treatment)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-delayed-disability",
+    "question": "Total disability does not always occur immediately after an accident but does develop days or weeks later. A specified time frame is allowed for this, and the insured would still be eligible for benefits. What is the maximum amount of time specified in a disability income policy?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "Six months"
+    ],
+    "answer": "90 days",
+    "topic": "Delayed Disability",
+    "explanation": "Total disability may develop after an accident; the policy allows up to 90 days for it to begin and still qualify."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-non-disabling-benefit",
+    "question": "The non-disabling injury benefit pays: a. a flat amount equal to the insured's salary b. a percentage amount equal to the insured's salary c. the actual cost of medical treatment d. a percentage amount equal to the weekly or monthly benefit",
+    "options": [
+      "a",
+      "b, c",
+      "c, d",
+      "d"
+    ],
+    "answer": "d",
+    "topic": "Non-Disabling Benefit",
+    "explanation": "The non-disabling injury benefit pays a percentage amount equal to the weekly or monthly benefit."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-presumptive-disability",
+    "question": "Which of the following would not be considered a \"presumptive\" disability, automatically qualifying an individual for full benefits under a disability policy?",
+    "options": [
+      "Cancer",
+      "Blindness",
+      "Loss of speech",
+      "Deafness"
+    ],
+    "answer": "Cancer",
+    "topic": "Presumptive Disability",
+    "explanation": "Cancer is NOT a presumptive disability. Presumptive losses are sight, hearing, speech, and limbs."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-recurrent-disability",
+    "question": "Marcus has a disability policy with a 5-year benefit period and a 30-day elimination period. Two years into the policy, Marcus has a stroke on February 1 and is out of work for one month, returning to work the following month on March 1. Then, on June 1 of the same year, Marcus has another stroke that leaves him permanently and totally disabled. Which of the following statements is true?",
+    "options": [
+      "Benefits will begin on June 1 and pay for 2 years.",
+      "Benefits will begin on June 1 and pay for 5 years.",
+      "Benefits will begin on June 1 and pay for 2 years.",
+      "Benefits will begin on July 1 and pay for 2 years."
+    ],
+    "answer": "Benefits will begin on June 1 and pay for 5 years.",
+    "topic": "Recurrent Disability",
+    "explanation": "The second, permanent disability is treated as a continuation (recurrent), so benefits begin June 1 and pay the full 5-year benefit period."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-own-vs-any-occupation",
+    "question": "Which type of total disability insurance policy is more favorable to the insured: own occupation or any occupation?",
+    "options": [
+      "Own occupation",
+      "Any occupation",
+      "Own occupation policies and any occupation policies are the same in terms of benefits to the insured.",
+      "There is not enough information to make a determination."
+    ],
+    "answer": "Own occupation",
+    "topic": "Own vs Any Occupation",
+    "explanation": "An 'own occupation' definition is more favorable to the insured — it pays if they can't perform their own job."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-capital-sum",
+    "question": "Ginny has a $50,000 accidental death and dismemberment policy. She received a $15,000 cash benefit her for the accidental loss of one eye. The $15,000 benefit could be identified as the policy's ______.",
+    "options": [
+      "principal sum",
+      "secondary sum",
+      "capital sum",
+      "contingent amount"
+    ],
+    "answer": "capital sum",
+    "topic": "Capital Sum",
+    "explanation": "The amount paid for accidental loss of one eye is the capital sum."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-special-risk",
+    "question": "Which of the following are examples of those covered under a special risk plan? I - An acclaimed ballerina’s legs II - Dread diseases III - Alicia Keys hands IV - Airplane passengers",
+    "options": [
+      "I and III",
+      "II",
+      "I and IV",
+      "III and IV"
+    ],
+    "answer": "I and III",
+    "topic": "Special Risk",
+    "explanation": "Insuring a performer's specific body parts (a ballerina's legs, Alicia Keys' hands) is special-risk coverage."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-special-risk",
+    "question": "Which of the following policies would cover a student pilot taking flying lessons?",
+    "options": [
+      "Limited risk",
+      "Special risk",
+      "Dread disease",
+      "Long-term care"
+    ],
+    "answer": "Special risk",
+    "topic": "Special Risk",
+    "explanation": "A student pilot taking flying lessons would be covered by a special risk policy."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-special-risk",
+    "question": "Which of the following is/are examples of those covered under a special risk plan? I - Elton John's hands II - dread diseases III - a test pilot IV - airplane passengers",
+    "options": [
+      "I & III",
+      "II",
+      "I and IV",
+      "III and IV"
+    ],
+    "answer": "I & III",
+    "topic": "Special Risk",
+    "explanation": "Special risk covers unusual exposures like Elton John's hands (I) and a test pilot (III)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-ad-d-schedule",
+    "question": "Spencer has an AD&D policy that has $25,000 for the principal sum and $10,000 for the loss of a hand or foot. He gets into an accident and loses a finger. How much will his policy pay?",
+    "options": [
+      "$25,000",
+      "$10,000",
+      "Nothing",
+      "$35,000"
+    ],
+    "answer": "Nothing",
+    "topic": "AD&D Schedule",
+    "explanation": "Losing a finger is not a scheduled loss (hand/foot), so the AD&D policy pays nothing."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-accidental-results",
+    "question": "If John has an AD&D policy, which plan will pay if he jumps off a ladder and severely injures his leg that it must be amputated?",
+    "options": [
+      "Accidental results",
+      "Accidental means",
+      "Accidental measures",
+      "Accidental restitution"
+    ],
+    "answer": "Accidental results",
+    "topic": "Accidental Results",
+    "explanation": "Under an 'accidental results' definition, an unexpected result is covered even when the act (jumping) was intentional."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-ad-d-rider",
+    "question": "The circumstances under which an AD&D policy benefits are paid are somewhat limited. It is widely used but is sometimes attached as a ______ on a basic life or health policy and in group insurance plans.",
+    "options": [
+      "renewability provision",
+      "rider",
+      "golden ticket",
+      "special risk"
+    ],
+    "answer": "rider",
+    "topic": "AD&D Rider",
+    "explanation": "AD&D is often attached as a rider to a basic life or health policy."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-special-risk",
+    "question": "Which of the following policies would cover an accidental death or injury while riding in a car?",
+    "options": [
+      "Limited risk",
+      "Special risk",
+      "Dread disease",
+      "Long-term care"
+    ],
+    "answer": "Special risk",
+    "topic": "Special Risk",
+    "explanation": "Accidental death or injury while riding in a car is covered by a special risk policy."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-limited-risk",
+    "question": "A limited risk policy covers ______.",
+    "options": [
+      "risks not covered by accident and health policies",
+      "specific risks",
+      "all risks",
+      "unusual types of risks"
+    ],
+    "answer": "specific risks",
+    "topic": "Limited Risk",
+    "explanation": "A limited risk policy covers specific named risks."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-capital-sum",
+    "question": "The capital sum in an accidental death and dismemberment policy will pay for which of the following? I - loss of hands above the wrist II - loss of 3/4 of the foot III - loss of an eye IV - all fingers (including the thumbs) on both hands",
+    "options": [
+      "II and IV",
+      "I, II, and III",
+      "I and III",
+      "I, II, III, and IV"
+    ],
+    "answer": "I and III",
+    "topic": "Capital Sum",
+    "explanation": "The capital sum pays for loss of a hand above the wrist (I) and loss of an eye (III); partial-foot and finger losses don't qualify."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-coverage",
+    "question": "Medicare Part A & Part B do not cover which of the following?",
+    "options": [
+      "Rental of durable medical equipment",
+      "Home health aides",
+      "Ambulance",
+      "Routine physical exams"
+    ],
+    "answer": "Routine physical exams",
+    "topic": "Medicare Coverage",
+    "explanation": "Medicare Parts A and B do not cover routine physical exams."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-coverage",
+    "question": "Which of the following medical services is NOT covered under Medicare Part A and Part B?",
+    "options": [
+      "Private Duty Nursing",
+      "Private hospital rooms",
+      "custodial care received at home",
+      "All of these services are not covered"
+    ],
+    "answer": "All of these services are not covered",
+    "topic": "Medicare Coverage",
+    "explanation": "Private duty nursing, private rooms, and at-home custodial care are all NOT covered by Medicare A and B."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-part-b",
+    "question": "Under Medicare Part B, which of the following do participants NOT have to pay?",
+    "options": [
+      "An annual deductible",
+      "A per benefit deductible",
+      "20% of covered charges above the deductible",
+      "A monthly premium"
+    ],
+    "answer": "A per benefit deductible",
+    "topic": "Medicare Part B",
+    "explanation": "Part B has no per-benefit (per-benefit-period) deductible — that's a Part A feature. It has an annual deductible, 20% coinsurance, and a monthly premium."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-part-b",
+    "question": "Which of the statements below about Medicare Part B is/are true? I. There is an annual deductible. ll. The insured is required to pay 20% after the deductible is met.",
+    "options": [
+      "I only",
+      "II only",
+      "I and II",
+      "Neither I nor II"
+    ],
+    "answer": "I and II",
+    "topic": "Medicare Part B",
+    "explanation": "Both are true: Part B has an annual deductible and the insured pays 20% after it is met."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare",
+    "question": "Which of the following statements concerning Medicare is true?",
+    "options": [
+      "Part B Voluntary",
+      "Part A is compulsory",
+      "Part A is paid for out of FICA taxes",
+      "All of these statements are true"
+    ],
+    "answer": "All of these statements are true",
+    "topic": "Medicare",
+    "explanation": "All true: Part B is voluntary, Part A is compulsory, and Part A is funded by FICA payroll taxes."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-part-a",
+    "question": "Which of the following is NOT covered under Medicare Part A?",
+    "options": [
+      "Post-hospital skilled nursing care",
+      "Hospice care",
+      "Post-hospital home services",
+      "Ambulance services"
+    ],
+    "answer": "Ambulance services",
+    "topic": "Medicare Part A",
+    "explanation": "Ambulance services fall under Part B, not Part A."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-eligibility",
+    "question": "Which of the following groups is NOT eligible for Medicare coverage?",
+    "options": [
+      "People aged 65 and older eligible for Social Security",
+      "People aged 65 and older not eligible for Social Security but willing to pay a monthly premium",
+      "People of any age who have been entitled to Social Security disability benefits",
+      "People with any life-threatening condition"
+    ],
+    "answer": "People with any life-threatening condition",
+    "topic": "Medicare Eligibility",
+    "explanation": "'Any life-threatening condition' is not a Medicare eligibility category."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-part-a",
+    "question": "What service is NOT covered under Part A of Medicare?",
+    "options": [
+      "Physician office visit",
+      "Hospital stay",
+      "Nursing facility care",
+      "Medical supplies"
+    ],
+    "answer": "Physician office visit",
+    "topic": "Medicare Part A",
+    "explanation": "A physician office visit is covered under Part B, not Part A."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-premiums",
+    "question": "Which part of Medicare requires most of the eligible participants to make premium payments?",
+    "options": [
+      "Part A, basic hospital insurance",
+      "Part B, supplementary medical insurance",
+      "Respite care",
+      "All require a premium"
+    ],
+    "answer": "Part B, supplementary medical insurance",
+    "topic": "Medicare Premiums",
+    "explanation": "Part B requires most participants to pay a monthly premium; Part A is premium-free for most."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medicare-reserve-days",
+    "question": "The lifetime reserve for Medicare is ______ days. If a patient is hospitalized beyond the ______ lifetime reserve day, thereby exhausting the reserve, he/she is responsible for ______?",
+    "options": [
+      "30 days, 30th, a portion of the hospital charges",
+      "60 days, 60th, all hospital charges",
+      "90 days, 90th, none of the hospital charges",
+      "120 days, 120th, 20% of the hospital charges"
+    ],
+    "answer": "60 days, 60th, all hospital charges",
+    "topic": "Medicare Reserve Days",
+    "explanation": "Medicare provides 60 lifetime reserve days; beyond the 60th the patient pays all hospital charges."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-premium-factors",
+    "question": "Which of the following factors is NOT considered one of the three primary premiums factors to health insurance?",
+    "options": [
+      "Interest",
+      "Morality",
+      "Morbidity",
+      "Expenses"
+    ],
+    "answer": "Morality",
+    "topic": "Premium Factors",
+    "explanation": "For health insurance the three primary factors are morbidity, interest, and expenses — 'mortality (morality)' is a life-insurance factor."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-premium-factors",
+    "question": "Which factor below is NOT common to both life and health insurance?",
+    "options": [
+      "Interest",
+      "Expense",
+      "Morbidity",
+      "Amount of Protection"
+    ],
+    "answer": "Morbidity",
+    "topic": "Premium Factors",
+    "explanation": "Morbidity is unique to health insurance; interest, expense, and amount of protection are common to both life and health."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-underwriting",
+    "question": "Which of the following factors is a primary risk factor in underwriting individual health insurance policies?",
+    "options": [
+      "Geographical location",
+      "Salary requirements",
+      "Zip code of the insured",
+      "Physical condition"
+    ],
+    "answer": "Physical condition",
+    "topic": "Underwriting",
+    "explanation": "Physical condition is a primary risk factor in individual health underwriting."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-moral-hazard",
+    "question": "What is NOT considered a moral hazard?",
+    "options": [
+      "Habits or lifestyle",
+      "Accident-prone individuals",
+      "Overweight individuals",
+      "Marital Status"
+    ],
+    "answer": "Marital Status",
+    "topic": "Moral Hazard",
+    "explanation": "Marital status is not a moral hazard. Risky habits/lifestyle, accident-proneness, and being overweight relate to moral/morale hazards."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-respite-care",
+    "question": "Which of the following is designed to provide a short rest period for a family care giver?",
+    "options": [
+      "Continuing care",
+      "Respite care",
+      "Custodial care",
+      "Intermediate care"
+    ],
+    "answer": "Respite care",
+    "topic": "Respite Care",
+    "explanation": "Respite care provides a short rest period for a family caregiver."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-chronic-illness",
+    "question": "All are examples of chronic illnesses except ______.",
+    "options": [
+      "pneumonia",
+      "arthritis",
+      "heart disease",
+      "hypertension"
+    ],
+    "answer": "pneumonia",
+    "topic": "Chronic Illness",
+    "explanation": "Pneumonia is an acute illness, not chronic. Arthritis, heart disease, and hypertension are chronic."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-medigap",
+    "question": "All of the following are true regarding Medicare supplement or Medigap policies except:",
+    "options": [
+      "Medicare supplements are sold by private insurance companies.",
+      "Medicare supplements are the same as Medigap policies.",
+      "Medicare supplements pay costs for Part C & Part D.",
+      "It's best to have a Medicare Advantage plan and a Medigap plan combined for more benefits."
+    ],
+    "answer": "It's best to have a Medicare Advantage plan and a Medigap plan combined for more benefits.",
+    "topic": "Medigap",
+    "explanation": "EXCEPT: you cannot combine a Medicare Advantage plan with a Medigap policy — Medigap supplements Original Medicare only."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-long-term-care",
+    "question": "Which statement regarding long-term care insurance policies is NOT correct?",
+    "options": [
+      "Maximum coverage periods typically extend from two to six years.",
+      "All long-term care policies currently sold must be guaranteed renewable.",
+      "Long-term care policies with long probationary periods have lower premiums than those with shorter probationary periods.",
+      "Long-term care policy premiums are solely based on the insured's age, health, and the type of benefit provided."
+    ],
+    "answer": "Long-term care policy premiums are solely based on the insured's age, health, and the type of benefit provided.",
+    "topic": "Long-Term Care",
+    "explanation": "NOT correct: LTC premiums are not based 'solely' on age, health, and benefit type — factors like the elimination period and inflation protection also matter."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-risk-factors",
+    "question": "Which of the following is NOT considered a primary risk factor in health insurance?",
+    "options": [
+      "Treatment for chronic conditions",
+      "Excessive drinking",
+      "Mortality statistics",
+      "Occupation involving heavy equipment"
+    ],
+    "answer": "Mortality statistics",
+    "topic": "Risk Factors",
+    "explanation": "Mortality statistics are a life-insurance factor; health insurance uses morbidity."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-chronic-illness",
+    "question": "All the following are true concerning chronic illnesses except:",
+    "options": [
+      "Most people ignore chronic conditions and the pain they cause",
+      "A chronic condition frequently goes beyond being a nuisance and begins to inhibit a person's independence",
+      "Chronic conditions are can affect other parts of the body",
+      "Chronic conditions allow the body to fully recover and can be managed"
+    ],
+    "answer": "Chronic conditions allow the body to fully recover and can be managed",
+    "topic": "Chronic Illness",
+    "explanation": "EXCEPT: chronic conditions do not allow full recovery — they are managed, not cured."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-renewability",
+    "question": "The more favorable the renewability provision is to the insured policyholder, the ______.",
+    "options": [
+      "premium is guaranteed",
+      "lower the premium",
+      "premium remains unchanged",
+      "higher the premium"
+    ],
+    "answer": "higher the premium",
+    "topic": "Renewability",
+    "explanation": "The more favorable the renewability (e.g., noncancellable), the higher the premium."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-free-look",
+    "question": "Which of the following accurately describes the free look provision?",
+    "options": [
+      "It allows the proposed insured to look over a policy carefully before applying for it.",
+      "It allows the proposed insured to look over the application carefully before completing it.",
+      "It allows the insured to look over the issued policy for a specific number of days and return it for a premium refund if desired.",
+      "It allows the insurance company to obtain an inspection report and medical examination on the proposed insured prior to issuing the policy."
+    ],
+    "answer": "It allows the insured to look over the issued policy for a specific number of days and return it for a premium refund if desired.",
+    "topic": "Free Look",
+    "explanation": "The free-look lets the insured review the issued policy for a set number of days and return it for a full refund."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-misstatement-of-age",
+    "question": "How does the misstatement of the age or sex provision in a health insurance policy protect insurers?",
+    "options": [
+      "It allows the insurer to lapse the policy if the insured's age or sex is misstated on the application.",
+      "It allows the insurer to adjust the benefits to reflect what the premiums would have purchased at the correct age or sex.",
+      "It allows the insured to change their age or sex on the policy at any time.",
+      "It allows the insurer to void the policy if the insured's age or sex is misstated on the application."
+    ],
+    "answer": "It allows the insurer to adjust the benefits to reflect what the premiums would have purchased at the correct age or sex.",
+    "topic": "Misstatement of Age",
+    "explanation": "It lets the insurer adjust benefits to what the premium would have purchased at the correct age or sex."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-uniform-provisions",
+    "question": "The wording of a uniform policy provision in health insurance policies may be changed by a company only if the ______.",
+    "options": [
+      "change is approved by the company's board of directors",
+      "modified provision is not less favorable to the insurer",
+      "applicant directs that it be changed",
+      "modified provision is not less favorable to the insured"
+    ],
+    "answer": "modified provision is not less favorable to the insured",
+    "topic": "Uniform Provisions",
+    "explanation": "A provision's wording may be changed only if the modified version is not less favorable to the insured."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-mandatory-provisions",
+    "question": "Which of the following is a mandatory health insurance provision?",
+    "options": [
+      "Reinstatement",
+      "Time Limit on Certain Defenses",
+      "Notice of Claim",
+      "All answer choices are mandatory health insurance provisions."
+    ],
+    "answer": "All answer choices are mandatory health insurance provisions.",
+    "topic": "Mandatory Provisions",
+    "explanation": "Reinstatement, Time Limit on Certain Defenses, and Notice of Claim are all mandatory provisions."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-conditionally-renewable",
+    "question": "The premiums for a conditionally renewable policy may be increased ______.",
+    "options": [
+      "reinstatement period",
+      "if increase applies to an entire class of policies",
+      "at a specified age 60 or 65",
+      "the renewability period"
+    ],
+    "answer": "if increase applies to an entire class of policies",
+    "topic": "Conditionally Renewable",
+    "explanation": "Premiums on a conditionally renewable policy may be increased only if the increase applies to an entire class of policies."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-change-of-occupation",
+    "question": "Henry was a fire juggler who purchased a $5,000-per-month disability benefit back in his fire juggling days. He was issued a standard policy for which he had been paying premiums for five years. Since the policy was purchased, Henry has completed his education and is now practicing law as a trial attorney. He is attacked by a client which resulted in the loss his hand, he submits a claim. Which course of action would the company most likely follow?",
+    "options": [
+      "The company would pay Henry $5,000 per month.",
+      "The company would pay a higher benefit to reflect what the premium would have paid at an attorney's occupational classification.",
+      "The company would pay Henry $5,000 and refund any higher premium cost incurred since he became an attorney.",
+      "The company would deny the claim."
+    ],
+    "answer": "The company would pay Henry $5,000 per month.",
+    "topic": "Change of Occupation",
+    "explanation": "Henry moved to a LESS hazardous occupation (attorney), so benefits aren't reduced — the company pays the contracted $5,000 per month."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-optional-provisions",
+    "question": "Optional Provisions I and 2, addressing changes of occupation and misstatement of age, permit the insurer to do which of the following?",
+    "options": [
+      "They permit the insurer to cancel the policy.",
+      "They allow the insurer to request the insured to fill out a new application, to correct previous misstatements or alter information that has changed since the application was originally submitted.",
+      "They allow the insurer to charge a 'back-end' premium to make up for the premium the insurer would have charged had the true situation been known.",
+      "They permit the insurer to pay indemnities equal to benefits that would have been purchased at the premium paid had the insurer known the facts when the premium was established."
+    ],
+    "answer": "They permit the insurer to pay indemnities equal to benefits that would have been purchased at the premium paid had the insurer known the facts when the premium was established.",
+    "topic": "Optional Provisions",
+    "explanation": "These provisions let the insurer pay indemnities equal to what the premium paid would have purchased had the true facts been known."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-grace-period",
+    "question": "Luke has had a disability income policy for seven years in which the premium is paid semi-annually. He forgot to pay the premium that was due on July 1, 2023. On July 31, 2023, he became totally disabled and notified the insurance company immediately. How will the insurance company respond?",
+    "options": [
+      "The company will pay the full benefit.",
+      "The company will deny the benefit.",
+      "The company will adjust the benefit to reflect the premium amount that was paid to reflect the current age and sex of the insured.",
+      "The company will pay the full benefit less the premium owed."
+    ],
+    "answer": "The company will pay the full benefit less the premium owed.",
+    "topic": "Grace Period",
+    "explanation": "July 31 is within the 31-day grace period for a semiannual policy, so the insurer pays the full benefit less the premium owed."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-free-look",
+    "question": "When an insured returns a policy to the insurance company within the free look period, the insurance company must do which of the following?",
+    "options": [
+      "Refund all premiums paid",
+      "Refund the premiums paid, less issue expense charges",
+      "Refund the premiums paid, less the agent's commissions",
+      "Refund the premiums paid in excess of the cost of coverage for the time the insured had the policy"
+    ],
+    "answer": "Refund all premiums paid",
+    "topic": "Free Look",
+    "explanation": "Returning a policy within the free-look period requires a refund of all premiums paid."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-premiums",
+    "question": "A 35-year-old male computer engineer and his 35-year-old wife, also a computer engineer, apply for disability insurance. Which would pay the higher monthly premium (assuming all things are equal)?",
+    "options": [
+      "The male programmer",
+      "The female programmer",
+      "They would both pay the same",
+      "Not enough info"
+    ],
+    "answer": "The female programmer",
+    "topic": "Disability Premiums",
+    "explanation": "Women have higher morbidity (disability) rates, so the female applicant pays the higher disability premium."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-premiums",
+    "question": "A 25-year-old female computer engineer and her 25-year-old husband, also a computer engineer, apply for disability insurance. Which of them would pay the higher monthly premium (assuming all things are equal)?",
+    "options": [
+      "The male programmer",
+      "The female programmer",
+      "They would both pay the same",
+      "Not enough info"
+    ],
+    "answer": "The female programmer",
+    "topic": "Disability Premiums",
+    "explanation": "Because of higher morbidity, the female applicant pays the higher disability income premium."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-premium-factors",
+    "question": "Which factor would NOT affect a health insurance policy's premium?",
+    "options": [
+      "An insured's age",
+      "An insured's occupation",
+      "The types of benefits provided",
+      "The location of the insured's residence"
+    ],
+    "answer": "The location of the insured's residence",
+    "topic": "Premium Factors",
+    "explanation": "The location of the insured's residence does not affect the health premium; age, occupation, and benefit types do."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-impairment-rider",
+    "question": "Which of the following would exclude certain conditions from coverage under a health insurance policy?",
+    "options": [
+      "Pre-existing conditions",
+      "Impairment rider",
+      "The insuring clause",
+      "The consideration clause"
+    ],
+    "answer": "Impairment rider",
+    "topic": "Impairment Rider",
+    "explanation": "An impairment rider excludes specified conditions from coverage."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-underwriting",
+    "question": "It is likely that ______ would NOT be considered in underwriting a health insurance risk.",
+    "options": [
+      "personal habits",
+      "credit rating",
+      "medical history",
+      "marital status"
+    ],
+    "answer": "credit rating",
+    "topic": "Underwriting",
+    "explanation": "A credit rating is generally not used in underwriting a health insurance risk; habits, medical history, and (sometimes) marital status are."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-impairment-rider",
+    "question": "Which options would result in certain conditions being ineligible for coverage in a health insurance policy?",
+    "options": [
+      "Pre-existing conditions",
+      "Impairment rider",
+      "The insuring clause",
+      "The consideration clause"
+    ],
+    "answer": "Impairment rider",
+    "topic": "Impairment Rider",
+    "explanation": "An impairment rider makes specified conditions ineligible for coverage."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-underwriting",
+    "question": "Which of the following statements regarding health insurance underwriting is correct?",
+    "options": [
+      "Limited risk policies are usually issued at standard rates for all occupations",
+      "The \"change of occupation\" provision does not apply to disability policies",
+      "Men show a lower rate of disability than women",
+      "All the above are true"
+    ],
+    "answer": "Men show a lower rate of disability than women",
+    "topic": "Underwriting",
+    "explanation": "TRUE: men show a lower rate of disability than women."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-morbidity-table",
+    "question": "A(An) _____ table would show the average number of disabilities due to sickness or accidents for people in specific age groups.",
+    "options": [
+      "mortality",
+      "morbidity",
+      "morbid",
+      "underwriting"
+    ],
+    "answer": "morbidity",
+    "topic": "Morbidity Table",
+    "explanation": "A morbidity table shows the average number of disabilities by age group."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-managed-care",
+    "question": "The purpose of a managed care organization is to __________.",
+    "options": [
+      "contain rising health care costs",
+      "provide referrals for other providers",
+      "promote the HMO and PPO programs",
+      "eliminate referrals to other providers"
+    ],
+    "answer": "contain rising health care costs",
+    "topic": "Managed Care",
+    "explanation": "The purpose of a managed care organization is to contain rising health care costs."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-risk-factors",
+    "question": "There are other risk factors used to underwrite health insurance contracts. Which one is not a risk factor?",
+    "options": [
+      "Age",
+      "Salary",
+      "Avocations",
+      "Sex"
+    ],
+    "answer": "Salary",
+    "topic": "Risk Factors",
+    "explanation": "Salary is not a health-underwriting risk factor; age, avocations, and sex are."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-taxation",
+    "question": "Sally pays a premium of $50 per month for her company's noncontributory group disability income plan. If became disabled and received $1,000 a month in benefits, how much, if any, would be considered taxable income?",
+    "options": [
+      "$0",
+      "$50",
+      "$950",
+      "$1,000"
+    ],
+    "answer": "$1,000",
+    "topic": "Disability Taxation",
+    "explanation": "Under a noncontributory plan the employer pays all premiums, so the entire $1,000 monthly benefit is taxable income."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-taxation",
+    "question": "When individual disability benefits are paid directly to the individual who has paid the premium, a question of taxation arises. Which would be the most appropriate response?",
+    "options": [
+      "The premium was tax deductible, the benefit will be considered as taxable income.",
+      "An exclusion ratio is used to determine the amount of benefit considered taxable.",
+      "The premium was tax deductible, therefore the benefit will be considered tax-free.",
+      "The premium was not tax deductible, and the benefit is tax free."
+    ],
+    "answer": "The premium was not tax deductible, and the benefit is tax free.",
+    "topic": "Disability Taxation",
+    "explanation": "Individual disability premiums are not tax-deductible, so the benefits are received tax-free."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-cobra",
+    "question": "How long are employers required to continue benefits for terminated employees?",
+    "options": [
+      "12 months",
+      "15 months",
+      "18 months",
+      "24 months"
+    ],
+    "answer": "18 months",
+    "topic": "COBRA",
+    "explanation": "Under COBRA, terminated employees may continue coverage for 18 months."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-blanket-insurance",
+    "question": "The CEO of a cruise ship line would like to purchase group health coverage for the cruise ship passengers. What kind of insurance would the CEO need to purchase?",
+    "options": [
+      "Franchise health insurance",
+      "Wholesale health insurance",
+      "Blanket health insurance",
+      "Credit health insurance"
+    ],
+    "answer": "Blanket health insurance",
+    "topic": "Blanket Insurance",
+    "explanation": "Covering cruise-ship passengers (a transient group) requires blanket health insurance."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-group-disability",
+    "question": "Which method is usually used to determine the amount of benefits payable under a group disability income plan?",
+    "options": [
+      "Flat amount method",
+      "Percent of earnings method",
+      "Percent of disability method",
+      "Presumptive disability method"
+    ],
+    "answer": "Percent of earnings method",
+    "topic": "Group Disability",
+    "explanation": "Group disability income benefits are usually determined by the percent-of-earnings method."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-credit-disability",
+    "question": "Maggie has an automobile loan, and she purchased group credit, accident, and health insurance coverage. Following an accident, she was disabled for seven months. What benefits were paid under the policy?",
+    "options": [
+      "Monthly income benefits to the insured",
+      "A total equal to 7 months of loan payments to the creditor",
+      "A total equal to one year of loan payments to the insured's creditor",
+      "Monthly income benefits to the insured and a total equal to 7 months of loan payments to the insured's creditor"
+    ],
+    "answer": "A total equal to 7 months of loan payments to the creditor",
+    "topic": "Credit Disability",
+    "explanation": "Credit disability pays the creditor the loan payments during disability — here, 7 months of payments to the creditor."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-cobra",
+    "question": "Participants in group medical expense plans are protected by a __________ law that guarantees a ___________ of their group coverage if their employment is terminated for reasons other than gross misconduct.",
+    "options": [
+      "State law/continuation",
+      "Federal law/continuation",
+      "State law/portion",
+      "Federal law/portion"
+    ],
+    "answer": "Federal law/continuation",
+    "topic": "COBRA",
+    "explanation": "COBRA is a federal law guaranteeing continuation of group coverage after termination for reasons other than gross misconduct."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-cobra",
+    "question": "How long are employers required to continue benefits for dependents if an employee dies?",
+    "options": [
+      "12 months",
+      "24 months",
+      "29 months",
+      "36 months"
+    ],
+    "answer": "36 months",
+    "topic": "COBRA",
+    "explanation": "On the employee's death, dependents may continue coverage for 36 months under COBRA."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-conversion-privilege",
+    "question": "_______ group health coverage usually does NOT contain a conversion privilege.",
+    "options": [
+      "Basic medical expense",
+      "Comprehensive medical expense",
+      "Disability income",
+      "Accidental death and dismemberment"
+    ],
+    "answer": "Disability income",
+    "topic": "Conversion Privilege",
+    "explanation": "Group disability income coverage usually does NOT include a conversion privilege (medical expense plans do)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-credit-insurance",
+    "question": "Who is the beneficiary on a credit accident and health plan?",
+    "options": [
+      "The insured",
+      "Anyone one the insured names",
+      "The lender or creditor",
+      "The borrower"
+    ],
+    "answer": "The lender or creditor",
+    "topic": "Credit Insurance",
+    "explanation": "On a credit accident and health plan, the lender/creditor is the beneficiary."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-premium-cost-control",
+    "question": "Which of the following is NOT a method for keeping health insurance policy premium costs to a minimum?",
+    "options": [
+      "Modifying benefit amounts",
+      "Increasing the deductible",
+      "Waiving the right to receive benefit payments when due",
+      "Extending the elimination"
+    ],
+    "answer": "Waiving the right to receive benefit payments when due",
+    "topic": "Premium Cost Control",
+    "explanation": "Waiving the right to receive benefits is not a premium-reduction method; modifying benefits, raising deductibles, and extending the elimination period are."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-cafeteria-plan",
+    "question": "Which is a benefit arrangement in which employees can pick and choose from a menu of benefits to tailor their benefit package to their needs:",
+    "options": [
+      "Disability income policies",
+      "Cafeteria Plan",
+      "Disability Buyout Plan",
+      "Business Overhead Expense Plan"
+    ],
+    "answer": "Cafeteria Plan",
+    "topic": "Cafeteria Plan",
+    "explanation": "A benefit menu employees choose from is a cafeteria plan."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-section-125",
+    "question": "What is another name for a Section 125 plan?",
+    "options": [
+      "Business overhead expense insurance",
+      "Disability buy out",
+      "A cafeteria plan",
+      "Key person disability"
+    ],
+    "answer": "A cafeteria plan",
+    "topic": "Section 125",
+    "explanation": "A Section 125 plan is also called a cafeteria plan."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-business-continuation",
+    "question": "A Business Continuation plan may include all of the following except:",
+    "options": [
+      "Life insurance",
+      "Group insurance",
+      "Credit insurance",
+      "Disability insurance"
+    ],
+    "answer": "Credit insurance",
+    "topic": "Business Continuation",
+    "explanation": "A business continuation (buy-sell) plan uses life, disability, and group insurance — not credit insurance."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-cost-sharing-math",
+    "question": "An individual major medical plan with a $1,000 individual deductible is going to cost _______ than a comparable plan with a $5,000 individual deductible; and a plan with an 80/20 coinsurance provision will cost ______ than a comparable plan with a 75/25 coinsurance provision.",
+    "options": [
+      "more/more",
+      "less/less",
+      "less/more",
+      "more/less"
+    ],
+    "answer": "more/more",
+    "topic": "Cost Sharing Math",
+    "explanation": "A lower ($1,000) deductible costs more than a higher one, and 80/20 costs more than 75/25 — so more/more."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-group-vs-individual",
+    "question": "What is the difference between a group medical expense policy and an individual policy?",
+    "options": [
+      "The group plan requires significantly more out of pocket costs",
+      "All group plans are noncontributory",
+      "The group plan is significantly less out of pocket costs",
+      "All group plans are contributory"
+    ],
+    "answer": "The group plan is significantly less out of pocket costs",
+    "topic": "Group vs Individual",
+    "explanation": "A group plan generally means significantly lower out-of-pocket costs than an individual plan."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-income",
+    "question": "Mr. Jansen falls off a ladder at his boss’ house. Which of the following plans could pay for his injuries?",
+    "options": [
+      "Key person disability insurance",
+      "Business Overhead Expense insurance",
+      "Disability buyout plan",
+      "Disability income"
+    ],
+    "answer": "Disability income",
+    "topic": "Disability Income",
+    "explanation": "To cover Mr. Jansen's own lost income from injury, disability income insurance applies."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-section-125",
+    "question": "Bonnie works for HSON Company, which offers several health insurance options. Bonnie chooses a disability policy and a long-term care policy from the list of options. This is characterized by what type of employee benefit plan?",
+    "options": [
+      "An overhead policy",
+      "Section 125 plan",
+      "Ancillary policies",
+      "A continuation plan"
+    ],
+    "answer": "Section 125 plan",
+    "topic": "Section 125",
+    "explanation": "Choosing benefits (disability + LTC) from a list of options characterizes a Section 125 (cafeteria) plan."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-buy-sell",
+    "question": "Which of the following plans contains a provision allowing for a lump sum payment of the benefit?",
+    "options": [
+      "Individual disability income policies",
+      "Disability buy-sell agreements",
+      "Key person disability insurance",
+      "A group disability policy"
+    ],
+    "answer": "Disability buy-sell agreements",
+    "topic": "Disability Buy-Sell",
+    "explanation": "Disability buy-sell agreements can provide a lump-sum benefit to fund the purchase of a disabled owner's interest."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-disability-buy-out",
+    "question": "Disability Buy-Out plans feature",
+    "options": [
+      "Long elimination plans up to two years",
+      "Short elimination periods",
+      "Short elimination periods and benefits up to 10 years",
+      "Long elimination periods and benefits up to 10 years"
+    ],
+    "answer": "Long elimination plans up to two years",
+    "topic": "Disability Buy-Out",
+    "explanation": "Disability buy-out plans feature long elimination periods (up to about two years) to confirm permanent disability."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-financial-services-commission",
+    "question": "Who comprises the Financial Services Commission?",
+    "options": [
+      "The Governor, CFO, Attorney General, & the Insurance Commissioner",
+      "The Governor, CFO, Attorney General, & the Agriculture Commissioner",
+      "The Governor, CFO, Insurance Commissioner, & the Agriculture Commissioner",
+      "The Governor, CFO, Insurance Commissioner, & the Speaker of the House"
+    ],
+    "answer": "The Governor, CFO, Attorney General, & the Agriculture Commissioner",
+    "topic": "Financial Services Commission",
+    "explanation": "The Financial Services Commission is the Governor, CFO, Attorney General, and Commissioner of Agriculture."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-insurance-license",
+    "question": "What is the purpose of the insurance license?",
+    "options": [
+      "TO have someone to blame when things go wrong",
+      "To help protect the general public by announcing which insurance agents commit poor business practices through public service announcements",
+      "TO help protect the general public by requiring a minimum level of insurance knowledge and competence",
+      "To help the government track the whereabouts of those conducting insurance activities"
+    ],
+    "answer": "TO help protect the general public by requiring a minimum level of insurance knowledge and competence",
+    "topic": "Insurance License",
+    "explanation": "A license protects the public by requiring a minimum level of insurance knowledge and competence."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-unfair-discrimination",
+    "question": "A company that charges different premiums for people in the same actuarial class could be found guilty of _____.",
+    "options": [
+      "twisting",
+      "unfair discrimination",
+      "segregation",
+      "unfair trade practices"
+    ],
+    "answer": "unfair discrimination",
+    "topic": "Unfair Discrimination",
+    "explanation": "Charging different premiums within the same actuarial class is unfair discrimination."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-continuing-education",
+    "question": "A licensee is required to complete 24 hours of continuing education if they have been licensed for less than 6 years. How many of those hours are required for ethics and law?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "5",
+    "topic": "Continuing Education",
+    "explanation": "Of the 24 CE hours, 5 hours must cover law and ethics (the law & ethics update)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-controlled-business",
+    "question": "An agent may write controlled business provided she writes at least what percentage of other similar business?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": "50%",
+    "topic": "Controlled Business",
+    "explanation": "Controlled business may not exceed other business, so the agent must write at least 50% other (non-controlled) business."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-defamation",
+    "question": "Which of the following is not a condition of defamation?",
+    "options": [
+      "It may be derogatory.",
+      "It is not meant to be maliciously critical.",
+      "It can be written (libel).",
+      "It can be spoken (slander)."
+    ],
+    "answer": "It is not meant to be maliciously critical.",
+    "topic": "Defamation",
+    "explanation": "NOT a condition of defamation: 'not meant to be maliciously critical' — defamation IS malicious and injurious."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-agent-duties",
+    "question": "Which statement(s) is/are true? I – Record retention requirements for agents is five years II - No person other than a licensed and appointed agent may accept any commission or other valuable compensation for soliciting and negotiating insurance. III – A fiduciary is a person in a position of special trust and confidence. IV – If a license as an agent has been revoked from soliciting or sale of insurance products to a person over 65 years of age or older, the department may not thereafter grant or issue any insurance license to such individual.",
+    "options": [
+      "I",
+      "I, II, and III",
+      "IV",
+      "I, II, III, and IV"
+    ],
+    "answer": "I, II, and III",
+    "topic": "Agent Duties",
+    "explanation": "I, II, and III are true (5-year record retention, only licensed/appointed agents may accept commissions, fiduciary = position of trust); IV's absolute permanent bar is overstated."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-licensing",
+    "question": "Which statement(s) is/are true? I - Notification to the Department of Insurance is required within 30 days of change of address. II - Notification to the Department of Insurance is required within 30 days of change of company. III - An agent will lose licensure as a result of 1-year non-appointment. IV - An agent will lose licensure as a result of 4 years non-appointment.",
+    "options": [
+      "I",
+      "I, II, and III",
+      "IV",
+      "I and IV"
+    ],
+    "answer": "I and IV",
+    "topic": "Licensing",
+    "explanation": "I and IV are true: notify the Department within 30 days of an address change, and licensure is lost after 48 months (4 years) without appointment."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-agency",
+    "question": "The term agency refers to which of the following?",
+    "options": [
+      "Agent",
+      "Adjuster",
+      "Location",
+      "All of the above"
+    ],
+    "answer": "Location",
+    "topic": "Agency",
+    "explanation": "The term 'agency' refers to the location/business entity through which insurance is transacted."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-licensing",
+    "question": "To be a licensed resident producer in Florida, you must complete all the following tasks EXCEPT _____.",
+    "options": [
+      "provide a criminal background check",
+      "pay a refundable application fee",
+      "finish the pre-licensing education requirements",
+      "provide any other information required by the state"
+    ],
+    "answer": "pay a refundable application fee",
+    "topic": "Licensing",
+    "explanation": "EXCEPT: the application fee is NON-refundable. A background check, pre-licensing education, and required information are needed."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-fl-required-provisions",
+    "question": "Which of the following is NOT a provision that is required by Florida law for group health insurance policies?",
+    "options": [
+      "Group health policies must provide coverage for mental and nervous disorders.",
+      "A newborn infant is covered from the moment of birth.",
+      "Coverage must be provided for a handicapped child who is a family member until he or she reaches the age of 25.",
+      "Group health policies must provide coverage for a newborn infant of a covered family member until the infant reaches 18 months of age."
+    ],
+    "answer": "Coverage must be provided for a handicapped child who is a family member until he or she reaches the age of 25.",
+    "topic": "FL Required Provisions",
+    "explanation": "NOT required: the 'handicapped child until age 25' statement — disabled-dependent coverage continues without that age cutoff."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hiv-aids-rules",
+    "question": "Which of the following statements is true?",
+    "options": [
+      "An insurer may not cancel or not renew for diagnosis of HIV/AIDS, but it may cancel or not renew for treatment of HIV/AIDS.",
+      "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+      "An insurer may cancel or not renew for diagnosis or treatment of HIV/AIDS.",
+      "An insurer may not cancel or not renew for diagnosis or treatment of HIV/AIDS."
+    ],
+    "answer": "An insurer may not cancel or not renew for diagnosis or treatment of HIV/AIDS.",
+    "topic": "HIV/AIDS Rules",
+    "explanation": "TRUE: an insurer may not cancel or non-renew for diagnosis OR treatment of HIV/AIDS."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hiv-testing-duties",
+    "question": "Which of the following is not correct concerning the insurer's obligation to the applicant regarding HIV testing?",
+    "options": [
+      "The insurer must disclose its intent to test a person for HIV prior to testing for HIV/AIDS.",
+      "The insurer must get the person's written consent to administer the test.",
+      "The insurer must notify the insured of any positive results.",
+      "The insurer may inquire whether a person has been tested positive for exposure to the HIV infection."
+    ],
+    "answer": "The insurer may inquire whether a person has been tested positive for exposure to the HIV infection.",
+    "topic": "HIV Testing Duties",
+    "explanation": "NOT correct: an insurer may not simply inquire whether someone previously tested positive for HIV."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-limitations-exclusions",
+    "question": "Which of the following is NOT correct concerning policy limitations and exclusions?",
+    "options": [
+      "Pre-existing conditions or diseases are acceptable",
+      "Alcoholism and drug addiction are acceptable",
+      "The insurer can exclude Alzheimer's disease",
+      "Participation in a felony, riot or insurrection"
+    ],
+    "answer": "The insurer can exclude Alzheimer's disease",
+    "topic": "Limitations & Exclusions",
+    "explanation": "NOT correct: insurers may not exclude Alzheimer's disease."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-required-provisions",
+    "question": "Which of the following statements regarding the required provisions of a health insurance policy is NOT accurate?",
+    "options": [
+      "Annual pay policies have a grace period of 31 days.",
+      "An entire contract clause indicates that the policy endorsement and attachments constitute the entire contract.",
+      "Reinstated policies provide immediate coverage for illnesses.",
+      "Claim forms are required to be sent to the insured within 15 days of notice of claim."
+    ],
+    "answer": "Reinstated policies provide immediate coverage for illnesses.",
+    "topic": "Required Provisions",
+    "explanation": "NOT accurate: a reinstated policy covers sickness only after 10 days (accidents are immediate)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-group-health-coverage",
+    "question": "Which statement about group health insurance policies is CORRECT?",
+    "options": [
+      "Coverage from an occupational accident cannot be excluded.",
+      "Coverage for newborn children can be excluded.",
+      "Coverage for VA hospital treatment cannot be excluded.",
+      "Coverage for handicapped children may be provided."
+    ],
+    "answer": "Coverage for handicapped children may be provided.",
+    "topic": "Group Health Coverage",
+    "explanation": "CORRECT: coverage for handicapped children may be provided."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hiv-consent-form",
+    "question": "The HIV/AIDS written consent form must include all of the following information except ___________.",
+    "options": [
+      "meaning of its results",
+      "its purpose",
+      "potential uses",
+      "sexual orientation"
+    ],
+    "answer": "sexual orientation",
+    "topic": "HIV Consent Form",
+    "explanation": "EXCEPT: the HIV/AIDS written consent form may not include sexual orientation."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hiv-testing",
+    "question": "Prior to testing for HIV/AIDS all of the following should happen except ___________.",
+    "options": [
+      "Disclose its intent to test the person for HIV",
+      "Must obtain the written informed consent to administer the test",
+      "Using sexual orientation to assist in underwriting",
+      "If applicant is positive have the results given by a physician or the Dept. of Health"
+    ],
+    "answer": "Using sexual orientation to assist in underwriting",
+    "topic": "HIV Testing",
+    "explanation": "EXCEPT: using sexual orientation in underwriting is prohibited."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hiv-aids-rules",
+    "question": "Which of the following statements is NOT true?",
+    "options": [
+      "The agent is responsible for completing the application.",
+      "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+      "A long-term are policy can have an elimination period for up to 180 days",
+      "An applicant shall be notified of a positive test result of HIV/AIDS by the agent withint 10 days."
+    ],
+    "answer": "An insurer may cancel or not renew for diagnosis of HIV/AIDS but may not cancel or not renew for treatment of HIV/AIDS.",
+    "topic": "HIV/AIDS Rules",
+    "explanation": "NOT true: insurers may not cancel/non-renew for diagnosis OR treatment of HIV/AIDS, so this statement is false."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-blanket-insurance",
+    "question": "Which of the following would a blanket policy NOT cover?",
+    "options": [
+      "A group of engineers",
+      "Individuals on a cruise ship",
+      "Individuals in an employer group policy with less than 15 people",
+      "An airline covering its passengers"
+    ],
+    "answer": "Individuals in an employer group policy with less than 15 people",
+    "topic": "Blanket Insurance",
+    "explanation": "A blanket policy would not cover an ordinary small employer group; blanket covers transient groups like cruise or airline passengers."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hmo-open-enrollment",
+    "question": "The law requires that each HMO that offers a group plan within Florida must have an open enrollment period of not less than ________ days during every _______ months.",
+    "options": [
+      "10 & 1",
+      "15 & 24",
+      "30 & 18",
+      "45 & 6"
+    ],
+    "answer": "30 & 18",
+    "topic": "HMO Open Enrollment",
+    "explanation": "An HMO group plan must have an open enrollment period of at least 30 days every 18 months."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-health-service-orgs",
+    "question": "Which of the following statement about health service organizations is true?",
+    "options": [
+      "They provide loss of income benefits to policyowners",
+      "They provide benefit payments directly to the hospitals and physicians providing service",
+      "They reimburse policy owners directly for physicians fees",
+      "They reimburse policy owners directly for all medical expenses"
+    ],
+    "answer": "They provide benefit payments directly to the hospitals and physicians providing service",
+    "topic": "Health Service Orgs",
+    "explanation": "Health service organizations pay benefits directly to the hospitals and physicians providing service."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hmo-unfair-practices",
+    "question": "Choose the term that is NOT considered an unfair trade practice with regard to HMOs.",
+    "options": [
+      "Defamation",
+      "Misrepresentation",
+      "Conversion",
+      "Twisting"
+    ],
+    "answer": "Conversion",
+    "topic": "HMO Unfair Practices",
+    "explanation": "Conversion is NOT an HMO unfair trade practice; defamation, misrepresentation, and twisting are."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-copayment",
+    "question": "What does the term copayment mean?",
+    "options": [
+      "The set amount per visit or per service that the subscriber is required to pay",
+      "The amount the HMO reimburses to the subscriber if he or she visits a physician outside the service area",
+      "The amount the HMO pays the physician for each patient treatment",
+      "Another name for the word premium"
+    ],
+    "answer": "The set amount per visit or per service that the subscriber is required to pay",
+    "topic": "Copayment",
+    "explanation": "A copayment is the set amount per visit/service the subscriber must pay."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hmo-cap",
+    "question": "What is the purpose of the Florida HMO Consumer Assistance Plan?",
+    "options": [
+      "To helps low-income families pay for HMO coverage",
+      "To explain HMO coverage to consumers",
+      "To adjudicate subscribers' contested claims against HMOs",
+      "To provide or arrange coverage for subscribers of HMOs that become insolvent"
+    ],
+    "answer": "To provide or arrange coverage for subscribers of HMOs that become insolvent",
+    "topic": "HMO CAP",
+    "explanation": "The HMO Consumer Assistance Plan provides or arranges coverage for subscribers of an insolvent HMO."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hmos",
+    "question": "Health Maintenance Organizations (HMO)",
+    "options": [
+      "Are considered the same as a PPO",
+      "Can sell insurance to subscribers",
+      "Are not allowed to deal with Medicare recipients",
+      "Are considered prepaid service systems"
+    ],
+    "answer": "Are considered prepaid service systems",
+    "topic": "HMOs",
+    "explanation": "HMOs are prepaid service systems."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hmos",
+    "question": "HMOs are known for stressing:",
+    "options": [
+      "A wide array of choices",
+      "Fee-for-service schedules",
+      "Unlimited services",
+      "Preventive health care and early detection and treatment"
+    ],
+    "answer": "Preventive health care and early detection and treatment",
+    "topic": "HMOs",
+    "explanation": "HMOs stress preventive health care and early detection and treatment."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hmos",
+    "question": "HMO services are paid:",
+    "options": [
+      "In advance of any treatment",
+      "After treatment is complete",
+      "During the treatment",
+      "By the HMO and the subscriber"
+    ],
+    "answer": "In advance of any treatment",
+    "topic": "HMOs",
+    "explanation": "HMO services are prepaid — paid in advance of treatment."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-capitation",
+    "question": "What does the term capitation mean?",
+    "options": [
+      "The HMO's premium",
+      "The amount the physician pays for each member",
+      "The amount of capital the HMO possesses",
+      "The value of the HMO capital improvements"
+    ],
+    "answer": "The amount the physician pays for each member",
+    "topic": "Capitation",
+    "explanation": "Capitation is a fixed, per-member payment between the HMO and the physician (the amount tied to each member)."
+  },
+  {
+    "module": "Day 9 Cumulative Final",
+    "group": "d9m1-hmo-open-enrollment",
+    "question": "Saved The law requires that each HMO that offers a group plan within Florida must have an open enrollment period of not less than ________ days during every 18-month period.",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "45"
+    ],
+    "answer": "30",
+    "topic": "HMO Open Enrollment",
+    "explanation": "An HMO group plan must have an open enrollment period of at least 30 days every 18-month period."
   }
 ]

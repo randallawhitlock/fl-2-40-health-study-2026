@@ -1818,5 +1818,85 @@
     "term": "Medicare supplements",
     "definition": "Private insurance policies that provide additional coverage to Medicare beneficiaries to help pay for out-of-pocket costs such as deductibles, copayments, and coinsurance",
     "module": "Day 8 Module 1"
+  },
+  {
+    "term": "Comprehensive health care",
+    "definition": "Services, medical equipment, and supplies furnished by a provider",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Group enrollment system",
+    "definition": "Each member of the group pays a premium, a fixed sum per month, whether or not the person uses the services.",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Health maintenance contract",
+    "definition": "Delineate the arrangement between the subscriber or group of subscribers and the HMO",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Insolvency",
+    "definition": "Assets of the HMO, if made immediately available, would not be enough to discharge. The HMO is unable to pay its debt as they occur in the ordinary course of business.",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Provider",
+    "definition": "Any physician, hospital, organization, or other person or institution that furnishes healthcare services and is licensed or otherwise authorized to participate in Florida",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Subscriber",
+    "definition": "A person or entity who has a health maintenance contract with the HMO, pays the fee, and uses the services of the HMO",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Capitation",
+    "definition": "A fixed amount paid by the HMO to a health care physician or provider in exchange for the medical services rendered by that provider",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Copayment",
+    "definition": "This refers to the specific dollar amount that the HMO subscriber must pay for certain covered health care services. These amounts are typically small and must be approved by the Office of Insurance Regulation.",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Prepaid health clinic",
+    "definition": "An organization that delivers basic medical services at a specific location for the members of a group who make regular premium payments in exchange for those services",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Defamation",
+    "definition": "Making an oral or written statement or any pamphlet, circular, article, or literature that is false or malicious, critical of any person and that is calculated to injure such person",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Misrepresentation",
+    "definition": "Knowingly making a false or fraudulent representation on, or relative to, an application for an HMO contract for the purpose of obtaining a fee, commission, money, or other benefit from any HMO agent or representative, broker, or individual",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Twisting",
+    "definition": "Knowingly making any misleading representations or incomplete or fraudulent comparisons of any HMO contract or HMO organization or any insurance policy or insurer for the purpose of inducing any person to lapse, forfeit, terminate, surrender, retain, or convert any insurance policy or HMO contract, or to purchase an insurance policy or HMO contract with another insurance company or HMO",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Health maintenance organization (HMO)",
+    "definition": "Healthcare management stressing, preventative health care, early diagnosis, and treatment on an outpatient basis",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "HMO Consumer Assistance Plan (CAP)",
+    "definition": "CAP was established to protect the subscribers of HMOs against the failure of the HMO to perform its contractual obligations due to its insolvency. The law specifically prohibits the use of the CAP in any way in the sale of the HMO contract, even if it is for the purpose of reassuring the prospect.",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Open enrollment",
+    "definition": "The law requires that each HMO that offers a group plan within Florida must have an open enrollment period of no fewer than 30 days every 18 months. During that time, each eligible group member may enroll regardless of health history.",
+    "module": "Day 9 Module 1"
+  },
+  {
+    "term": "Extension of benefits",
+    "definition": "Every HMO contract must include a benefit extension clause that ensures that, in the event the HMO dissolves, payments will continue for any approved claims and benefits that were initiated while the contract was in effect.",
+    "module": "Day 9 Module 1"
   }
 ]
